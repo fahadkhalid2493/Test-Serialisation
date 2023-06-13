@@ -1,0 +1,212 @@
+﻿---
+ID: "e6304efe-8abc-4b1f-8ad8-d73ce3d87934"
+Parent: "9eb7a186-f1f5-447b-b30d-efd8928b8454"
+Template: "d7b7bd69-2a52-40c1-b9a2-fe16fbd207f0"
+Path: "/sitecore/content/gulfair-app-ma/home/destination-guide/tbilisi"
+SharedFields:
+- ID: "d26a428b-8f37-4ae7-bd6c-1126664c4031"
+  Hint: AvailableLanguages
+  Value: |
+    {CD5CB5D8-99FB-4035-8CF6-AA38E676E608}
+    {AE2B1160-AEC8-400B-92BF-E4F2378F29C8}
+    {6BDE25E6-CDEC-40FD-AD61-8ADC66E8BE5B}
+    {489B5329-994C-4BF6-B649-42B1A90A7FC3}
+    {02F070DE-00A8-4308-B198-7109FADE321B}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{1DD2C89B-232C-4C9C-9AEE-CA5F3F938BE1}"
+          s:ds="{C517C75B-5A63-4180-8EB3-B58FE414E0CC}" />
+      </d>
+    </r>
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230521T123008Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: اكتشف تبليسي
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f48654e-3a4e-4b78-908c-d642fd466f92"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: اكتشف تبليسي
+    - ID: "94dc60d4-2260-4084-b771-f28db6bcf247"
+      Hint: pageTitle
+      Value: اكتشف تبليسي
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilal
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: اكتشف تبليسي
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T125223Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230521T123422Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Entdecken Sie Tiflis
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2461dddf-7c4e-404a-8fd9-9b5d10d14879"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Entdecken Sie Tiflis
+    - ID: "94dc60d4-2260-4084-b771-f28db6bcf247"
+      Hint: pageTitle
+      Value: Entdecken Sie Tiflis
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilal
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Entdecken Sie Tiflis
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T125252Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230504T064855Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Discover Tbilisi
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e623a973-17f3-490d-87cd-e6544747a648"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Discover Tbilisi
+    - ID: "94dc60d4-2260-4084-b771-f28db6bcf247"
+      Hint: pageTitle
+      Value: Discover Tbilisi
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilal
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Discover Tbilisi
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T125210Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230521T123019Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Découvrez Tbilissi
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "15da9c8e-5ccb-43d5-a98b-4cdf3a54c52f"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Découvrez Tbilissi
+    - ID: "94dc60d4-2260-4084-b771-f28db6bcf247"
+      Hint: pageTitle
+      Value: Découvrez Tbilissi
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilal
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Découvrez Tbilissi
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T125239Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230521T123653Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Откройте для себя Тбилиси
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "590238f4-08c8-4a17-8263-81121b4f7033"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Откройте для себя Тбилиси
+    - ID: "94dc60d4-2260-4084-b771-f28db6bcf247"
+      Hint: pageTitle
+      Value: Откройте для себя Тбилиси
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilal
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Откройте для себя Тбилиси
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T125310Z

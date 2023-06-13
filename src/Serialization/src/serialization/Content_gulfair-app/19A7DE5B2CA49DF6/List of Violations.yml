@@ -1,0 +1,466 @@
+﻿---
+ID: "6002296e-9d49-4cc5-881a-96eb07b2fdbf"
+Parent: "1d6e6290-a213-4295-9a3d-90bd3d4ab128"
+Template: "5ccfccdf-b51d-47cc-8200-acd509f076d9"
+Path: "/sitecore/content/gulfair-app/Data/Accordian With Page Slider Folder/agent-debit-memo-policy/Accordian With Page Slider Parent/List of Violations"
+SharedFields:
+- ID: "880f6b4e-c1cd-4101-9311-21c45c50c46b"
+  Hint: CTA2Icon
+  Value: |
+    <image width="16" height="16" alt="download.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/451d74d69cf7474389c18b6cdb1a2282?v=6c9e4024" stylelabs-content-id="35209" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/35209/thumbnail" />
+- ID: "d57acd21-27a0-4f84-9193-6729e98bd6b7"
+  Hint: PageSliderItemsList
+  Value: "{D3168FCD-91E5-43C5-99D1-B7556FE30425}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "233ba48b-cfed-4060-bb53-8ad0ab50afc0"
+      Hint: CTA1
+      Value: |
+        <link text="List of GDS/Booking Violations" linktype="external" url="/" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T125945Z
+    - ID: "2623820d-1b17-4be5-a84b-e5201ac08f85"
+      Hint: Description
+      Value: |
+        <p>
+        Different violations (Fare, Tax & Refund Violations) are inspected by GF and consequently ADMs are issued. These violations include, but are not limited to;<br />
+        <ul>
+        <li>Unreported tickets</li>
+        <li>Pricing variances</li>
+        <li>GDS / Booking abuses and noncompliance practices with fare rules and general conditions regardless of whether the ticket is priced manually or through the applicable system. regardless of whether the ticket is priced manually or through the applicable system.</li>
+        </ul>
+        </p>
+        
+        <p>
+        
+        GF Reserves the right to reduce the minimum value for raising an ADM in case of frequent under-payments by an agent, or established conditions where abuse or neglect is obvious. GF reserves the right to make changes to this policy. In such case, the changes will be published on GF’s public portal and the BSP link.
+        <br />
+        <br />
+        This ADM Procedures and Guidelines applies on IATA and non-IATA agents.
+        A non-refundable, non-reversible administrative fee of USD 15 will be imposed per ADM.
+        GF will allow the agents 15 calendar day grace period to review the documentation. Then ADM is automatically confirmed in case of no reply.
+        BSP and non-BSP Agents must justify and provide proper supporting documents when disputing an ADM.
+        Any unjustifiable or unclear dispute reason submitted will be rejected by GF. If any further clarifications or details related to the issued ADM are required, the Agents may contact their respective GF Local Office. The above Procedures and Guidelines are effective from 1st April 2019. Please action accordingly and advise all under your control. 
+        <br />
+        <br />
+        <b>Appendix A. Name Change Policy</b>
+        <br />
+        Gulf Air permit amendments to titles (e.g. Mr to Mrs) and name corrections due to genuine spelling mistakes (up to 3 characters). Such changes are free of charge.
+        The count of 3 characters is a combined total and should not be understood as 3 characters each for the first, middle and last name.
+        <br />
+        <br />
+        <b>All other name corrections listed below will incur a fee of US $100.</b>
+        <ul>
+        <li>Change of maiden name to married name (or vice-versa) Example: SMITH/SARAH MS to JONES/SARAH MRS</li>
+        <li>Shortened/nick name to full name Example: ABDULLA/MOHD MR to ABDULLA/MOHAMED MR</li>
+        <li>Addition of middle name Example: SMITH/STEVEN MR to SMITH/STEVEN JAMES MR</li>
+        <li>Addition of surname Example: JAMES/STEVEN MR to SMITH/STEVEN JAMES MR</li>
+        <li>Complete/partial name change for the same passenger with proof from authorities Example: JAMES/DAVID MR to JACKSON/MARTIN MR </li>
+        </ul>
+        <br />
+        Gulf Air FalconFlyer members with either Black or Gold status will be permitted to make the above changes without charge. 
+        <br />
+        <br />
+        <b>Note:</b>
+        <ul>
+        <li>Request should be received no later than 24hrs before departure</li>
+        <li>Only one change is permitted</li>
+        <li>A copy of the passenger’s passport and other applicable documents should be submitted</li>
+        <li>The request must be for the same passenger on the ticket. Name swapping is not permitted</li>
+        <li>Name corrections must be followed by the reissuance of E-tickets. The USD $100 fee should be reflected in the tax code as DV</li>
+        <li>Applicable on Gulf Air operated and marketed flights</li>
+        <li>If the booking involves any other airline, current booking has to be cancelled and a new booking has to be made with the correct name in the available booking class. Fare difference may apply</li>
+        </ul>
+        <br />
+        Version: May 2022
+        
+        </p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5a4499d3-dbd1-4db1-8ba8-6f08064b02fc"
+      Hint: Heading
+      Value: 3.0 List of Violations
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e250676d-5582-463c-9ede-42513b4f88e8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bffc686f-d26a-4797-94ab-e5bb8ca92e20"
+      Hint: CTA2
+      Value: |
+        <link text="Download Complete PDF" linktype="external" url="/" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230913Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "233ba48b-cfed-4060-bb53-8ad0ab50afc0"
+      Hint: CTA1
+      Value: |
+        <link text="List of GDS/Booking Violations" linktype="external" url="/" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T125945Z
+    - ID: "2623820d-1b17-4be5-a84b-e5201ac08f85"
+      Hint: Description
+      Value: |
+        <p>
+        Different violations (Fare, Tax & Refund Violations) are inspected by GF and consequently ADMs are issued. These violations include, but are not limited to;<br />
+        <ul>
+        <li>Unreported tickets</li>
+        <li>Pricing variances</li>
+        <li>GDS / Booking abuses and noncompliance practices with fare rules and general conditions regardless of whether the ticket is priced manually or through the applicable system. regardless of whether the ticket is priced manually or through the applicable system.</li>
+        </ul>
+        </p>
+        
+        <p>
+        
+        GF Reserves the right to reduce the minimum value for raising an ADM in case of frequent under-payments by an agent, or established conditions where abuse or neglect is obvious. GF reserves the right to make changes to this policy. In such case, the changes will be published on GF’s public portal and the BSP link.
+        <br />
+        <br />
+        This ADM Procedures and Guidelines applies on IATA and non-IATA agents.
+        A non-refundable, non-reversible administrative fee of USD 15 will be imposed per ADM.
+        GF will allow the agents 15 calendar day grace period to review the documentation. Then ADM is automatically confirmed in case of no reply.
+        BSP and non-BSP Agents must justify and provide proper supporting documents when disputing an ADM.
+        Any unjustifiable or unclear dispute reason submitted will be rejected by GF. If any further clarifications or details related to the issued ADM are required, the Agents may contact their respective GF Local Office. The above Procedures and Guidelines are effective from 1st April 2019. Please action accordingly and advise all under your control. 
+        <br />
+        <br />
+        <b>Appendix A. Name Change Policy</b>
+        <br />
+        Gulf Air permit amendments to titles (e.g. Mr to Mrs) and name corrections due to genuine spelling mistakes (up to 3 characters). Such changes are free of charge.
+        The count of 3 characters is a combined total and should not be understood as 3 characters each for the first, middle and last name.
+        <br />
+        <br />
+        <b>All other name corrections listed below will incur a fee of US $100.</b>
+        <ul>
+        <li>Change of maiden name to married name (or vice-versa) Example: SMITH/SARAH MS to JONES/SARAH MRS</li>
+        <li>Shortened/nick name to full name Example: ABDULLA/MOHD MR to ABDULLA/MOHAMED MR</li>
+        <li>Addition of middle name Example: SMITH/STEVEN MR to SMITH/STEVEN JAMES MR</li>
+        <li>Addition of surname Example: JAMES/STEVEN MR to SMITH/STEVEN JAMES MR</li>
+        <li>Complete/partial name change for the same passenger with proof from authorities Example: JAMES/DAVID MR to JACKSON/MARTIN MR </li>
+        </ul>
+        <br />
+        Gulf Air FalconFlyer members with either Black or Gold status will be permitted to make the above changes without charge. 
+        <br />
+        <br />
+        <b>Note:</b>
+        <ul>
+        <li>Request should be received no later than 24hrs before departure</li>
+        <li>Only one change is permitted</li>
+        <li>A copy of the passenger’s passport and other applicable documents should be submitted</li>
+        <li>The request must be for the same passenger on the ticket. Name swapping is not permitted</li>
+        <li>Name corrections must be followed by the reissuance of E-tickets. The USD $100 fee should be reflected in the tax code as DV</li>
+        <li>Applicable on Gulf Air operated and marketed flights</li>
+        <li>If the booking involves any other airline, current booking has to be cancelled and a new booking has to be made with the correct name in the available booking class. Fare difference may apply</li>
+        </ul>
+        <br />
+        Version: May 2022
+        
+        </p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5a4499d3-dbd1-4db1-8ba8-6f08064b02fc"
+      Hint: Heading
+      Value: 3.0 List of Violations
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec8b780e-3955-4476-9a66-5f48774d8b7b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bffc686f-d26a-4797-94ab-e5bb8ca92e20"
+      Hint: CTA2
+      Value: |
+        <link text="Download Complete PDF" linktype="external" url="/" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230912Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "233ba48b-cfed-4060-bb53-8ad0ab50afc0"
+      Hint: CTA1
+      Value: |
+        <link text="List of GDS/Booking Violations" linktype="external" url="/" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T125945Z
+    - ID: "2623820d-1b17-4be5-a84b-e5201ac08f85"
+      Hint: Description
+      Value: |
+        <p>
+        Different violations (Fare, Tax & Refund Violations) are inspected by GF and consequently ADMs are issued. These violations include, but are not limited to;<br />
+        <ul>
+        <li>Unreported tickets</li>
+        <li>Pricing variances</li>
+        <li>GDS / Booking abuses and noncompliance practices with fare rules and general conditions regardless of whether the ticket is priced manually or through the applicable system. regardless of whether the ticket is priced manually or through the applicable system.</li>
+        </ul>
+        </p>
+        
+        <p>
+        
+        GF Reserves the right to reduce the minimum value for raising an ADM in case of frequent under-payments by an agent, or established conditions where abuse or neglect is obvious. GF reserves the right to make changes to this policy. In such case, the changes will be published on GF’s public portal and the BSP link.
+        <br />
+        <br />
+        This ADM Procedures and Guidelines applies on IATA and non-IATA agents.
+        A non-refundable, non-reversible administrative fee of USD 15 will be imposed per ADM.
+        GF will allow the agents 15 calendar day grace period to review the documentation. Then ADM is automatically confirmed in case of no reply.
+        BSP and non-BSP Agents must justify and provide proper supporting documents when disputing an ADM.
+        Any unjustifiable or unclear dispute reason submitted will be rejected by GF. If any further clarifications or details related to the issued ADM are required, the Agents may contact their respective GF Local Office. The above Procedures and Guidelines are effective from 1st April 2019. Please action accordingly and advise all under your control. 
+        <br />
+        <br />
+        <b>Appendix A. Name Change Policy</b>
+        <br />
+        Gulf Air permit amendments to titles (e.g. Mr to Mrs) and name corrections due to genuine spelling mistakes (up to 3 characters). Such changes are free of charge.
+        The count of 3 characters is a combined total and should not be understood as 3 characters each for the first, middle and last name.
+        <br />
+        <br />
+        <b>All other name corrections listed below will incur a fee of US $100.</b>
+        <ul>
+        <li>Change of maiden name to married name (or vice-versa) Example: SMITH/SARAH MS to JONES/SARAH MRS</li>
+        <li>Shortened/nick name to full name Example: ABDULLA/MOHD MR to ABDULLA/MOHAMED MR</li>
+        <li>Addition of middle name Example: SMITH/STEVEN MR to SMITH/STEVEN JAMES MR</li>
+        <li>Addition of surname Example: JAMES/STEVEN MR to SMITH/STEVEN JAMES MR</li>
+        <li>Complete/partial name change for the same passenger with proof from authorities Example: JAMES/DAVID MR to JACKSON/MARTIN MR </li>
+        </ul>
+        <br />
+        Gulf Air FalconFlyer members with either Black or Gold status will be permitted to make the above changes without charge. 
+        <br />
+        <br />
+        <b>Note:</b>
+        <ul>
+        <li>Request should be received no later than 24hrs before departure</li>
+        <li>Only one change is permitted</li>
+        <li>A copy of the passenger’s passport and other applicable documents should be submitted</li>
+        <li>The request must be for the same passenger on the ticket. Name swapping is not permitted</li>
+        <li>Name corrections must be followed by the reissuance of E-tickets. The USD $100 fee should be reflected in the tax code as DV</li>
+        <li>Applicable on Gulf Air operated and marketed flights</li>
+        <li>If the booking involves any other airline, current booking has to be cancelled and a new booking has to be made with the correct name in the available booking class. Fare difference may apply</li>
+        </ul>
+        <br />
+        Version: May 2022
+        
+        </p>
+    - ID: "5a4499d3-dbd1-4db1-8ba8-6f08064b02fc"
+      Hint: Heading
+      Value: 3.0 List of Violations
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8db0722e-9edd-4816-9d21-c79a920d63d5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bffc686f-d26a-4797-94ab-e5bb8ca92e20"
+      Hint: CTA2
+      Value: |
+        <link text="Download Complete PDF" linktype="external" url="/" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230912Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "233ba48b-cfed-4060-bb53-8ad0ab50afc0"
+      Hint: CTA1
+      Value: |
+        <link text="List of GDS/Booking Violations" linktype="external" url="/" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T125945Z
+    - ID: "2623820d-1b17-4be5-a84b-e5201ac08f85"
+      Hint: Description
+      Value: |
+        <p>
+        Different violations (Fare, Tax & Refund Violations) are inspected by GF and consequently ADMs are issued. These violations include, but are not limited to;<br />
+        <ul>
+        <li>Unreported tickets</li>
+        <li>Pricing variances</li>
+        <li>GDS / Booking abuses and noncompliance practices with fare rules and general conditions regardless of whether the ticket is priced manually or through the applicable system. regardless of whether the ticket is priced manually or through the applicable system.</li>
+        </ul>
+        </p>
+        
+        <p>
+        
+        GF Reserves the right to reduce the minimum value for raising an ADM in case of frequent under-payments by an agent, or established conditions where abuse or neglect is obvious. GF reserves the right to make changes to this policy. In such case, the changes will be published on GF’s public portal and the BSP link.
+        <br />
+        <br />
+        This ADM Procedures and Guidelines applies on IATA and non-IATA agents.
+        A non-refundable, non-reversible administrative fee of USD 15 will be imposed per ADM.
+        GF will allow the agents 15 calendar day grace period to review the documentation. Then ADM is automatically confirmed in case of no reply.
+        BSP and non-BSP Agents must justify and provide proper supporting documents when disputing an ADM.
+        Any unjustifiable or unclear dispute reason submitted will be rejected by GF. If any further clarifications or details related to the issued ADM are required, the Agents may contact their respective GF Local Office. The above Procedures and Guidelines are effective from 1st April 2019. Please action accordingly and advise all under your control. 
+        <br />
+        <br />
+        <b>Appendix A. Name Change Policy</b>
+        <br />
+        Gulf Air permit amendments to titles (e.g. Mr to Mrs) and name corrections due to genuine spelling mistakes (up to 3 characters). Such changes are free of charge.
+        The count of 3 characters is a combined total and should not be understood as 3 characters each for the first, middle and last name.
+        <br />
+        <br />
+        <b>All other name corrections listed below will incur a fee of US $100.</b>
+        <ul>
+        <li>Change of maiden name to married name (or vice-versa) Example: SMITH/SARAH MS to JONES/SARAH MRS</li>
+        <li>Shortened/nick name to full name Example: ABDULLA/MOHD MR to ABDULLA/MOHAMED MR</li>
+        <li>Addition of middle name Example: SMITH/STEVEN MR to SMITH/STEVEN JAMES MR</li>
+        <li>Addition of surname Example: JAMES/STEVEN MR to SMITH/STEVEN JAMES MR</li>
+        <li>Complete/partial name change for the same passenger with proof from authorities Example: JAMES/DAVID MR to JACKSON/MARTIN MR </li>
+        </ul>
+        <br />
+        Gulf Air FalconFlyer members with either Black or Gold status will be permitted to make the above changes without charge. 
+        <br />
+        <br />
+        <b>Note:</b>
+        <ul>
+        <li>Request should be received no later than 24hrs before departure</li>
+        <li>Only one change is permitted</li>
+        <li>A copy of the passenger’s passport and other applicable documents should be submitted</li>
+        <li>The request must be for the same passenger on the ticket. Name swapping is not permitted</li>
+        <li>Name corrections must be followed by the reissuance of E-tickets. The USD $100 fee should be reflected in the tax code as DV</li>
+        <li>Applicable on Gulf Air operated and marketed flights</li>
+        <li>If the booking involves any other airline, current booking has to be cancelled and a new booking has to be made with the correct name in the available booking class. Fare difference may apply</li>
+        </ul>
+        <br />
+        Version: May 2022
+        
+        </p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5a4499d3-dbd1-4db1-8ba8-6f08064b02fc"
+      Hint: Heading
+      Value: 3.0 List of Violations
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e0988e6-a757-4d5a-982f-04abc677e2c9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bffc686f-d26a-4797-94ab-e5bb8ca92e20"
+      Hint: CTA2
+      Value: |
+        <link text="Download Complete PDF" linktype="external" url="/" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230913Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "233ba48b-cfed-4060-bb53-8ad0ab50afc0"
+      Hint: CTA1
+      Value: |
+        <link text="List of GDS/Booking Violations" linktype="external" url="/" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T125945Z
+    - ID: "2623820d-1b17-4be5-a84b-e5201ac08f85"
+      Hint: Description
+      Value: |
+        <p>
+        Different violations (Fare, Tax & Refund Violations) are inspected by GF and consequently ADMs are issued. These violations include, but are not limited to;<br />
+        <ul>
+        <li>Unreported tickets</li>
+        <li>Pricing variances</li>
+        <li>GDS / Booking abuses and noncompliance practices with fare rules and general conditions regardless of whether the ticket is priced manually or through the applicable system. regardless of whether the ticket is priced manually or through the applicable system.</li>
+        </ul>
+        </p>
+        
+        <p>
+        
+        GF Reserves the right to reduce the minimum value for raising an ADM in case of frequent under-payments by an agent, or established conditions where abuse or neglect is obvious. GF reserves the right to make changes to this policy. In such case, the changes will be published on GF’s public portal and the BSP link.
+        <br />
+        <br />
+        This ADM Procedures and Guidelines applies on IATA and non-IATA agents.
+        A non-refundable, non-reversible administrative fee of USD 15 will be imposed per ADM.
+        GF will allow the agents 15 calendar day grace period to review the documentation. Then ADM is automatically confirmed in case of no reply.
+        BSP and non-BSP Agents must justify and provide proper supporting documents when disputing an ADM.
+        Any unjustifiable or unclear dispute reason submitted will be rejected by GF. If any further clarifications or details related to the issued ADM are required, the Agents may contact their respective GF Local Office. The above Procedures and Guidelines are effective from 1st April 2019. Please action accordingly and advise all under your control. 
+        <br />
+        <br />
+        <b>Appendix A. Name Change Policy</b>
+        <br />
+        Gulf Air permit amendments to titles (e.g. Mr to Mrs) and name corrections due to genuine spelling mistakes (up to 3 characters). Such changes are free of charge.
+        The count of 3 characters is a combined total and should not be understood as 3 characters each for the first, middle and last name.
+        <br />
+        <br />
+        <b>All other name corrections listed below will incur a fee of US $100.</b>
+        <ul>
+        <li>Change of maiden name to married name (or vice-versa) Example: SMITH/SARAH MS to JONES/SARAH MRS</li>
+        <li>Shortened/nick name to full name Example: ABDULLA/MOHD MR to ABDULLA/MOHAMED MR</li>
+        <li>Addition of middle name Example: SMITH/STEVEN MR to SMITH/STEVEN JAMES MR</li>
+        <li>Addition of surname Example: JAMES/STEVEN MR to SMITH/STEVEN JAMES MR</li>
+        <li>Complete/partial name change for the same passenger with proof from authorities Example: JAMES/DAVID MR to JACKSON/MARTIN MR </li>
+        </ul>
+        <br />
+        Gulf Air FalconFlyer members with either Black or Gold status will be permitted to make the above changes without charge. 
+        <br />
+        <br />
+        <b>Note:</b>
+        <ul>
+        <li>Request should be received no later than 24hrs before departure</li>
+        <li>Only one change is permitted</li>
+        <li>A copy of the passenger’s passport and other applicable documents should be submitted</li>
+        <li>The request must be for the same passenger on the ticket. Name swapping is not permitted</li>
+        <li>Name corrections must be followed by the reissuance of E-tickets. The USD $100 fee should be reflected in the tax code as DV</li>
+        <li>Applicable on Gulf Air operated and marketed flights</li>
+        <li>If the booking involves any other airline, current booking has to be cancelled and a new booking has to be made with the correct name in the available booking class. Fare difference may apply</li>
+        </ul>
+        <br />
+        Version: May 2022
+        
+        </p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5a4499d3-dbd1-4db1-8ba8-6f08064b02fc"
+      Hint: Heading
+      Value: 3.0 List of Violations
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5c2bb063-8225-4d9a-a6b2-aa44371cbdd9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bffc686f-d26a-4797-94ab-e5bb8ca92e20"
+      Hint: CTA2
+      Value: |
+        <link text="Download Complete PDF" linktype="external" url="/" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230913Z

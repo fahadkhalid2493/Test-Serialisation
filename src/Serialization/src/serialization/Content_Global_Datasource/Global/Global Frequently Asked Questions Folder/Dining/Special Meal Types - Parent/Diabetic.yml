@@ -1,0 +1,200 @@
+﻿---
+ID: "8eff9796-8198-49e6-aa75-944d30f80d77"
+Parent: "8cde7878-2e2e-42f9-99b8-c2c8a36b3f96"
+Template: "f2695307-b5c9-4960-ac05-33fe710e032a"
+Path: "/sitecore/content/Global/Global Frequently Asked Questions Folder/Dining/Special Meal Types - Parent/Diabetic"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T173930Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d7976be2-2ea2-47b4-a0f6-a52ddc1175c9"
+    - ID: "9db57e03-2068-4fae-8676-d97ec7d6dd32"
+      Hint: Heading
+      Value: وجبة مرضى السكري 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\farhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230428T094927Z
+    - ID: "f8e1179b-050a-4ac2-95d9-5627803a19ae"
+      Hint: Description
+      Value: <p>وجبة منخفضة الدهون ولكن عالية نسبيا في النشويات غير المكررة، وتتكون من لحوم عجاف، وخضروات طازجة وعجائن أو أرز</p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T173930Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c4d26805-853a-4ed5-8b99-ffac8550f602"
+    - ID: "9db57e03-2068-4fae-8676-d97ec7d6dd32"
+      Hint: Heading
+      Value: Diabetiker
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\farhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T113715Z
+    - ID: "f8e1179b-050a-4ac2-95d9-5627803a19ae"
+      Hint: Description
+      Value: <p>Eine Mahlzeit mit geringem Fett, aber relativ hoch in nicht raffinierten Kohlenhydraten, bestehend aus magerem Fleisch, frischem Gem&uuml;se und Pasta oder Reis.</p>
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T173930Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6f99192-b300-4ff1-a06b-4b117ca5f07a"
+    - ID: "9db57e03-2068-4fae-8676-d97ec7d6dd32"
+      Hint: Heading
+      Value: Diabetic
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T162253Z
+    - ID: "f8e1179b-050a-4ac2-95d9-5627803a19ae"
+      Hint: Description
+      Value: <p>A meal low in fat but relatively high in unrefined carbohydrates, consisting of lean meat, fresh vegetables, and pasta or rice.</p>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T173930Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4cbd349-88f3-4c18-b3b8-82786783c995"
+    - ID: "9db57e03-2068-4fae-8676-d97ec7d6dd32"
+      Hint: Heading
+      Value: Diabétique
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\farhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T094124Z
+    - ID: "f8e1179b-050a-4ac2-95d9-5627803a19ae"
+      Hint: Description
+      Value: <p>Un repas faible en gras mais relativement riche en glucides non raffin&eacute;s, compos&eacute; de viande maigre, de l&eacute;gumes frais et de p&acirc;tes ou de riz</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T173930Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e3b72230-14a7-4d7f-b1ae-8c8153dbb9c4"
+    - ID: "9db57e03-2068-4fae-8676-d97ec7d6dd32"
+      Hint: Heading
+      Value: Диабетик
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\farhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T113752Z
+    - ID: "f8e1179b-050a-4ac2-95d9-5627803a19ae"
+      Hint: Description
+      Value: <p>Еда с низким содержанием жира, но относительно высоким нерафинированным углеводам, состоящим из постного мяса, свежих овощей и пасты или риса</p>

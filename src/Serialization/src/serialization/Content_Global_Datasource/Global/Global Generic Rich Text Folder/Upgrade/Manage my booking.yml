@@ -1,0 +1,270 @@
+﻿---
+ID: "4270882d-9422-4d3e-8f79-52817ba8f43a"
+Parent: "84eead28-569f-412f-a77c-38238b8baf35"
+Template: "6fe5d11d-722f-4a7e-9d7d-e8f8a6834737"
+Path: /sitecore/content/Global/Global Generic Rich Text Folder/Upgrade/Manage my booking
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230314T184907Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>كيف أقوم بالترقية؟</h2>
+        <p><strong>سوف يتلقى المسافرون المؤهلون الذين يحجزون من على الموقع gulfair.com بريد إلكتروني يشرح الخطوات الواجب اتباعها للترقية. </strong></p>
+        <p>يمكنك أيضاً التأكد من أهليتك بالدخول إلى موقع إدارة الحجز.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec7a4aa5-cc8d-45b9-9899-ce28eea9bb69"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sayedhusain
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T154346Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230314T185036Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>Wie aktualisiere ich?</h2>
+        <p><strong>Berechtigte Passagiere, die auf gulfair.com gebucht haben, erhalten eine E-Mail, um ihre Gebote in unserem Gebotssystem abzugeben.</strong></p>
+        <p>Sie k&ouml;nnen Ihre Berechtigung auch im untenstehenden Formular &uuml;berpr&uuml;fen, indem Sie Ihren Nachnamen und Ihre Buchungsnummer (PNR) eingeben oder &uuml;ber Meine Buchung verwalten, Ihr Gebot abgeben, Ihre Zahlungsinformationen angeben und Ihr Angebot einreichen.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3bb792aa-3c7d-4861-95be-02ad946589c2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230314T191455Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230610T154016Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>Wie aktualisiere ich?</h2>
+        <p><strong>Berechtigte Passagiere, die auf gulfair.com gebucht haben, erhalten eine E-Mail, um ihre Gebote in unserem Gebotssystem abzugeben.</strong></p>
+        <p>Sie k&ouml;nnen Ihre Berechtigung auch &uuml;ber &bdquo;Meine Buchung verwalten&ldquo; &uuml;berpr&uuml;fen, Ihr Gebot abgeben, Ihre Zahlungsinformationen angeben und Ihr Angebot absenden.</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sayedhusain
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b89a49f6-0f5b-4702-bbf6-c1df6ef39ec6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sayedhusain
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230610T154016Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T154028Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230314T182007Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>How to Upgrade?</h2>
+        <p><strong>Eligible passengers who booked on gulfair.com will receive an email to submit their bids on our bidding system.</strong></p>
+        <p>You can also check your eligibility on the below form by entering your Last Name and Booking Reference (PNR), or through Manage My Booking, Place your bid offer, Provide your payment information and Submit your offer.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e731909b-4693-48cf-8f59-a7f4daa0decd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230314T190048Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230610T153849Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>How to Upgrade?</h2>
+        <p><strong>Eligible passengers who booked on gulfair.com will receive an email to submit their bids on our bidding system.</strong></p>
+        <p>You can also check your eligibility through Manage My Booking, Place your bid offer, Provide your payment information and Submit your offer.</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sayedhusain
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4578c85f-7b09-40e0-ae2d-d7deb19e9c76"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sayedhusain
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230610T153849Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T153902Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230314T185024Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>Comment mettre &agrave; niveau ?</h2>
+        <p><strong>Les passagers &eacute;ligibles qui ont r&eacute;serv&eacute; sur gulfair.com recevront un e-mail pour soumettre leurs offres sur notre syst&egrave;me d'ench&egrave;res.</strong></p>
+        <p>Vous pouvez &eacute;galement v&eacute;rifier votre &eacute;ligibilit&eacute; via G&eacute;rer ma r&eacute;servation, Placer votre offre, Fournir vos informations de paiement et Soumettre votre offre.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb2deb79-727d-4af5-b99f-e12239cecca0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sayedhusain
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T154542Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230314T185051Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>Как обновить?</h2>
+        <p><strong>Соответствующие требованиям пассажиры, забронировавшие билеты на сайте gulfair.com, получат электронное письмо с просьбой подать свои ставки в нашей системе торгов.</strong></p>
+        <p>Вы также можете проверить свое право на участие в приведенной ниже форме, введя свою фамилию и номер бронирования (PNR) или через &laquo;Управление моим бронированием&raquo;, &laquo;Разместите предложение по ставке&raquo;, &laquo;Укажите платежную информацию&raquo; и &laquo;Отправьте свое предложение&raquo;.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b6b392f-bff0-47bb-96ea-a9f9edb7fe5e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230314T191721Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230610T154617Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>Как обновить?</h2>
+        <p><strong>Соответствующие требованиям пассажиры, забронировавшие билеты на сайте gulfair.com, получат электронное письмо с просьбой подать свои ставки в нашей системе торгов.</strong></p>
+        <p>Вы также можете проверить свое право на участие в разделе &laquo;Управление бронированием&raquo;, &laquo;Разместить свое предложение&raquo;, &laquo;Предоставить платежную информацию&raquo; и &laquo;Отправить свое предложение&raquo;.</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sayedhusain
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "198dc329-22f7-4124-a809-057812ecba1b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sayedhusain
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230610T154617Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T154631Z

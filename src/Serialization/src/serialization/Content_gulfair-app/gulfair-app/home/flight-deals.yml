@@ -1,0 +1,281 @@
+﻿---
+ID: "a71bed47-4938-43e4-8c3c-ef15284538f7"
+Parent: "88c1d19e-c243-5666-9ea7-e9721d6f2ff6"
+Template: "07f50330-c962-5e98-ae02-814183b76ea0"
+Path: "/sitecore/content/gulfair-app/home/flight-deals"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2400
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{78BCE695-62F3-465D-9ACF-B6E971121264}">
+          <p:d />
+        </r>
+        <r
+          uid="{BCFC7BB6-7D69-44BA-8AAD-CB6A7616C484}"
+          p:after="p[@uid='{C5230912-8E1E-5C64-A62F-715DB2F535BF}']"
+          s:ds="{B0A66BEE-84AD-4CD7-AAD7-28B09C497755}"
+          s:id="{70537B94-19D7-42BE-ACD5-DFC8CFD5577E}"
+          s:par=""
+          s:ph="jss-header"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{B147D088-F5E8-4338-AAA8-413DEC4A92E4}">
+          <p:d />
+        </r>
+        <r
+          uid="{48BC78A2-78BE-49A8-8D75-0837F3A891D7}"
+          s:par="CacheClearingBehavior=Clear+on+publish&amp;CTAColor=%7bF64FADCC-6FB4-46AA-A947-751B7BF0A024%7d&amp;CTAType=%7b9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7d"
+          s:ph="/jss-header/jss-ga-header-bookingpanel-{bcfc7bb6-7d69-44ba-8aad-cb6a7616c484}-0" />
+        <r
+          uid="{97A0B6B9-D564-4547-A498-E173E2F15B6D}"
+          p:after="r[@uid='{48BC78A2-78BE-49A8-8D75-0837F3A891D7}']"
+          s:ds="{3AC7BB2F-7EBD-4706-95A5-B831DB203AD9}"
+          s:id="{2FAE24EB-118B-467A-A793-A565ECF56816}"
+          s:par="CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D&amp;CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D"
+          s:ph="jss-inner-banner"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{00FA96FA-76BC-4B99-8F74-6B320C8225D5}"
+          p:after="r[@uid='{97A0B6B9-D564-4547-A498-E173E2F15B6D}']"
+          s:ds="{C5AA386A-DD70-4729-8AFB-795E5A9858CC}"
+          s:id="{AC4F086B-047C-490C-B585-099CE5498028}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{3DBC1BDA-E67B-4613-8909-51568625FA57}"
+          p:after="r[@uid='{00FA96FA-76BC-4B99-8F74-6B320C8225D5}']"
+          s:ds="{ABC03ECA-7039-44AD-A37E-CCC6F4044D75}"
+          s:id="{550F34E0-8B4F-4CDD-8067-CDE8FD614C64}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{0B516BE0-204A-4B8E-A6E4-9D74E69F862A}"
+          p:after="r[@uid='{3DBC1BDA-E67B-4613-8909-51568625FA57}']"
+          s:ds="{6A5F333E-6112-4DCB-B9E6-5F557B3E6241}"
+          s:id="{E9709E8A-BD03-47A5-9240-44EC7015DB54}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{E3632CA0-F8B9-45BE-A1C0-B9954F9E8E19}"
+          p:after="r[@uid='{0B516BE0-204A-4B8E-A6E4-9D74E69F862A}']"
+          s:ds="{F58B6D3C-9E7E-4B7D-BFD8-C3B09B49D111}"
+          s:id="{9A3517B1-9AA7-4E6E-BCF4-302FD1277940}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{43E1163C-2318-4266-B958-5D58829A0DB5}"
+          p:after="r[@uid='{E3632CA0-F8B9-45BE-A1C0-B9954F9E8E19}']"
+          s:ds="{6C227E65-D28F-483C-972A-1C0A807DD03F}"
+          s:id="{51D689E0-21D9-438F-B9D8-BF993B91ADE5}"
+          s:par=""
+          s:ph="/jss-footer/jss-ga-form-{100fb120-1ae6-4890-bfda-8f82803d8c38}-0"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{100FB120-1AE6-4890-BFDA-8F82803D8C38}"
+          p:after="*[1=2]" />
+      </d>
+    </r>
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T084805Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Flight Deals
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Flight Deals
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78ebcc79-0a2b-40d5-bbd4-8f1556041a69"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Flight Deals
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Flight Deals
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T125312Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T135010Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Flight Deals
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Flight Deals
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "23b311a7-fbc1-4a2e-b67f-4f0b45c682bd"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Flight Deals
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Flight Deals
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T125303Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T094544Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Flight Deals
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Flight Deals
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e876ae77-6524-477b-9708-537f226e227b"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Flight Deals
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\salman
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Flight Deals
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T101935Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T134959Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Flight Deals
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Flight Deals
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d3c8a7cf-25c1-4a38-a404-48aedff3b1f0"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Flight Deals
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Flight Deals
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T125316Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T134949Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Flight Deals
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Flight Deals
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1b9231e-74af-4eff-b6e4-711adc110d7c"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Flight Deals
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Flight Deals
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T125308Z

@@ -1,0 +1,81 @@
+﻿---
+ID: "259496d0-1893-4c75-98aa-db011021fd2f"
+Parent: "666a8287-7823-439c-9878-a83af42894e3"
+Template: "4c843053-17e8-4e49-b827-8c4c544ea963"
+Path: "/sitecore/content/gulfair-app-ae/Data/OurLatestReleaseFolder/OurLatestReleaseParent"
+SharedFields:
+- ID: "948bfaf2-fad2-497c-ae67-72a0eea1e721"
+  Hint: LatestReleaseItemList
+  Value: |
+    {711C9CDA-4CF0-4695-88C3-2BA19185FF94}
+    {BDF73527-985C-44C1-B15B-AA9AC00016C5}
+    {372CDE72-694F-403C-AEA5-13F8452B58F8}
+    {12DE3115-51A3-41B0-9D8A-191F3494C9E6}
+    {B5895341-BEE9-43BB-8BA5-159A8B445683}
+    {C7F9C1C3-F6F8-4E79-9468-7BB459B27D84}
+    {9C2D1834-51FA-4570-85FA-CB3B12E2E6CF}
+    {98C3F819-BD48-4350-9504-BE52A4A99E6F}
+- ID: "9a214753-6795-4c1d-9632-259bab784f01"
+  Hint: TabList
+  Value: |
+    {3A1E0A14-DA95-4C69-B38B-B68A32A5F936}
+    {994D9E99-12E8-4D54-AFCD-1C9A7E0A8183}
+    {F6974E8E-01D0-4051-832A-90BA48C72956}
+    {31E22DAC-0EEF-45CE-8A57-EB209801F047}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "235c06bb-f95c-4b71-b070-b7301f2b6d33"
+      Hint: Heading
+      Value: أحدث إصداراتنا
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T120811Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6651275-38e2-46cc-855d-47fc449cc7fb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T112502Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "235c06bb-f95c-4b71-b070-b7301f2b6d33"
+      Hint: Heading
+      Value: Our latest releases
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T120724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a0bfefd8-1a15-4f2f-8822-90f00eaccb55"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230317T143105Z

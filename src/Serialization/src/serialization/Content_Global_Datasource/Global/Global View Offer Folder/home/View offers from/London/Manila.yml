@@ -1,0 +1,165 @@
+﻿---
+ID: "9f5455ee-e690-4678-a2ac-a36e3465dbad"
+Parent: "c47eead9-7877-4434-aac6-fb526fbd026a"
+Template: "f8064d4b-868b-43fe-a8db-c8126b3d5a74"
+Path: /sitecore/content/Global/Global View Offer Folder/home/View offers from/London/Manila
+SharedFields:
+- ID: "0edc92b8-9df8-4df1-907b-956bfce59708"
+  Hint: City
+  Value: "{09AC5718-D444-4F8A-8ACC-54E7C54B2786}"
+- ID: "1f1273b3-fd43-4691-9b26-43b7fba1c6cc"
+  Hint: Currency
+  Value: GBP
+- ID: "5fb8630b-a7e2-47ca-8594-de42ee9abcef"
+  Hint: Price
+  Value: 1190
+- ID: "6bab46ac-eacc-42be-8c94-ac5f23b9996f"
+  Hint: CTA
+  Value: |
+    <link linktype="external" url="https://gulfacc.resfinity.com/falcon/deeplink?adt=1&amp;cabin_class=Y&amp;departure_date={DDATE}&amp;return_date={RDATE}&amp;origin=LHR&amp;destination=MNL&amp;flight_type=return&amp;page=calendar" anchor="" target="_blank" />
+- ID: "86933a7b-2642-4994-8504-a0941505e5c2"
+  Hint: BackgroundImage
+  Value: |
+    <image width="364" height="400" alt="MNL-364x400.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/aeed7d82a51441d0b2faf52261970bf5?v=21f95701" stylelabs-content-id="46242" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/46242/thumbnail" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "dddc3a38-a578-4e83-93de-8913220da17f"
+  Hint: Destination
+  Value: "{2AED33B2-3346-4546-AE0C-6A48B40808BE}"
+- ID: "e27793d2-3cb7-45ea-897f-15842912891f"
+  Hint: Origin
+  Value: "{76FF9B4D-A5B0-4825-BBBD-6A11247F01EB}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114355Z
+    - ID: "37dcb1c0-ebf1-4229-9969-05560085d490"
+      Hint: TicketType
+      Value: السياحية من
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df1a01e1-6562-4624-83ae-0031a86dba7a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230230Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114355Z
+    - ID: "37dcb1c0-ebf1-4229-9969-05560085d490"
+      Hint: TicketType
+      Value: Wirtschaft von
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "91a6c2fd-1fc6-473f-a672-0d2ca2dce298"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230230Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114355Z
+    - ID: "37dcb1c0-ebf1-4229-9969-05560085d490"
+      Hint: TicketType
+      Value: Economy From
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ded254e-9deb-45b0-be02-b37cfb4122d1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230613T030808Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114355Z
+    - ID: "37dcb1c0-ebf1-4229-9969-05560085d490"
+      Hint: TicketType
+      Value: Économie de
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac3fb956-e604-4631-adcd-fd8847b568af"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230230Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114355Z
+    - ID: "37dcb1c0-ebf1-4229-9969-05560085d490"
+      Hint: TicketType
+      Value: Экономика от
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c8173114-9fc8-4739-8365-ef946cc50561"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230230Z

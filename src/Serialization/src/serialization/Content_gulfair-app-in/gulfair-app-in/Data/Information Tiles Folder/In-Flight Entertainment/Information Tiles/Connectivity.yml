@@ -1,0 +1,168 @@
+﻿---
+ID: "7b762861-252f-4c2c-b012-fcb5e50e83b2"
+Parent: "b8c5c847-6b50-4aef-9fa0-01f3ed1d7e1d"
+Template: "05d15730-eae4-491c-b945-137ef6920474"
+Path: "/sitecore/content/gulfair-app-in/Data/Information Tiles Folder/In-Flight Entertainment/Information Tiles/Connectivity"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "d07c6cf5-4e87-4fdc-b467-d8fa8e5e2fb2"
+  Hint: Image
+  Value: |
+    <image width="366" height="240" alt="Connectivity.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/9b19aa5803d64f4088f3879d5919f7b6?v=f5f10be5" stylelabs-content-id="39491" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39491/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5821f2ee-4cd9-4a1c-afaf-8c12ea746a7e"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Connectivity
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus quisque neque purus morbi velit nam. Urna tortor.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234054Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "58f8f48c-6b59-41f4-a6c5-a3977d4067db"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Connectivity
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus quisque neque purus morbi velit nam. Urna tortor.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234054Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="Learn More" linktype="external" url="/" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "798475ff-66ed-4dbf-b2ca-e0505828d86b"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Connectivity
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus quisque neque purus morbi velit nam. Urna tortor.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234054Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14fe23ac-077d-4abd-aece-55d7b986dbd5"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Connectivity
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus quisque neque purus morbi velit nam. Urna tortor.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234054Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01ec195b-1382-45fc-8a35-29eeb08f9573"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Connectivity
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus quisque neque purus morbi velit nam. Urna tortor.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234054Z

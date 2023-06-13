@@ -1,0 +1,167 @@
+﻿---
+ID: "372877a0-9547-47e2-b03c-e4d8fe957239"
+Parent: "9e08f8dd-64a6-4653-ab30-c7bb8ea81c40"
+Template: "1e823605-a717-4255-974c-7917397cd6c9"
+Path: /sitecore/content/Global/Global Inner Banner Folder/upgrade/Inner Banner/Upgrade to Enjoy Falcon Gold privileges
+SharedFields:
+- ID: "66d06ec3-a13a-4601-b7d9-1ba74aed310c"
+  Hint: BackgroundImage
+  Value: |
+    <image width="1920" height="1080" alt="flight-attendant-serving-dates-business.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/934d44b5759f4baf8d05c1b854748375?v=92bf45a3" stylelabs-content-id="49609" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/49609/thumbnail" />
+- ID: "78a29040-85d0-4619-b1eb-f52aa266bfe0"
+  Hint: TextAlignment
+  Value: "{0A42CAE2-9E7A-4FB8-BE35-1D23B2E53FDE}"
+- ID: "7bf12b50-a496-445f-aa2b-2be4d15c48ce"
+  Hint: MobileImage
+  Value: |
+    <image width="375" height="562" alt="flight-attendant-serving-dates-business.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/6a37130514d447f1a3403c6dc242b0e4?v=26925ce5" stylelabs-content-id="49609" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/49609/thumbnail" />
+- ID: "a6d7f2d1-162a-424e-baf8-9c8857e04f7f"
+  Hint: TextColor
+  Value: "{89330C54-4FC1-4573-913A-BC08CCDEBD5B}"
+- ID: "b92f071d-1def-46b6-a749-46efddbd6693"
+  Hint: CTAColor
+  Value: "{F64FADCC-6FB4-46AA-A947-751B7BF0A024}"
+- ID: "f768fd8c-ee29-421c-8929-b5c21ac10c7b"
+  Hint: CTAType
+  Value: "{9E29A28B-7ED9-41A5-BE7D-66A986A44CC3}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T170850Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: قم بالترقية للاستمتاع بامتيازات الصقر الذهبي
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "64dbd985-94e3-499f-b0b9-421446e04537"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225924Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T170837Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Führen Sie ein Upgrade durch, um die Privilegien von Falcon Gold zu genießen
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4df6650a-e260-4850-9be2-85314a975b60"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225924Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T170540Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Upgrade to Enjoy Falcon Gold privileges
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4c53da24-0741-46c1-bfc4-8f1207dafc00"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225924Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T170843Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Mise à niveau pour profiter des privilèges Falcon Gold
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "07a46029-eecb-4764-bac7-25e3f70f2956"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225924Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T170847Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Обновите, чтобы пользоваться привилегиями Falcon Gold
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc51dcab-f256-4699-a105-81df9f19c02f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225924Z

@@ -1,0 +1,38 @@
+﻿---
+ID: "de672d7f-ade6-4694-9b0f-29bf4df7e5be"
+Parent: "837291d2-ddec-402d-b79a-83686622f619"
+Template: "eb1cef65-53e3-45bb-828d-695fcaac8375"
+Path: "/sitecore/content/Global/Global Eligibility Module Folder/at-the-airport/EligibilityModuleTest"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230608T024954Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ghazi
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ghazi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7202890-c37f-44a1-9a6d-387470dfbee0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazi
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230608T024954Z

@@ -1,0 +1,307 @@
+﻿---
+ID: "f1b41f85-6358-43d2-b3f0-9b70b2d470c2"
+Parent: "b5ccbd62-71f1-4b9a-9aeb-18a1be765661"
+Template: "07f50330-c962-5e98-ae02-814183b76ea0"
+Path: "/sitecore/content/gulfair-app-lk/home/health-safety"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2700
+- ID: "d26a428b-8f37-4ae7-bd6c-1126664c4031"
+  Hint: AvailableLanguages
+  Value: |
+    {CD5CB5D8-99FB-4035-8CF6-AA38E676E608}
+    {AE2B1160-AEC8-400B-92BF-E4F2378F29C8}
+    {6BDE25E6-CDEC-40FD-AD61-8ADC66E8BE5B}
+    {489B5329-994C-4BF6-B649-42B1A90A7FC3}
+    {02F070DE-00A8-4308-B198-7109FADE321B}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{78BCE695-62F3-465D-9ACF-B6E971121264}"
+          s:pt="{C2A56448-E30F-43D4-B64F-6635938F925A}"
+          s:uid="{78BCE695-62F3-465D-9ACF-B6E971121264}">
+          <rls>
+            <ruleset>
+              <rule
+                uid="{B2256FA7-8E40-4F14-BE2C-1662DC0DC27D}"
+                s:test="true" />
+              <rule
+                uid="{00000000-0000-0000-0000-000000000000}"
+                s:test="true" />
+              <rule
+                uid="{35C7F81F-BEF3-4C39-8F2E-94923C2D7F7D}"
+                s:test="true" />
+              <rule
+                uid="{A920D7AA-8318-42E9-8F1F-689018C19533}"
+                s:test="true" />
+            </ruleset>
+          </rls>
+        </r>
+        <r
+          uid="{100FB120-1AE6-4890-BFDA-8F82803D8C38}">
+          <p:d />
+        </r>
+        <r
+          uid="{9D9407C9-90D5-4009-AA4F-1DE3202141BB}"
+          p:after="r[@uid='{78BCE695-62F3-465D-9ACF-B6E971121264}']"
+          s:ds="{053B7093-7BB3-4F06-ACCE-0ED8F125C08B}"
+          s:id="{2FAE24EB-118B-467A-A793-A565ECF56816}"
+          s:par="CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D&amp;CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D"
+          s:ph="jss-inner-banner"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{4420CF09-732E-4B97-A531-F6CE19F0ACE6}"
+          p:after="r[@uid='{9D9407C9-90D5-4009-AA4F-1DE3202141BB}']"
+          s:ds="{49122140-7B8E-4E2A-9A07-7342E804FE38}"
+          s:id="{6343FC04-AFC4-46A0-9495-01D11FE66001}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;WithMargin=1&amp;ComponentType=%7B0BF44A08-D10B-4DD9-9E13-775F33DA02F6%7D&amp;CTAColor=%7BF4B4A40B-428A-48B8-907D-F1598EBADC7A%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{96F958DA-93AC-43A6-9B93-D9FDF75E13FD}"
+          p:after="r[@uid='{4420CF09-732E-4B97-A531-F6CE19F0ACE6}']"
+          s:ds="{14D8BF65-F492-419F-B3D0-3CC427D9B729}"
+          s:id="{77ACC4EE-FFA9-4199-9D6B-52CF45466ED1}"
+          s:par="BackgroundColor=%7B71F20B98-2408-49A4-A472-6FC44C626DED%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{6E2AF342-D1D6-4279-8707-7A37367BDA5D}"
+          p:after="r[@uid='{96F958DA-93AC-43A6-9B93-D9FDF75E13FD}']"
+          s:ds="{E658B014-2FE2-4BDF-8147-EF770E0BF391}"
+          s:id="{9275948F-71FC-4A0D-99AE-D7773036B3E0}"
+          s:par="CTAType1=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;BackgroundColor=%7BF4B4A40B-428A-48B8-907D-F1598EBADC7A%7D&amp;CTAColor1=%7B3F16AFC2-00E8-4FFD-A242-49354F84EF7B%7D&amp;CTAType2=%7BB3C4407E-7461-4B34-B944-D581BA981A27%7D&amp;CTAColor2=%7B3F16AFC2-00E8-4FFD-A242-49354F84EF7B%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{6D0FBF7B-8637-4FDE-BBD5-EF80567BBC25}"
+          p:after="r[@uid='{6E2AF342-D1D6-4279-8707-7A37367BDA5D}']"
+          s:ds=""
+          s:id="{8FDDBF5A-ED94-4A98-B111-93707051DBBF}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7B3F16AFC2-00E8-4FFD-A242-49354F84EF7B%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{9D9B495A-5F01-42CE-BE54-2FF30AAC8ED0}"
+          p:after="r[@uid='{6D0FBF7B-8637-4FDE-BBD5-EF80567BBC25}']"
+          s:ds="{0E0B7EA5-8124-418F-A184-D86C726D4956}"
+          s:id="{6343FC04-AFC4-46A0-9495-01D11FE66001}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;WithMargin&amp;ComponentType=%7B0BF44A08-D10B-4DD9-9E13-775F33DA02F6%7D&amp;CTAColor=%7B55CE5A8D-B17E-4E50-84AA-032A47418992%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{2CE6B9C1-653B-4F28-BB2E-90D87DC73A7A}"
+          p:after="r[@uid='{B147D088-F5E8-4338-AAA8-413DEC4A92E4}']"
+          s:ds=""
+          s:id="{B92E6411-5337-4FA7-B591-B233C1E52B91}"
+          s:par=""
+          s:ph="/jss-header/jss-ga-header-bookingpanel-{78bce695-62f3-465d-9acf-b6e971121264}-0"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{48BC78A2-78BE-49A8-8D75-0837F3A891D7}"
+          p:after="r[@uid='{2CE6B9C1-653B-4F28-BB2E-90D87DC73A7A}']" />
+        <r
+          uid="{B3522CAD-3121-4F77-9931-D42558C6F5E3}"
+          p:after="*[1=2]"
+          s:ds="{04183919-C073-4EF9-BF01-A1CF96B985FA}"
+          s:id="{BC7AA6E7-8165-4864-BD03-2F6F8AC59865}"
+          s:par=""
+          s:ph="jss-footer"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230208T124223Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: الصحة و السلامة
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: الصحة و السلامة
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "26517b8b-9e5b-439a-8619-5b805e2ad821"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: الصحة و السلامة
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: الصحة و السلامة
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T125336Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T152831Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Gesundheit und Sicherheit
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ramish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ramish
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Gesundheit und Sicherheit
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bf252a06-4aca-4a49-8737-e51cf4f19415"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Gesundheit und Sicherheit
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Gesundheit und Sicherheit
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T125325Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T130043Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Health and Safety
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Health and Safety
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eac974ee-8f6e-41ae-b3b3-68518346339e"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Health and Safety
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Health and Safety
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T165442Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T152809Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Santé et sécurité
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ramish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ramish
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Santé et sécurité
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6e22c70-a768-4ee4-86ba-def71d0764f2"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Santé et sécurité
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Santé et sécurité
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T125345Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T152744Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Здоровье и безопасность
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ramish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ramish
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Здоровье и безопасность
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db5a3adc-4d34-4550-a6d2-044f3ad771d4"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Здоровье и безопасность
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Здоровье и безопасность
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T125330Z

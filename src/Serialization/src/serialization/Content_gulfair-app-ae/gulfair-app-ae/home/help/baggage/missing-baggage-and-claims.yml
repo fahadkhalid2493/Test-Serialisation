@@ -1,0 +1,248 @@
+﻿---
+ID: "4c8cb57a-c675-4d9f-b6e4-c4ebe876191c"
+Parent: "5e484af6-ce52-4a60-b22a-8872fcb41019"
+Template: "07f50330-c962-5e98-ae02-814183b76ea0"
+Path: "/sitecore/content/gulfair-app-ae/home/help/baggage/missing-baggage-and-claims"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 12
+- ID: "d26a428b-8f37-4ae7-bd6c-1126664c4031"
+  Hint: AvailableLanguages
+  Value: |
+    {CD5CB5D8-99FB-4035-8CF6-AA38E676E608}
+    {AE2B1160-AEC8-400B-92BF-E4F2378F29C8}
+    {6BDE25E6-CDEC-40FD-AD61-8ADC66E8BE5B}
+    {489B5329-994C-4BF6-B649-42B1A90A7FC3}
+    {02F070DE-00A8-4308-B198-7109FADE321B}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{65D1A68D-B41B-477D-9B7B-5A054E00E71B}"
+          p:after="r[@uid='{78BCE695-62F3-465D-9ACF-B6E971121264}']"
+          s:ds="{A83E5447-AE8D-417A-8261-74F131D45A83}"
+          s:id="{2FAE24EB-118B-467A-A793-A565ECF56816}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{5E33BBC3-3409-4DF3-8227-2FC3C2C30ACD}"
+          p:after="r[@uid='{65D1A68D-B41B-477D-9B7B-5A054E00E71B}']"
+          s:ds="{42326A3D-D752-49A6-8BD9-DDBF4A160F20}"
+          s:id="{891FD600-9656-4656-9751-252A6DCB1D21}"
+          s:par="BackgroundColor=%7B71F20B98-2408-49A4-A472-6FC44C626DED%7D&amp;WithMargin"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{52998173-AF3C-4536-AF56-75BD1F148F21}"
+          p:after="r[@uid='{5E33BBC3-3409-4DF3-8227-2FC3C2C30ACD}']"
+          s:ds="{B9CF55A7-4A00-4A58-90F6-3F226B126E93}"
+          s:id="{CD707506-BB56-45EB-9F93-8847BB42BF1C}"
+          s:par="CTAType1=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor1=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D&amp;CTAType2=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor2=%7BF4B4A40B-428A-48B8-907D-F1598EBADC7A%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230307T081222Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: الأمتعة والمطالبات المفقودة
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahad
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahad
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: الأمتعة والمطالبات المفقودة
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "22170c48-72d1-42ba-ae9e-9a12b5efaaa8"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: الأمتعة والمطالبات المفقودة
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\fahees
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: الأمتعة والمطالبات المفقودة
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230525T084948Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T155228Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Verspätetes Gepäck
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ramish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ramish
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Verspätetes Gepäck
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0924991a-5f3d-4551-9f81-bc1c206e2ad4"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Verspätetes Gepäck
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Verspätetes Gepäck
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T123207Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{52998173-AF3C-4536-AF56-75BD1F148F21}"
+              s:par="CTAType1=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor1=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D&amp;CTAType2=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor2=%7B8B58979B-FF89-4F09-9AF3-6A860E012049%7D" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230307T071334Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Missing Baggage and Claims
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahad
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahad
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Missing Baggage and Claims
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c35b4946-f1f8-46c5-81e9-bc185cd9128a"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Missing Baggage and Claims
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Missing Baggage and Claims
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230512T164348Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T155242Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Bagage égarés
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ramish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ramish
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Bagage égarés
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "285a5dfa-aaab-4caf-a7d7-ce07ff145148"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Bagage égarés
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Bagage égarés
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T123224Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T155308Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Утерянный багаж
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ramish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ramish
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Утерянный багаж
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c635de2-afed-4daf-9722-510a99bebd21"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Утерянный багаж
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Утерянный багаж
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T123213Z

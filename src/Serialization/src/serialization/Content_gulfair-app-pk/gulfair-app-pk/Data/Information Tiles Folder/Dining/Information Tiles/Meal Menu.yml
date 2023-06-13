@@ -1,0 +1,181 @@
+﻿---
+ID: "63cfc8e7-c7ac-4d89-bdf3-9b379dea17f1"
+Parent: "ed0dbf13-a7d1-4556-9efb-8b289f19a521"
+Template: "05d15730-eae4-491c-b945-137ef6920474"
+Path: "/sitecore/content/gulfair-app-pk/Data/Information Tiles Folder/Dining/Information Tiles/Meal Menu"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "d07c6cf5-4e87-4fdc-b467-d8fa8e5e2fb2"
+  Hint: Image
+  Value: |
+    <image width="364" height="240" alt="Entertainment.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/2bc2d182f6ef4884a93766c6727eaf3d?v=3199e949" stylelabs-content-id="39463" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39463/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="View flights menus" linktype="media" target="" id="{C7EAC337-90F6-4622-927E-E57F207C6C64}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d9fc7229-2433-47f2-88ff-a010438a403b"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: See what’s on your menu
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235817Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link id="{61484358-02D6-4F4F-B096-D198EBB30482}" querystring="" linktype="internal" text="View more" anchor="" url="/gulfair-app/home/flying-with-us/on-board/in-flight-entertainment" title="" class="" target="" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed7d8066-6e3e-4f54-bf4c-27eef11f877d"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Entertainment
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: "Immerse yourself with on demand entertainment with a vast selection of movies, series, audio and games available in a variety of languages and refreshed regularly!"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235817Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="View flights menus" linktype="media" target="" id="{C7EAC337-90F6-4622-927E-E57F207C6C64}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f31f375a-edd5-43b9-aae2-a445036adb03"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: See what’s on your menu
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235817Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link id="{61484358-02D6-4F4F-B096-D198EBB30482}" querystring="" linktype="internal" text="View more" anchor="" url="/gulfair-app/home/flying-with-us/on-board/in-flight-entertainment" title="" class="" target="" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c738444-5123-4f8f-ae71-2f1560cda93b"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Entertainment
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: "Immerse yourself with on demand entertainment with a vast selection of movies, series, audio and games available in a variety of languages and refreshed regularly!"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235817Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link id="{61484358-02D6-4F4F-B096-D198EBB30482}" querystring="" linktype="internal" text="View more" anchor="" url="/gulfair-app/home/flying-with-us/on-board/in-flight-entertainment" title="" class="" target="" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4cc24da0-cdad-4bf1-a6d4-76ac6607967f"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Entertainment
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: "Immerse yourself with on demand entertainment with a vast selection of movies, series, audio and games available in a variety of languages and refreshed regularly!"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235817Z

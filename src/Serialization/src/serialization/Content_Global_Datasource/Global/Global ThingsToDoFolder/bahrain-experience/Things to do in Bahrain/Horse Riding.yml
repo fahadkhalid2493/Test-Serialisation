@@ -1,0 +1,202 @@
+﻿---
+ID: "03543aaf-b3d8-49e0-b03c-de0ce9280d0d"
+Parent: "caf10c8c-f8da-4e57-9bda-cee5ce5a6932"
+Template: "fd582026-66f8-4395-911a-c3cb6f40634d"
+Path: "/sitecore/content/Global/Global ThingsToDoFolder/bahrain-experience/Things to do in Bahrain/Horse Riding"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "dbc01cbd-a304-4024-8103-5684cc1d8d37"
+  Hint: Thumbnail
+  Value: |
+    <image width="364" height="400" alt="horse-riding.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/a46f5f07925a4ecaaea680173b51831b?v=d0f78567" stylelabs-content-id="50485" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/50485/thumbnail" />
+- ID: "ffd0635b-490c-470f-a104-bdf5459a9885"
+  Hint: ImagesList
+  Value: "{2D11DC97-C092-4B77-B47F-67ECFC15F4B0}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T232222Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0EE02A29-029E-4B36-A4A0-5431FD38323C}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\husain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\husain
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: "اشعر وكأنك أحد أبطال الصحراء وأنت تمتطي حصاناً عربياً. إنه بمثابة نشاط ترفيهي قديم وحتى يستخدم كوسيلة نقل، وجود الجواد العربي مهماً في ثقافة البحرين! احتضن هذا الجواد العربي وانطلق برشاقة على طول قلعة البحرين واستكشف البحرين بطريقة رائعة حقاً! يمكن حجز جولات ركوب الخيل من خلال عطلة وفيزيت بحرين وشركة كشتا."
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: ركوب الخيل
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70ce87aa-3ce7-46bc-946d-e2df2f4c7a18"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230218Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T232935Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0EE02A29-029E-4B36-A4A0-5431FD38323C}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\husain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\husain
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: "Das Arabische Pferd ist eine uralte Freizeitbesch&auml;ftigung und wird als Transportmittel genutzt. Die Pr&auml;senz des Arabischen Pferdes steht in der Kultur Bahrains unmittelbar bevor! Machen Sie sich dieses kulturelle Element zu eigen und fahren Sie elegant entlang der Festung von Bahrain und erkunden Sie Bahrain auf wahrhaft gro&szlig;artige Weise! Reittouren k&ouml;nnen &uuml;ber Ootla, Visit Bahrain und Kashta Tours gebucht werden."
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: "Pferde-Reiten"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb4ceff0-cfd2-4040-b7fe-44a2080d2c47"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230218Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T232142Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0EE02A29-029E-4B36-A4A0-5431FD38323C}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\husain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\husain
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: "An age-old recreational activity and used as a mode of transport, the Arabian Horse&rsquo;s presence is imminent in the culture of Bahrain! Embrace this cultural element and ride along in elegance along the Bahrain Fort and explore Bahrain in a truly magnificent way! Horse Riding Tours can be booked through Ootla, Visit Bahrain, and Kashta Tours."
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Horse Riding
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f3908b9-a2d2-4a1d-a7c9-8f3e790c98c6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230218Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T233003Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0EE02A29-029E-4B36-A4A0-5431FD38323C}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\husain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\husain
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: "Activit&eacute; r&eacute;cr&eacute;ative s&eacute;culaire et utilis&eacute; comme moyen de transport, la pr&eacute;sence du cheval arabe est imminente dans la culture de Bahre&iuml;n ! Embrassez cet &eacute;l&eacute;ment culturel et roulez avec &eacute;l&eacute;gance le long du Fort de Bahre&iuml;n et explorez Bahre&iuml;n d'une mani&egrave;re vraiment magnifique ! Les excursions &agrave; cheval peuvent &ecirc;tre r&eacute;serv&eacute;es via Ootla, Visit Bahrain et Kashta Tours."
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Équitation
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b6dc926-35d8-470d-b6b3-47e0fd85fb4d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230218Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T231916Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0EE02A29-029E-4B36-A4A0-5431FD38323C}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\husain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\husain
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: "Арабская лошадь, давнее развлечение и средство передвижения, неотъемлемо присутствует в культуре Бахрейна! Примите этот культурный элемент и прокатитесь элегантно вдоль форта Бахрейна и исследуйте Бахрейн поистине великолепным образом! Конные туры можно заказать через Ootla, Visit Bahrain и Kashta Tours."
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Верховая езда
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "057f378e-30d9-4a5c-bff9-722c0684ea51"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230218Z

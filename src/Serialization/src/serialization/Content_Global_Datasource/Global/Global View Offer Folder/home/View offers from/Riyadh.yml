@@ -1,0 +1,153 @@
+﻿---
+ID: "a17d37ff-eb60-438c-b8e4-a0506b617a7a"
+Parent: "c5aa386a-dd70-4729-8afb-795e5a9858cc"
+Template: "fea9fb96-6afb-436a-a6fe-93bd826fa9d7"
+Path: /sitecore/content/Global/Global View Offer Folder/home/View offers from/Riyadh
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2300
+- ID: "bc609192-db8b-4723-ba09-9a1d73dec66d"
+  Hint: City
+  Value: "{AA2BBBB5-8A51-40F5-9940-A10D7674BF3B}"
+- ID: "f343f8ec-f709-4508-9cea-a0cd78ec6da4"
+  Hint: OfferList
+  Value: |
+    {4F767439-BB10-4354-992B-2B2B814B7A42}
+    {9302685D-EAC5-4D95-8822-206975A285FB}
+    {47AFA70B-E5DD-4ED6-8DD3-218F7C5D4FF1}
+    {865C1A57-734A-4BA2-A6CD-897197BC98FF}
+    {F0C08A33-772B-4C45-8BAF-0A1B4423E15D}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "871e8eb0-ae8d-48ba-9f24-1ec0ec2d8bdc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T142035Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: الرياض
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "994404ef-ea8b-402a-bc10-0f881801cd2b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T142048Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Riad
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "12acbf18-57f2-4df0-807a-f572b4049032"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230531T110110Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Riyadh
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "69e539fa-df6b-4d88-a79d-87fd568b60d5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T142042Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Riyadh
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "262673f6-4695-4141-a180-2fac97f984d9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T142056Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: "Эр-Рияд"

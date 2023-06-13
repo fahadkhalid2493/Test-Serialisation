@@ -1,0 +1,219 @@
+﻿---
+ID: "bdbf24d8-ca52-406d-97d4-95bf2719ba77"
+Parent: "f6241a8c-88df-46a1-925b-c40054ecb5cd"
+Template: "bf0ef994-52a6-4190-a1b7-fad4cd3934a3"
+Path: "/sitecore/content/Global/Global Promo Banner With Two CTAs Folder/other-airlines/Baggage information - Other Airlines - Contact Us"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04b049be-b460-41cc-99cc-2cca1446e6f5"
+      Hint: CTAOne
+      Value: |
+        <link text="اتصل بمركز الاتصال العالمي الخاص بنا" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230309T120422Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "689ff8e9-0c7d-45e4-b229-a22b3a9f8815"
+    - ID: "ad95240f-c21a-4092-8967-c9df8e90f47e"
+      Hint: SubTextTwo
+      Value: <p>عناوين مكاتب طيران الخليج حول العالم</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "c6ebb471-3f26-44a0-9e1e-6a4a673c6d72"
+      Hint: CTATwo
+      Value: |
+        <link text="مكاتب طيران الخليج" anchor="" linktype="internal" class="" title="" target="" querystring="#{F95FC9BF-030E-4709-84A9-32DE77AD3AEA}" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "d4a949ef-28f7-4aff-8da4-60f93e14d9ce"
+      Hint: Heading
+      Value: اتصل بنا
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T142320Z
+    - ID: "ef5f5cea-b53f-4731-ac19-eb6034541bcb"
+      Hint: SubTextOne
+      Value: |
+        <p>هل حاولت البحث عن تساؤلك على gulfair.com؟عمليات حجز التذاكر,جدول المواعيد, حالة الرحلة وأكثر على بعد نفرة منك!</p>
+        <p>
+        بالنسبة للمساعدة الهاتفية لاستفساراتك، إن وكلاء السفر لدينا موجودون لخدمتك 24 &times; 7.</p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04b049be-b460-41cc-99cc-2cca1446e6f5"
+      Hint: CTAOne
+      Value: |
+        <link text="Wenden Sie sich an unser weltweites Contact Center" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230309T120422Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2462e0e2-896c-409e-9040-287fa49f1d8a"
+    - ID: "ad95240f-c21a-4092-8967-c9df8e90f47e"
+      Hint: SubTextTwo
+      Value: <p>Wenden Sie sich auf die Golfluftb&uuml;ros auf der ganzen Welt</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "c6ebb471-3f26-44a0-9e1e-6a4a673c6d72"
+      Hint: CTATwo
+      Value: |
+        <link text="Golfluftbüros" anchor="" linktype="internal" class="" title="" target="" querystring="#{F95FC9BF-030E-4709-84A9-32DE77AD3AEA}" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "d4a949ef-28f7-4aff-8da4-60f93e14d9ce"
+      Hint: Heading
+      Value: Kontaktiere uns
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T142339Z
+    - ID: "ef5f5cea-b53f-4731-ac19-eb6034541bcb"
+      Hint: SubTextOne
+      Value: "<p>Haben Sie versucht, nach Ihrer Abfrage auf Gulfair.com zu suchen? Ticketbuchungen, Zeitplan, Flugstatus und mehr sind nur einen Klick entfernt! F&uuml;r telefonische Unterst&uuml;tzung bei Ihren Anfragen stehen unseren Reservierungsvertriebsagenten f&uuml;r Sie rund um die Uhr zur Verf&uuml;gung.</p>"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04b049be-b460-41cc-99cc-2cca1446e6f5"
+      Hint: CTAOne
+      Value: |
+        <link text="Contact our worldwide contact center" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230309T120422Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c508cda2-3f45-4186-bd8c-32ee616ea178"
+    - ID: "ad95240f-c21a-4092-8967-c9df8e90f47e"
+      Hint: SubTextTwo
+      Value: <p>Contact Gulf Air offices all around the world</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "c6ebb471-3f26-44a0-9e1e-6a4a673c6d72"
+      Hint: CTATwo
+      Value: |
+        <link text="Gulf Air offices" anchor="" linktype="internal" class="" title="" target="" querystring="#{F95FC9BF-030E-4709-84A9-32DE77AD3AEA}" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "d4a949ef-28f7-4aff-8da4-60f93e14d9ce"
+      Hint: Heading
+      Value: Contact Us
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T140859Z
+    - ID: "ef5f5cea-b53f-4731-ac19-eb6034541bcb"
+      Hint: SubTextOne
+      Value: "<p>Have you tried searching for your query on gulfair.com? Ticket bookings, Timetable, Flight Status and more are just a click away! For telephone assistance with your queries, our reservation sales agents are available to serve you 24x7</p>"
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04b049be-b460-41cc-99cc-2cca1446e6f5"
+      Hint: CTAOne
+      Value: |
+        <link text="Contactez notre centre de contact mondial" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230309T120422Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94278ce4-dddd-4ab4-934d-e1a936851bbe"
+    - ID: "ad95240f-c21a-4092-8967-c9df8e90f47e"
+      Hint: SubTextTwo
+      Value: <p>Contactez Gulf Air Offices partout dans le monde</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "c6ebb471-3f26-44a0-9e1e-6a4a673c6d72"
+      Hint: CTATwo
+      Value: |
+        <link text="Bureaux aériens du Golfe" anchor="" linktype="internal" class="" title="" target="" querystring="#{F95FC9BF-030E-4709-84A9-32DE77AD3AEA}" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "d4a949ef-28f7-4aff-8da4-60f93e14d9ce"
+      Hint: Heading
+      Value: "Contactez-nous"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T142330Z
+    - ID: "ef5f5cea-b53f-4731-ac19-eb6034541bcb"
+      Hint: SubTextOne
+      Value: "<p>Avez-vous essay&eacute; de rechercher votre requ&ecirc;te sur Gulfair.com? Les r&eacute;servations de billets, le calendrier, le statut de vol et plus ne sont qu'&agrave; un clic! Pour une assistance t&eacute;l&eacute;phonique avec vos requ&ecirc;tes, nos agents de vente de r&eacute;servation sont disponibles pour vous servir 24 x 7</p>"
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04b049be-b460-41cc-99cc-2cca1446e6f5"
+      Hint: CTAOne
+      Value: |
+        <link text="Свяжитесь с нашим всемирным контактным центром" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230309T120422Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "960b7916-afae-434c-846c-0283b4228e35"
+    - ID: "ad95240f-c21a-4092-8967-c9df8e90f47e"
+      Hint: SubTextTwo
+      Value: <p>Свяжитесь с офисами Gulf Air по всему миру</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "c6ebb471-3f26-44a0-9e1e-6a4a673c6d72"
+      Hint: CTATwo
+      Value: |
+        <link text="Офисы Gulf Air" anchor="" linktype="internal" class="" title="" target="" querystring="#{F95FC9BF-030E-4709-84A9-32DE77AD3AEA}" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "d4a949ef-28f7-4aff-8da4-60f93e14d9ce"
+      Hint: Heading
+      Value: Связаться с нами
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T142346Z
+    - ID: "ef5f5cea-b53f-4731-ac19-eb6034541bcb"
+      Hint: SubTextOne
+      Value: "<p>Вы пробовали искать свой запрос на Gulfair.com? Бронирование билетов, расписание, статус полета и многое другое - это всего лишь щелчок! Для получения телефонной помощи с вашими запросами наши агенты по продажам бронирования доступны для обслуживания вам 24x7</p>"

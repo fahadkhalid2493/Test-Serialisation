@@ -1,0 +1,198 @@
+﻿---
+ID: "35919231-8590-4ce8-a28b-7713708a2389"
+Parent: "fe058fd5-e764-4281-bd0b-54805b915a39"
+Template: "e390619c-9fa4-4eef-aeb4-ecacf033ad9c"
+Path: "/sitecore/content/Global/Global Frequently Asked Questions Folder/other-airlines/Other Airlines - Parent"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "8c095ccd-cc96-454a-a2af-6582feeda6e5"
+  Hint: FAQList
+  Value: |
+    {58E105D3-A51C-4AF0-9B10-2CD7018D88A2}
+    {E2B8BB24-FDE8-4297-9303-5D33DB14BB63}
+    {903C100C-3875-43B4-8E39-09A569682282}
+    {C17A2EDF-5684-41F3-A901-F25691188841}
+    {FF6EF7C5-0F52-4DBA-BB0B-9DDA569F4531}
+    {64813BAD-916C-4B30-91B5-3F783C4320A1}
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T104229Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "11e1de8e-3d97-49e2-bdfd-42b58c828cdf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T202045Z
+    - ID: "ed4cae1d-2f58-4038-a786-f9a0af078637"
+      Hint: Heading
+      Value: |
+        <h2 style="text-align: center;">لرحلات اتفاقيات التبادل لطيران الخليج التي تديرها الخطوط الجوية الأمريكية من وإلى الولايات المتحدة أو كندا مفهوم خاص مطبق على القطع</h2>
+        <p style="text-align: center;">في حال شراء تذكرة خاصة بطيران الخليج من/إلى الولايات المتحدة أو كندا تشمل وصلة مع رحلة طيران تقوم بتشغيلها خطوط طيران أخرى (لمعرفة سياسة الخطوط الجوية الأمريكية يرجى الاطلاع على السياسة السابقة)، يتم تحديد الوزن المسموح به مجانًا على أساس عدد القطع التي يمكن حملها والحد الأقصى لوزن كل قطعة. تختلف سياسات الخطوط الجوية في هذا الشأن، ويرجى الرجوع إلى الموقع الإلكتروني لكل شركة لضمان توفر أحدث المعلومات الخاصة بالوزن المسموح به وأي رسوم محتملة قبل الشروع في الرحلة. تسري أسعار اتحاد النقل الجوي الدولي&nbsp; على أي قطعة تزيد عن الوزن المسموح به للأمتعة.</p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T104011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0f8764df-8f20-4067-a5ac-e9142c207daa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T202105Z
+    - ID: "ed4cae1d-2f58-4038-a786-f9a0af078637"
+      Hint: Heading
+      Value: |
+        <h2 style="text-align: center;">Gulf Air Codeshare -Fl&uuml;ge von American Airlines an und von der UAS oder Kanada</h2>
+        <p style="text-align: center;">Wenn Sie ein Golf -Flugticket in/aus den USA oder Kanada kaufen, das eine Verbindung mit einem Flug mit einer anderen Fluggesellschaft (f&uuml;r amerikanische Fluggesellschaften, siehe Richtlinie oben) beinhaltet, basiert Ihre Freigep&auml;ck -Zulage auf einer Kombination aus wie vielen St&uuml;ck (en) ) Sie k&ouml;nnen und ein maximales Gewicht pro individuelles St&uuml;ck tragen. Individuelle Fluggesellschaften haben dazu unterschiedliche Richtlinien. Weitere Informationen zu Ihrer Gep&auml;ckgeld und potenziellen Geb&uuml;hren finden Sie in der Website, um sicherzustellen, dass Sie &uuml;ber die aktuellsten Informationen zu Ihrer Gep&auml;ckzahl und potenziellen Geb&uuml;hren verf&uuml;gen, bevor Sie Ihre Reise beginnen. Die IATA -Preise gelten f&uuml;r ein St&uuml;ck &uuml;ber die Freigep&auml;ckzusage.</p>
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T104011Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d5a91c30-7ca0-4d2f-98fc-dff064ed79e0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T202112Z
+    - ID: "ed4cae1d-2f58-4038-a786-f9a0af078637"
+      Hint: Heading
+      Value: |
+        <h2 style="text-align: center;">Gulf Air codeshare flights operated by American Airlines to and from the USA or Canada</h2>
+        <p style="text-align: center;">If you purchase a Gulf Air ticket to/from the USA or Canada that involves a connection with a flight operated by another airline (for American Airlines, see policy above), your free baggage allowance is based on a combination of how many piece(s) you can carry and a maximum weight per individual piece. Individual airlines have varying policies on this. Please refer to their website to ensure you have the most up-to-date information about your baggage allowance and any potential charges before starting your journey. IATA rates apply for any piece over the free baggage allowance.</p>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T104011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9150b171-108a-48a9-92c7-b2d8892e55ea"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T202055Z
+    - ID: "ed4cae1d-2f58-4038-a786-f9a0af078637"
+      Hint: Heading
+      Value: |
+        <h2 style="text-align: center;">Vols Gulf Air Codeshare exploit&eacute;s par American Airlines vers et depuis l'UAS ou le Canada</h2>
+        <p style="text-align: center;">Si vous achetez un billet d'avion Gulf pour / depuis les &Eacute;tats-Unis ou le Canada qui implique une connexion avec un vol exploit&eacute; par une autre compagnie a&eacute;rienne (pour American Airlines, voir la politique ci-dessus), votre allocation de bagages gratuite est bas&eacute;e sur une combinaison du nombre de pi&egrave;ces (S ) Vous pouvez transporter et un poids maximal par pi&egrave;ce individuelle. Les compagnies a&eacute;riennes individuelles ont des politiques variables &agrave; ce sujet. Veuillez vous r&eacute;f&eacute;rer &agrave; leur site Web pour vous assurer que vous disposez des informations les plus r&eacute;centes sur votre allocation de bagages et tous les frais potentiels avant de commencer votre voyage. Les tarifs IATA s'appliquent &agrave; toute pi&egrave;ce sur l'allocation de bagages gratuits.</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T104011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee9846c0-3d43-4291-8f0a-a930e1ec98bc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T202039Z
+    - ID: "ed4cae1d-2f58-4038-a786-f9a0af078637"
+      Hint: Heading
+      Value: |
+        <h2 style="text-align: center;">Полеты авиационных кодексов Gulf Air, управляемые American Airlines в UAS или из Канады</h2>
+        <p style="text-align: center;">Если вы приобретаете билет на воздушную залив в/из США или из Канады, который включает в себя связь с рейсом, управляемым другой авиакомпанией (для American Airlines см. Политику выше), ваше бесплатное пособие на багаж основано на комбинации того, сколько предметов (S. ) вы можете нести и максимальный вес на отдельный кусок. Индивидуальные авиакомпании имеют различную политику на это. Пожалуйста, обратитесь к их веб-сайту, чтобы убедиться, что у вас есть самая современная информация о вашем пособии на багаж и любых потенциальных сборов перед началом вашего путешествия. Ставки IATA применяются для любой части по сравнению с бесплатным багажным пособием.</p>

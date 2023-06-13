@@ -1,0 +1,267 @@
+﻿---
+ID: "60129f96-426c-42ba-a6fb-8653b4387069"
+Parent: "79e07d6e-7609-4ad5-8002-8d2915c32618"
+Template: "18a3a622-0178-41f3-92d8-a9c689fed104"
+Path: "/sitecore/content/gulfair-app-eg/Data/Falcon Flyer Banner Folder/Home/DEFAULT - HOME - EN - Gulf Air Falcon Flyer Program"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "3fef290e-bf96-4b4e-9696-42f8f2eab6ef"
+  Hint: VideoURL
+  Value: "https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/26895cc0d4ad42f0912afe945a4a1ed3?v=4c2a704f"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - AR - Gulf Air Falcon Flyer Program"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T173151Z
+    - ID: "28a7876e-a823-44c5-be7e-387898b6a592"
+      Hint: Heading
+      Value: GULF AIR FALCON FLYER PROGRAM
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "54e078c9-5670-492b-80a4-f80606eae2ff"
+      Hint: Description
+      Value: <p>Sign up to the Gulf Air <strong>Falcon Flyer program</strong> and start earning rewards today.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "83b4d05b-2fc9-4ab4-becd-012f7aac88e8"
+      Hint: SubHeading
+      Value: Do more. Earn more.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "203922d3-1de9-4ef0-8cdf-fa904322e902"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232402Z
+    - ID: "df9cb9bc-ff9c-4431-bfc9-f5777f060736"
+      Hint: ThumbnailImage
+      Value: |
+        <image width="646" height="312" alt="ffp-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/adf2294dde2e47d98088fbdb274f2dbd?v=e5c68572" stylelabs-content-id="45352" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/45352/thumbnail" />
+    - ID: "fad670e3-3e01-4064-b364-6c42590c0b10"
+      Hint: CTA
+      Value: |
+        <link text="Join today" linktype="external" url="/" anchor="" target="" />
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Gulf Air Falcon Flyer Program"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T173151Z
+    - ID: "28a7876e-a823-44c5-be7e-387898b6a592"
+      Hint: Heading
+      Value: GULF AIR FALCON FLYER PROGRAM
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "54e078c9-5670-492b-80a4-f80606eae2ff"
+      Hint: Description
+      Value: <p>Sign up to the Gulf Air <strong>Falcon Flyer program</strong> and start earning rewards today.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "83b4d05b-2fc9-4ab4-becd-012f7aac88e8"
+      Hint: SubHeading
+      Value: Do more. Earn more.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "514239a9-d85a-4683-9e5e-408b43265e93"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232402Z
+    - ID: "df9cb9bc-ff9c-4431-bfc9-f5777f060736"
+      Hint: ThumbnailImage
+      Value: |
+        <image width="646" height="312" alt="ffp-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/adf2294dde2e47d98088fbdb274f2dbd?v=e5c68572" stylelabs-content-id="45352" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/45352/thumbnail" />
+    - ID: "fad670e3-3e01-4064-b364-6c42590c0b10"
+      Hint: CTA
+      Value: |
+        <link text="Join today" linktype="external" url="/" anchor="" target="" />
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Gulf Air Falcon Flyer Program"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T173151Z
+    - ID: "28a7876e-a823-44c5-be7e-387898b6a592"
+      Hint: Heading
+      Value: GULF AIR FALCON FLYER PROGRAM
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "54e078c9-5670-492b-80a4-f80606eae2ff"
+      Hint: Description
+      Value: <p>Sign up to the Gulf Air <strong>Falcon Flyer program</strong> and start earning rewards today.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "83b4d05b-2fc9-4ab4-becd-012f7aac88e8"
+      Hint: SubHeading
+      Value: Do more. Earn more.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d4a4ccb-6ac1-43e7-b9a5-a09541b762ec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232402Z
+    - ID: "df9cb9bc-ff9c-4431-bfc9-f5777f060736"
+      Hint: ThumbnailImage
+      Value: |
+        <image width="646" height="312" alt="ffp-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/adf2294dde2e47d98088fbdb274f2dbd?v=e5c68572" stylelabs-content-id="45352" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/45352/thumbnail" />
+    - ID: "fad670e3-3e01-4064-b364-6c42590c0b10"
+      Hint: CTA
+      Value: |
+        <link text="Join today" linktype="external" url="/" anchor="" target="" />
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Gulf Air Falcon Flyer Program"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T173151Z
+    - ID: "28a7876e-a823-44c5-be7e-387898b6a592"
+      Hint: Heading
+      Value: GULF AIR FALCON FLYER PROGRAM
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "54e078c9-5670-492b-80a4-f80606eae2ff"
+      Hint: Description
+      Value: <p>Sign up to the Gulf Air <strong>Falcon Flyer program</strong> and start earning rewards today.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "83b4d05b-2fc9-4ab4-becd-012f7aac88e8"
+      Hint: SubHeading
+      Value: Do more. Earn more.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7489a4e4-bf86-473e-8b33-3065b9adf0a0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232402Z
+    - ID: "df9cb9bc-ff9c-4431-bfc9-f5777f060736"
+      Hint: ThumbnailImage
+      Value: |
+        <image width="646" height="312" alt="ffp-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/adf2294dde2e47d98088fbdb274f2dbd?v=e5c68572" stylelabs-content-id="45352" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/45352/thumbnail" />
+    - ID: "fad670e3-3e01-4064-b364-6c42590c0b10"
+      Hint: CTA
+      Value: |
+        <link text="Join today" linktype="external" url="/" anchor="" target="" />
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Gulf Air Falcon Flyer Program"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T173151Z
+    - ID: "28a7876e-a823-44c5-be7e-387898b6a592"
+      Hint: Heading
+      Value: GULF AIR FALCON FLYER PROGRAM
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "54e078c9-5670-492b-80a4-f80606eae2ff"
+      Hint: Description
+      Value: <p>Sign up to the Gulf Air <strong>Falcon Flyer program</strong> and start earning rewards today.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "83b4d05b-2fc9-4ab4-becd-012f7aac88e8"
+      Hint: SubHeading
+      Value: Do more. Earn more.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e4093cc0-301b-4f0f-a639-86dd115ddedd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232402Z
+    - ID: "df9cb9bc-ff9c-4431-bfc9-f5777f060736"
+      Hint: ThumbnailImage
+      Value: |
+        <image width="646" height="312" alt="ffp-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/adf2294dde2e47d98088fbdb274f2dbd?v=e5c68572" stylelabs-content-id="45352" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/45352/thumbnail" />
+    - ID: "fad670e3-3e01-4064-b364-6c42590c0b10"
+      Hint: CTA
+      Value: |
+        <link text="Join today" linktype="external" url="/" anchor="" target="" />

@@ -1,0 +1,323 @@
+﻿---
+ID: "fc84639b-9185-47ff-8c22-46b7a8883cef"
+Parent: "1315cd43-f19c-450f-af3a-c9b44be37918"
+Template: "2c4c3d3f-2eed-43cf-b374-187a86eb8468"
+Path: "/sitecore/content/Global/Global Explore Our Network Folder/destination-guide/Explore our network/Cairo"
+SharedFields:
+- ID: "12bb4931-3977-4f11-b35f-92485155faf4"
+  Hint: CTA
+  Value: |
+    <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{9AB0ADD1-1D15-4B36-95EF-22080F541085}" />
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "7c4c8817-9955-4c41-b3ff-a6b1905f8de9"
+  Hint: TripType
+  Value: |
+    {CA362BD2-EE08-47B4-A367-F47780747160}
+    {168FF2B3-DCA2-420E-83FB-C3D9835D8FDC}
+    {36361B71-EAAC-4D62-8892-47C7AB281C16}
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "a69d8ce3-df5a-4f7d-bad3-36c44bfefde9"
+  Hint: Image
+  Value: |
+    <image width="364" height="400" alt="CAI-364x400.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/f86ac3232da74bb6ae23e345bff0a0e3?v=eb045669" stylelabs-content-id="46089" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/46089/thumbnail" />
+- ID: "abd372a6-e0e8-4e49-aa1a-3fdc3fe20eba"
+  Hint: Region
+  Value: "{BA6BD6A9-D25F-44A4-820A-F113B95C9890}"
+- ID: "f7ce7d57-5025-47cd-9ddf-0b0c4fc57830"
+  Hint: City
+  Value: "{BC7BC2DC-4F21-4B4D-965F-825F36D7CE11}"
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T090036Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d052daba-9842-4ace-99b1-7c189dd4535c"
+    - ID: "90736e96-26e8-4288-a818-5030da33b9e9"
+      Hint: SubText
+      Value: السياحية من
+    - ID: "a7746a11-c6b2-42ed-bf0f-e4c80ad88fe8"
+      Hint: Price
+      Value: 850
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilal
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230527T183447Z
+    - ID: "e28bb780-b2be-4658-800f-e119703baf5d"
+      Hint: Currency
+      Value: USD
+  - Version: 2
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T082024Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\EmanBurwais
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4640233-fdf6-40a7-bf9d-d9e2df326fc3"
+    - ID: "90736e96-26e8-4288-a818-5030da33b9e9"
+      Hint: SubText
+      Value: 
+    - ID: "a7746a11-c6b2-42ed-bf0f-e4c80ad88fe8"
+      Hint: Price
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230607T082024Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225901Z
+    - ID: "e28bb780-b2be-4658-800f-e119703baf5d"
+      Hint: Currency
+      Value: 
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T090036Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "53ea42c3-625b-4314-9d43-d185a8fc88f6"
+    - ID: "90736e96-26e8-4288-a818-5030da33b9e9"
+      Hint: SubText
+      Value: Wirtschaft von
+    - ID: "a7746a11-c6b2-42ed-bf0f-e4c80ad88fe8"
+      Hint: Price
+      Value: 850
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225901Z
+    - ID: "e28bb780-b2be-4658-800f-e119703baf5d"
+      Hint: Currency
+      Value: USD
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T090036Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df11a02b-3a20-448b-844f-35aa2642b429"
+    - ID: "90736e96-26e8-4288-a818-5030da33b9e9"
+      Hint: SubText
+      Value: Economy From
+    - ID: "a7746a11-c6b2-42ed-bf0f-e4c80ad88fe8"
+      Hint: Price
+      Value: 850
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nasia
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T201311Z
+    - ID: "e28bb780-b2be-4658-800f-e119703baf5d"
+      Hint: Currency
+      Value: USD
+  - Version: 2
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T080738Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\EmanBurwais
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c311c56-a228-4b28-812f-bc3ac683e68d"
+    - ID: "90736e96-26e8-4288-a818-5030da33b9e9"
+      Hint: SubText
+      Value: 
+    - ID: "a7746a11-c6b2-42ed-bf0f-e4c80ad88fe8"
+      Hint: Price
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230607T080738Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225901Z
+    - ID: "e28bb780-b2be-4658-800f-e119703baf5d"
+      Hint: Currency
+      Value: 
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T090036Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "540a976e-48e2-40da-9feb-2e08a35ff260"
+    - ID: "90736e96-26e8-4288-a818-5030da33b9e9"
+      Hint: SubText
+      Value: Économie de
+    - ID: "a7746a11-c6b2-42ed-bf0f-e4c80ad88fe8"
+      Hint: Price
+      Value: 850
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225901Z
+    - ID: "e28bb780-b2be-4658-800f-e119703baf5d"
+      Hint: Currency
+      Value: USD
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T090036Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "72ba0daa-4196-48e5-962d-ea35da676ea9"
+    - ID: "90736e96-26e8-4288-a818-5030da33b9e9"
+      Hint: SubText
+      Value: Экономика от
+    - ID: "a7746a11-c6b2-42ed-bf0f-e4c80ad88fe8"
+      Hint: Price
+      Value: 850
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225901Z
+    - ID: "e28bb780-b2be-4658-800f-e119703baf5d"
+      Hint: Currency
+      Value: USD

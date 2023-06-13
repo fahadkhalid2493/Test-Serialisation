@@ -1,0 +1,225 @@
+﻿---
+ID: "0fce2a4e-cb6c-430a-828d-154423c7dc7c"
+Parent: "244fa9f0-1121-44b3-abd5-58c1d62cd7e2"
+Template: "1e823605-a717-4255-974c-7917397cd6c9"
+Path: "/sitecore/content/gulfair-app-jo/Data/Inner Banner Folder/Dining/Inner Banner/Dining Banner"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "50cf6187-c8b1-4bee-97da-7a37b24eedf5"
+  Hint: MobileVideoURL
+  Value: 
+- ID: "61ece8e4-a266-4a42-a72f-93e563ee4b66"
+  Hint: DurationForMobile
+  Value: 
+- ID: "66d06ec3-a13a-4601-b7d9-1ba74aed310c"
+  Hint: BackgroundImage
+  Value: |
+    <image width="1440" height="600" alt="DiningBanner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/a118fabe8df545659157d623666c8c89?v=728b13fa" stylelabs-content-id="40712" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/40712/thumbnail" />
+- ID: "78a29040-85d0-4619-b1eb-f52aa266bfe0"
+  Hint: TextAlignment
+  Value: "{0A42CAE2-9E7A-4FB8-BE35-1D23B2E53FDE}"
+- ID: "7bf12b50-a496-445f-aa2b-2be4d15c48ce"
+  Hint: MobileImage
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "a6d7f2d1-162a-424e-baf8-9c8857e04f7f"
+  Hint: TextColor
+  Value: "{89330C54-4FC1-4573-913A-BC08CCDEBD5B}"
+- ID: "b92f071d-1def-46b6-a749-46efddbd6693"
+  Hint: CTAColor
+  Value: "{F64FADCC-6FB4-46AA-A947-751B7BF0A024}"
+- ID: "c7d95e4c-f98a-46dd-937d-8b5bf2c862dd"
+  Hint: VideoURL
+  Value: 
+- ID: "da8bada7-5833-4d14-9d91-7f1d81a65432"
+  Hint: Duration
+  Value: 
+- ID: "f768fd8c-ee29-421c-8929-b5c21ac10c7b"
+  Hint: CTAType
+  Value: "{9E29A28B-7ED9-41A5-BE7D-66A986A44CC3}"
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T160116Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: قاذمة  الطعام في الأجواء
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "75f300e8-4243-43c2-9b94-86da2397ac8c"
+      Hint: CTA
+      Value: 
+    - ID: "7ccb2c2f-780e-42e3-9b26-7b6fb2b3f8a6"
+      Hint: SubHeading
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a914a9cd-99dc-4752-8f07-7e67891a67fb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234306Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T160116Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: An Bord eines Essens
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8fa7a46-6c24-4a59-8c74-d9c784ef6b38"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234306Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T160116Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Onboard Dining
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "75f300e8-4243-43c2-9b94-86da2397ac8c"
+      Hint: CTA
+      Value: 
+    - ID: "7ccb2c2f-780e-42e3-9b26-7b6fb2b3f8a6"
+      Hint: SubHeading
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "192d0487-4ef8-4bdd-a773-a88537c4b961"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234306Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T160116Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Salle à bord
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0cbc3990-1921-4048-86cf-f19f0e53b75d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234306Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T160116Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: На борту
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6ade6de-b37f-432e-9c50-9ad1dc21b49e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234306Z

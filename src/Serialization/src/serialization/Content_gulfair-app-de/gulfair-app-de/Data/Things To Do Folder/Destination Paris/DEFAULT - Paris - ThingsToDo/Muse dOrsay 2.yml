@@ -1,0 +1,258 @@
+﻿---
+ID: "528f64b5-2612-4f58-bea7-a6f36986fe26"
+Parent: "1c8afb4a-9433-4a88-82dc-91b462d8d41b"
+Template: "fd582026-66f8-4395-911a-c3cb6f40634d"
+Path: "/sitecore/content/gulfair-app-de/Data/Things To Do Folder/Destination Paris/DEFAULT - Paris - ThingsToDo/Muse dOrsay 2"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "dbc01cbd-a304-4024-8103-5684cc1d8d37"
+  Hint: Thumbnail
+  Value: |
+    <image width="350" height="350" alt="Musée d’Orsay.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/f541d45895b141eba327f9f1db5e549b?v=0306216f" stylelabs-content-id="36154" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/36154/thumbnail" />
+- ID: "ffd0635b-490c-470f-a104-bdf5459a9885"
+  Hint: ImagesList
+  Value: |
+    {A7FF91C1-15FA-41DC-A5C1-4B2F937F46FE}
+    {DADFA64A-C85B-4E40-89B3-421A11B1D408}
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Paris - Musée d’Orsay-ar"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: |
+        <link text="البحث عن رحلات جوية إلى جايبور" linktype="external" url="/" anchor="" target="" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T184806Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: |
+        <p>خلافًا للاعتقاد الشائع ، فإن Lorem Ipsum ليس مجرد نص عشوائي. لها جذور في قطعة من الأدب اللاتيني الكلاسيكي من 45 قبل الميلاد ، مما يجعلها أكثر من 2000 عام. قام ريتشارد مكلينتوك ، أستاذ اللغة اللاتينية في كلية هامبدن سيدني في فيرجينيا ، بالبحث عن واحدة من أكثر الكلمات اللاتينية غموضًا ، consectetur ، من مقطع لوريم إيبسوم ، وتصفح اقتباسات الكلمة في الأدب الكلاسيكي ، اكتشف المصدر الذي لا شك فيه. يأتي لوريم إيبسوم من الأقسام 1.10.32 و 1.10.33 من "de Finibus Bonorum et Malorum" (أقصى الخير والشر) بقلم شيشرون ، الذي كتبه عام 45 قبل الميلاد. هذا الكتاب عبارة عن أطروحة حول نظرية الأخلاق ، وقد حظيت بشعبية كبيرة خلال عصر النهضة.</p>
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: متحف دورسيه
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "473a820f-2ee2-4433-9f5d-c31712c93c31"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232856Z
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Paris - Musée d’Orsay"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: |
+        <link text="Find flights to Jaipur" linktype="external" url="/" anchor="" target="" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T184806Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: |
+        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.</p>
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Musée d’Orsay
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d81dd4ca-effc-4435-9a32-128df201c5db"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232856Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Paris - Musée d’Orsay"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: |
+        <link text="Find flights to Jaipur" linktype="external" url="/" anchor="" target="" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T184806Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: |
+        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.</p>
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Musée d’Orsay
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bba19e21-6164-4b2d-adef-eed85aa26003"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232856Z
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Paris - Musée d’Orsay"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: |
+        <link text="Find flights to Jaipur" linktype="external" url="/" anchor="" target="" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T184806Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: |
+        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.</p>
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Musée d’Orsay
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d85258a0-d8df-44dd-85e7-ba5847aa475b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232856Z
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Paris - Musée d’Orsay"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: |
+        <link text="Find flights to Jaipur" linktype="external" url="/" anchor="" target="" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T184806Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: |
+        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.</p>
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Musée d’Orsay
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81b276a8-ecb7-4c6e-a015-39ae31721491"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232856Z

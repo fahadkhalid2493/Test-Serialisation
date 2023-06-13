@@ -1,0 +1,268 @@
+﻿---
+ID: "5de3a775-3a2e-44a0-8987-72a5f9626fbd"
+Parent: "aba68e16-6248-4d19-a774-e51a615e8726"
+Template: "930d74ab-6771-40d2-ae16-42027bb0c7f6"
+Path: "/sitecore/content/gulfair-app-ru/Data/Our Leading Destinations Folder/home/DEFAULT - GLOBAL/Karipur"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "360eaaa0-c5b5-48d3-b9e7-aadc8f52e4bb"
+  Hint: Categories
+  Value: "{295280DB-996F-421E-B23C-3B507C8A065E}"
+- ID: "4a56a804-f169-43e8-84c1-3fb04c201707"
+  Hint: Image
+  Value: |
+    <image width="465" height="487" alt="kathmandu.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/25493d5f110c4e3da687206c57138bef?v=b38717aa" stylelabs-content-id="35152" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/35152/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Our Leading Destinations - Kathmandu-ar"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T125625Z
+    - ID: "3b433445-aa96-4600-b4aa-78741b165050"
+      Hint: SubText
+      Value: الاقتصاد من
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a56b750-1381-4c17-8861-379ab6784a63"
+      Hint: Price
+      Value: 950
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79ee4385-a6b1-4368-bf20-9bfb59c93441"
+    - ID: "999acd96-0a11-4128-8dcd-b19a5e486ce1"
+      Hint: Currency
+      Value: GBP
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235947Z
+    - ID: "e7582df1-f2dc-45ba-bd39-45247e8d5fbd"
+      Hint: CTABookNow
+      Value: |
+        <link text="احجز الآن" linktype="external" url="https://falconflyer.gulfair.com/#/member/login" anchor="" target="_blank" />
+    - ID: "ec03944c-20f2-45cc-bb88-920614a37716"
+      Hint: CTADiscover
+      Value: |
+        <link text="يكتشف" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Our Leading Destinations - Kathmandu"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230118T173746Z
+    - ID: "3b433445-aa96-4600-b4aa-78741b165050"
+      Hint: SubText
+      Value: Economy From
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8a56b750-1381-4c17-8861-379ab6784a63"
+      Hint: Price
+      Value: 950
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "96e06ae2-1da3-4873-a01b-2309c643353e"
+    - ID: "999acd96-0a11-4128-8dcd-b19a5e486ce1"
+      Hint: Currency
+      Value: GBP
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235947Z
+    - ID: "e7582df1-f2dc-45ba-bd39-45247e8d5fbd"
+      Hint: CTABookNow
+      Value: |
+        <link text="احجز الآن" linktype="external" url="https://falconflyer.gulfair.com/#/member/login" anchor="" target="_blank" />
+    - ID: "ec03944c-20f2-45cc-bb88-920614a37716"
+      Hint: CTADiscover
+      Value: |
+        <link text="يكتشف" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230118T173746Z
+    - ID: "3b433445-aa96-4600-b4aa-78741b165050"
+      Hint: SubText
+      Value: Economy From
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8a56b750-1381-4c17-8861-379ab6784a63"
+      Hint: Price
+      Value: 950
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "25a6f62a-7240-4181-8285-1b27ff1ed1a1"
+    - ID: "999acd96-0a11-4128-8dcd-b19a5e486ce1"
+      Hint: Currency
+      Value: GBP
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235947Z
+    - ID: "e7582df1-f2dc-45ba-bd39-45247e8d5fbd"
+      Hint: CTABookNow
+      Value: |
+        <link text="احجز الآن" linktype="external" url="https://falconflyer.gulfair.com/#/member/login" anchor="" target="_blank" />
+    - ID: "ec03944c-20f2-45cc-bb88-920614a37716"
+      Hint: CTADiscover
+      Value: |
+        <link text="يكتشف" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Our Leading Destinations - Kathmandu"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230118T173746Z
+    - ID: "3b433445-aa96-4600-b4aa-78741b165050"
+      Hint: SubText
+      Value: Economy From
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8a56b750-1381-4c17-8861-379ab6784a63"
+      Hint: Price
+      Value: 950
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c39cdbe-4954-456e-81dc-29862589d04f"
+    - ID: "999acd96-0a11-4128-8dcd-b19a5e486ce1"
+      Hint: Currency
+      Value: GBP
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235947Z
+    - ID: "e7582df1-f2dc-45ba-bd39-45247e8d5fbd"
+      Hint: CTABookNow
+      Value: |
+        <link text="احجز الآن" linktype="external" url="https://falconflyer.gulfair.com/#/member/login" anchor="" target="_blank" />
+    - ID: "ec03944c-20f2-45cc-bb88-920614a37716"
+      Hint: CTADiscover
+      Value: |
+        <link text="يكتشف" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Our Leading Destinations - Kathmandu"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230118T173746Z
+    - ID: "3b433445-aa96-4600-b4aa-78741b165050"
+      Hint: SubText
+      Value: Economy From
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8a56b750-1381-4c17-8861-379ab6784a63"
+      Hint: Price
+      Value: 950
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "24067d3f-1ec2-4beb-8117-21a2815d0e3c"
+    - ID: "999acd96-0a11-4128-8dcd-b19a5e486ce1"
+      Hint: Currency
+      Value: GBP
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235947Z
+    - ID: "e7582df1-f2dc-45ba-bd39-45247e8d5fbd"
+      Hint: CTABookNow
+      Value: |
+        <link text="احجز الآن" linktype="external" url="https://falconflyer.gulfair.com/#/member/login" anchor="" target="_blank" />
+    - ID: "ec03944c-20f2-45cc-bb88-920614a37716"
+      Hint: CTADiscover
+      Value: |
+        <link text="يكتشف" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />

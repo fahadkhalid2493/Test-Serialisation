@@ -1,0 +1,41 @@
+﻿---
+ID: "cfc64bfc-8314-4547-8366-399081a1e9c3"
+Parent: "3038d3e2-2f37-4e11-b169-0b8fbcecea60"
+Template: "183e3d21-b170-43ab-ab6f-5a2cf0ed9d3e"
+Path: "/sitecore/content/gulfair-app-ru/Data/CTA Banner Folder/CTABannertest"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: test
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: |
+        <link text="Learn more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230406T072353Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c3e62d5-eec5-41de-b0be-8da76ff88a56"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235926Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: test

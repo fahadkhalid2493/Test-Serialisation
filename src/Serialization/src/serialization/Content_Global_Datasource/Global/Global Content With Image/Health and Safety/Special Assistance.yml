@@ -1,0 +1,186 @@
+﻿---
+ID: "0e0b7ea5-8124-418f-a184-d86c726d4956"
+Parent: "3875eb36-2794-4413-aec8-3aa0cecdc4fd"
+Template: "8a83ba75-273e-48aa-b3b1-0785d74a111c"
+Path: /sitecore/content/Global/Global Content With Image/Health and Safety/Special Assistance
+SharedFields:
+- ID: "02d64e92-76f3-4e33-bf1e-fa8accd3f34c"
+  Hint: Image
+  Value: |
+    <image width="366" height="270" alt="Right.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/2e1831accfa94d60b4d1f58f2aae524c?v=0c2e4f2c" stylelabs-content-id="38491" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38491/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T175414Z
+    - ID: "512d1433-58a7-4f14-aa98-300b823d9609"
+      Hint: Heading
+      Value: المساعدة الخاصة 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5506e5a2-4023-4dc7-8c17-c1b6ff4a0e85"
+    - ID: "a76b6229-0c9e-475c-997c-710ad0b1f579"
+      Hint: CTA
+      Value: |
+        <link id="{B3D8907D-C9A5-4179-B63E-992FB34651A5}" querystring="" linktype="internal" text="للمزيد من التفاصيل" anchor="" url="/gulfair-app/home/help/help-center" title="" class="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225857Z
+    - ID: "f2eb69f5-c893-46da-8c17-82ebe7d7aba7"
+      Hint: SubText
+      Value: <p>تجربة السفر بدون إجهاد مع المساعدة الخاصة الشاملة لشركة طيران الخليج للأمهات الحوامل والحالات الطبية والركاب ذوي الإعاقة والأطفال غير المصحوبين بذويهم ورعاية الرضع والأطفال.</p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T175631Z
+    - ID: "512d1433-58a7-4f14-aa98-300b823d9609"
+      Hint: Heading
+      Value: Besondere Unterstützung
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "54d94b7c-4da6-4389-85cc-b9215310e2b4"
+    - ID: "a76b6229-0c9e-475c-997c-710ad0b1f579"
+      Hint: CTA
+      Value: |
+        <link id="{B3D8907D-C9A5-4179-B63E-992FB34651A5}" querystring="" linktype="internal" text="Mehr erfahren" anchor="" url="/gulfair-app/home/help/help-center" title="" class="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225857Z
+    - ID: "f2eb69f5-c893-46da-8c17-82ebe7d7aba7"
+      Hint: SubText
+      Value: "<p>Erleben Sie stressfreie Reisen mit der umfassenden besonderen Unterst&uuml;tzung von Gulf Air f&uuml;r erwartungsvolle M&uuml;tter, medizinische F&auml;lle und Passagiere mit Behinderungen, unbegleiteten Kindern, S&auml;uglings- und Kinderbetreuung.</p>"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T173714Z
+    - ID: "512d1433-58a7-4f14-aa98-300b823d9609"
+      Hint: Heading
+      Value: Special Assistance 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1c5f79b-aa62-40f8-839e-3e6158a7eab7"
+    - ID: "a76b6229-0c9e-475c-997c-710ad0b1f579"
+      Hint: CTA
+      Value: |
+        <link id="{B3D8907D-C9A5-4179-B63E-992FB34651A5}" querystring="" linktype="internal" text="Learn more" anchor="" url="/gulfair-app/home/help/help-center" title="" class="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225857Z
+    - ID: "f2eb69f5-c893-46da-8c17-82ebe7d7aba7"
+      Hint: SubText
+      Value: "<p>Experience stress-free travel with Gulf Air's comprehensive special assistance for expectant mothers, medical cases, and passengers with disabilities, unaccompanied children, infant and child care.</p>"
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T175521Z
+    - ID: "512d1433-58a7-4f14-aa98-300b823d9609"
+      Hint: Heading
+      Value: Une assistance spéciale
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cbb37ab4-c571-4e06-aaeb-97b1e2c4acf4"
+    - ID: "a76b6229-0c9e-475c-997c-710ad0b1f579"
+      Hint: CTA
+      Value: |
+        <link id="{B3D8907D-C9A5-4179-B63E-992FB34651A5}" querystring="" linktype="internal" text="Apprendre encore plus" anchor="" url="/gulfair-app/home/help/help-center" title="" class="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225857Z
+    - ID: "f2eb69f5-c893-46da-8c17-82ebe7d7aba7"
+      Hint: SubText
+      Value: <p>D&eacute;couvrez les voyages sans stress avec l'assistance sp&eacute;ciale compl&egrave;te de Gulf Air pour les femmes enceintes, les cas m&eacute;dicaux et les passagers handicap&eacute;s, les enfants non accompagn&eacute;s, la garde des nourrissons et de l'enfance.</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T175727Z
+    - ID: "512d1433-58a7-4f14-aa98-300b823d9609"
+      Hint: Heading
+      Value: Специальная помощь
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "53bd7c4d-941e-4445-9cb9-8bcc147e5ec0"
+    - ID: "a76b6229-0c9e-475c-997c-710ad0b1f579"
+      Hint: CTA
+      Value: |
+        <link id="{B3D8907D-C9A5-4179-B63E-992FB34651A5}" querystring="" linktype="internal" text="Учить больше" anchor="" url="/gulfair-app/home/help/help-center" title="" class="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225857Z
+    - ID: "f2eb69f5-c893-46da-8c17-82ebe7d7aba7"
+      Hint: SubText
+      Value: <p>Ощутите беззаботное путешествие с помощью комплексной специальной помощи Gulf Air для будущих матерей, медицинских дел и пассажиров с ограниченными возможностями, несопровождаемых детей, младенцев и ухода за детьми.</p>

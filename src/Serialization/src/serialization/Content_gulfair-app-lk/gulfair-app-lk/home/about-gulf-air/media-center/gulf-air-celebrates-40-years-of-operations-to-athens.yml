@@ -1,0 +1,108 @@
+﻿---
+ID: "4ae4e20f-de64-4675-b934-b4fa912fc889"
+Parent: "9c3088fe-6c2d-4404-a564-fcd1f7ab002f"
+Template: "8770006f-f915-4e1f-8e7d-b40071252955"
+Path: "/sitecore/content/gulfair-app-lk/home/about-gulf-air/media-center/gulf-air-celebrates-40-years-of-operations-to-athens"
+SharedFields:
+- ID: "20959342-e658-408d-b70f-f4cbdb7f7c01"
+  Hint: Month
+  Value: "{46CF98E7-9DD5-4722-A6F9-34BF98707544}"
+- ID: "3fadd799-f505-4f45-8130-bebd2faaf7fa"
+  Hint: Year
+  Value: "{916E6FA8-0C82-4A8A-BEF4-5CD354099956}"
+- ID: "6a328d2d-1bf1-455f-b098-af5445640bd2"
+  Hint: PostDate
+  Value: 20221016T000000Z
+- ID: "9053e908-a34a-4953-b417-ce752f7c57a3"
+  Hint: Type
+  Value: "{DD7209D8-0FAD-4DC9-AABB-F8F532E6F745}"
+- ID: "931607e8-d50d-406d-9dcc-cf37c447e7eb"
+  Hint: Image
+  Value: |
+    <image width="1773" height="1182" alt="Gulf Air celebrates 40 years of operations to Athens.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/3b700a1afea94b10b3fc4727014a11f5?v=f1d70b4b" stylelabs-content-id="45798" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/45798/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 293
+- ID: "d26a428b-8f37-4ae7-bd6c-1126664c4031"
+  Hint: AvailableLanguages
+  Value: "{AE2B1160-AEC8-400B-92BF-E4F2378F29C8}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{6C3636B5-558B-49C3-93CF-C63CB4E31F22}"
+          p:after="r[@uid='{78BCE695-62F3-465D-9ACF-B6E971121264}']"
+          s:ds="{9A0AF693-DC4C-4AA0-8C62-B816896AC266}"
+          s:id="{2FAE24EB-118B-467A-A793-A565ECF56816}"
+          s:par=""
+          s:ph="jss-inner-banner"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{4AD71447-E763-432F-AFB6-AD194FC978CA}"
+          p:after="*[1=2]"
+          s:ds="{AF836860-16F2-4492-A8A2-8E0539A9A39D}"
+          s:id="{B92E6411-5337-4FA7-B591-B233C1E52B91}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="/jss-header/jss-ga-header-bookingpanel-{78bce695-62f3-465d-9acf-b6e971121264}-0"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230411T110626Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Gulf Air celebrates 40 years of operations to Athens
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "6799c71e-c57a-4b81-bc2e-1a7e97da57e6"
+      Hint: Description
+      Value: Gulf Air, the national carrier of the Kingdom of Bahrain and the World’s Most Improved Airline 2022, recently celebrated 40 years of direct operations between the Kingdom of Bahrain and the Hellenic Republic
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Gulf Air celebrates 40 years of operations to Athens
+    - ID: "87cdf5b8-f9d7-40e5-9efc-83c4535d084c"
+      Hint: Heading
+      Value: Gulf Air celebrates 40 years of operations to Athens
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1848a050-eb48-4c61-8782-d05cb4395c5e"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Gulf Air celebrates 40 years of operations to Athens
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Gulf Air celebrates 40 years of operations to Athens
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234712Z
+    - ID: "ffa6b30f-6ecc-4c36-8242-9faf7cab6704"
+      Hint: DetailDescription
+      Value: |
+        <p>Gulf Air, the national carrier of the Kingdom of Bahrain and the World&rsquo;s Most Improved Airline 2022, recently celebrated 40 years of direct operations between the Kingdom of Bahrain and the Hellenic Republic, as Athens International Airport organized two events in Athens in collaboration with the airline to commemorate the anniversary. The celebration included a press event where members of the media were invited to interact with Gulf Air Acting Chief Executive Officer Captain Waleed AlAlawi and members of the airline&rsquo;s Executive Management and airport officials on the latest news of the two organizations.&nbsp;</p>
+        <p>The celebration also included a trade event where Athens International Airport Chief Executive Officer Dr. Yiannis Paraschis, President Hatta &amp; FED HATTA (Hellenic association of travel &amp; tourist agencies) Mr. Lysandros Tsilidis, Police Major General Chief Commander of Athens International Airport Mr. Konstantinos Markopoulos, owners and managers of tour operators, travel agents, and shipping agents received an update on the latest news of Gulf Air and its operations from Captain AlAlawi.&nbsp;</p>
+        <p>On this occasion, Captain AlAlawi commented &ldquo;The Kingdom of Bahrain and Greece enjoy a strong trade and commerce relationship, and Gulf Air values the Athens route as it links both countries with a flow of tourists to both destinations. The airline&rsquo;s flights to its Greek seasonal destinations Mykonos and Santorini have just ended, making this summer the second time we bring back these two favorite destinations due to their popularity amongst our passengers. Moreover, Gulf Air recently launched a stopover programme in which passengers can choose to stay in Bahrain for a number of nights and explore what it has to offer. The programme best suits Greek travellers when connecting from Athens via Bahrain to the Middle East, GCC, Indian Subcontinent and the Far East. We look forward to another 40 years of successful operations to Athens, and we trust that our Greek travellers will enjoy the products and services of our customer-centric airline&rdquo;.&nbsp;</p>
+        <p>For his part, Dr. Paraschis stated &ldquo;Servicing Greece for 40 years and, since 2001, flying from Athens International Airport &ldquo;Eleftherios Venizelos&rdquo;, Gulf Air has been one of our most valuable airline partners, with a remarkable contribution to the connectivity of our airport and the city of Athens! In these 21 years of operations to/from our airport, the airline has been offering its clients a top-notch airline product, having carried in total more than 800,000 passengers on more than 10,000 flights, demonstrating in 2022 a double digit increase in passengers and flights vs 2019. We would like to extend our warmest wishes to our airline-partner for further development in the Athens market and reconfirm our commitment to the continuation of our close and successful cooperation for the next 40 years - and many more!&rdquo;&nbsp;</p>
+        <p>Gulf Air started direct flights between Bahrain and Athens in 1980, and the airline currently operates daily flights to the Hellenic Capital, as Athens is an attractive year-round destination for travellers from across Gulf Air&rsquo;s network. Gulf Air flights can be booked online on gulfair.com, on the airline&rsquo;s mobile app, through the airline&rsquo;s 24-hour Worldwide Contact Centre on (+973) 17373737, or through any Gulf Air sales office and approved travel agencies.</p>

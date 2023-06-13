@@ -1,0 +1,161 @@
+﻿---
+ID: "f3856716-d5fa-43cc-ab49-f67421bb3689"
+Parent: "7f4f5cf0-35d7-446a-9a4a-93ac05b275f6"
+Template: "65efed86-2e21-4691-8f52-36db4d73550a"
+Path: "/sitecore/content/Global/Global Lounge Information Folder/falcon-gold-lounge/Other Lounges/Peshawar"
+SharedFields:
+- ID: "045f6c53-c80b-4d2c-b803-6736d43162cb"
+  Hint: City
+  Value: "{0C497891-32A3-40BD-B0F3-DDE5128C1FC9}"
+- ID: "851fea13-3ee7-429f-b37a-3234f2f84f53"
+  Hint: Image
+  Value: |
+    <image width="460" height="413" alt="FalconGoldLounge.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/dd1ddab5c73e4dd7bd55dc634da506b2?v=f1bdc76e" stylelabs-content-id="37294" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/37294/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230130T123448Z
+    - ID: "50388d05-676b-4af8-a6bc-8dd3e604742e"
+      Hint: LocationValue
+      Value: "بجوار مبنى الركاب -  خارج قاعة المغادرة"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de663186-c102-418e-ac60-3eb4d80edc57"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d99d312c-58ef-4984-be62-fbfd2ed49e7f"
+      Hint: NameValue
+      Value: القاعة الإدارية
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225930Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T110230Z
+    - ID: "50388d05-676b-4af8-a6bc-8dd3e604742e"
+      Hint: LocationValue
+      Value: Neben dem Terminalgebäude außerhalb der Abflughalle
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e6727c42-d189-4e55-8a3c-f710b0370bed"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d99d312c-58ef-4984-be62-fbfd2ed49e7f"
+      Hint: NameValue
+      Value: "Executive-Lounge"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225930Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T110230Z
+    - ID: "50388d05-676b-4af8-a6bc-8dd3e604742e"
+      Hint: LocationValue
+      Value: Beside terminal building outside the departure hall
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5bc395ae-5a0a-45f7-a31c-b1174b9c95dc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d99d312c-58ef-4984-be62-fbfd2ed49e7f"
+      Hint: NameValue
+      Value: Executive Lounge
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225930Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T110230Z
+    - ID: "50388d05-676b-4af8-a6bc-8dd3e604742e"
+      Hint: LocationValue
+      Value: À côté de la construction de terminaux à l'extérieur de la salle de départ
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6316f99-a6a7-4b26-87c7-355d361dd4de"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d99d312c-58ef-4984-be62-fbfd2ed49e7f"
+      Hint: NameValue
+      Value: Salon exécutif
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225930Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T110230Z
+    - ID: "50388d05-676b-4af8-a6bc-8dd3e604742e"
+      Hint: LocationValue
+      Value: Рядом с терминальным зданием за пределами зала вылета
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b5ac02bc-4cf4-4354-936f-364ad65aba60"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d99d312c-58ef-4984-be62-fbfd2ed49e7f"
+      Hint: NameValue
+      Value: Исполнительный лаундж
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225930Z

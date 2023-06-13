@@ -1,0 +1,228 @@
+﻿---
+ID: "7a29a1a4-2e80-4ea5-b36b-3940188f0e31"
+Parent: "e19cdbda-0bfa-4c8d-919b-740ca0328c63"
+Template: "07f50330-c962-5e98-ae02-814183b76ea0"
+Path: "/sitecore/content/gulfair-app-th/home/about-gulf-air/executive-management"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2200
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{C8BD1984-EF3E-47A3-AA93-A417579BBD47}"
+          p:after="r[@uid='{78BCE695-62F3-465D-9ACF-B6E971121264}']"
+          s:ds="{C2DC1031-2D48-41A1-A51D-00E2EC16906B}"
+          s:id="{2FAE24EB-118B-467A-A793-A565ECF56816}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="jss-inner-banner"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{601EEE19-72EB-4786-BF27-AF4571291E5B}"
+          p:after="r[@uid='{C8BD1984-EF3E-47A3-AA93-A417579BBD47}']"
+          s:ds="{5DC36769-D472-4CE2-BDE7-D75960CC85CF}"
+          s:id="{25B21046-FC19-410A-AE68-5AC74745B351}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{5941A7BC-6B67-4DF3-BF4B-D8995C6047FD}"
+          p:after="r[@uid='{601EEE19-72EB-4786-BF27-AF4571291E5B}']"
+          s:ds="{F58B6D3C-9E7E-4B7D-BFD8-C3B09B49D111}"
+          s:id="{9A3517B1-9AA7-4E6E-BCF4-302FD1277940}"
+          s:par="BackgroundColor=%7b7C4FD76D-3B0F-42EA-A617-03C670A8A379%7d&amp;CacheClearingBehavior=Clear+on+publish"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T062704Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Executive Management
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Executive Management
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0071bd62-4cb8-46b6-ab6c-cacbc76c6396"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Executive Management
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Executive Management
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T123436Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230504T065108Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Executive Management
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Executive Management
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "22f30f0a-de0b-4d5c-a50b-22a953dc7712"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Executive Management
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Executive Management
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T123444Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230215T131021Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Executive Management
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahad
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahad
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Executive Management
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d0db519-2acf-4d95-9f04-e91d0c9519fa"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Executive Management
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Executive Management
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230512T165250Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230504T065119Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Executive Management
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Executive Management
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b79cb20b-5ffb-4851-a200-96c72bf79230"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Executive Management
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Executive Management
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T123432Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230504T065128Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Executive Management
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Executive Management
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa69e584-73ad-498e-85cd-30c3534d1b87"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Executive Management
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Executive Management
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T123441Z

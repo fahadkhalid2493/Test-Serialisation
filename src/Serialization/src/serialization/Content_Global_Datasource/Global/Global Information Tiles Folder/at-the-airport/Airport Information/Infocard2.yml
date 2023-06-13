@@ -1,0 +1,186 @@
+﻿---
+ID: "2230d8e9-fc52-4413-a4a1-b8f1da060571"
+Parent: "264fe2a9-c326-4403-8b22-c8e930fd0271"
+Template: "05d15730-eae4-491c-b945-137ef6920474"
+Path: "/sitecore/content/Global/Global Information Tiles Folder/at-the-airport/Airport Information/Infocard2"
+SharedFields:
+- ID: "d07c6cf5-4e87-4fdc-b467-d8fa8e5e2fb2"
+  Hint: Image
+  Value: |
+    <image width="268" height="240" alt="FalconGoldLoungeTile.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/300b03414cee42ddb8920a62962a8b7e?v=a5f528b1" stylelabs-content-id="39281" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39281/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T191102Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="للمزيد من التفاصيل" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{0A4EEF2A-855B-4E61-B5F4-1D7D74A603FE}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "20777ef6-9003-468d-959e-515c38c46cdc"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: قاعة الصقر الذهبي 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>جرب الرفاهية على الأرض مع قاعات الصقر الذهبي التابعة لشركة طيران الخليج</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225910Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T191221Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="Mehr erfahren" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d97dfb1a-f456-43ec-adda-603f9b9481de"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Falcon Gold Lounge
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>Erleben Sie Luxus auf dem Boden mit den Falcon Gold Lounges von Gulf Air in großen Zielen.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225910Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T190911Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="Learn more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "239c026c-0eec-4d2f-890f-35f389d0952a"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Falcon Gold Lounge
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>Experience luxury on the ground with Gulf Air’s Falcon Gold lounges</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225910Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T191131Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="Apprendre encore plus" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8747c758-7569-4dcf-8e75-7eb9ea27382e"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Falcon Gold Lounge
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>Découvrez le luxe sur le sol avec les salons Falcon Gold de Gulf Air dans des destinations majeures.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225910Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T184441Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="Учить больше" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "795bf34f-94a1-48ce-acf0-7ada1395db28"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Сокол Золотой лаундж
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>Познакомьтесь с роскошью на земле с залами Gulf Air Falcon Gold в крупных направлениях.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225910Z

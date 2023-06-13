@@ -1,0 +1,351 @@
+﻿---
+ID: "41b38130-f1c1-4a70-b62f-feb3396c32db"
+Parent: "a0ce58b7-99b8-4765-9b24-63ad601c96f7"
+Template: "5ea2119c-6e45-4518-bdec-199a09682cb9"
+Path: "/sitecore/content/Global/Global Join Falcon Flyer Folder/falcon-flyer-program/Falcon FlyerProgram"
+SharedFields:
+- ID: "32a1ba23-dcb3-4ce2-8bf2-8573e7b766b7"
+  Hint: SmallCardLoginFields
+  Value: "{DAAC33B6-A07A-42F1-9FEE-99637CCFD30B}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00eabb2d-ddac-47f9-9d00-74bacb409078"
+      Hint: BigCardDescription
+      Value: "<p>احصل على عضوية فالكون فلاير اليوم واستمتع بالمزايا والامتيازات التي تجعل سفرك معنا أسهل وبمكافآت أكثر!</p>"
+    - ID: "0da81691-9353-47a0-b728-cfd3732e9b68"
+      Hint: BigCardSubHeading
+      Value: 
+    - ID: "0f2b4dc3-c152-40ee-b1ee-7d11d60f267b"
+      Hint: BigCardAfterLoginDescription
+      Value: "<p>حصل على عضوية فالكون فلاير اليوم واستمتع بالمزايا والامتيازات التي تجعل سفرك معنا أسهل وبمكافآت أكثر!</p>"
+    - ID: "165e4e28-0521-437a-8abf-166554745314"
+      Hint: BigCardAfterLoginSubHeading
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T132045Z
+    - ID: "4026d216-c1cc-406d-bf56-9fb7b8236ae6"
+      Hint: SmallCardHeading
+      Value: إنضم إلى برنامج فالكون فلاير
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "59bf6ebc-c4ba-4d29-8467-49c21372a6ac"
+      Hint: BigCardAfterLoginHeading
+      Value: يوفر لك برنامج فالكون فلاير المزيد من المزايا والفوائد، مما يجعله أحد أكثر برامج الولاء سخاءً في العالم.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "5fb250ef-9f3b-4ceb-8df8-573733a0d185"
+      Hint: BigCardHeading
+      Value: يوفر لك برنامج فالكون فلاير المزيد من المزايا والفوائد، مما يجعله أحد أكثر برامج الولاء سخاءً في العالم.
+    - ID: "602343ae-6a4e-4fcb-9db3-89abe496fca8"
+      Hint: SmallCardCTA
+      Value: |
+        <link text="إشترك في برنامج فالكون فلاير" linktype="external" url="https://falconflyer.gulfair.com/#/member/register" anchor="" target="_blank" />
+    - ID: "79a05f6a-bcb3-4abf-b42d-a4cb8790d5c5"
+      Hint: BigCardCTA
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75184440-d7f2-4fb5-b9ac-9b4b0f4f387b"
+    - ID: "9ddffbff-4540-4f71-bf47-178b4d2b9fa4"
+      Hint: SmallCardSubHeading
+      Value: <p>ابدأ في كسب المكافآت اليوم</p>
+    - ID: "a1b9ac2e-5821-49bf-9e8f-c32d84ce81ef"
+      Hint: SmallCardAfterLoginBookNow
+      Value: |
+        <link text="احجز الآن" linktype="external" url="https://flights.gulfair.com/" anchor="" target="_blank" />
+    - ID: "aaea35f2-8be0-452c-987c-043f3f74592b"
+      Hint: SmallCardAfterLoginLeftHeading
+      Value: Welcome
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d75b96e4-73a2-4add-8b22-500e023a4f1e"
+      Hint: SmallCardAfterLoginCTA
+      Value: |
+        <link text="View your profile" linktype="external" url="https://falconflyer.gulfair.com/member/dashboard?lang=${locale}&amp;access_token=${token}" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T183859Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00eabb2d-ddac-47f9-9d00-74bacb409078"
+      Hint: BigCardDescription
+      Value: "<p>Werden Sie noch heute Mitglied bei Falconflyer und genie&szlig;en Sie die Vorteile und Privilegien, die Ihr Reisen mit uns einfacher und lohnender machen!</p>"
+    - ID: "0f2b4dc3-c152-40ee-b1ee-7d11d60f267b"
+      Hint: BigCardAfterLoginDescription
+      Value: "<p>Werden Sie noch heute Mitglied bei Falconflyer und genie&szlig;en Sie die Vorteile und Privilegien, die Ihr Reisen mit uns einfacher und lohnender machen!</p>"
+    - ID: "165e4e28-0521-437a-8abf-166554745314"
+      Hint: BigCardAfterLoginSubHeading
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103619Z
+    - ID: "4026d216-c1cc-406d-bf56-9fb7b8236ae6"
+      Hint: SmallCardHeading
+      Value: Treten Sie Falconflyer bei
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "59bf6ebc-c4ba-4d29-8467-49c21372a6ac"
+      Hint: BigCardAfterLoginHeading
+      Value: "Unser Falconflyer-Programm bietet Ihnen noch mehr Vorteile und Vergünstigungen, die es zu einem der großzügigsten Treueprogramme der Welt machen."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "5fb250ef-9f3b-4ceb-8df8-573733a0d185"
+      Hint: BigCardHeading
+      Value: "Unser Falconflyer-Programm bietet Ihnen noch mehr Vorteile und Vergünstigungen, die es zu einem der großzügigsten Treueprogramme der Welt machen."
+    - ID: "602343ae-6a4e-4fcb-9db3-89abe496fca8"
+      Hint: SmallCardCTA
+      Value: |
+        <link text="Melden Sie sich bei Falconflyer an" linktype="external" url="https://falconflyer.gulfair.com/#/member/register" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "516d4568-e54a-49eb-a8f8-e6e1c75fb0d8"
+    - ID: "9ddffbff-4540-4f71-bf47-178b4d2b9fa4"
+      Hint: SmallCardSubHeading
+      Value: <p>Fangen Sie noch heute an, Prämien zu verdienen</p>
+    - ID: "a1b9ac2e-5821-49bf-9e8f-c32d84ce81ef"
+      Hint: SmallCardAfterLoginBookNow
+      Value: |
+        <link text="Jetzt buchen" linktype="external" url="https://flights.gulfair.com/" anchor="" target="_blank" />
+    - ID: "aaea35f2-8be0-452c-987c-043f3f74592b"
+      Hint: SmallCardAfterLoginLeftHeading
+      Value: Welcome
+    - ID: "b0fa671f-cc9f-4637-b4d5-e9781809cce8"
+      Hint: BigCardAfterLoginCTA
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103619Z
+    - ID: "d75b96e4-73a2-4add-8b22-500e023a4f1e"
+      Hint: SmallCardAfterLoginCTA
+      Value: |
+        <link text="View your profile" linktype="external" url="https://falconflyer.gulfair.com/member/dashboard?lang=${locale}&amp;access_token=${token}" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T183855Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00eabb2d-ddac-47f9-9d00-74bacb409078"
+      Hint: BigCardDescription
+      Value: "<p>Become a Falconflyer member today and enjoy benefits and privileges that make your travel easier and more rewarding with us!</p>"
+    - ID: "0da81691-9353-47a0-b728-cfd3732e9b68"
+      Hint: BigCardSubHeading
+      Value: 
+    - ID: "0f2b4dc3-c152-40ee-b1ee-7d11d60f267b"
+      Hint: BigCardAfterLoginDescription
+      Value: "<p>Become a Falconflyer member today and enjoy benefits and privileges that make your travel easier and more rewarding with us!</p>"
+    - ID: "165e4e28-0521-437a-8abf-166554745314"
+      Hint: BigCardAfterLoginSubHeading
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103619Z
+    - ID: "4026d216-c1cc-406d-bf56-9fb7b8236ae6"
+      Hint: SmallCardHeading
+      Value: Join Falconflyer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "59bf6ebc-c4ba-4d29-8467-49c21372a6ac"
+      Hint: BigCardAfterLoginHeading
+      Value: Our Falconflyer programme brings you even more advantages and benefits, making it one of the most generous loyalty programme in the world.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "5fb250ef-9f3b-4ceb-8df8-573733a0d185"
+      Hint: BigCardHeading
+      Value: Our Falconflyer programme brings you even more advantages and benefits, making it one of the most generous loyalty programme in the world.
+    - ID: "602343ae-6a4e-4fcb-9db3-89abe496fca8"
+      Hint: SmallCardCTA
+      Value: |
+        <link text="Sign Up for Falconflyer" linktype="external" url="https://falconflyer.gulfair.com/#/member/register" anchor="" target="_blank" />
+    - ID: "79a05f6a-bcb3-4abf-b42d-a4cb8790d5c5"
+      Hint: BigCardCTA
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e40f39ce-dafd-4af8-bd79-24d7645125a4"
+    - ID: "9ddffbff-4540-4f71-bf47-178b4d2b9fa4"
+      Hint: SmallCardSubHeading
+      Value: <p>Start earning reward today</p>
+    - ID: "a1b9ac2e-5821-49bf-9e8f-c32d84ce81ef"
+      Hint: SmallCardAfterLoginBookNow
+      Value: |
+        <link text="Book Now" linktype="external" url="https://flights.gulfair.com/" anchor="" target="_blank" />
+    - ID: "aaea35f2-8be0-452c-987c-043f3f74592b"
+      Hint: SmallCardAfterLoginLeftHeading
+      Value: Welcome <First Name>
+    - ID: "b0fa671f-cc9f-4637-b4d5-e9781809cce8"
+      Hint: BigCardAfterLoginCTA
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103619Z
+    - ID: "d75b96e4-73a2-4add-8b22-500e023a4f1e"
+      Hint: SmallCardAfterLoginCTA
+      Value: |
+        <link text="View your profile" linktype="external" url="https://falconflyer.gulfair.com/member/dashboard?lang=${locale}&amp;access_token=${token}" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T183903Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00eabb2d-ddac-47f9-9d00-74bacb409078"
+      Hint: BigCardDescription
+      Value: "<p>Devenez d&egrave;s aujourd&rsquo;hui membre de Falconflyer et profitez des b&eacute;n&eacute;fices et privil&egrave;ges qui facilitent votre voyage et le rendent plus gratifiant &agrave; nos c&ocirc;t&eacute;s !</p>"
+    - ID: "0f2b4dc3-c152-40ee-b1ee-7d11d60f267b"
+      Hint: BigCardAfterLoginDescription
+      Value: "<p>Devenez d&egrave;s aujourd&rsquo;hui membre de Falconflyer et profitez des b&eacute;n&eacute;fices et privil&egrave;ges qui facilitent votre voyage et le rendent plus gratifiant &agrave; nos c&ocirc;t&eacute;s !</p>"
+    - ID: "165e4e28-0521-437a-8abf-166554745314"
+      Hint: BigCardAfterLoginSubHeading
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103619Z
+    - ID: "4026d216-c1cc-406d-bf56-9fb7b8236ae6"
+      Hint: SmallCardHeading
+      Value: Rejoindre Falconflyer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "59bf6ebc-c4ba-4d29-8467-49c21372a6ac"
+      Hint: BigCardAfterLoginHeading
+      Value: Notre programme Falconflyer vous apporte encore plus d’avantages et de bénéfices, ce qui en fait l’un des programmes de fidélité les plus généreux au monde.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "5fb250ef-9f3b-4ceb-8df8-573733a0d185"
+      Hint: BigCardHeading
+      Value: Notre programme Falconflyer vous apporte encore plus d’avantages et de bénéfices, ce qui en fait l’un des programmes de fidélité les plus généreux au monde.
+    - ID: "602343ae-6a4e-4fcb-9db3-89abe496fca8"
+      Hint: SmallCardCTA
+      Value: |
+        <link text="Inscrivez-vous à Falconflyer" linktype="external" url="https://falconflyer.gulfair.com/#/member/register" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a568b165-ede4-4da2-aa97-d2fd7bc6db73"
+    - ID: "9ddffbff-4540-4f71-bf47-178b4d2b9fa4"
+      Hint: SmallCardSubHeading
+      Value: <p>Commencez à gagner des récompenses aujourd'hui</p>
+    - ID: "a1b9ac2e-5821-49bf-9e8f-c32d84ce81ef"
+      Hint: SmallCardAfterLoginBookNow
+      Value: |
+        <link text="Réservez maintenant" linktype="external" url="https://flights.gulfair.com/" anchor="" target="_blank" />
+    - ID: "aaea35f2-8be0-452c-987c-043f3f74592b"
+      Hint: SmallCardAfterLoginLeftHeading
+      Value: Welcome
+    - ID: "b0fa671f-cc9f-4637-b4d5-e9781809cce8"
+      Hint: BigCardAfterLoginCTA
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103619Z
+    - ID: "d75b96e4-73a2-4add-8b22-500e023a4f1e"
+      Hint: SmallCardAfterLoginCTA
+      Value: |
+        <link text="View your profile" linktype="external" url="https://falconflyer.gulfair.com/member/dashboard?lang=${locale}&amp;access_token=${token}" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T183851Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00eabb2d-ddac-47f9-9d00-74bacb409078"
+      Hint: BigCardDescription
+      Value: "<p>Станьте участником программы Falconflyer сегодня и наслаждайтесь преимуществами и привилегиями, которые делают ваши путешествия проще и выгоднее с нами!</p>"
+    - ID: "0f2b4dc3-c152-40ee-b1ee-7d11d60f267b"
+      Hint: BigCardAfterLoginDescription
+      Value: "<p>Станьте участником программы Falconflyer сегодня и наслаждайтесь преимуществами и привилегиями, которые делают ваши путешествия проще и выгоднее с нами!</p>"
+    - ID: "165e4e28-0521-437a-8abf-166554745314"
+      Hint: BigCardAfterLoginSubHeading
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103619Z
+    - ID: "4026d216-c1cc-406d-bf56-9fb7b8236ae6"
+      Hint: SmallCardHeading
+      Value: Присоединяйтесь к соколиному флаеру
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "59bf6ebc-c4ba-4d29-8467-49c21372a6ac"
+      Hint: BigCardAfterLoginHeading
+      Value: Наша программа Falconflyer предоставляет вам еще больше преимуществ и льгот, что делает ее одной из самых щедрых программ лояльности в мире.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "5fb250ef-9f3b-4ceb-8df8-573733a0d185"
+      Hint: BigCardHeading
+      Value: Наша программа Falconflyer предоставляет вам еще больше преимуществ и льгот, что делает ее одной из самых щедрых программ лояльности в мире.
+    - ID: "602343ae-6a4e-4fcb-9db3-89abe496fca8"
+      Hint: SmallCardCTA
+      Value: |
+        <link text="Зарегистрироваться в Falconflyer" linktype="external" url="https://falconflyer.gulfair.com/#/member/register" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5c3ba15b-b872-4022-a7f6-5c23c2965c9c"
+    - ID: "9ddffbff-4540-4f71-bf47-178b4d2b9fa4"
+      Hint: SmallCardSubHeading
+      Value: <p>Начните получать вознаграждение сегодня</p>
+    - ID: "a1b9ac2e-5821-49bf-9e8f-c32d84ce81ef"
+      Hint: SmallCardAfterLoginBookNow
+      Value: |
+        <link text="Бронируйте сейчас" linktype="external" url="https://flights.gulfair.com/" anchor="" target="_blank" />
+    - ID: "aaea35f2-8be0-452c-987c-043f3f74592b"
+      Hint: SmallCardAfterLoginLeftHeading
+      Value: Welcome
+    - ID: "b0fa671f-cc9f-4637-b4d5-e9781809cce8"
+      Hint: BigCardAfterLoginCTA
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103619Z
+    - ID: "d75b96e4-73a2-4add-8b22-500e023a4f1e"
+      Hint: SmallCardAfterLoginCTA
+      Value: |
+        <link text="View your profile" linktype="external" url="https://falconflyer.gulfair.com/member/dashboard?lang=${locale}&amp;access_token=${token}" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T183846Z

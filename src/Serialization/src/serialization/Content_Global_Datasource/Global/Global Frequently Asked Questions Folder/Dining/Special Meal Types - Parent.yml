@@ -1,0 +1,211 @@
+﻿---
+ID: "8cde7878-2e2e-42f9-99b8-c2c8a36b3f96"
+Parent: "fe335512-838b-406e-b86b-15e7e082cecd"
+Template: "e390619c-9fa4-4eef-aeb4-ecacf033ad9c"
+Path: "/sitecore/content/Global/Global Frequently Asked Questions Folder/Dining/Special Meal Types - Parent"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "8c095ccd-cc96-454a-a2af-6582feeda6e5"
+  Hint: FAQList
+  Value: |
+    {B2D1F027-68EB-4A5C-86AE-CA8AE94E88D2}
+    {46F876D2-30C0-447A-BFB4-B6A1E2CCF2B3}
+    {2A3A1638-F0D9-419D-9E97-311841BBB3FA}
+    {8EFF9796-8198-49E6-AA75-944D30F80D77}
+    {F7B12347-CAD6-45FF-8056-184F1682B2BB}
+    {A5B52EDB-402D-400E-9225-B4982A1AAEC0}
+    {DFAD05A3-4021-45C3-9662-3673224590C0}
+    {5AC851AE-08D3-4BC5-8A7A-A4B3C8330C93}
+    {EC59F5E7-B3C3-4714-92F9-CF10E34C4839}
+    {7985C07B-E96A-4231-902A-6719855FDDB1}
+    {0857335D-9C47-4034-ABB4-19CC625CDCC8}
+    {32938DF9-693A-45C7-A6C0-5F85AE1EC775}
+    {103A0B88-B26B-40BD-9950-3AE7A1C71003}
+    {39D57A01-2FDF-4DAE-836F-24FA1D9E33A7}
+    {C93449F6-DFA0-4F03-A77E-B9C36F12CF27}
+    {4ED906E3-0437-4BAE-ABE0-FB1B779DE109}
+    {9E6A8160-E9A0-44FB-9CE4-D86749678A8A}
+    {491FEC65-1D4D-463D-B2BC-EBFFEAED3AC5}
+    {373C2205-E6FC-4B72-864A-499E010B9832}
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T104011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d74f4f72-33c6-4263-82f2-576a144e8ba1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T163610Z
+    - ID: "ed4cae1d-2f58-4038-a786-f9a0af078637"
+      Hint: Heading
+      Value: |
+        <h2 style="text-align: center;">أنواع الوجبات الخاصة&nbsp;</h2>
+        <p style="text-align: center;"><span>في طيران الخليج، نلبي كل احتياجاتك، فيما يلي قائمة بأنواع الوجبات الخاصة المقدمة على رحلاتنا:</span></p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T104011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a7c0c8f2-6ef9-4b35-9b0a-cb7d29b838c3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T165600Z
+    - ID: "ed4cae1d-2f58-4038-a786-f9a0af078637"
+      Hint: Heading
+      Value: |
+        <h2 style="text-align: center;">Spezielle Mahlzeiten</h2>
+        <p style="text-align: center;">Bei Gulf Air k&uuml;mmern wir uns um jeden Bedarf. Im Folgenden finden Sie die Liste der auf unseren Fl&uuml;gen angebotenen Spezialmahlzeiten:</p>
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T104011Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0aca46f-2198-479a-9611-db1624d9c921"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T162744Z
+    - ID: "ed4cae1d-2f58-4038-a786-f9a0af078637"
+      Hint: Heading
+      Value: |
+        <h2 style="text-align: center;">Special Meal Types&nbsp;</h2>
+        <p style="text-align: center;"><span>At Gulf Air we cater to your every need, below are the list of special meal types offered on our flights:</span></p>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T104011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ca1c279-158f-4f17-94f2-198ba2094dbf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T164811Z
+    - ID: "ed4cae1d-2f58-4038-a786-f9a0af078637"
+      Hint: Heading
+      Value: |
+        <h2 style="text-align: center;">Types de repas sp&eacute;ciaux</h2>
+        <p style="text-align: center;">Chez Gulf Air, nous r&eacute;pondons &agrave; tous vos besoins, voici la liste des types de repas sp&eacute;ciaux offerts sur nos vols:</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T104011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c79a4c36-2f60-4e1e-93fa-cd2e1439449b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T170156Z
+    - ID: "ed4cae1d-2f58-4038-a786-f9a0af078637"
+      Hint: Heading
+      Value: |
+        <h2 style="text-align: center;">Специальные типы еды</h2>
+        <p style="text-align: center;">В Gulf Air мы обслуживаем все ваши потребности, ниже приведен список специальных типов еды, предлагаемых на наших рейсах:</p>

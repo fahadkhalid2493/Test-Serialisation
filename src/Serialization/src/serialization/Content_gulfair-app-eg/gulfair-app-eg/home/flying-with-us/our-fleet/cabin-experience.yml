@@ -1,0 +1,244 @@
+﻿---
+ID: "687c5b24-86c6-47ac-81f6-bd5cc934a343"
+Parent: "6d48f4d5-7636-4009-8903-8ed494b8ce60"
+Template: "07f50330-c962-5e98-ae02-814183b76ea0"
+Path: "/sitecore/content/gulfair-app-eg/home/flying-with-us/our-fleet/cabin-experience"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1200
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{C8BD1984-EF3E-47A3-AA93-A417579BBD47}"
+          p:after="r[@uid='{78BCE695-62F3-465D-9ACF-B6E971121264}']"
+          s:ds="{0B5F1DE6-BE72-4B0D-B8EF-30AB52FBEE6D}"
+          s:id="{2FAE24EB-118B-467A-A793-A565ECF56816}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="jss-inner-banner"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{8E426469-8BBF-44C0-84B3-ACDCB5437570}"
+          p:after="r[@uid='{C8BD1984-EF3E-47A3-AA93-A417579BBD47}']"
+          s:ds="{BB58547C-8122-4FF7-8427-1EC081FB02B0}"
+          s:id="{ADF592D4-15FD-4B59-B2B5-77DFDE1E3ADB}"
+          s:par="BackgroundColor=%7B89330C54-4FC1-4573-913A-BC08CCDEBD5B%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{60B4B3F9-0785-4EE9-A440-C2FFBD1316F2}"
+          p:after="r[@uid='{8E426469-8BBF-44C0-84B3-ACDCB5437570}']"
+          s:ds="{18F6BB8B-9E02-401F-87C9-0893AF9F3942}"
+          s:id="{1C3AAC8C-BC24-41C5-AA55-7877822BE3C5}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;BackgroundColor=%7B71F20B98-2408-49A4-A472-6FC44C626DED%7D&amp;CTAColor=%7B8B58979B-FF89-4F09-9AF3-6A860E012049%7D&amp;WithMargin"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{DFAAFCB6-997E-479E-8920-F18D061619A0}"
+          p:after="r[@uid='{60B4B3F9-0785-4EE9-A440-C2FFBD1316F2}']"
+          s:ds="{C659C13E-1D6A-436F-B9D0-DB9B1647CB5C}"
+          s:id="{B7F28E95-591A-4520-A23C-23B91F5FBDB0}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;WithMargin&amp;BackgroundColor=%7B8B58979B-FF89-4F09-9AF3-6A860E012049%7D&amp;CTAColor=%7B55CE5A8D-B17E-4E50-84AA-032A47418992%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{5941A7BC-6B67-4DF3-BF4B-D8995C6047FD}"
+          p:after="r[@uid='{DFAAFCB6-997E-479E-8920-F18D061619A0}']"
+          s:ds="{F58B6D3C-9E7E-4B7D-BFD8-C3B09B49D111}"
+          s:id="{9A3517B1-9AA7-4E6E-BCF4-302FD1277940}"
+          s:par="BackgroundColor=%7B7C4FD76D-3B0F-42EA-A617-03C670A8A379%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T062704Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: التجربة على متن طائراتنا
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: التجربة على متن طائراتنا
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a826625c-e7ea-4379-b5c0-fbe8adf746c9"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: التجربة على متن طائراتنا
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: التجربة على متن طائراتنا
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T122351Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230215T131021Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Kabinenerfahrung
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahad
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Kabinenerfahrung
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb52ad8e-821a-406e-adce-eaff70b0bf7d"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Kabinenerfahrung
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Kabinenerfahrung
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T122341Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230215T131021Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Cabin Experience
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahad
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahad
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Cabin Experience
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "605f6f57-32a9-47d8-9275-c012e6c1cd0a"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Cabin Experience
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Cabin Experience
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230514T214849Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230215T131021Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Expérience de cabine
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahad
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Expérience de cabine
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e1058b6-929f-42bd-b634-e3bf0d6ee24c"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Expérience de cabine
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Expérience de cabine
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T122356Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230215T131021Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Опыт кабины
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahad
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Опыт кабины
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dbd9498f-a27f-4712-a80f-b66447b6303b"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Опыт кабины
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Опыт кабины
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T122346Z

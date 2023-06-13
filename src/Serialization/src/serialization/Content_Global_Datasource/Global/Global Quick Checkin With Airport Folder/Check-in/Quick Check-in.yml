@@ -1,0 +1,315 @@
+﻿---
+ID: "21382df1-3b98-405c-8ec1-1cc8becd8f0a"
+Parent: "3aa8147a-08d4-43c2-ab70-dbb266da94e4"
+Template: "843780df-01c6-4315-b613-9b91eb94fa61"
+Path: "/sitecore/content/Global/Global Quick Checkin With Airport Folder/Check-in/Quick Check-in"
+SharedFields:
+- ID: "3a4efbde-a76f-4c70-9bdd-272f7d1cdfa8"
+  Hint: Airports
+  Value: |
+    {2FF6AC3B-A129-4B2A-89F9-03474B8C5EF3}
+    {1865E548-EA33-49D5-8640-E585872AC8B3}
+    {4B0A82F4-D931-4541-91FC-5D82C4585DDF}
+    {B18ACDF6-3659-4BC6-BB2F-95D89D91F2FA}
+    {CD6382D4-6AA8-4A59-80BC-097772BDEDFC}
+    {9D7C78A7-D546-4364-BFF4-79E73A670886}
+    {43987451-63A8-4D86-886C-CBD3B3F45083}
+    {3C8512BB-4A1E-47A1-8D3A-47F249CC2C36}
+    {88407D3E-96AE-406C-9777-8DF1B6E04A24}
+    {161AF83D-08F5-4FCC-9EFE-68B058E43ED3}
+    {FF042B26-68F1-4A24-B49B-FEFF0F65CFDA}
+    {715CA18A-83CC-4F0B-80D1-7F39C68E3670}
+    {0F566C27-ADF0-4894-81BE-3F21FAFCF309}
+    {42DAC5DB-C5B9-4272-9CC9-A1399BD6B042}
+    {99E404EC-E22E-455B-874E-55E99670015B}
+    {DBE72F87-ECD1-4DCC-B343-90BEB41D9F45}
+    {876EA33D-4953-46CC-B912-5F86270CF83E}
+    {E5E10E9A-FFA8-4F8D-B276-141E5DA3840C}
+    {1E69DA17-15FD-4795-AFE3-9CE075B72280}
+    {3A89AB99-9A1C-426E-AD8F-904917771AE2}
+    {4A5DCB84-AF47-402E-92CA-91364F28913C}
+    {3B41DF1E-D8F9-4010-A549-E39B60B2E1CE}
+    {EF0D3A49-4E71-448C-AA1A-6C6AF32F5DE5}
+    {2E8910EB-A6F0-4082-9349-65EE4D0CB3BD}
+    {5A20F4B9-C855-4F05-81A7-3B79BCB03136}
+    {A20D07B6-71EB-4B21-9E91-B7A6E89A9638}
+    {02930019-C905-4288-A054-376FB371090F}
+    {33E0C317-082C-4EF6-8C80-BAFE78DF7212}
+    {94C7B4BE-EBE6-44D4-816E-38134B47749F}
+    {76FF9B4D-A5B0-4825-BBBD-6A11247F01EB}
+    {0D42D697-01AC-43C8-AEAD-CD614565A1EE}
+    {2CFA6E32-60CB-49FC-988C-5CF240B0FC3D}
+    {7B655B58-CDB1-4260-B289-B1E7234F86A7}
+    {558031E3-54B4-4F8E-98CE-36199FDB5928}
+    {D6951241-5C45-4F76-BE81-588778CACE25}
+    {DCCF5EE9-A398-48F1-88C5-B9CDB54F2A76}
+    {52A19453-17E8-4CA9-9A13-5D2B9BD13938}
+    {B3660238-A44A-4680-8F9D-79918EEB34D2}
+    {EA6EBF57-BD80-4085-BE1E-5E182CDFDA42}
+    {2AED33B2-3346-4546-AE0C-6A48B40808BE}
+    {326D4D05-FC48-4327-8F7E-B153A79A13D2}
+    {6651AB1D-CCD5-49B5-A232-2684AF4C5FD9}
+    {4A7BC64D-4A0A-4DEB-94F8-A8FBC01C515C}
+    {2965786E-CB3D-40E8-8E61-A0AAD1855B85}
+    {4AF35E85-A304-4FBE-8442-F17E5D049CAF}
+    {123D25E6-64B9-4561-8FEF-D07F18299540}
+    {4DA043FC-7C5A-43EF-8007-E14635A7C7E3}
+    {55D6D2EE-AB12-4BE6-858F-BECCDA151867}
+    {9634AD12-4C44-4529-9CF1-CABCF9F5C690}
+    {A746436F-A71E-4216-AD1B-FBB5798C2BE3}
+    {BC26855E-3F1D-4298-AC1A-B400F9D49A7F}
+    {4C387857-B312-4845-9A49-A9869DA68538}
+- ID: "95f56ab7-4d4d-4d6f-b700-c5da35c89276"
+  Hint: BookingReferenceField
+  Value: "{27F07553-5103-4663-B266-17F0274093A1}"
+- ID: "fd91921e-48ae-4b00-8f32-d3c26a5b2fc4"
+  Hint: LastNameField
+  Value: "{D9C3373B-7138-449E-BABA-3CCF0D66FDC7}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: |
+        <link text="Submit" linktype="external" url="https://dx.ci13.cert.aws.sabre.com/dx/GFCI/#/check-in/deep-link?deepLink=true&amp;locale=en-US&amp;recordLocator={booking_reference}&amp;lastName={last_name}" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230130T082445Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "64895d87-1b9a-4edd-9346-db0948aaf0f6"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: "Check-in online"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "428ded8d-6384-4172-826e-b8e957d46bdf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T121619Z
+  - Version: 2
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: |
+        <link text="مواصلة" linktype="external" url="https://dx.ci13.cert.aws.sabre.com/dx/GFCI/#/check-in/deep-link?deepLink=true&amp;locale=en-US&amp;recordLocator={booking_reference}&amp;lastName={last_name}" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103303Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "64895d87-1b9a-4edd-9346-db0948aaf0f6"
+      Hint: SubText
+      Value: 
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: الحجز
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ca67020-880a-4c22-a5d3-0bcc949456d2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103303Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230527T192005Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: |
+        <link text="einreichen" linktype="external" url="https://dx.ci13.cert.aws.sabre.com/dx/GFCI/#/check-in/deep-link?deepLink=true&amp;locale=en-US&amp;recordLocator={booking_reference}&amp;lastName={last_name}" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: Meine Buchung
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "31bbd61b-7b85-4b32-a66d-31ce6050e7cb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103314Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230527T191917Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: |
+        <link text="Submit" linktype="external" url="https://dx.ci13.cert.aws.sabre.com/dx/GFCI/#/check-in/deep-link?deepLink=true&amp;locale=en-US&amp;recordLocator={booking_reference}&amp;lastName={last_name}" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230130T082445Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "64895d87-1b9a-4edd-9346-db0948aaf0f6"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: "Check-in online"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4fc0aed4-c2b0-4eac-92fc-b0dcad8cb907"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T122833Z
+  - Version: 2
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: |
+        <link text="Submit" linktype="external" url="https://dx.ci13.cert.aws.sabre.com/dx/GFCI/#/check-in/deep-link?deepLink=true&amp;locale=en-US&amp;recordLocator={bookingref}&amp;lastName={lastname}" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "64895d87-1b9a-4edd-9346-db0948aaf0f6"
+      Hint: SubText
+      Value: 
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: My booking
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b39ed797-2b7a-4eba-b5fa-0f8ef26a4649"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103314Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230527T191658Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: |
+        <link text="Envoyer" linktype="external" url="https://dx.ci13.cert.aws.sabre.com/dx/GFCI/#/check-in/deep-link?deepLink=true&amp;locale=en-US&amp;recordLocator={booking_reference}&amp;lastName={last_name}" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: Ma réservation
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dcaedee6-cc5a-4902-ab47-c62f6f28b3ed"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103314Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230527T191910Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: |
+        <link text="Представлять на рассмотрение" linktype="external" url="https://dx.ci13.cert.aws.sabre.com/dx/GFCI/#/check-in/deep-link?deepLink=true&amp;locale=en-US&amp;recordLocator={booking_reference}&amp;lastName={last_name}" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: Мое бронирование
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94686441-0a97-4c32-a072-5345c718a4d3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103314Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230527T191956Z

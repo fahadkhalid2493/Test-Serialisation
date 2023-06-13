@@ -1,0 +1,274 @@
+﻿---
+ID: "3d8bbe01-8ed7-40ff-b6a8-ed7964d3c633"
+Parent: "f694c5de-4379-48d4-a567-445a29a9a981"
+Template: "930d74ab-6771-40d2-ae16-42027bb0c7f6"
+Path: /sitecore/content/Global/Global Our Leading Destinations Folder/home/Bahrain/Dubai
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "1a683b11-ba93-4d39-ac08-3ed529c41702"
+  Hint: City
+  Value: "{8ADFAABB-9642-4CBF-923F-5F3B664CA481}"
+- ID: "360eaaa0-c5b5-48d3-b9e7-aadc8f52e4bb"
+  Hint: Categories
+  Value: "{30067CB8-6537-40C2-B098-E55C6F395349}"
+- ID: "4a56a804-f169-43e8-84c1-3fb04c201707"
+  Hint: Image
+  Value: |
+    <image width="558" height="487" alt="Dubai -1440 x 750.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/30cbf2b878474a99b9feb004af936af3?v=9d28649d" stylelabs-content-id="46532" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/46532/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T103453Z
+    - ID: "3b433445-aa96-4600-b4aa-78741b165050"
+      Hint: SubText
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a56b750-1381-4c17-8861-379ab6784a63"
+      Hint: Price
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c0ba2198-8c1c-40a5-be35-2ff36d19307b"
+    - ID: "999acd96-0a11-4128-8dcd-b19a5e486ce1"
+      Hint: Currency
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225939Z
+    - ID: "e7582df1-f2dc-45ba-bd39-45247e8d5fbd"
+      Hint: CTABookNow
+      Value: |
+        <link text="احجز الآن" linktype="external" url="https://flights.gulfair.com/" anchor="" target="_blank" />
+    - ID: "ec03944c-20f2-45cc-bb88-920614a37716"
+      Hint: CTADiscover
+      Value: |
+        <link text="أكتشف" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{EFB83A92-788F-4D9A-A7C1-D5BA298580A9}" />
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T103453Z
+    - ID: "3b433445-aa96-4600-b4aa-78741b165050"
+      Hint: SubText
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8a56b750-1381-4c17-8861-379ab6784a63"
+      Hint: Price
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9634faf9-f735-4bd4-a701-78d3f5fd54a5"
+    - ID: "999acd96-0a11-4128-8dcd-b19a5e486ce1"
+      Hint: Currency
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T213211Z
+    - ID: "e7582df1-f2dc-45ba-bd39-45247e8d5fbd"
+      Hint: CTABookNow
+      Value: |
+        <link text="Jetzt buchen" linktype="external" url="https://flights.gulfair.com/" anchor="" target="_blank" />
+    - ID: "ec03944c-20f2-45cc-bb88-920614a37716"
+      Hint: CTADiscover
+      Value: |
+        <link text="Entdecken" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{EFB83A92-788F-4D9A-A7C1-D5BA298580A9}" />
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T103453Z
+    - ID: "3b433445-aa96-4600-b4aa-78741b165050"
+      Hint: SubText
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8a56b750-1381-4c17-8861-379ab6784a63"
+      Hint: Price
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d4c19fd-2da3-4e31-8838-9911663663c6"
+    - ID: "999acd96-0a11-4128-8dcd-b19a5e486ce1"
+      Hint: Currency
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225939Z
+    - ID: "e7582df1-f2dc-45ba-bd39-45247e8d5fbd"
+      Hint: CTABookNow
+      Value: |
+        <link text="Book now" linktype="external" url="https://flights.gulfair.com/" anchor="" target="_blank" />
+    - ID: "ec03944c-20f2-45cc-bb88-920614a37716"
+      Hint: CTADiscover
+      Value: |
+        <link text="Discover" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{EFB83A92-788F-4D9A-A7C1-D5BA298580A9}" />
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T103453Z
+    - ID: "3b433445-aa96-4600-b4aa-78741b165050"
+      Hint: SubText
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8a56b750-1381-4c17-8861-379ab6784a63"
+      Hint: Price
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "88ed2234-a3a0-4041-a885-aab0ba3f9ad1"
+    - ID: "999acd96-0a11-4128-8dcd-b19a5e486ce1"
+      Hint: Currency
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T213221Z
+    - ID: "e7582df1-f2dc-45ba-bd39-45247e8d5fbd"
+      Hint: CTABookNow
+      Value: |
+        <link text="Réserver" linktype="external" url="https://flights.gulfair.com/" anchor="" target="_blank" />
+    - ID: "ec03944c-20f2-45cc-bb88-920614a37716"
+      Hint: CTADiscover
+      Value: |
+        <link text="Découvrir" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{EFB83A92-788F-4D9A-A7C1-D5BA298580A9}" />
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T103453Z
+    - ID: "3b433445-aa96-4600-b4aa-78741b165050"
+      Hint: SubText
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8a56b750-1381-4c17-8861-379ab6784a63"
+      Hint: Price
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7bffc24e-314e-4e5d-a056-1ce69025272a"
+    - ID: "999acd96-0a11-4128-8dcd-b19a5e486ce1"
+      Hint: Currency
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\emanburwais
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230613T061049Z
+    - ID: "e7582df1-f2dc-45ba-bd39-45247e8d5fbd"
+      Hint: CTABookNow
+      Value: |
+        <link text="Купить" linktype="external" url="https://flights.gulfair.com/" anchor="" target="_blank" />
+    - ID: "ec03944c-20f2-45cc-bb88-920614a37716"
+      Hint: CTADiscover
+      Value: |
+        <link text="Обнаружить" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{EFB83A92-788F-4D9A-A7C1-D5BA298580A9}" />

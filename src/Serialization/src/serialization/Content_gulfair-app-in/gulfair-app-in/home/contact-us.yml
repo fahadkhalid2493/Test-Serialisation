@@ -1,0 +1,307 @@
+﻿---
+ID: "7acd30c0-a737-4ea5-a117-06ead9d8f541"
+Parent: "531988dc-d76b-4808-959d-fbf12ba83f6a"
+Template: "07f50330-c962-5e98-ae02-814183b76ea0"
+Path: "/sitecore/content/gulfair-app-in/home/contact-us"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1600
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{8CA6ED98-7D9E-41D7-A1AF-4E8A01D4B246}"
+          p:after="p[@uid='{C5230912-8E1E-5C64-A62F-715DB2F535BF}']"
+          s:ds="{010C7513-99E2-4951-9AE6-C21BD5CD87D5}"
+          s:id="{4E132C1B-B65B-458C-8F0F-2043726D008C}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7B8B58979B-FF89-4F09-9AF3-6A860E012049%7D"
+          s:ph="/jss-inner-banner/jss-ga-inner-banner-temperature-widget-{C0CF2D79-48D1-4552-892C-CE339CE6B141}-0"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{100FB120-1AE6-4890-BFDA-8F82803D8C38}">
+          <p:d />
+        </r>
+        <r
+          uid="{B147D088-F5E8-4338-AAA8-413DEC4A92E4}"
+          s:ph="/jss-footer/jss-ga-form-{50f7ce3b-bbb1-4600-b0a6-0065049c3326}-0" />
+        <r
+          uid="{84187A38-EB2E-426B-9846-7FA3D19711A9}"
+          p:after="r[@uid='{B147D088-F5E8-4338-AAA8-413DEC4A92E4}']"
+          s:ds="{2B95F37D-ECE7-40E9-9001-4308DD325B96}"
+          s:id="{8788FCA9-23B4-4FA0-A51A-E91B7FAAA0FD}"
+          s:par="BackgroundColor=%7B3F16AFC2-00E8-4FFD-A242-49354F84EF7B%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{4B303E05-92CF-41A5-A116-8CB8D9B34AF9}"
+          p:after="r[@uid='{84187A38-EB2E-426B-9846-7FA3D19711A9}']"
+          s:ds="{CFAB60F3-962F-4E18-8C83-A7578793AF18}"
+          s:id="{1C3AAC8C-BC24-41C5-AA55-7877822BE3C5}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;BackgroundColor=%7B7C4FD76D-3B0F-42EA-A617-03C670A8A379%7D&amp;CTAColor=%7B3F16AFC2-00E8-4FFD-A242-49354F84EF7B%7D&amp;WithMargin"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{85842705-DAF2-41C2-801A-71A7D9140CC1}"
+          p:after="r[@uid='{4B303E05-92CF-41A5-A116-8CB8D9B34AF9}']"
+          s:ds="{F95FC9BF-030E-4709-84A9-32DE77AD3AEA}"
+          s:id="{CB882630-25B6-4EE1-87BE-B5DF78BE8B08}"
+          s:par="BackgroundColor=%7B71F20B98-2408-49A4-A472-6FC44C626DED%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{8A52EA47-1188-44C3-AB5D-50B04BDA1FE5}"
+          p:after="r[@uid='{85842705-DAF2-41C2-801A-71A7D9140CC1}']"
+          s:ds="{D40C0EBD-0A1D-4586-AC2B-71C406F47F36}"
+          s:id="{49962617-3178-4274-BCA0-222974E316F8}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{F9469B02-F741-495D-AE62-4C15FE53839F}"
+          p:after="r[@uid='{8A52EA47-1188-44C3-AB5D-50B04BDA1FE5}']"
+          s:ds=""
+          s:id="{9A3517B1-9AA7-4E6E-BCF4-302FD1277940}"
+          s:par="BackgroundColor=%7B7C4FD76D-3B0F-42EA-A617-03C670A8A379%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{50F7CE3B-BBB1-4600-B0A6-0065049C3326}"
+          p:after="r[@uid='{F9469B02-F741-495D-AE62-4C15FE53839F}']"
+          s:ds="{04183919-C073-4EF9-BF01-A1CF96B985FA}"
+          s:id="{BC7AA6E7-8165-4864-BD03-2F6F8AC59865}"
+          s:par=""
+          s:ph="jss-footer"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{48BC78A2-78BE-49A8-8D75-0837F3A891D7}"
+          p:after="r[@uid='{50F7CE3B-BBB1-4600-B0A6-0065049C3326}']" />
+        <r
+          uid="{C0CF2D79-48D1-4552-892C-CE339CE6B141}"
+          p:after="*[1=2]"
+          s:ds="{B1FCED92-E143-4FFB-ADB8-FAB8F45F8F8B}"
+          s:id="{2FAE24EB-118B-467A-A793-A565ECF56816}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="jss-inner-banner"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230420T084905Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: اتصل بنا
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: اتصل بنا
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "801373c6-723d-4b84-afd6-c72f7f6e6d82"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: اتصل بنا
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: اتصل بنا
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T124926Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230505T074842Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Kontaktiere uns
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Kontaktiere uns
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77b76ffc-e75b-4f81-8f47-060f4589945a"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Kontaktiere uns
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Kontaktiere uns
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T124936Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T112003Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Contact Us
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4cc49619-e91e-4ddc-a60a-b4ced5b1d063"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hassan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230330T115341Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230308T104945Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Contact Us
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Contact Us
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1dbc709-0c25-4984-8500-e46127ca2c40"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Contact Us
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Contact Us
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230308T104945Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230512T152257Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230505T074827Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: "Contactez-nous"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: "Contactez-nous"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "99ca32d9-a266-4514-9485-d1abb1400c99"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: "Contactez-nous"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: "Contactez-nous"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T124945Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230505T074856Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Связаться с нами
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Связаться с нами
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "828bff48-8418-4dd1-ba4c-7ac5d6ef063c"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Связаться с нами
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Связаться с нами
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T124954Z

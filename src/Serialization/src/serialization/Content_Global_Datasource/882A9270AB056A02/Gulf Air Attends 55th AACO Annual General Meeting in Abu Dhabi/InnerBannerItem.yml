@@ -1,0 +1,52 @@
+﻿---
+ID: "f18b4db9-e9c4-4ef6-8aae-983b057f1d5b"
+Parent: "9a09ad13-d2d8-4722-ad58-b5dde3921527"
+Template: "1e823605-a717-4255-974c-7917397cd6c9"
+Path: /sitecore/content/Global/Global Inner Banner Folder/Press Release Detail/Gulf Air Attends 55th AACO Annual General Meeting in Abu Dhabi/InnerBannerItem
+SharedFields:
+- ID: "66d06ec3-a13a-4601-b7d9-1ba74aed310c"
+  Hint: BackgroundImage
+  Value: |
+    <image width="1200" height="1600" alt="Gulf Air Attends 55th AACO Annual General Meeting in Abu Dhabi.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/17e8a7993dab4ff18d5c8ea3f6155aad?v=b774288d" stylelabs-content-id="45792" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/45792/thumbnail" />
+- ID: "7bf12b50-a496-445f-aa2b-2be4d15c48ce"
+  Hint: MobileImage
+  Value: |
+    <image width="375" height="536" alt="Gulf Air Attends 55th AACO Annual General Meeting in Abu Dhabi.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/8f8232cddcdf4cb1962abcd9926ac92c?v=6164ec1d" stylelabs-content-id="45792" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/45792/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "a6d7f2d1-162a-424e-baf8-9c8857e04f7f"
+  Hint: TextColor
+  Value: "{89330C54-4FC1-4573-913A-BC08CCDEBD5B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230505T160336Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Press Detail
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "edad3d7d-8931-4290-a64b-a3dd5fa17ff6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225923Z

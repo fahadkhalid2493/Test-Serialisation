@@ -1,0 +1,417 @@
+﻿---
+ID: "025ddc2b-c3c6-44d1-9fa1-634fbec7d4ea"
+Parent: "a9fb19cf-84c5-4af0-ae79-4824e269c3d4"
+Template: "736ac33e-e829-4dd1-9cc1-665d00630c3e"
+Path: /sitecore/content/Global/Global Plane Specs Slider Folder/Plane Specs Slider Parent/Airbus A320neo D
+SharedFields:
+- ID: "0222c215-f05a-4cdb-8ab7-c6e792b30668"
+  Hint: CTABannerImageMobile
+  Value: |
+    <image width="305" height="214" alt="Boeing787-9CabinMobile.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/e29d2d5e2ef542b99800c58ed5bb8e51?v=2bd65c49" stylelabs-content-id="40955" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/40955/thumbnail" />
+- ID: "828fe380-0548-4b9f-be2f-a44edec31d4a"
+  Hint: AirPlaneImageMobile
+  Value: |
+    <image width="932" height="288" alt="A320-neo" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/8b33abd253e04c6fb92cb128586b10ae?v=b60daa71" stylelabs-content-id="48357" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48357/thumbnail" />
+- ID: "b0ff799c-58b1-45fa-be79-11f44b0c5a87"
+  Hint: AirPlaneImage
+  Value: |
+    <image width="932" height="288" alt="A320-neo" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/8b33abd253e04c6fb92cb128586b10ae?v=a858253f" stylelabs-content-id="48357" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48357/thumbnail" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "db0060d8-9160-4037-a332-c952b272e647"
+  Hint: CTABannerImage
+  Value: |
+    <image width="716" height="250" alt="promo-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/e11a81a0f96640d2ae5838ed2b296d6f?v=1b62548d" stylelabs-content-id="43991" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/43991/thumbnail" />
+- ID: "f21e85fb-68be-464c-a9d3-bb2b36984424"
+  Hint: SeatingImage
+  Value: |
+    <image width="1700" height="453" alt="LOPA a320neoHD" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/LOPA-A320neoHD?v=e7e23d72" stylelabs-content-id="58702" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/58702/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: مقصورة الصقر الذهبي
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: تجربة المقصورة
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>عدد المقاعد</strong></p>
+        <ul>
+            <li>12</li>
+        </ul>
+        <p><strong>مساحة المقعد</strong></p>
+        <ul>
+            <li>41&rdquo;</li>
+        </ul>
+        <p><strong>الميزات والخدمات</strong></p>
+        <ul>
+            <li>منفذان (2) USB ومصدر تيار كهربائي في المقعد</li>
+            <li> شاشة ترفيه مقاس 17 بوصة مع جهاز تحكم بشاشة لمس</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: مقصورة الدرجة الاقتصادية
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>عدد المقاعد</strong></p>
+        <ul>
+            <li>138</li>
+        </ul>
+        <p><strong>مساحة المقعد</strong></p>
+        <ul>
+            <li>30&rdquo;</li>
+        </ul>
+        <p><strong>الميزات والخدمات</strong></p>
+        <ul>
+            <li>منفذ USB ومصدر تيار كهربائي في المقعد</li>
+            <li>شاشة ترفيه مقاس 12 بوصة مع جهاز تحكم بشاشة لمس</li>
+            <li>إمالة للمقعد لمسافة 6 بوصات</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>إيرباص إيه320 نيو</h4>
+        <p>طائرة طيران الخليج إيرباص A320neo هي طائرة حديثة تقدم تجربة طيران حديثة ومريحة للركاب. تتميز بتصميم داخلي مصمم حديثًا بمساحة واسعة ومقاعد مريحة وعزل صوت محسن، ويمكن للركاب الاستمتاع برحلة سلسة وهادئة. والاستمتاع بتشكيلة غنية من الأفلام والبرامج التلفزيونية والألعاب والوجبات في بيئة أنيقة وراقية. مع مقصورتها الفسيحة ووسائل الراحة الحديثة، من المؤكد أن طائرة إيرباص A320neo ستوفر رحلة مريحة وممتعة للجميع. احجز تذكرتك اليوم واختبر رفاهية طيران الخليج بنفسك. </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f83ed889-34a6-4004-89c1-6a8cc187a601"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: إيرباص إيه320 نيو
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="تفاصيل  اكثر" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230215Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: Falcon Gold Cabin
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Kabinenerfahrung
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>Anzahl Sitzpl&auml;tze</strong></p>
+        <ul>
+            <li>12</li>
+        </ul>
+        <p><strong>Sitzplatz</strong></p>
+        <ul>
+            <li>41&rdquo;</li>
+        </ul>
+        <p><strong>Funktionen und Dienste</strong></p>
+        <ul>
+            <li>2 USB-Anschl&uuml;sse und Stromversorgung am Platz</li>
+            <li>17-Zoll-Unterhaltungsbildschirm mit Touchscreen-Controller</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: Wirtschaftskabine
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>Anzahl Sitzpl&auml;tze</strong></p>
+        <ul>
+            <li>138</li>
+        </ul>
+        <p><strong>Sitzplatz</strong></p>
+        <ul>
+            <li>30&rdquo;</li>
+        </ul>
+        <p><strong>Funktionen und Dienste</strong></p>
+        <ul>
+            <li>USB-Anschluss und Stromversorgung am Platz</li>
+            <li>12-Zoll-Unterhaltungsbildschirm mit Touchscreen-Controller</li>
+            <li>15,2 cm Neigung der R&uuml;ckenlehne</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>A320Neo(D)</h4>
+        <p>Der Golf Airbus A320neo ist ein hochmodernes Flugzeug, das Passagieren ein modernes und komfortables Flugerlebnis bietet. Mit einem neu gestalteten Innenraum mit gro&szlig;z&uuml;giger Raum, ergonomischen Sitzpl&auml;tzen und einer verbesserten Klangisolierung k&ouml;nnen Passagiere eine glatte und ruhige Fahrt genie&szlig;en. Der Zugang zu Filmen, Fernsehsendungen und Spielen und Mahlzeiten wird in einer eleganten und raffinierten Umgebung serviert. Mit seiner ger&auml;umigen H&uuml;tte und der modernen Annehmlichkeiten bietet der Airbus A320neo mit Sicherheit eine komfortable und angenehme Reise f&uuml;r alle. Buchen Sie noch heute Ihr Ticket und erleben Sie den Luxus von Gulf Air f&uuml;r sich.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a669794-a431-49d8-9d01-16d2350fd1c5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: Airbus A320neo (D)
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="Erfahren Sie mehr" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230215Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: Falcon Gold Cabin
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Cabin experience
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>Number of Seats</strong></p>
+        <ul>
+            <li>12</li>
+        </ul>
+        <p><strong>Seat Pitch</strong></p>
+        <ul>
+            <li>41&rdquo;</li>
+        </ul>
+        <p><strong>Features &amp; Services</strong></p>
+        <ul>
+            <li>2 USB ports and in-seat power supply</li>
+            <li>17&rdquo; entertainment screen with a touchscreen controller</li>
+        </ul>
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: Economy Cabin
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>Number of Seats</strong></p>
+        <ul>
+            <li>138</li>
+        </ul>
+        <p><strong>Seat Pitch</strong></p>
+        <ul>
+            <li>30&rdquo;</li>
+        </ul>
+        <p><strong>Features &amp; Services</strong></p>
+        <ul>
+            <li>USB port and in-seat power supply</li>
+            <li>12&rdquo; entertainment screen with a touchscreen controller</li>
+            <li>6&rdquo; seat recline</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>A320Neo(HD)</h4>
+        <p>The Gulf Air Airbus A320neo is a state-of-the-art aircraft that offers a modern and comfortable flying experience for passengers. Featuring a newly designed interior with generous space, ergonomic seating, and improved sound insulation, passengers can enjoy a smooth and quiet ride. Access to movies, TV shows, and games, and meals are served in an elegant and refined setting. With its spacious cabin and modern amenities, the Airbus A320neo is sure to provide a comfortable and enjoyable journey for everyone. Book your ticket today and experience the luxury of Gulf Air for yourself.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed97938b-0dba-4eda-a5fb-6874091eed85"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: Airbus A320neo (D)
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="Learn more" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T125309Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: Cabine en or Falcon
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Expérience de cabine
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>Nombre de places</strong></p>
+        <ul>
+            <li>12</li>
+        </ul>
+        <p><strong>Tangage de si&egrave;ge</strong></p>
+        <ul>
+            <li>41&rdquo;</li>
+        </ul>
+        <p><strong>Fonctionnalit&eacute;s et services</strong></p>
+        <ul>
+            <li>2 ports USB et prise &eacute;lectrique int&eacute;gr&eacute;e au si&egrave;ge</li>
+            <li>&Eacute;cran de divertissement de 17" avec commande tactile</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: Cabine économique
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>Nombre de places</strong></p>
+        <ul>
+            <li>138</li>
+        </ul>
+        <p><strong>Tangage de si&egrave;ge</strong></p>
+        <ul>
+            <li>30&rdquo;</li>
+        </ul>
+        <p><strong>Fonctionnalit&eacute;s et services</strong></p>
+        <ul>
+            <li>Port USB et prise &eacute;lectrique int&eacute;gr&eacute;e au si&egrave;ge</li>
+            <li>&Eacute;cran de divertissement de 12" avec commande tactile</li>
+            <li>Inclinaison du si&egrave;ge de 15&deg;</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>A320Neo(D)</h4>
+        <p>Le Gulf Air Airbus A320neo est un avion de pointe qui offre une exp&eacute;rience de vol moderne et confortable pour les passagers. Dot&eacute; d'un int&eacute;rieur nouvellement con&ccedil;u avec un espace g&eacute;n&eacute;reux, des si&egrave;ges ergonomiques et une isolation sonore am&eacute;lior&eacute;e, les passagers peuvent profiter d'une conduite fluide et silencieuse. L'acc&egrave;s aux films, aux &eacute;missions de t&eacute;l&eacute;vision et aux jeux et aux repas est servi dans un cadre &eacute;l&eacute;gant et raffin&eacute;. Avec sa cabine spacieuse et ses &eacute;quipements modernes, l'Airbus A320neo est s&ucirc;r de fournir un voyage confortable et agr&eacute;able &agrave; tout le monde. R&eacute;servez votre billet aujourd'hui et exp&eacute;rimentez le luxe de Gulf Air par vous-m&ecirc;me.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a67efb53-149c-496a-8cd8-97f71af6bcc5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: Airbus A320neo (D)
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="Apprendre encore plus" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230215Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: Сокол Золотой Хижина
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Опыт кабины
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>Количество мест</strong></p>
+        <ul>
+            <li>12</li>
+        </ul>
+        <p><strong>Сиденья</strong></p>
+        <ul>
+            <li>41&rdquo;</li>
+        </ul>
+        <p><strong>Функции и услуги</strong></p>
+        <ul>
+            <li>2 порта USB и блок питания в сиденье</li>
+            <li>17-дюймовый экран для развлечений с сенсорным контроллером</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: Экономическая каюта
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>Количество мест</strong></p>
+        <ul>
+            <li>138</li>
+        </ul>
+        <p><strong>Сиденья</strong></p>
+        <ul>
+            <li>30&rdquo;</li>
+        </ul>
+        <p><strong>Функции и услуги</strong></p>
+        <ul>
+            <li>USB-порт и блок питания в сиденье</li>
+            <li>12-дюймовый экран для развлечений с сенсорным контроллером</li>
+            <li>4-дюймовое откидное сиденье</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>A320Neo(D)</h4>
+        <p>Airbus Airbus Airbus A320NEO-это современный самолет, который предлагает современный и удобный опыт полета для пассажиров. Пассажиры могут наслаждаться плавной и тихой ездой. Доступ к фильмам, телешоу и играм, а также еду подается в элегантной и изысканной обстановке. Благодаря своей просторной кабине и современных удобствах Airbus A320NEO наверняка обеспечит удобное и приятное путешествие для всех. Забронируйте свой билет сегодня и испытайте роскошь Gulf Air для себя.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "73389a71-b2ed-42cb-9b59-51d1dcdd3fc3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: Airbus A320neo (D)
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="Узнать больше" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230215Z

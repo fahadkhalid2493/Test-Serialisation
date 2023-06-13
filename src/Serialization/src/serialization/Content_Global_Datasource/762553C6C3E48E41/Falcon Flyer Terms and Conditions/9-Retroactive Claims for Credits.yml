@@ -1,0 +1,52 @@
+﻿---
+ID: "d2970376-f39f-4184-a61a-a3d81137c153"
+Parent: "31eacd34-875c-4814-b1a6-fbcfc231effe"
+Template: "5ccfccdf-b51d-47cc-8200-acd509f076d9"
+Path: "/sitecore/content/Global/Global Accordian With Page Slider Folder/Falcon Flyer Terms and Conditions/Falcon Flyer Terms and Conditions/9-Retroactive Claims for Credits"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230612T075443Z
+    - ID: "2623820d-1b17-4be5-a84b-e5201ac08f85"
+      Hint: Description
+      Value: |
+        <ol>
+            <li><span style="color: #212529;">If the record of a Gulf Air qualifying flight does not appear on the online&nbsp;membership account&nbsp;after the flight date, or, in the view of the Member, it appears incorrectly, then the Member should complete the retroactive claim form which is available on the member's area of the website. Members should retain the original boarding pass(es) and a legible copy of the passenger ticket and keep it in case they are requested to send it to the Programme offices in Bahrain. If the recording error involves a partner activity, the Member should follow the instructions given for that partner on the website, including the provision of appropriate invoiced activity record documents. File copies should be retained for the Member's own reference.</span></li>
+            <li><span style="color: #212529;">All claims for retroactive credit must be made within six months of the flight or partner activity in question. No claims for retroactive credit more than six months after the activity will be accepted.</span></li>
+            <li><span style="color: #212529;">Retroactive claims for flights taken 90 days prior to the date in which the individual applied for membership will be eligible for credit.</span></li>
+            <li><span style="color: #212529;">Family members once enrolled into the programme can only earn miles for GF flights taken from the enrolment date. Retroactive claims are not eligible for flights taken prior enrolment date in which the family members applied for membership.</span></li>
+            <li><span style="color: #212529;">Retroactive claims will not be accepted without the detailed evidence required in 9.1.</span></li>
+            <li><span style="color: #212529;">Members are strongly requested to undertake their own correct recording and recognition of activity by retaining all boarding passes, passenger coupons from tickets or e-tickets and partner transaction documents in order to settle any account discrepancies and retroactive claims.</span></li>
+        </ol>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ghazijawad
+    - ID: "5a4499d3-dbd1-4db1-8ba8-6f08064b02fc"
+      Hint: Heading
+      Value: 9. Retroactive Claims for Credits
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9dea4799-e501-483e-8096-6e033a5a71b8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230612T075508Z

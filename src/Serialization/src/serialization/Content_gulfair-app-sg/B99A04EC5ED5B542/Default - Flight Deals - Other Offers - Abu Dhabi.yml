@@ -1,0 +1,248 @@
+﻿---
+ID: "363c4d75-2b4b-45cc-a39e-124beeacfbc8"
+Parent: "9093ef93-4965-4e1b-8b27-8c5c682aa91c"
+Template: "87a661e2-cd9b-4565-8f7f-0bf761d8d21d"
+Path: "/sitecore/content/gulfair-app-sg/Data/Other Offer Folder/flight deals/Default - Flight Deals - Other Offers/Default - Flight Deals - Other Offers - Abu Dhabi"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "474ecfc6-6a37-45e0-9e8f-aa8e5469391b"
+  Hint: Currency
+  Value: USD
+- ID: "900a9c16-789f-4d7e-841b-ad0fb54b9b61"
+  Hint: Image
+  Value: |
+    <image width="364" height="172" alt="MicrosoftTeams-image (2).png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/2ba2f482d3c348e7b27d2bace5004928?v=7e73dab8" stylelabs-content-id="34728" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/34728/thumbnail" />
+- ID: "a07b527e-ac0f-41ec-b87e-8fa27419c2e2"
+  Hint: Tags
+  Value: |
+    {676D47C0-B108-494C-955E-CC4E3BF05321}
+    {F713CAE8-2881-4E00-A009-926092B6906F}
+    {FB429821-BD27-4531-A5E0-46DB6C81E1C2}
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "b5c4227e-b88e-40b1-869c-1bde88fb681d"
+  Hint: City
+  Value: "{F4B5748A-57C2-42DF-9094-39533B42CEAC}"
+- ID: "e53b6e45-8ef8-4fbb-81f2-c01a97731740"
+  Hint: Price
+  Value: 1,050
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Flight Deals - Other Offers - Abu Dhabi"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T154600Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1d60620-c5aa-44c7-ab61-112ae38cc597"
+    - ID: "a1bc82d7-1eb3-4fa0-b920-e16b99016181"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://www.youtube.com/" anchor="" target="_blank" />
+    - ID: "b78c1f8b-a351-486a-b3a6-b0274ad30930"
+      Hint: SubHeading
+      Value: Economy From
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000229Z
+    - ID: "fbc3e599-d50a-431d-8ede-762dc51d29dd"
+      Hint: Heading
+      Value: Abu Dhabi
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Flight Deals - Other Offers - Abu Dhabi"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T154600Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a22646c-f6bf-47b1-99ab-3f9cc92fb4b0"
+    - ID: "a1bc82d7-1eb3-4fa0-b920-e16b99016181"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "b78c1f8b-a351-486a-b3a6-b0274ad30930"
+      Hint: SubHeading
+      Value: Economy From
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000229Z
+    - ID: "fbc3e599-d50a-431d-8ede-762dc51d29dd"
+      Hint: Heading
+      Value: Abu Dhabi
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Flight Deals - Other Offers - Abu Dhabi"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T154600Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "10d38614-307c-4aef-9f34-2610a7c10e85"
+    - ID: "a1bc82d7-1eb3-4fa0-b920-e16b99016181"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "b78c1f8b-a351-486a-b3a6-b0274ad30930"
+      Hint: SubHeading
+      Value: Economy From
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000229Z
+    - ID: "fbc3e599-d50a-431d-8ede-762dc51d29dd"
+      Hint: Heading
+      Value: Abu Dhabi
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Flight Deals - Other Offers - Abu Dhabi"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T154600Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8b11227-c31c-4667-b34d-ca19236c607c"
+    - ID: "a1bc82d7-1eb3-4fa0-b920-e16b99016181"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "b78c1f8b-a351-486a-b3a6-b0274ad30930"
+      Hint: SubHeading
+      Value: Economy From
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000229Z
+    - ID: "fbc3e599-d50a-431d-8ede-762dc51d29dd"
+      Hint: Heading
+      Value: Abu Dhabi
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Flight Deals - Other Offers - Abu Dhabi"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T154600Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a9473ab-bf50-47cd-b639-ddfff79bfb04"
+    - ID: "a1bc82d7-1eb3-4fa0-b920-e16b99016181"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "b78c1f8b-a351-486a-b3a6-b0274ad30930"
+      Hint: SubHeading
+      Value: Economy From
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000229Z
+    - ID: "fbc3e599-d50a-431d-8ede-762dc51d29dd"
+      Hint: Heading
+      Value: Abu Dhabi

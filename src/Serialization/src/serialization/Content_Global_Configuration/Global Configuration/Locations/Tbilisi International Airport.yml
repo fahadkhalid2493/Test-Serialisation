@@ -1,0 +1,178 @@
+﻿---
+ID: "a746436f-a71e-4216-ad1b-fbb5798c2be3"
+Parent: "2a609038-6fc2-41de-a46e-01e663ef60f7"
+Template: "0b5ef009-0c1f-4ac3-89b5-d0d1f3f860eb"
+Path: /sitecore/content/Global Configuration/Locations/Tbilisi International Airport
+SharedFields:
+- ID: "31250019-5060-40a9-ba51-294a37d456d9"
+  Hint: OnlineCheckInAvailable
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "be35fd21-18af-4d0d-a029-3bcac18564f9"
+  Hint: CityCode
+  Value: TBS
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: مطار تبليسي الدولي
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: تبلّيسي
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: جورجيا
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9363cf22-1ea3-4742-a011-810ec75447ba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T163351Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Internationaler Flughafen Tiflisi
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Tiflis
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Georgia
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "99add5c1-fb2b-4875-afe1-1943b46fb0b2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T165633Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Tbilisi International Airport
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Tbilisi
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Georgia
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8815e8aa-aa48-4218-bda7-141f4708ae95"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T104254Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Aéroport international de Tbilissi
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Tbilissi
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Géorgie
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "192e7cd3-0ba6-44ae-b09d-5e8038977b98"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T165640Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Тбилиси международный аэропорт
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Тбилиси
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Грузия
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93385f09-0088-4205-b32b-46f0555523d6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T170128Z

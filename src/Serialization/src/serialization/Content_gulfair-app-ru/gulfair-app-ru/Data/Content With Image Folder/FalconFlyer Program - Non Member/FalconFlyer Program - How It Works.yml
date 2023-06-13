@@ -1,0 +1,178 @@
+﻿---
+ID: "137a9c88-5c36-4a4d-bac1-201f53678398"
+Parent: "b7348cc6-c54d-4878-8391-2a41b76e4cd9"
+Template: "8a83ba75-273e-48aa-b3b1-0785d74a111c"
+Path: "/sitecore/content/gulfair-app-ru/Data/Content With Image Folder/FalconFlyer Program - Non Member/FalconFlyer Program - How It Works"
+SharedFields:
+- ID: "02d64e92-76f3-4e33-bf1e-fa8accd3f34c"
+  Hint: Image
+  Value: |
+    <image width="626" height="305" alt="LoungeSeats.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/5a8e71d860b841928e323712b9fa0e70?v=ec74102d" stylelabs-content-id="37980" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/37980/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230131T131808Z
+    - ID: "512d1433-58a7-4f14-aa98-300b823d9609"
+      Hint: Heading
+      Value: How it works
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6b7b82a-0059-4d0c-9f42-76be61f98fcc"
+    - ID: "a76b6229-0c9e-475c-997c-710ad0b1f579"
+      Hint: CTA
+      Value: |
+        <link text="FAQ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235924Z
+    - ID: "f2eb69f5-c893-46da-8c17-82ebe7d7aba7"
+      Hint: SubText
+      Value: <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis.</span>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230131T131808Z
+    - ID: "512d1433-58a7-4f14-aa98-300b823d9609"
+      Hint: Heading
+      Value: How it works
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5096f822-c271-4d25-af52-88c3e4dc691b"
+    - ID: "a76b6229-0c9e-475c-997c-710ad0b1f579"
+      Hint: CTA
+      Value: |
+        <link text="FAQ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235924Z
+    - ID: "f2eb69f5-c893-46da-8c17-82ebe7d7aba7"
+      Hint: SubText
+      Value: <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis.</span>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230131T131808Z
+    - ID: "512d1433-58a7-4f14-aa98-300b823d9609"
+      Hint: Heading
+      Value: How it works
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4c6b253-1597-4b18-a9d2-5e3a6a572e41"
+    - ID: "a76b6229-0c9e-475c-997c-710ad0b1f579"
+      Hint: CTA
+      Value: |
+        <link text="FAQ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235924Z
+    - ID: "f2eb69f5-c893-46da-8c17-82ebe7d7aba7"
+      Hint: SubText
+      Value: <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis.</span>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230131T131808Z
+    - ID: "512d1433-58a7-4f14-aa98-300b823d9609"
+      Hint: Heading
+      Value: How it works
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e097c41-d331-4fe0-b8a1-793026cb5f63"
+    - ID: "a76b6229-0c9e-475c-997c-710ad0b1f579"
+      Hint: CTA
+      Value: |
+        <link text="FAQ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235924Z
+    - ID: "f2eb69f5-c893-46da-8c17-82ebe7d7aba7"
+      Hint: SubText
+      Value: <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis.</span>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230131T131808Z
+    - ID: "512d1433-58a7-4f14-aa98-300b823d9609"
+      Hint: Heading
+      Value: How it works
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79bff389-29ab-4f42-ab57-d90407cd4da2"
+    - ID: "a76b6229-0c9e-475c-997c-710ad0b1f579"
+      Hint: CTA
+      Value: |
+        <link text="FAQ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235924Z
+    - ID: "f2eb69f5-c893-46da-8c17-82ebe7d7aba7"
+      Hint: SubText
+      Value: <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis.</span>

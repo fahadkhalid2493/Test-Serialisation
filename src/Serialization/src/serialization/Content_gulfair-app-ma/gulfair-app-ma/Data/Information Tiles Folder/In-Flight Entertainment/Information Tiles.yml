@@ -1,0 +1,163 @@
+﻿---
+ID: "0aaf5123-353f-4997-86de-fd3e4109fd42"
+Parent: "6066bef7-ec83-40e3-b47f-f11f8dd32726"
+Template: "a7c55506-2488-4ad8-a08d-171221f27c5e"
+Path: "/sitecore/content/gulfair-app-ma/Data/Information Tiles Folder/In-Flight Entertainment/Information Tiles"
+SharedFields:
+- ID: "256e4d0c-680c-43b3-915d-f4fdd81f23d1"
+  Hint: Tiles
+  Value: |
+    {BBF70185-EB0B-40C0-9B9F-60EC33038088}
+    {442A9F12-8866-4689-A35E-FFBF57DEB74A}
+    {582F10DA-9476-496E-AD83-58F8AB81F142}
+- ID: "3fe24831-2e59-44dc-b1be-730f59b9b2c9"
+  Hint: ItemsToShowInRow
+  Value: "{24C4F4B3-5AEE-46D2-A745-84DDB733B12C}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103331Z
+    - ID: "3535821b-fd22-490b-a8d6-1c32067bf062"
+      Hint: Description
+      Value: |
+        <h2>Time flies when you’re having fun.</h2>
+        <p>With a vast selection of movies, series and games available in a variety of languages and refreshed regularly, you’ll have hours of entertainment to choose from. So sit back, relax, put your headsets on and take control with your touchscreen controller or directly on your screen.
+        For our young travellers we also offer dedicated channels with special programming and cartoons to keep them engaged and entertained.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b4f13552-ff89-4dec-8804-42a90545cbce"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230228T072037Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103331Z
+    - ID: "3535821b-fd22-490b-a8d6-1c32067bf062"
+      Hint: Description
+      Value: |
+        <h2>Time flies when you’re having fun.</h2>
+        <p>With a vast selection of movies, series and games available in a variety of languages and refreshed regularly, you’ll have hours of entertainment to choose from. So sit back, relax, put your headsets on and take control with your touchscreen controller or directly on your screen.
+        For our young travellers we also offer dedicated channels with special programming and cartoons to keep them engaged and entertained.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f102e000-bee6-4569-b8ff-911bfe03c780"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\uzair
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120852Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103331Z
+    - ID: "3535821b-fd22-490b-a8d6-1c32067bf062"
+      Hint: Description
+      Value: |
+        <h2>Time flies when you’re having fun.</h2>
+        <p>With a vast selection of movies, series and games available in a variety of languages and refreshed regularly, you’ll have hours of entertainment to choose from. So sit back, relax, put your headsets on and take control with your touchscreen controller or directly on your screen.
+        For our young travellers we also offer dedicated channels with special programming and cartoons to keep them engaged and entertained.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d2ec537c-638a-4f04-b61e-809bf3090b3a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hassan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230315T070303Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103331Z
+    - ID: "3535821b-fd22-490b-a8d6-1c32067bf062"
+      Hint: Description
+      Value: |
+        <h2>Time flies when you’re having fun.</h2>
+        <p>With a vast selection of movies, series and games available in a variety of languages and refreshed regularly, you’ll have hours of entertainment to choose from. So sit back, relax, put your headsets on and take control with your touchscreen controller or directly on your screen.
+        For our young travellers we also offer dedicated channels with special programming and cartoons to keep them engaged and entertained.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e1e33ec-bb00-4b19-b614-ee13bc260576"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\uzair
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T121137Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103331Z
+    - ID: "3535821b-fd22-490b-a8d6-1c32067bf062"
+      Hint: Description
+      Value: |
+        <h2>Time flies when you’re having fun.</h2>
+        <p>With a vast selection of movies, series and games available in a variety of languages and refreshed regularly, you’ll have hours of entertainment to choose from. So sit back, relax, put your headsets on and take control with your touchscreen controller or directly on your screen.
+        For our young travellers we also offer dedicated channels with special programming and cartoons to keep them engaged and entertained.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b0b73be-bae8-423e-a128-58bbf34cf264"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\uzair
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T121543Z

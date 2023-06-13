@@ -1,0 +1,230 @@
+﻿---
+ID: "98ee6b29-26fa-4e0a-b163-23c446e11d4b"
+Parent: "66d70418-f868-4fc8-9828-b2a604ade154"
+Template: "8a83ba75-273e-48aa-b3b1-0785d74a111c"
+Path: "/sitecore/content/gulfair-app-sa/Data/Content With Image Folder/Cargo/Our Planes"
+SharedFields:
+- ID: "02d64e92-76f3-4e33-bf1e-fa8accd3f34c"
+  Hint: Image
+  Value: |
+    <image width="366" height="310" alt="HowItWork.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/2a35b79c114443808cbb215ee9582809?v=871fd46a" stylelabs-content-id="32834" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/32834/thumbnail" />
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Destination - Bahrain - Discount Deals-ar"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230201T064325Z
+    - ID: "512d1433-58a7-4f14-aa98-300b823d9609"
+      Hint: Heading
+      Value: الخصومات والصفقات والترجمات
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "37ea8a41-8d5b-40cf-aa88-971cead6e315"
+    - ID: "a76b6229-0c9e-475c-997c-710ad0b1f579"
+      Hint: CTA
+      Value: |
+        <link text="عرض جميع الصفقات" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000051Z
+    - ID: "f2eb69f5-c893-46da-8c17-82ebe7d7aba7"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed.</p>
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Destination - Bahrain - Discount Deals"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T132222Z
+    - ID: "512d1433-58a7-4f14-aa98-300b823d9609"
+      Hint: Heading
+      Value: Discounts, deals, and subtitles
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b2c24ea-5f44-4607-afcc-088a02b17508"
+    - ID: "a76b6229-0c9e-475c-997c-710ad0b1f579"
+      Hint: CTA
+      Value: |
+        <link text="view all deals" linktype="external" url="https://falconflyer.gulfair.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000051Z
+    - ID: "f2eb69f5-c893-46da-8c17-82ebe7d7aba7"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed.</p>
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T132222Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "512d1433-58a7-4f14-aa98-300b823d9609"
+      Hint: Heading
+      Value: Our Planes
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "194f9f64-bf7a-4434-ad1f-29a5c02edcd4"
+    - ID: "a76b6229-0c9e-475c-997c-710ad0b1f579"
+      Hint: CTA
+      Value: |
+        <link text="See our fleet" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000051Z
+    - ID: "f2eb69f5-c893-46da-8c17-82ebe7d7aba7"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed.</p>
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Destination - Bahrain - Discount Deals"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T132222Z
+    - ID: "512d1433-58a7-4f14-aa98-300b823d9609"
+      Hint: Heading
+      Value: Discounts, deals, and subtitles
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40aec054-b177-452a-803e-6565e429f459"
+    - ID: "a76b6229-0c9e-475c-997c-710ad0b1f579"
+      Hint: CTA
+      Value: |
+        <link text="view all deals" linktype="external" url="https://falconflyer.gulfair.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000051Z
+    - ID: "f2eb69f5-c893-46da-8c17-82ebe7d7aba7"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed.</p>
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Destination - Bahrain - Discount Deals"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T132222Z
+    - ID: "512d1433-58a7-4f14-aa98-300b823d9609"
+      Hint: Heading
+      Value: Discounts, deals, and subtitles
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ee667a9-0073-4f32-a483-2ad085028409"
+    - ID: "a76b6229-0c9e-475c-997c-710ad0b1f579"
+      Hint: CTA
+      Value: |
+        <link text="view all deals" linktype="external" url="https://falconflyer.gulfair.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000051Z
+    - ID: "f2eb69f5-c893-46da-8c17-82ebe7d7aba7"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed.</p>

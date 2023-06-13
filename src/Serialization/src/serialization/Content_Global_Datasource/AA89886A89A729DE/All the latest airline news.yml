@@ -1,0 +1,197 @@
+﻿---
+ID: "5787d509-19f0-46af-bde7-9a32cc1792fd"
+Parent: "905e0c1f-5158-405d-b08b-4baeafc270ed"
+Template: "6e26270c-7ced-4652-ab7b-566f2ac9e41f"
+Path: "/sitecore/content/Global/Global Falcon Flyer News Folder/falcon-flyer-program/FalconFlyerNewsFolder/All the latest airline news"
+SharedFields:
+- ID: "b92f071d-1def-46b6-a749-46efddbd6693"
+  Hint: CTAColor
+  Value: "{F64FADCC-6FB4-46AA-A947-751B7BF0A024}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "c1bb3e97-ab5a-421a-9678-19e1cd31bd8e"
+  Hint: Image
+  Value: |
+    <image width="366" height="321" alt="Bodrum.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/28f3c824003745f887a48be903743cf3?v=ae72c01d" stylelabs-content-id="49758" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/49758/thumbnail" />
+- ID: "f768fd8c-ee29-421c-8929-b5c21ac10c7b"
+  Hint: CTAType
+  Value: "{9E29A28B-7ED9-41A5-BE7D-66A986A44CC3}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4c09ef-8fae-43a9-ad1c-445a40ee2114"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T130704Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: آخر أخبار شركة الطيران
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f3eb99e5-b68e-4612-8bb2-8f890fe76888"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: |
+        <p><span dir="RTL">سافر إلى مدينة بودروم الساحلية لقضاء عطلة الصيف المثالية! ستجد فيها كل ما تبحث عنه من الشواطئ الرملية والتاريخ العريق والحياة الليلية والتسوق الممتع والمأكولات التركية الشهية</span></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225906Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4c09ef-8fae-43a9-ad1c-445a40ee2114"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T130704Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: "Alle aktuellen Airline-News"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5715b21c-e154-4b8f-b5ee-93d19798a372"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: |
+        <p>Der Winter kommt und damit auch ein neues Ziel in unserem Netzwerk! Wir freuen uns, die Erweiterung unserer Pr&auml;senz in den Vereinigten Emiraten mit der Aufnahme eines dritten Emirats in unser Netzwerk bekannt zu geben.</p>
+        <p>Wir fliegen Sie zweimal w&ouml;chentlich nach Ras Al-Khaimah. Entfliehen Sie den Hochh&auml;usern und dem Stadtleben und tauchen Sie ein in die Natur, die W&uuml;ste und das Meer mit einer endlosen Auswahl an luxuri&ouml;sen und weltweit anerkannten Resorts.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225906Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4c09ef-8fae-43a9-ad1c-445a40ee2114"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T130704Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: All the latest airline news
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "43523cbf-0d36-497f-8084-d25341e80b01"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: "<p><span>Travel to the coastal town of Bodrum for the ultimate summer vacation! Offering beaches, history, nightlife, shopping and Turkish cuisine </span></p>"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225906Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4c09ef-8fae-43a9-ad1c-445a40ee2114"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T130704Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: Toute l'actualité des compagnies aériennes
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "746f0bba-1468-4ef6-b6de-3a787509f133"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: |
+        <p>L'hiver arrive et une nouvelle destination sur notre r&eacute;seau aussi ! Nous sommes heureux d'annoncer l'expansion de notre pr&eacute;sence aux &Eacute;mirats avec l'ajout d'un troisi&egrave;me &eacute;mirat &agrave; notre r&eacute;seau.</p>
+        <p>Nous vous transporterons deux fois par semaine &agrave; Ras Al-Khaimah. &Eacute;chappez aux immeubles de grande hauteur et &agrave; la vie urbaine et plongez dans la nature, le d&eacute;sert et la mer avec une s&eacute;lection infinie de complexes de luxe et mondialement reconnus.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225906Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4c09ef-8fae-43a9-ad1c-445a40ee2114"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T130704Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: Все последние новости авиакомпаний
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14e8880d-fca1-4ddc-a23f-9317f3d86fec"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: |
+        <p>Приближается зима, а вместе с ней и новое направление в нашей сети! Мы рады объявить о расширении нашего присутствия в Объединенных Эмиратах с добавлением третьего эмирата в нашу сеть.</p>
+        <p>Мы будем летать с вами два раза в неделю в Рас-Аль-Хайму. Скройтесь от высотных зданий и городской жизни и погрузитесь в природу, пустыню и море с бесконечным выбором роскошных и всемирно известных курортов.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225906Z

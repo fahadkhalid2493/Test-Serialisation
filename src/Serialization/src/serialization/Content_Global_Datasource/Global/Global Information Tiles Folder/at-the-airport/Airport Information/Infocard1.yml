@@ -1,0 +1,186 @@
+﻿---
+ID: "a7291096-637c-4617-8b8e-8b8299ef2849"
+Parent: "264fe2a9-c326-4403-8b22-c8e930fd0271"
+Template: "05d15730-eae4-491c-b945-137ef6920474"
+Path: "/sitecore/content/Global/Global Information Tiles Folder/at-the-airport/Airport Information/Infocard1"
+SharedFields:
+- ID: "d07c6cf5-4e87-4fdc-b467-d8fa8e5e2fb2"
+  Hint: Image
+  Value: |
+    <image width="268" height="240" alt="AirportnfoTile.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/7081a62b147c43659403a13b2a9beb76?v=76b8047e" stylelabs-content-id="39287" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39287/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T185223Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="للمزيد من التفاصيل" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{0A4EEF2A-855B-4E61-B5F4-1D7D74A603FE}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70528a47-5c19-48b0-aba7-e50a0447160a"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: معلومات عن المطار 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>اكتشف المزيد عن مرافق المطار وخدماته ووسائل الراحة التي تقدمها طيران الخليج. تعرف على المزيد حول الصالات والتسوق وخيارات النقل ومرافق وقوف السيارات وخدمات المساعدة وخيارات تناول الطعام المتاحة في المطار.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225910Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T185914Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="Mehr erfahren" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{0A4EEF2A-855B-4E61-B5F4-1D7D74A603FE}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6adb39a-bff0-4abe-a0ad-26b83b425230"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Flughafeninformationen
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>Erfahren Sie mehr &uuml;ber die von Gulf Air angebotenen Flughafeneinrichtungen, Dienstleistungen und Annehmlichkeiten. Erfahren Sie mehr &uuml;ber Lounges, Einkaufsm&ouml;glichkeiten, Transportm&ouml;glichkeiten, Parkm&ouml;glichkeiten, Assistenzdienste und Restaurants, die am Flughafen verf&uuml;gbar sind.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225910Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T185051Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="Learn more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{0A4EEF2A-855B-4E61-B5F4-1D7D74A603FE}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c744e9e9-1f4a-4fe4-9141-f5e3c795df58"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Airport Information
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>Discover more about the airport facilities, services and amenities offered by Gulf Air. Get to know more about lounges, shopping, transportation options, parking facilities, assistance services and dining options available at the airport.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225910Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T185829Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="Apprendre encore plus" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{0A4EEF2A-855B-4E61-B5F4-1D7D74A603FE}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8a184a9-5561-44f8-aab1-18891024dfef"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Informations sur l'aéroport
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>Découvrez plus sur les installations, services et équipements de l'aéroport offerts par Gulf Air. Apprenez à en savoir plus sur les salons, les achats, les options de transport, les parkings, les services d'assistance et les options de restauration disponibles à l'aéroport.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225910Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T184434Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="Учить больше" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{0A4EEF2A-855B-4E61-B5F4-1D7D74A603FE}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a6f8a9c-b604-4f1c-b2c9-70a1267a73aa"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Информация аэропорта
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>Узнайте больше о объектах, услугах и удобствах аэропорта, предлагаемых Gulf Air. Узнайте больше о залах, покупках, вариантах транспорта, парковке, услугах по оказанию помощи и вариантам обедов, доступных в аэропорту.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225910Z

@@ -1,0 +1,139 @@
+﻿---
+ID: "9a0e1517-6af5-4ff3-909b-0f51c44d49c5"
+Parent: "595d5561-ac58-4cbf-a31e-04e008193e43"
+Template: "07f50330-c962-5e98-ae02-814183b76ea0"
+Path: "/sitecore/content/gulfair-app-de/home/cargo"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "d26a428b-8f37-4ae7-bd6c-1126664c4031"
+  Hint: AvailableLanguages
+  Value: "{AE2B1160-AEC8-400B-92BF-E4F2378F29C8}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{88F28A79-7AD6-4559-8C79-A1A2D9AEAF43}"
+          p:after="r[@uid='{78BCE695-62F3-465D-9ACF-B6E971121264}']"
+          s:ds="{89E885E1-22B9-492C-A48C-7C607F67BCEC}"
+          s:id="{2FAE24EB-118B-467A-A793-A565ECF56816}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{DB365071-8CEA-404D-AF8A-7E0FA0DA5F4B}"
+          p:after="r[@uid='{88F28A79-7AD6-4559-8C79-A1A2D9AEAF43}']"
+          s:ds="{9665C402-4178-4BBF-B1EE-C933F5C3FA1B}"
+          s:id="{EAA82EB3-2700-499D-8017-0E245D1181D9}"
+          s:par="WithMargin=1"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{C42F9D7D-3806-4EA2-9E49-6E6408F5D9CF}"
+          p:after="r[@uid='{DB365071-8CEA-404D-AF8A-7E0FA0DA5F4B}']"
+          s:ds="{5BAC2EC9-63C9-4AFA-8635-4F64CBA94616}"
+          s:id="{891FD600-9656-4656-9751-252A6DCB1D21}"
+          s:par="BackgroundColor=%7B7C4FD76D-3B0F-42EA-A617-03C670A8A379%7D&amp;WithMargin"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{8E95E5F8-7B39-44C0-A6F6-17A5C97DAF7D}"
+          p:after="r[@uid='{C42F9D7D-3806-4EA2-9E49-6E6408F5D9CF}']"
+          s:ds="{C3EDE0FE-22FB-462A-9942-D0172C10A40E}"
+          s:id="{B7F28E95-591A-4520-A23C-23B91F5FBDB0}"
+          s:par="CTAType=%7BB3C4407E-7461-4B34-B944-D581BA981A27%7D&amp;WithMargin&amp;BackgroundColor=%7B7C4FD76D-3B0F-42EA-A617-03C670A8A379%7D&amp;CTAColor=%7B89330C54-4FC1-4573-913A-BC08CCDEBD5B%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{E3FF882F-A102-4C94-8CE7-C22150172668}"
+          p:after="r[@uid='{8E95E5F8-7B39-44C0-A6F6-17A5C97DAF7D}']"
+          s:ds="{0A4167BA-A799-401E-8393-7B235E6F01A7}"
+          s:id="{9275948F-71FC-4A0D-99AE-D7773036B3E0}"
+          s:par="CTAType1=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;BackgroundColor=%7B89330C54-4FC1-4573-913A-BC08CCDEBD5B%7D&amp;CTAColor1=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D&amp;CTAType2=%7BB3C4407E-7461-4B34-B944-D581BA981A27%7D&amp;CTAColor2=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{5053DE37-D4CF-4E73-BD56-F26DDBC572DD}"
+          p:after="r[@uid='{E3FF882F-A102-4C94-8CE7-C22150172668}']"
+          s:ds="{8D285B3B-D967-47E4-872E-21945DDA0843}"
+          s:id="{845F1058-5552-4540-9083-23C14E7A4C41}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{E9F2B8D9-B5D0-4B36-9163-0CC046795F0D}"
+          p:after="r[@uid='{5053DE37-D4CF-4E73-BD56-F26DDBC572DD}']"
+          s:ds="{6A3D0DA9-312F-4B7F-9326-470E2C052251}"
+          s:id="{891FD600-9656-4656-9751-252A6DCB1D21}"
+          s:par="BackgroundColor=%7B89330C54-4FC1-4573-913A-BC08CCDEBD5B%7D&amp;WithMargin"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{60A91BE2-240C-4E6A-8162-589CFBB5CE12}"
+          p:after="r[@uid='{E9F2B8D9-B5D0-4B36-9163-0CC046795F0D}']"
+          s:ds="{3A3AA0B6-0940-4A9B-8FE2-F2FD772C4FA1}"
+          s:id="{7A3813BC-8D3F-43ED-B953-49F9657F75C8}"
+          s:par="BackgroundColor=%7B89330C54-4FC1-4573-913A-BC08CCDEBD5B%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{3B0F5D41-A94B-4FF8-9B12-95F9334A2455}"
+          p:after="r[@uid='{60A91BE2-240C-4E6A-8162-589CFBB5CE12}']"
+          s:ds="{AA85290A-28EA-474A-ACA7-A3A149256387}"
+          s:id="{6343FC04-AFC4-46A0-9495-01D11FE66001}"
+          s:par="CTAType=%7BB3C4407E-7461-4B34-B944-D581BA981A27%7D&amp;WithMargin&amp;ComponentType=%7B0BF44A08-D10B-4DD9-9E13-775F33DA02F6%7D&amp;CTAColor=%7B89330C54-4FC1-4573-913A-BC08CCDEBD5B%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{EDEF7D6A-2EE8-4841-8E6D-8D72C9D79596}"
+          p:after="r[@uid='{3B0F5D41-A94B-4FF8-9B12-95F9334A2455}']"
+          s:ds="{B529B9D2-7DFC-4DC1-A70F-1939A02A1502}"
+          s:id="{5A861BB7-459A-4A18-AD44-25C12BA96AFD}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T151527Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Cargo
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Cargo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7175a6cd-1c0c-4815-b674-220c41f8f548"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Cargo
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Cargo
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230524T054536Z

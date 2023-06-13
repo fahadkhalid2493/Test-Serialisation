@@ -1,0 +1,243 @@
+﻿---
+ID: "43fd78f6-7812-4689-8d40-b2076c2d912e"
+Parent: "dbacc3cf-9616-4aec-a744-e6ac322fb4ab"
+Template: "5ccfccdf-b51d-47cc-8200-acd509f076d9"
+Path: "/sitecore/content/gulfair-app-az/Data/Accordian With Page Slider Folder/agent-debit-memo-policy/Accordian With Page Slider Parent/Issuance Principles"
+SharedFields:
+- ID: "880f6b4e-c1cd-4101-9311-21c45c50c46b"
+  Hint: CTA2Icon
+  Value: |
+    <image width="16" height="16" alt="download-icon-white.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/d6c642a70553480ca367a7e070dc68c0?v=d6876185" stylelabs-content-id="39097" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39097/thumbnail" />
+- ID: "d57acd21-27a0-4f84-9193-6729e98bd6b7"
+  Hint: PageSliderItemsList
+  Value: |
+    {FD9D20CD-747B-46DC-933E-94E8F94FA9CA}
+    {380ABF38-6FB4-4BE9-9F14-F44C7FB0D8A8}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "233ba48b-cfed-4060-bb53-8ad0ab50afc0"
+      Hint: CTA1
+      Value: |
+        <link text="List of GDS/Booking Violations" linktype="external" url="/" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T125945Z
+    - ID: "2623820d-1b17-4be5-a84b-e5201ac08f85"
+      Hint: Description
+      Value: |
+        <p>
+        Different violations (Fare, Tax & Refund Violations) are inspected by GF and consequently ADMs are issued. These violations include, but are not limited to;<br />
+        <ul>
+        <li>Unreported tickets</li>
+        <li>Pricing variances</li>
+        <li>GDS / Booking abuses and noncompliance practices with fare rules and general conditions regardless of whether the ticket is priced manually or through the applicable system. regardless of whether the ticket is priced manually or through the applicable system.</li>
+        </ul>
+        </p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5a4499d3-dbd1-4db1-8ba8-6f08064b02fc"
+      Hint: Heading
+      Value: 2.0 Issuance Principles
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d58acc5f-19de-4221-869c-307590fb9cc4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bffc686f-d26a-4797-94ab-e5bb8ca92e20"
+      Hint: CTA2
+      Value: |
+        <link text="Download Complete PDF" linktype="external" url="/" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231401Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "233ba48b-cfed-4060-bb53-8ad0ab50afc0"
+      Hint: CTA1
+      Value: |
+        <link text="List of GDS/Booking Violations" linktype="external" url="/" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T125945Z
+    - ID: "2623820d-1b17-4be5-a84b-e5201ac08f85"
+      Hint: Description
+      Value: |
+        <p>
+        Different violations (Fare, Tax & Refund Violations) are inspected by GF and consequently ADMs are issued. These violations include, but are not limited to;<br />
+        <ul>
+        <li>Unreported tickets</li>
+        <li>Pricing variances</li>
+        <li>GDS / Booking abuses and noncompliance practices with fare rules and general conditions regardless of whether the ticket is priced manually or through the applicable system. regardless of whether the ticket is priced manually or through the applicable system.</li>
+        </ul>
+        </p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5a4499d3-dbd1-4db1-8ba8-6f08064b02fc"
+      Hint: Heading
+      Value: 2.0 Issuance Principles
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc7222b2-3555-4777-bcfb-430b971fbd1f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bffc686f-d26a-4797-94ab-e5bb8ca92e20"
+      Hint: CTA2
+      Value: |
+        <link text="Download Complete PDF" linktype="external" url="/" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231401Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "233ba48b-cfed-4060-bb53-8ad0ab50afc0"
+      Hint: CTA1
+      Value: |
+        <link text="List of GDS/Booking Violations" linktype="external" url="/" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T125945Z
+    - ID: "2623820d-1b17-4be5-a84b-e5201ac08f85"
+      Hint: Description
+      Value: |
+        <p>
+        Different violations (Fare, Tax & Refund Violations) are inspected by GF and consequently ADMs are issued. These violations include, but are not limited to;<br />
+        <ul>
+        <li>Unreported tickets</li>
+        <li>Pricing variances</li>
+        <li>GDS / Booking abuses and noncompliance practices with fare rules and general conditions regardless of whether the ticket is priced manually or through the applicable system. regardless of whether the ticket is priced manually or through the applicable system.</li>
+        </ul>
+        </p>
+    - ID: "5a4499d3-dbd1-4db1-8ba8-6f08064b02fc"
+      Hint: Heading
+      Value: 2.0 Issuance Principles
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d414724-a4cf-4ca5-8829-50bdcb9e9df8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bffc686f-d26a-4797-94ab-e5bb8ca92e20"
+      Hint: CTA2
+      Value: |
+        <link text="Download Complete PDF" linktype="external" url="/" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231401Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "233ba48b-cfed-4060-bb53-8ad0ab50afc0"
+      Hint: CTA1
+      Value: |
+        <link text="List of GDS/Booking Violations" linktype="external" url="/" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T125945Z
+    - ID: "2623820d-1b17-4be5-a84b-e5201ac08f85"
+      Hint: Description
+      Value: |
+        <p>
+        Different violations (Fare, Tax & Refund Violations) are inspected by GF and consequently ADMs are issued. These violations include, but are not limited to;<br />
+        <ul>
+        <li>Unreported tickets</li>
+        <li>Pricing variances</li>
+        <li>GDS / Booking abuses and noncompliance practices with fare rules and general conditions regardless of whether the ticket is priced manually or through the applicable system. regardless of whether the ticket is priced manually or through the applicable system.</li>
+        </ul>
+        </p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5a4499d3-dbd1-4db1-8ba8-6f08064b02fc"
+      Hint: Heading
+      Value: 2.0 Issuance Principles
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44972e62-ad59-4e1b-9ddd-0d79dc5ef8d8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bffc686f-d26a-4797-94ab-e5bb8ca92e20"
+      Hint: CTA2
+      Value: |
+        <link text="Download Complete PDF" linktype="external" url="/" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231401Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "233ba48b-cfed-4060-bb53-8ad0ab50afc0"
+      Hint: CTA1
+      Value: |
+        <link text="List of GDS/Booking Violations" linktype="external" url="/" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T125945Z
+    - ID: "2623820d-1b17-4be5-a84b-e5201ac08f85"
+      Hint: Description
+      Value: |
+        <p>
+        Different violations (Fare, Tax & Refund Violations) are inspected by GF and consequently ADMs are issued. These violations include, but are not limited to;<br />
+        <ul>
+        <li>Unreported tickets</li>
+        <li>Pricing variances</li>
+        <li>GDS / Booking abuses and noncompliance practices with fare rules and general conditions regardless of whether the ticket is priced manually or through the applicable system. regardless of whether the ticket is priced manually or through the applicable system.</li>
+        </ul>
+        </p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5a4499d3-dbd1-4db1-8ba8-6f08064b02fc"
+      Hint: Heading
+      Value: 2.0 Issuance Principles
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a12b2113-a268-4c7e-80af-d62114bf5459"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bffc686f-d26a-4797-94ab-e5bb8ca92e20"
+      Hint: CTA2
+      Value: |
+        <link text="Download Complete PDF" linktype="external" url="/" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231401Z

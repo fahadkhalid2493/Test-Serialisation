@@ -1,0 +1,413 @@
+﻿---
+ID: "7e8e828f-5710-4f07-867b-ce19b83d7b2a"
+Parent: "6de181f3-d153-4376-a7ea-63977f9985da"
+Template: "64fec9d9-d83e-40e2-81c8-bd6e6a654eb3"
+Path: "/sitecore/content/Global/Global Airport Info Section Folder/at-the-airport/info/AirportInfoSectionParent/Allama Iqbal International Airport"
+SharedFields:
+- ID: "2ed07a2d-5ec4-4469-85bc-49746a7724cd"
+  Hint: Airport
+  Value: "{1865E548-EA33-49D5-8640-E585872AC8B3}"
+- ID: "3c09129a-e8b8-40d8-b82e-0392a2328f2a"
+  Hint: WebCheckin
+  Value: "{584449BA-3F3E-48A3-AFAA-00B0A5392C90}"
+- ID: "684f084f-cee6-461d-a4c9-e63c99a54d24"
+  Hint: CheckinTimeColor
+  Value: "{7C4FD76D-3B0F-42EA-A617-03C670A8A379}"
+- ID: "7d5ad0bc-c0a0-43ea-aa8a-c1146d311fc6"
+  Hint: CheckinCountersColor
+  Value: "{7C4FD76D-3B0F-42EA-A617-03C670A8A379}"
+- ID: "95b1e77c-f04a-4f75-bd0e-6beff504cda7"
+  Hint: WebCheckinColor
+  Value: "{3F16AFC2-00E8-4FFD-A242-49354F84EF7B}"
+- ID: "974f1505-990f-4931-91b1-9c7b708c5fc1"
+  Hint: PremiumCheckinServiceColor
+  Value: "{3F16AFC2-00E8-4FFD-A242-49354F84EF7B}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "df4dd1f7-ba31-4a06-bbf5-250f9a00dc23"
+  Hint: MapCTAColor
+  Value: "{8B58979B-FF89-4F09-9AF3-6A860E012049}"
+- ID: "f0d82689-dd4b-419e-8cbb-a57b16349fa3"
+  Hint: BeforeYouFlyCTAColor
+  Value: "{8B58979B-FF89-4F09-9AF3-6A860E012049}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="إعرض الخريطة" linktype="external" url="https://goo.gl/maps/jV5LgE6ei5uj5ygV7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>
+        فالكون قولد: <strong>عدادات 13-24</strong><br />
+        الدرجة السياحية: <strong>عدادات 13-24</strong>
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T193359Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="زيارة الموقع" linktype="external" url="https://lahoreairport.com.pk/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>الموقع</h3>
+        <p><span>يقع مطار علامة اقبال&nbsp; الدولي على بعد حوالي 15 كم من وسط المدينة في البنجاب</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff0b3137-671e-448a-bece-9cc6bb202e0f"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>تفاصيل المحطة</h3>
+        <p>مطار علامه إقبال الدولي هو منشأة عالمية من الطراز العالمي مصممة لتزويد المسافرين بتجربة خالية من المتاعب. تم تجهيز هذا المطار بمجموعة من وسائل الراحة ، بما في ذلك المتاجر والمطاعم ومركز أعمال ومكتبة ومنتجع صحي. كما يوفر الكثير من خيارات النقل ، مثل سيارات الأجرة والحافلات والعبارات ، لنقل المسافرين إلى وجهتهم المرجوة. بفضل تصميمها الحديث ، وخدماتها عالية الجودة ، ووجهات نظرها المذهلة للمناظر الطبيعية المحلية ، فإن مطار لاهور علامه إقبال الدولي هو المكان المثالي لأولئك الذين يبحثون عن رحلة خالية من الإجهاد ولا تنسى.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T092433Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>قبل السفر</h3>
+        <p><strong>معلومات مهمة للمسافرين</strong>
+        <br />
+        يجب الوصول إلى مطار علامه إقبال الدولي قبل 3 ساعات على الأقل من رحلتك. تذكر حمل وثائق سفر صالحة والتحقق من متطلبات التأشيرة. تحقق عبر الإنترنت أو في مكتب المطار قبل رحلتك.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>
+        في أقرب وقت ممكن: قبل <strong>4 ساعات</strong> من وقت المغادرة المحدودة<br />
+        الأحدث: <strong>60 دقيقة</strong> قبل وقت المغادرة المحدودة
+        </p>
+  - Version: 2
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="إعرض الخريطة" linktype="external" url="https://goo.gl/maps/jV5LgE6ei5uj5ygV7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>
+        فالكون قولد: <strong>عدادات 13-24</strong><br />
+        الدرجة السياحية: <strong>عدادات 13-24</strong>
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T115542Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="زيارة الموقع" linktype="external" url="https://lahoreairport.com.pk/" anchor="" target="_blank" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\EmanBurwais
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>الموقع</h3>
+        <p><span>يقع مطار علامة اقبال&nbsp; الدولي على بعد حوالي 15 كم من وسط المدينة في البنجاب</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "367c92ca-4c02-41f4-adeb-1ff8303b5c01"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>تفاصيل المحطة</h3>
+        <p>مطار علامه إقبال الدولي هو منشأة عالمية من الطراز العالمي مصممة لتزويد المسافرين بتجربة خالية من المتاعب. تم تجهيز هذا المطار بمجموعة من وسائل الراحة ، بما في ذلك المتاجر والمطاعم ومركز أعمال ومكتبة ومنتجع صحي. كما يوفر الكثير من خيارات النقل ، مثل سيارات الأجرة والحافلات والعبارات ، لنقل المسافرين إلى وجهتهم المرجوة. بفضل تصميمها الحديث ، وخدماتها عالية الجودة ، ووجهات نظرها المذهلة للمناظر الطبيعية المحلية ، فإن مطار لاهور علامه إقبال الدولي هو المكان المثالي لأولئك الذين يبحثون عن رحلة خالية من الإجهاد ولا تنسى.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\EmanBurwais
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230607T115542Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T120250Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>قبل السفر</h3>
+        <p><strong>معلومات مهمة للمسافرين</strong>
+        <br />
+        يجب الوصول إلى مطار علامه إقبال الدولي قبل 3 ساعات على الأقل من رحلتك. تذكر حمل وثائق سفر صالحة والتحقق من متطلبات التأشيرة. تحقق عبر الإنترنت أو في مكتب المطار قبل رحلتك.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>
+        <span dir="RTL" style="line-height: 107%;">أقرب موعد لإتمام إجراءات السفر:&nbsp;</span>قبل <strong>4 ساعات</strong> من وقت المغادرة المحدد<br />
+        <span dir="RTL" style="line-height: 107%;">اقصى موعد لإتمام إجراءات السفر</span>: <strong>60 دقيقة</strong> قبل وقت المغادرة المحدد</p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Ansichts Karte" linktype="external" url="https://goo.gl/maps/jV5LgE6ei5uj5ygV7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>Zähler 13-24</strong><br />
+        Wirtschaft: <strong>Zähler 13-24</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230401T230459Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Besuche die Website" linktype="external" url="https://lahoreairport.com.pk/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Ort</h3>
+        <p><span>Allama Iqbal International Airport liegt etwa 15 km vom Zentrum der Stadt in Punjab entfernt</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e94bedff-6a16-42ef-ae2f-0143c1237d58"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminaldetails</h3>
+        <p>Lahore Allama Iqbal International Airport LHE ist eine erstklassige Einrichtung, die Reisenden ein problemloses Erlebnis bietet. Dieser Flughafen ist mit einer Reihe von Annehmlichkeiten ausgestattet, darunter Gesch&auml;fte und Restaurants, ein Business centre, eine Bibliothek und ein Spa. Es bietet auch viele Transportoptionen wie Taxis, Busse und F&auml;hren, um Reisende zu ihrem gew&uuml;nschten Ziel zu bringen. Mit seinem modernen Design, seinen hochwertigen Diensten und dem spektakul&auml;ren Blick auf die lokale Landschaft ist Lahore Allama Iqbal International Airport der perfekte Ort f&uuml;r diejenigen, die eine stressfreie und unvergessliche Reise suchen.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T130825Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Bevor du fliegst</h3>
+        <p><strong>Wichtige Informationen f&uuml;r Passagiere</strong>
+        <br />
+        Kommen Sie mindestens 3 Stunden vor Ihrem Flug am Allama Iqbal Internationaler Flughafen an. Denken Sie daran, g&uuml;ltige Reisedokumente zu f&uuml;hren und die Visumanforderungen zu &uuml;berpr&uuml;fen. Schauen Sie sich vor Ihrem Flug online oder am Flughafenschalter ein.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>früheste: <strong>4 Stunden</strong> vor geplanter Abreisezeit<br />
+        Letzte: <strong>60 Minuten</strong> vor geplanter Abreisezeit</p>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="View Map" linktype="external" url="https://goo.gl/maps/jV5LgE6ei5uj5ygV7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>Counters 13-24</strong><br />
+        Economy: <strong>Counters 13-24</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T193359Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visit website" linktype="external" url="https://lahoreairport.com.pk/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Location</h3>
+        <p><span>Allama Iqbal International Airport is located about 15 km from the centre of the city in Punjab</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75a2ff2f-fae6-4221-8882-815d66a38189"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminal Details</h3>
+        <p>Lahore Allama Iqbal International Airport LHE is a world-class facility designed to provide travellers with a hassle-free experience. This airport is equipped with a range of amenities, including shops and restaurants, a business centre, a library, and a spa. It also offers plenty of transportation options, such as taxis, buses, and ferries, to take travellers to their desired destination. With its modern design, its high-quality services, and its spectacular views of the local landscape, Lahore Allama Iqbal International Airport LHE is the perfect place for those seeking a stress-free and memorable journey.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T133354Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Before you Fly</h3>
+        <p><strong>Important information for passengers</strong>
+        <br />
+        Arrive at Allama Iqbal International Airport at least 3 hours before your flight. Remember to carry valid travel documents and check visa requirements. Check in online or at the airport counter before your flight.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>Earliest: <strong>4 Hours</strong>&nbsp;before scheduled time of departure<br />
+        Latest: <strong>60 Minutes</strong> before scheduled time of departure</p>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Voir la carte" linktype="external" url="https://goo.gl/maps/jV5LgE6ei5uj5ygV7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>compteurs 13-24</strong><br />
+        Économie: <strong>compteurs 13-24</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230401T230216Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visitez le site Web" linktype="external" url="https://lahoreairport.com.pk/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Emplacement</h3>
+        <p><span>L'a&eacute;roport international d'Allama Iqbal est situ&eacute; &agrave; environ 15 km du centre de la ville au Punjab</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "36748b05-8b11-4765-8832-aafa36c1f74e"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>D&eacute;tails du terminal</h3>
+        <p>Lahore Allama Iqbal International Airport Lhe est une installation de classe mondiale con&ccedil;ue pour offrir aux voyageurs une exp&eacute;rience sans tracas. Cet a&eacute;roport est &eacute;quip&eacute; d'une gamme d'&eacute;quipements, y compris des magasins et des restaurants, un centre d'affaires, une biblioth&egrave;que et un spa. Il offre &eacute;galement de nombreuses options de transport, telles que les taxis, les bus et les ferries, pour amener les voyageurs &agrave; la destination souhait&eacute;e. Avec son design moderne, ses services de haute qualit&eacute; et ses vues spectaculaires sur le paysage local, l'a&eacute;roport international de Lahore Allama Iqbal est l'endroit id&eacute;al pour ceux qui recherchent un voyage sans stress et m&eacute;morable.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T124044Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Avant de voler</h3>
+        <p><strong>Informations importantes pour les passagers</strong>
+        <br />
+        Arrivez &agrave; Aéroport international d'Allama Iqbal au moins 3 heures avant votre vol. N'oubliez pas de transporter des documents de voyage valides et de v&eacute;rifier les exigences de visa. Enregistrez-vous en ligne ou au comptoir de l'a&eacute;roport avant votre vol.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>précoce: <strong>4 heures</strong> avant l'heure de départ prévue<br />
+        Dernier: <strong>60 minutes</strong> avant l'heure de départ prévue</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Посмотреть карту" linktype="external" url="https://goo.gl/maps/jV5LgE6ei5uj5ygV7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>счетчики 13-24</strong><br />
+        Экономика: <strong>счетчики 13-24</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T172251Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Посетите вебсайт" linktype="external" url="https://lahoreairport.com.pk/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Место нахождения</h3>
+        <p><span>Международный аэропорт Алламы Икбал расположен примерно в 15 км от центра города в Пенджабе</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd604cfb-c752-424a-8577-15ca3edd2a6c"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Терминальные детали</h3>
+        <p>Lahore Allama Iqbal International Airport LHE-это объект мирового класса, предназначенный для того, чтобы предоставить путешественникам беспрепятственный опыт. Этот аэропорт оснащен широким ассортиментом удобств, включая магазины и рестораны, бизнес -центр, библиотеку и спа. Он также предлагает множество вариантов транспорта, таких как такси, автобусы и паромы, чтобы отвезти путешественников в желаемое место. Благодаря своему современному дизайну, высококачественным услугам и впечатляющим видом на местный ландшафт, международный аэропорт Lahore Allama Iqbal LHE является идеальным местом для тех, кто ищет без стресса и запоминающееся путешествие.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T131827Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Перед полетом</h3>
+        <p><strong>Важная информация для пассажиров</strong>
+        <br />
+        Приезжайте в Международный аэропорт Аллама Икбал по крайней мере за 3 часа до вашего рейса. Не забудьте вести действительные туристические документы и проверить требования визы. Зарегистрируйтесь в Интернете или на стойке аэропорта перед рейсом.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>течение раннего: <strong>за 4 часа</strong> до запланированного срока вылета<br />
+        Последнее: <strong>за 60 минут</strong> до запланированного времени отъезда</p>

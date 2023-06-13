@@ -1,0 +1,53 @@
+﻿---
+ID: "b9bd7925-6e2c-4b85-b26a-7c9ab46fad90"
+Parent: "fd44cd71-9466-48c1-96a5-46fa48edfe1d"
+Template: "8b8298c4-999e-4adf-811b-f933f682462d"
+Path: "/sitecore/content/gulfair-app-in/Data/Destination Page Folder/Discover Medina"
+SharedFields:
+- ID: "042173f6-2e1e-45c9-8130-7cf235bdc997"
+  Hint: AppBanner
+  Value: "{20D3B334-CE35-4EB4-96F9-185F63451216}"
+- ID: "1b0e6df4-2cfc-42b2-ba06-ca33365f13d7"
+  Hint: TemperatureWidget
+  Value: "{FE99AB1F-C1F3-4BF3-AF32-D5970E1B1852}"
+- ID: "53ceadbd-ddc5-4882-bdea-6ad4827d51cd"
+  Hint: InnerBanner
+  Value: "{C733742F-0416-4E92-8AF3-AFF048635BC1}"
+- ID: "8b1f129a-7087-4356-824f-4bbacd6f58e9"
+  Hint: CardListWithUSD
+  Value: 
+- ID: "9ef04b0d-c553-4663-a67a-f232c5587076"
+  Hint: BookingPanel
+  Value: "{1C6A3F2F-AAD9-43DB-B655-7BBAC206E9F2}"
+- ID: "de83500e-6b06-4b88-9a7f-c864830ef8af"
+  Hint: DiscoverDestination
+  Value: "{09E170A4-A981-4CDF-8FC1-E9E1F8D04292}"
+- ID: "e15423a0-6e6c-42b5-ae2c-da9cd0499787"
+  Hint: ThingToDo
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230316T091951Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7bd7102c-e4a8-4e7f-bbac-4c9ba242bd5b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230514T191450Z

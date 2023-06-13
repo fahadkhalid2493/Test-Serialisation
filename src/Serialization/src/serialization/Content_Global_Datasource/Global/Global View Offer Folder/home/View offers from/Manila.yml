@@ -1,0 +1,154 @@
+﻿---
+ID: "2811cf30-1204-4d21-baa2-89e32afd0806"
+Parent: "c5aa386a-dd70-4729-8afb-795e5a9858cc"
+Template: "fea9fb96-6afb-436a-a6fe-93bd826fa9d7"
+Path: /sitecore/content/Global/Global View Offer Folder/home/View offers from/Manila
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1800
+- ID: "bc609192-db8b-4723-ba09-9a1d73dec66d"
+  Hint: City
+  Value: "{09AC5718-D444-4F8A-8ACC-54E7C54B2786}"
+- ID: "f343f8ec-f709-4508-9cea-a0cd78ec6da4"
+  Hint: OfferList
+  Value: |
+    {DB47F6A9-993C-4647-BFF1-BC3B95D90A0B}
+    {39B94613-A64F-40E4-BB56-9838CA2D5D90}
+    {D564EA13-BCED-4067-94E4-FDDB6EE0AC07}
+    {106CC4A7-08A1-4F9D-A606-5CE414B3A8CF}
+    {F68B0446-4D7F-4B8C-B2A1-DAE73E97E349}
+    {9F1B9ECE-26DE-437F-AFCD-91CBC53190EF}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b37990d7-b247-40d8-b77d-b40ac7938db5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T141128Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: مانيلا
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0180cc19-dada-45aa-8ec9-0179e89f49a8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T141151Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Manila
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35336d2f-5e22-44ea-aa9e-16361888d21d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230531T110054Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Manila
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0dd46c5d-8d25-4152-a214-01503605931b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T141138Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Manille
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0aa4738d-7fee-418e-81de-aed9528257a7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T141201Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Манила

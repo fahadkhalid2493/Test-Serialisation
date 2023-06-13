@@ -1,0 +1,217 @@
+﻿---
+ID: "de4a23e0-7b05-43e2-b10c-9078b4941007"
+Parent: "dfa10d10-3c8d-447c-8c6a-4428604d9138"
+Template: "1e823605-a717-4255-974c-7917397cd6c9"
+Path: "/sitecore/content/gulfair-app-cy/Data/Inner Banner Folder/Health and Safety/Inner Banner-1/Health and safety"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "66d06ec3-a13a-4601-b7d9-1ba74aed310c"
+  Hint: BackgroundImage
+  Value: |
+    <image width="1100" height="458" alt="19. Health &amp; Safety.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/053a16dad68c4f95b9515e7f3eba4699?v=e139a190" stylelabs-content-id="38238" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38238/thumbnail" />
+- ID: "78a29040-85d0-4619-b1eb-f52aa266bfe0"
+  Hint: TextAlignment
+  Value: "{0A42CAE2-9E7A-4FB8-BE35-1D23B2E53FDE}"
+- ID: "7bf12b50-a496-445f-aa2b-2be4d15c48ce"
+  Hint: MobileImage
+  Value: |
+    <image width="375" height="536" alt="19.-Mobile-Health-&amp;-Safety.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/02c7457be51248b48b7cb99556312544?v=a249d9ff" stylelabs-content-id="38242" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38242/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "a6d7f2d1-162a-424e-baf8-9c8857e04f7f"
+  Hint: TextColor
+  Value: "{89330C54-4FC1-4573-913A-BC08CCDEBD5B}"
+- ID: "b92f071d-1def-46b6-a749-46efddbd6693"
+  Hint: CTAColor
+  Value: "{F64FADCC-6FB4-46AA-A947-751B7BF0A024}"
+- ID: "da8bada7-5833-4d14-9d91-7f1d81a65432"
+  Hint: Duration
+  Value: 
+- ID: "f768fd8c-ee29-421c-8929-b5c21ac10c7b"
+  Hint: CTAType
+  Value: "{9E29A28B-7ED9-41A5-BE7D-66A986A44CC3}"
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T160145Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Health & Safety
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "75f300e8-4243-43c2-9b94-86da2397ac8c"
+      Hint: CTA
+      Value: 
+    - ID: "7ccb2c2f-780e-42e3-9b26-7b6fb2b3f8a6"
+      Hint: SubHeading
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b05c46ed-d35f-4926-b744-87d6616f6e8a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232131Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T160145Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Health & Safety
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e4007fb-e683-4deb-b7c2-539d361e37fb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232131Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T160145Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Health & Safety Egypt
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "75f300e8-4243-43c2-9b94-86da2397ac8c"
+      Hint: CTA
+      Value: 
+    - ID: "7ccb2c2f-780e-42e3-9b26-7b6fb2b3f8a6"
+      Hint: SubHeading
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "32fc4df0-c0d4-4c0a-81bc-4a8da0c0ba06"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232131Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T160145Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Health & Safety
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b0cd1edb-04de-4761-929d-6db4d26ff8d4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232131Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T160145Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Health & Safety
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7293d29-fee8-46f5-ad74-e46390a64334"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232131Z

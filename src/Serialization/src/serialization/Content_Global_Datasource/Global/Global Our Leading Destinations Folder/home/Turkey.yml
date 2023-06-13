@@ -1,0 +1,209 @@
+﻿---
+ID: "46854c22-da27-434f-9daf-d8b0f2edabe5"
+Parent: "ae7860d6-58da-4911-b7bb-926c0014fea3"
+Template: "13a9e096-e161-4954-9de8-cca08294d2b5"
+Path: /sitecore/content/Global/Global Our Leading Destinations Folder/home/Turkey
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a1c92a0f-acda-46bb-a82d-1df8b271e265"
+  Hint: CategoryList
+  Value: |
+    {F00F4741-8640-4574-9C61-5FC9D239BA1E}
+    {30067CB8-6537-40C2-B098-E55C6F395349}
+    {295280DB-996F-421E-B23C-3B507C8A065E}
+    {A933CAA1-FA8B-4AE4-AF7E-5E1AB4A9541C}
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "d9c583e6-ee2b-43d1-9fd3-4a9ec694db68"
+  Hint: TileList
+  Value: |
+    {F164F85B-847B-4E67-978A-6E8AF061E00D}
+    {5B7D4B2E-2884-4808-8CE0-989BC3DAAB1A}
+    {D4A9AE19-4863-409B-BC97-66B13D3A0F84}
+    {B2E381A7-49DF-448D-B203-0944EFEF8808}
+    {B27FA754-95D9-468A-AF6A-2788557E8B7A}
+    {8584036C-152E-4224-8A53-F369BF64BA9F}
+    {B0FF7D59-5D54-484B-A490-A15BD1C35558}
+    {C2AC2617-E2C4-4E05-9271-60EA33589C6A}
+    {D9918889-E0BE-48E3-A99C-9B1574FA1B0F}
+    {A900023D-3FF1-4188-9885-60545EDD5EE7}
+    {BCDF01BF-FA7E-4E49-A1EF-97BD0A88BDB9}
+    {98239118-B117-47D0-9E5C-23FECEC69F28}
+    {816E58D8-106E-40E1-A721-84338298AF3B}
+    {BAD8D4EC-1E12-4D96-94C9-BFC389A3D783}
+    {45DEEF21-B13A-4C20-93F5-8DBA7D992CA9}
+    {4BEDA9F1-5544-4397-9810-18A8E9194FC9}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230521T135230Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ad31ee0d-24a6-4c96-a6a4-f0721159e07c"
+    - ID: "b0f62bb8-f3d0-414e-95fc-7d1bd7c3d23b"
+      Hint: CTA
+      Value: |
+        <link text="جميع الوجهات" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{DCF346DD-0BB3-47B6-ADE3-290CE934A77D}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T091807Z
+    - ID: "ead0d7bc-3d86-4370-a113-7706fad4dee9"
+      Hint: Heading
+      Value: وجهاتنا المفضلة
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230521T192650Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2de8f681-6885-4a06-8f41-497571f3e50e"
+    - ID: "b0f62bb8-f3d0-414e-95fc-7d1bd7c3d23b"
+      Hint: CTA
+      Value: |
+        <link text="All Destinations" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{DCF346DD-0BB3-47B6-ADE3-290CE934A77D}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230521T192650Z
+    - ID: "ead0d7bc-3d86-4370-a113-7706fad4dee9"
+      Hint: Heading
+      Value: Our Leading Destinations
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230118T173746Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "457af636-3313-4337-bfc9-49e110db7a3d"
+    - ID: "b0f62bb8-f3d0-414e-95fc-7d1bd7c3d23b"
+      Hint: CTA
+      Value: |
+        <link text="All Destinations" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{DCF346DD-0BB3-47B6-ADE3-290CE934A77D}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\emanburwais
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T100233Z
+    - ID: "ead0d7bc-3d86-4370-a113-7706fad4dee9"
+      Hint: Heading
+      Value: Our Leading Destinations
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230521T135447Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c029da4d-82db-4aee-934c-aeec40037a25"
+    - ID: "b0f62bb8-f3d0-414e-95fc-7d1bd7c3d23b"
+      Hint: CTA
+      Value: |
+        <link text="All Destinations" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{DCF346DD-0BB3-47B6-ADE3-290CE934A77D}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230521T135447Z
+    - ID: "ead0d7bc-3d86-4370-a113-7706fad4dee9"
+      Hint: Heading
+      Value: Our Leading Destinations
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230521T192656Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "815592e8-66a0-4a4e-8e4a-d78a2eb852fc"
+    - ID: "b0f62bb8-f3d0-414e-95fc-7d1bd7c3d23b"
+      Hint: CTA
+      Value: |
+        <link text="All Destinations" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{DCF346DD-0BB3-47B6-ADE3-290CE934A77D}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\emanburwais
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230612T073128Z
+    - ID: "ead0d7bc-3d86-4370-a113-7706fad4dee9"
+      Hint: Heading
+      Value: Our Leading Destinations

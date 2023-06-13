@@ -1,0 +1,431 @@
+﻿---
+ID: "b8910fd9-3220-41af-9d7d-7652a1448d26"
+Parent: "6de181f3-d153-4376-a7ea-63977f9985da"
+Template: "64fec9d9-d83e-40e2-81c8-bd6e6a654eb3"
+Path: "/sitecore/content/Global/Global Airport Info Section Folder/at-the-airport/info/AirportInfoSectionParent/DO NOT ADD - Salalah International Airport"
+SharedFields:
+- ID: "2ed07a2d-5ec4-4469-85bc-49746a7724cd"
+  Hint: Airport
+  Value: "{87D1EACF-F443-40CE-845D-38522D3C1E85}"
+- ID: "3c09129a-e8b8-40d8-b82e-0392a2328f2a"
+  Hint: WebCheckin
+  Value: "{584449BA-3F3E-48A3-AFAA-00B0A5392C90}"
+- ID: "684f084f-cee6-461d-a4c9-e63c99a54d24"
+  Hint: CheckinTimeColor
+  Value: "{7C4FD76D-3B0F-42EA-A617-03C670A8A379}"
+- ID: "7d5ad0bc-c0a0-43ea-aa8a-c1146d311fc6"
+  Hint: CheckinCountersColor
+  Value: "{7C4FD76D-3B0F-42EA-A617-03C670A8A379}"
+- ID: "95b1e77c-f04a-4f75-bd0e-6beff504cda7"
+  Hint: WebCheckinColor
+  Value: "{3F16AFC2-00E8-4FFD-A242-49354F84EF7B}"
+- ID: "974f1505-990f-4931-91b1-9c7b708c5fc1"
+  Hint: PremiumCheckinServiceColor
+  Value: "{3F16AFC2-00E8-4FFD-A242-49354F84EF7B}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "cde96da4-693c-4270-8fde-fa9ff77e22db"
+  Hint: PremiumCheckinService
+  Value: "{9954376D-F506-4DF8-B914-9D356EC60BFD}"
+- ID: "df4dd1f7-ba31-4a06-bbf5-250f9a00dc23"
+  Hint: MapCTAColor
+  Value: "{8B58979B-FF89-4F09-9AF3-6A860E012049}"
+- ID: "f0d82689-dd4b-419e-8cbb-a57b16349fa3"
+  Hint: BeforeYouFlyCTAColor
+  Value: "{8B58979B-FF89-4F09-9AF3-6A860E012049}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="إعرض الخريطة" linktype="external" url="https://goo.gl/maps/PMoeFE6jJqWaFiaA9" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>
+        المميزة: <strong>Terminal 1</strong><br />
+        الدرجة السياحية: <strong>المحطة 1</strong>
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T193359Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="زيارة الموقع" linktype="external" url="https://salalahairport.co.om/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>الموقع</h3>
+        <p>وهي تقع على السهل الساحلي لصلالة في محافظة ظفار، 5.5 كيلومترات (3.4 ميل) شمال شرق وسط مدينة صلالة&nbsp;</p>
+        <div id="gtx-trans" style="position: absolute; left: 1058px; top: 66.4062px;">
+        <div class="gtx-trans-icon">&nbsp;</div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a49d3fe5-bf32-4a1c-91e2-4994f3dbc341"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>تفاصيل المحطة</h3>
+        <p>مطار صلالة الدولي هو المطار الرئيسي في عمان ويخدم مدينة صلالة ومحافظة ظفار. تقع في جنوب عمان. لقد خضع لتجديد كبير لتوسيع مرافقها وتوفير خدمات محسّنة. يحتوي المطار على مدرج واحد ومحطفين للركاب ، مع استخدام المحطة القديمة في المقام الأول للرحلات الإقليمية. في الآونة الأخيرة ، أصبح المطار مركزًا للنشاط السياحي بسبب قربه من منطقة ظفار&nbsp; ، وكذلك مرافقه الحديثة وعملياتها الفعالة. يعد مطار صلاله الدولي جزءًا مهمًا من البنية التحتية في عمان ، مما يسمح للمسافرين بالوصول بسهولة إلى العديد من مناطق الجذب في البلاد.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T114233Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>قبل السفر</h3>
+        <p><strong>معلومات مهمة للمسافرين</strong>
+        <br />
+        يجب الوصول إلى مطار صلالة الدولي قبل 3 ساعات على الأقل من رحلتك. تذكر حمل وثائق سفر صالحة والتحقق من متطلبات التأشيرة. تحقق عبر الإنترنت أو في مكتب المطار قبل رحلتك.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>
+        في أقرب وقت ممكن: قبل <strong>ساعتين</strong> من وقت المغادرة المحدودة<br />
+        الأحدث: <strong>60 دقيقة</strong> قبل وقت المغادرة المحدودة
+        </p>
+  - Version: 2
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="إعرض الخريطة" linktype="external" url="https://goo.gl/maps/PMoeFE6jJqWaFiaA9" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>
+        المميزة: <strong>Terminal 1</strong><br />
+        الدرجة السياحية: <strong>المحطة 1</strong>
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T121505Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="زيارة الموقع" linktype="external" url="https://salalahairport.co.om/" anchor="" target="_blank" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\EmanBurwais
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>الموقع</h3>
+        <p>وهي تقع على السهل الساحلي لصلالة في محافظة ظفار، 5.5 كيلومترات (3.4 ميل) شمال شرق وسط مدينة صلالة&nbsp;</p>
+        <div id="gtx-trans" style="position: absolute; left: 1058px; top: 66.4062px;">
+        <div class="gtx-trans-icon">&nbsp;</div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "59c6c1dd-d4d0-4fad-a8bf-4952cd0a9c0e"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>تفاصيل المحطة</h3>
+        <p>مطار صلالة الدولي هو المطار الرئيسي في عمان ويخدم مدينة صلالة ومحافظة ظفار. تقع في جنوب عمان. لقد خضع لتجديد كبير لتوسيع مرافقها وتوفير خدمات محسّنة. يحتوي المطار على مدرج واحد ومحطفين للركاب ، مع استخدام المحطة القديمة في المقام الأول للرحلات الإقليمية. في الآونة الأخيرة ، أصبح المطار مركزًا للنشاط السياحي بسبب قربه من منطقة ظفار&nbsp; ، وكذلك مرافقه الحديثة وعملياتها الفعالة. يعد مطار صلاله الدولي جزءًا مهمًا من البنية التحتية في عمان ، مما يسمح للمسافرين بالوصول بسهولة إلى العديد من مناطق الجذب في البلاد.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\EmanBurwais
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230607T121505Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T121523Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>قبل السفر</h3>
+        <p><strong>معلومات مهمة للمسافرين</strong>
+        <br />
+        يجب الوصول إلى مطار صلالة الدولي قبل 3 ساعات على الأقل من رحلتك. تذكر حمل وثائق سفر صالحة والتحقق من متطلبات التأشيرة. تحقق عبر الإنترنت أو في مكتب المطار قبل رحلتك.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>
+        أقرب موعد لإتمام إجراءات السفر:&nbsp;قبل&nbsp;<strong>3&nbsp;ساعات</strong>&nbsp;من وقت المغادرة المحدد<br />
+        اقصى موعد لإتمام إجراءات السفر:&nbsp;<strong>60 دقيقة</strong>&nbsp;قبل وقت المغادرة المحدد&nbsp;&nbsp;</p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Ansichts Karte" linktype="external" url="https://goo.gl/maps/PMoeFE6jJqWaFiaA9" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>Terminal 1</strong><br />
+        Wirtschaft: <strong>Terminal 1</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230401T230459Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Besuche die Website" linktype="external" url="https://salalahairport.co.om/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Ort</h3>
+        <p>Es befindet sich in der Salalah Coastal Plain im Dhofar -Gouvernement, 5,5 Kilometer nord&ouml;stlich von Salalahs Stadtzentrum</p>
+        <div id="gtx-trans" style="position: absolute; left: -54px; top: 66.4062px;">
+        <div class="gtx-trans-icon">&nbsp;</div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "36df8ce6-9983-46c1-84bb-2aacd3248fb6"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminaldetails</h3>
+        <p>Salalah International Airport SLL ist der Hauptflughafen im Oman und dient der Stadt Salalah und dem Gouverneur von Dhofar. Das Hotel liegt im S&uuml;den von Oman. Es hat sich einer gro&szlig;en Renovierung zur Erweiterung seiner Einrichtungen und der Bereitstellung verbesserter Dienstleistungen erfahren. Der Flughafen verf&uuml;gt &uuml;ber eine Landebahn und zwei Passagierterminals, wobei das &auml;ltere Terminal haupts&auml;chlich f&uuml;r regionale Fl&uuml;ge verwendet wird. In j&uuml;ngster Zeit ist der Flughafen aufgrund seiner N&auml;he zur Dhofar -Region sowie seinen modernen Einrichtungen und effizienten Vorg&auml;ngen zu einem Hub f&uuml;r touristische Aktivit&auml;ten geworden. Salalah International Airport SLL ist ein wichtiger Bestandteil der Oman -Infrastruktur, mit dem Reisende leicht auf die vielen Attraktionen des Landes zugreifen k&ouml;nnen.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T131606Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Bevor du fliegst</h3>
+        <p><strong>Wichtige Informationen f&uuml;r Passagiere</strong>
+        <br />
+        Kommen Sie mindestens 3 Stunden vor Ihrem Flug am Salalah International Airport an. Denken Sie daran, g&uuml;ltige Reisedokumente zu f&uuml;hren und die Visumanforderungen zu &uuml;berpr&uuml;fen. Schauen Sie sich vor Ihrem Flug online oder am Flughafenschalter ein.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>früheste: <strong>2 Stunden</strong> vor geplanter Abreisezeit<br />
+        Letzte: <strong>60 Minuten</strong> vor geplanter Abreisezeit</p>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="View Map" linktype="external" url="https://goo.gl/maps/PMoeFE6jJqWaFiaA9" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>Terminal 1</strong><br />
+        Economy: <strong>Terminal 1</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T193359Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visit website" linktype="external" url="https://salalahairport.co.om/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Location</h3>
+        <p>It is located on the Salalah coastal plain in the Dhofar Governorate, 5.5 kilometres (3.4 mi) northeast of Salalah's city centre</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "707da225-fc71-4872-9ede-fe2066539991"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminal Details</h3>
+        <p>Salalah International Airport SLL is the main airport in Oman and serves the city of Salalah and the Dhofar Governorate. Located in the south of Oman.It has undergone a major renovation to expand its facilities and provide enhanced services. The airport has one runway and two passenger terminals, with the older terminal being used primarily for regional flights. Recently, the airport has become a hub for tourist activity due to its proximity to the Dhofar region, as well as its modern facilities and efficient operations. Salalah International Airport SLL is an important part of Oman's infrastructure, allowing travellers to easily access the country's many attractions.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230515T175612Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Before you Fly</h3>
+        <p><strong>Important information for passengers</strong>
+        <br />
+        Arrive at Salalah International Airport at least 3 hours before your flight. Remember to carry valid travel documents and check visa requirements. Check in online or at the airport counter before your flight.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>Earliest: <strong>2 Hours</strong> before scheduled time of departure<br />
+        Latest: <strong>60 Minutes</strong> before scheduled time of departure</p>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Voir la carte" linktype="external" url="https://goo.gl/maps/PMoeFE6jJqWaFiaA9" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>Terminal 1</strong><br />
+        Économie: <strong>terminal 1</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230401T230216Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visitez le site Web" linktype="external" url="https://salalahairport.co.om/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Emplacement</h3>
+        <p>Il est situ&eacute; sur la plaine c&ocirc;ti&egrave;re de Salalah dans le gouvernorat du Dhofar, 5,5 kilom&egrave;tres (3,4 mi) au nord-est du centre-ville de Salalah</p>
+        <div id="gtx-trans" style="position: absolute; left: -18px; top: 66.4062px;">
+        <div class="gtx-trans-icon">&nbsp;</div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "16638d88-71b7-47e9-9f88-2e461dfde21c"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>D&eacute;tails du terminal</h3>
+        <p>L'a&eacute;roport international de Salalah SLL est le principal a&eacute;roport d'Oman et dessert la ville de Salalah et le gouvernorat du Dhofar. Situ&eacute; dans le sud d'Oman. Il a subi une r&eacute;novation majeure pour &eacute;tendre ses installations et fournir des services am&eacute;lior&eacute;s. L'a&eacute;roport a une piste et deux terminaux de passagers, le terminal plus ancien &eacute;tant utilis&eacute; principalement pour les vols r&eacute;gionaux. R&eacute;cemment, l'a&eacute;roport est devenu une plaque tournante pour l'activit&eacute; touristique en raison de sa proximit&eacute; avec la r&eacute;gion Dhofar, ainsi que de ses installations modernes et de ses op&eacute;rations efficaces. L'a&eacute;roport international de Salalah SLL est une partie importante de l'infrastructure d'Oman, permettant aux voyageurs d'acc&eacute;der facilement aux nombreuses attractions du pays.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T130347Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Avant de voler</h3>
+        <p><strong>Informations importantes pour les passagers</strong>
+        <br />
+        Arrivez &agrave; Aéroport international de Salalah au moins 3 heures avant votre vol. N'oubliez pas de transporter des documents de voyage valides et de v&eacute;rifier les exigences de visa. Enregistrez-vous en ligne ou au comptoir de l'a&eacute;roport avant votre vol.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>précoce: <strong>2 heures</strong> avant l'heure de départ prévue<br />
+        Dernier: <strong>60 minutes</strong> avant l'heure de départ prévue</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Посмотреть карту" linktype="external" url="https://goo.gl/maps/PMoeFE6jJqWaFiaA9" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Сокол Золото: <strong>терминал 1</strong><br />
+        Экономика: <strong>терминал 1</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T172251Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Посетите вебсайт" linktype="external" url="https://salalahairport.co.om/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Место нахождения</h3>
+        <p>Он расположен на прибрежной равнине Салала в мухафазе Дхофар, 5,5 километра (3,4 миль) к северо -востоку от центра города Салала</p>
+        <div id="gtx-trans" style="position: absolute; left: -7px; top: 22.4062px;">
+        <div class="gtx-trans-icon">&nbsp;</div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e147b908-239e-4568-ba87-fc1f84feb08c"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Терминальные детали</h3>
+        <p>Международный аэропорт Salalah SLL является основным аэропортом Омана и обслуживает город Салала и Гортата Дхофара. Расположенный на юге Омана. Он подвергся серьезным ремонтам для расширения своих объектов и предоставления улучшенных услуг. В аэропорту есть одна взлетно -посадочная полоса и две пассажирские терминалы, причем более старый терминал используется в основном для региональных рейсов. В последнее время аэропорт стал центром туристической деятельности из -за его близости к региону Дхофар, а также его современных объектов и эффективных операций. Salalah International Airport SLL является важной частью инфраструктуры Омана, что позволяет путешественникам легко получить доступ к многим достопримечательностям страны.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T133044Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Перед полетом</h3>
+        <p><strong>Важная информация для пассажиров</strong>
+        <br />
+        Приезжайте в Салала международный аэропорт по крайней мере за 3 часа до вашего рейса. Не забудьте вести действительные туристические документы и проверить требования визы. Зарегистрируйтесь в Интернете или на стойке аэропорта перед рейсом.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>течение раннего: <strong>за 2 часа</strong> до запланированного срока вылета<br />
+        Последнее: <strong>за 60 минут</strong> до запланированного времени отъезда</p>

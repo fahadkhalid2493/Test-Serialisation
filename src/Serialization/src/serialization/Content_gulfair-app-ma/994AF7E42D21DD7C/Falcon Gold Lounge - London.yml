@@ -1,0 +1,161 @@
+﻿---
+ID: "bb0dfd46-b411-40ed-a1a7-2623bd571565"
+Parent: "ec873a54-084b-4bf8-aec9-d852ff593fb8"
+Template: "65efed86-2e21-4691-8f52-36db4d73550a"
+Path: "/sitecore/content/gulfair-app-ma/Data/Lounge Information Folder/bahrain-falcon-gold-lounge/Lounge Information Parent/Falcon Gold Lounge - London"
+SharedFields:
+- ID: "045f6c53-c80b-4d2c-b803-6736d43162cb"
+  Hint: City
+  Value: "{C67610C2-DDB7-4A96-AF62-820CC69574C4}"
+- ID: "851fea13-3ee7-429f-b37a-3234f2f84f53"
+  Hint: Image
+  Value: |
+    <image width="460" height="413" alt="FalconGoldLoungeBahrain.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/f69ea4ee3027460d8c881fbd6ee3ea60?v=11ee6a6c" stylelabs-content-id="37293" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/37293/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230130T123448Z
+    - ID: "50388d05-676b-4af8-a6bc-8dd3e604742e"
+      Hint: LocationValue
+      Value: "Departure hall - Terminal 4"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "65617a01-0c7b-419e-9373-16d56d5c3b4d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d99d312c-58ef-4984-be62-fbfd2ed49e7f"
+      Hint: NameValue
+      Value: Falcon Gold Lounge
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234904Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T110230Z
+    - ID: "50388d05-676b-4af8-a6bc-8dd3e604742e"
+      Hint: LocationValue
+      Value: "Departure hall - Terminal 4"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b2b28a8-c133-40c4-b5a2-94f5df6b4ca9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d99d312c-58ef-4984-be62-fbfd2ed49e7f"
+      Hint: NameValue
+      Value: Falcon Gold Lounge
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234904Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T110230Z
+    - ID: "50388d05-676b-4af8-a6bc-8dd3e604742e"
+      Hint: LocationValue
+      Value: "Departure hall - Terminal 4"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "329557fd-aec1-4cc7-b326-6e2712df1705"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d99d312c-58ef-4984-be62-fbfd2ed49e7f"
+      Hint: NameValue
+      Value: Falcon Gold Lounge
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234904Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T110230Z
+    - ID: "50388d05-676b-4af8-a6bc-8dd3e604742e"
+      Hint: LocationValue
+      Value: "Departure hall - Terminal 4"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "18d94992-6e22-4e30-91ed-398a731da42f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d99d312c-58ef-4984-be62-fbfd2ed49e7f"
+      Hint: NameValue
+      Value: Falcon Gold Lounge
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234904Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T110230Z
+    - ID: "50388d05-676b-4af8-a6bc-8dd3e604742e"
+      Hint: LocationValue
+      Value: "Departure hall - Terminal 4"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "acd12228-e8db-445e-a822-4cbbcacb9bdd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d99d312c-58ef-4984-be62-fbfd2ed49e7f"
+      Hint: NameValue
+      Value: Falcon Gold Lounge
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234904Z

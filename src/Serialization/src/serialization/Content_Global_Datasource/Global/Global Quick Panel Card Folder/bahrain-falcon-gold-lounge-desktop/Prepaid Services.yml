@@ -1,0 +1,180 @@
+﻿---
+ID: "bc8a8927-52fb-4014-b525-71aec9c24d55"
+Parent: "f689d51c-5ba8-4575-b1da-72722d37971b"
+Template: "47ed2d01-5223-4099-b239-215c95403756"
+Path: "/sitecore/content/Global/Global Quick Panel Card Folder/bahrain-falcon-gold-lounge-desktop/Prepaid Services"
+SharedFields:
+- ID: "097c5cd0-4515-43d8-aa57-e5c5ce63a6c1"
+  Hint: LastNameField
+  Value: "{D9C3373B-7138-449E-BABA-3CCF0D66FDC7}"
+- ID: "49b36590-ddd7-4be0-81b0-56ecc625b024"
+  Hint: BookingReferenceField
+  Value: "{27F07553-5103-4663-B266-17F0274093A1}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230206T145644Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "6501e363-ba99-4c31-b6b7-892cf97e358c"
+      Hint: Heading
+      Value: خدمات مسبقة الدفع
+    - ID: "6bbb1b94-e830-43db-b614-2ddfdabfe054"
+      Hint: SubText
+      Value: أدخل بيانات المسافر  للمتابعة
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1cd93a4-e88d-4166-8310-b982f0942cf6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d39f8563-355d-413f-bedb-a935817da71d"
+      Hint: Deeplink
+      Value: |
+        <link text="المتابعة" linktype="external" url="https://gulfacc.resfinity.com/mmb" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T205033Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230206T115545Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "6501e363-ba99-4c31-b6b7-892cf97e358c"
+      Hint: Heading
+      Value: "Prepaid-Dienste"
+    - ID: "6bbb1b94-e830-43db-b614-2ddfdabfe054"
+      Hint: SubText
+      Value: Geben Sie Ihre Passagierdaten ein, um fortzufahren
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7fa1377-e47c-442e-824c-fc05a7363b3e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d39f8563-355d-413f-bedb-a935817da71d"
+      Hint: Deeplink
+      Value: |
+        <link text="einreichen" linktype="external" url="https://gulfacc.resfinity.com/mmb" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T205020Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230206T115545Z
+    - ID: "6501e363-ba99-4c31-b6b7-892cf97e358c"
+      Hint: Heading
+      Value: Prepaid Services
+    - ID: "6bbb1b94-e830-43db-b614-2ddfdabfe054"
+      Hint: SubText
+      Value: enter your passengers details to continue
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0b3e818-3a7f-4640-8f29-1a97f5730249"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d39f8563-355d-413f-bedb-a935817da71d"
+      Hint: Deeplink
+      Value: |
+        <link text="Submit" linktype="external" url="https://gulfacc.resfinity.com/mmb" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T204957Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230206T115545Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "6501e363-ba99-4c31-b6b7-892cf97e358c"
+      Hint: Heading
+      Value: Services prépayés
+    - ID: "6bbb1b94-e830-43db-b614-2ddfdabfe054"
+      Hint: SubText
+      Value: entrez les détails de vos passagers pour continuer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "72fb5955-4538-4977-bb11-d9d2dc9dc294"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d39f8563-355d-413f-bedb-a935817da71d"
+      Hint: Deeplink
+      Value: |
+        <link text="Envoyer" linktype="external" url="https://gulfacc.resfinity.com/mmb" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T205024Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230206T115545Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "6501e363-ba99-4c31-b6b7-892cf97e358c"
+      Hint: Heading
+      Value: Предоплаченные услуги
+    - ID: "6bbb1b94-e830-43db-b614-2ddfdabfe054"
+      Hint: SubText
+      Value: введите данные пассажиров, чтобы продолжить
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7a43cf1-eca3-4338-abf3-8c06015d2c14"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d39f8563-355d-413f-bedb-a935817da71d"
+      Hint: Deeplink
+      Value: |
+        <link text="Представлять на рассмотрение" linktype="external" url="https://gulfacc.resfinity.com/mmb" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T205029Z

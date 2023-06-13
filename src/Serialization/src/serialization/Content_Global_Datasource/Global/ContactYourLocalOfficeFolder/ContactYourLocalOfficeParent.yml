@@ -1,0 +1,190 @@
+﻿---
+ID: "7a46dae4-606e-4963-98cf-be6b1e7153a5"
+Parent: "c3db85a1-815a-4210-b8e3-d377d88313d6"
+Template: "4612f69e-87d4-4bba-800e-6c59ec689e64"
+Path: /sitecore/content/Global/ContactYourLocalOfficeFolder/ContactYourLocalOfficeParent
+SharedFields:
+- ID: "29b4f2f4-c2db-498b-9c56-69cfb6ffba44"
+  Hint: OfficeDetailsList
+  Value: "{ABF9EC2B-70BD-43F0-B374-A429375F4771}"
+- ID: "f655afd8-a164-47d4-9056-18d83a631510"
+  Hint: Country
+  Value: |
+    {84698965-13A6-48ED-9739-A9E23AE651BB}
+    {A90A6953-4A2E-44E9-9552-EB71CE1D135E}
+    {35920BCD-097A-402C-BC19-6AE35FF01279}
+    {D3212655-0631-4D81-A698-C2FCE4870FEF}
+    {C0E4F79C-1C35-4E99-8C10-EB91075E8DF2}
+    {3297870A-45D3-4F22-933E-BD2D159B28DE}
+    {47D6FC9B-4A9B-48EA-AB21-74A4516A2047}
+    {DAD094F8-0E36-494C-85A0-017D8C99D212}
+    {D2A4BD12-BC61-4465-AD2B-E5F3DDAECAA8}
+    {AA624E5E-6BA4-42B8-A9A1-A78EE680F500}
+    {B6F34B96-0246-457B-B9BA-1968A8D31C3B}
+    {BE570D23-314D-40FE-920F-4F55EB6E6C56}
+    {41D5C483-1503-4711-904D-AB732CC358E6}
+    {64AB52A3-F058-40DA-9F4F-A688FBE991B8}
+    {5BE6F0AA-6B71-4131-AF5E-3E9D6F41E903}
+    {41A45719-AA48-48C0-992A-CBC038949F8F}
+    {823931BF-9EA0-4007-A777-1A049571FC76}
+    {B5C595BF-CBEB-42DE-817A-F5956E9C3087}
+    {BA5DB744-282D-427C-8314-6AEE0A8915C8}
+    {F735A99B-9589-4032-BB68-9C1A6D557D8F}
+    {90701DA1-CBF8-4E57-BEDC-00DB4AD1702E}
+    {9A494AF3-7E3E-445E-822D-037A00B043CA}
+    {90D9E31E-686B-4BDC-9D2C-688423CCA6E4}
+    {E660F7AF-76B2-4EA3-8B49-344195AE287C}
+    {3DBB20AE-BCB9-4055-8369-8582ECCB23E1}
+    {6399A681-4923-4951-987D-6D8485A9A89B}
+    {18BF993D-E73F-44B4-A7B2-0FA593C7B3BD}
+    {7528796D-1249-473C-B608-5A7D9CEF6CD5}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230418T100917Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "038d679d-fe2f-4acb-b518-eebb0e41a7b2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230418T100917Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T093252Z
+    - ID: "4642ec67-0f80-4faf-bf93-53cc4eae1fbd"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Metus, ridiculus tincidunt ultrices urna, turpis iaculis.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "5e4b129d-8c7f-4b56-9aa3-1c689d142dd6"
+      Hint: Heading
+      Value: Contact your Local Gulf Air Office
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3cb601a6-7cee-41db-b7ee-5eb11d7c1290"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230418T100851Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T093252Z
+    - ID: "4642ec67-0f80-4faf-bf93-53cc4eae1fbd"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Metus, ridiculus tincidunt ultrices urna, turpis iaculis.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "5e4b129d-8c7f-4b56-9aa3-1c689d142dd6"
+      Hint: Heading
+      Value: Contact your Local Gulf Air Office
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "afc5c1c6-5154-474f-acbc-d389158830c0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hassan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230511T072006Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T093252Z
+    - ID: "4642ec67-0f80-4faf-bf93-53cc4eae1fbd"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Metus, ridiculus tincidunt ultrices urna, turpis iaculis.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "5e4b129d-8c7f-4b56-9aa3-1c689d142dd6"
+      Hint: Heading
+      Value: Contact your Local Gulf Air Office
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e2d3215b-31b4-4c57-a818-8596c804564f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230418T100857Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T093252Z
+    - ID: "4642ec67-0f80-4faf-bf93-53cc4eae1fbd"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Metus, ridiculus tincidunt ultrices urna, turpis iaculis.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "5e4b129d-8c7f-4b56-9aa3-1c689d142dd6"
+      Hint: Heading
+      Value: Contact your Local Gulf Air Office
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "774e01ab-8239-4a07-8b31-f9252df765b6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230418T100904Z

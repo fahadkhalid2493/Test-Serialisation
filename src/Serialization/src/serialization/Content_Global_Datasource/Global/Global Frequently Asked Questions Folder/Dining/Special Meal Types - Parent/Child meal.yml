@@ -1,0 +1,200 @@
+﻿---
+ID: "2a3a1638-f0d9-419d-9e97-311841bbb3fa"
+Parent: "8cde7878-2e2e-42f9-99b8-c2c8a36b3f96"
+Template: "f2695307-b5c9-4960-ac05-33fe710e032a"
+Path: "/sitecore/content/Global/Global Frequently Asked Questions Folder/Dining/Special Meal Types - Parent/Child meal"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T173930Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f02c4b7-14f6-411c-a961-438f49f3cc6d"
+    - ID: "9db57e03-2068-4fae-8676-d97ec7d6dd32"
+      Hint: Heading
+      Value: وجبة أطفال
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\farhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230428T094927Z
+    - ID: "f8e1179b-050a-4ac2-95d9-5627803a19ae"
+      Hint: Description
+      Value: <p>محتويات جذابة تقدم في أجزاء بحجم القضمة، متوازنة من الناحية الغذائية، وتتجنب المكونات التي قد تسيء إلى عملية الهضم لدي الأطفال</p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T173930Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74c0b191-2280-4851-889d-15055bf19e63"
+    - ID: "9db57e03-2068-4fae-8676-d97ec7d6dd32"
+      Hint: Heading
+      Value: Eine Kindermahlzeit
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\farhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T093911Z
+    - ID: "f8e1179b-050a-4ac2-95d9-5627803a19ae"
+      Hint: Description
+      Value: <p>Attraktive, mundgerechte Gegenst&auml;nde werden geliefert, ern&auml;hrungsbedingt ausgeglichen und vermeiden Zutaten, die die Verdauung eines Kindes st&ouml;ren k&ouml;nnten</p>
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T173930Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7c9a364-89de-4f14-b959-e8f0c83ab91e"
+    - ID: "9db57e03-2068-4fae-8676-d97ec7d6dd32"
+      Hint: Heading
+      Value: A Child Meal
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\farhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T093556Z
+    - ID: "f8e1179b-050a-4ac2-95d9-5627803a19ae"
+      Hint: Description
+      Value: "<p>Attractive, bite-size items are supplied, nutritionally balanced, and avoiding ingredients that could upset a child's digestion.</p>"
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T173930Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8ac73fa7-87bd-4347-addf-f26773ed3459"
+    - ID: "9db57e03-2068-4fae-8676-d97ec7d6dd32"
+      Hint: Heading
+      Value: Un enfant
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\farhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T093753Z
+    - ID: "f8e1179b-050a-4ac2-95d9-5627803a19ae"
+      Hint: Description
+      Value: <p>Des articles attrayants et de la taille d'une bouch&eacute;e sont fournis, &eacute;quilibr&eacute;s sur la nutrition et &eacute;vitant les ingr&eacute;dients qui pourraient bouleverser la digestion d'un enfant</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T173930Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c8a0be0f-9941-4d89-bd62-760f17109a28"
+    - ID: "9db57e03-2068-4fae-8676-d97ec7d6dd32"
+      Hint: Heading
+      Value: Детская еда
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\farhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T093825Z
+    - ID: "f8e1179b-050a-4ac2-95d9-5627803a19ae"
+      Hint: Description
+      Value: <p>Привлекательные предметы размером с укус поставляются, сбалансированы в питании и избегают ингредиентов, которые могут расстроить пищеварение ребенка</p>

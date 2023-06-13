@@ -1,0 +1,44 @@
+﻿---
+ID: "fbb0008c-147e-402b-904a-99b2c0c8585a"
+Parent: "b529b9d2-7dfc-4dc1-a70f-1939a02a1502"
+Template: "c4f0e5a0-41a4-4720-905f-4c0fc8003171"
+Path: /sitecore/content/Global/Global Cargo Contact Center Folder/Cargo Contact Center/Jeddah
+SharedFields:
+- ID: "3978628f-3184-4428-9a3c-d2e902a5e411"
+  Hint: ContactDetailsList
+  Value: "{DF997979-970D-41BF-A469-25469BC9D8EF}"
+- ID: "9c615311-1201-4a4b-be59-9d3dba8c3e70"
+  Hint: City
+  Value: "{ADB855DA-ED9A-482D-9D0C-159FFABA1EBA}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230519T120409Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc011e4f-3d6c-4d87-bcb0-2d3d9a345f40"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T121325Z

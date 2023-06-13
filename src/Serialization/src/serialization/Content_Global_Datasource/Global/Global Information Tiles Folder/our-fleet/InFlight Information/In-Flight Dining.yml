@@ -1,0 +1,181 @@
+﻿---
+ID: "ace3798c-1d89-4cdd-8bbc-81919ff5c08d"
+Parent: "f6521a09-0c4d-4978-87d0-82982779b49b"
+Template: "05d15730-eae4-491c-b945-137ef6920474"
+Path: "/sitecore/content/Global/Global Information Tiles Folder/our-fleet/InFlight Information/In-Flight Dining"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "d07c6cf5-4e87-4fdc-b467-d8fa8e5e2fb2"
+  Hint: Image
+  Value: |
+    <image width="560" height="315" alt="Onboard Dinning Experience 787" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/36ca0ec9546941b28beb3aff02d09d91?v=fdbf3e4b" stylelabs-content-id="49494" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/49494/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="تناول الطعام على متن الطائرة " anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2108E173-AE26-4B0C-B03B-5F800204D6F3}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "197f813e-4feb-4524-b1e6-d388d081ffc1"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: تناول الطعام على متن الطائرة 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>تمتع بالأطباق العالمية المصنوعة بخبرة مع طعامنا على متن الطائرة لرحلة لا مثيل لها</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225918Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="Essen im Flug" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2108E173-AE26-4B0C-B03B-5F800204D6F3}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6731054-2ebd-4eb0-8bc9-de5197b204e0"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Essen im Flug
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>Genie&szlig;en Sie fachm&auml;nnisch internationale Gerichte mit unserem Speisen im Flug f&uuml;r eine kulinarische Reise au&szlig;erhalb dieser Welt.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225918Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="In-Flight Dining" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2108E173-AE26-4B0C-B03B-5F800204D6F3}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9f6de681-e888-44e4-ba71-79fb38ebf1a5"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: "In-Flight Dining"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: "<p>Savor expertly crafted international dishes with our in-flight dining for an out of this world culinary journey.</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225918Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="Gaspillage en vol" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2108E173-AE26-4B0C-B03B-5F800204D6F3}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b2352921-7123-4f7d-901c-f5cb0fd3a8c3"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Gaspillage en vol
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>Savourez des plats internationaux con&ccedil;us avec experte avec notre d&icirc;ner en vol pour un voyage culinaire hors du monde.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225918Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="В полете" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2108E173-AE26-4B0C-B03B-5F800204D6F3}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a821a3e-7630-4428-a001-52b61572e6b1"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: В полете
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>Оваслет искусно продуманные международные блюда с нашей обедой в полете для кулинарного путешествия из этого мира.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225918Z

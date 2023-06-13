@@ -1,0 +1,187 @@
+﻿---
+ID: "466ca5a5-8663-44a7-a1ea-84a6ce1f8d63"
+Parent: "72a8f686-fbbf-4cff-a60e-ea9f21c990ba"
+Template: "d9d526f1-86fc-4c9a-ba80-6857931e4dc4"
+Path: "/sitecore/content/gulfair-app-eg/Data/Generic Rich Text With CTA Folder/Careers/Search Job"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230216T073220Z
+    - ID: "47f208ee-fcd9-46ab-9a15-8fffc62a67db"
+      Hint: Description
+      Value: |
+        <h2>Introduction</h2>
+        <hr />
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.
+        <br />
+        Dignissim fringilla pellentesque etiam lorem enim pharetra posuere. Id quam velit at orci nullam auctor. Purus ut auctor sit eget mi, urna habitant adipiscing sodales. Viverra in viverra.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "058f8022-0e67-4215-b2ae-e64069bc3852"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230315T083932Z
+    - ID: "ea49fbbd-dd8f-4495-8f37-7f03868b36cf"
+      Hint: CTA
+      Value: |
+        <link text="Download" linktype="media" target="_blank" id="{79B1DD8A-05EB-4E2C-B363-21CCCE0A2147}" />
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230216T073220Z
+    - ID: "47f208ee-fcd9-46ab-9a15-8fffc62a67db"
+      Hint: Description
+      Value: |
+        <h2>Introduction</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.
+        <br />
+        Dignissim fringilla pellentesque etiam lorem enim pharetra posuere. Id quam velit at orci nullam auctor. Purus ut auctor sit eget mi, urna habitant adipiscing sodales. Viverra in viverra.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0bc72c29-c218-4db9-ae08-200a08b59855"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\uzair
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120846Z
+    - ID: "ea49fbbd-dd8f-4495-8f37-7f03868b36cf"
+      Hint: CTA
+      Value: |
+        <link text="Download" linktype="media" target="_blank" id="{C7EAC337-90F6-4622-927E-E57F207C6C64}" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230216T073220Z
+    - ID: "47f208ee-fcd9-46ab-9a15-8fffc62a67db"
+      Hint: Description
+      Value: |
+        <h2>Search Jobs</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.
+        <br />
+        Dignissim fringilla pellentesque etiam lorem enim pharetra posuere. Id quam velit at orci nullam auctor. Purus ut auctor sit eget mi, urna habitant adipiscing sodales. Viverra in viverra.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9be6ab53-b172-41bc-aa1f-189538b3ec22"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230320T090706Z
+    - ID: "ea49fbbd-dd8f-4495-8f37-7f03868b36cf"
+      Hint: CTA
+      Value: |
+        <link text="Search for Vacancy" linktype="external" url="/" anchor="" target="_blank" />
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230216T073220Z
+    - ID: "47f208ee-fcd9-46ab-9a15-8fffc62a67db"
+      Hint: Description
+      Value: |
+        <h2>Introduction</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.
+        <br />
+        Dignissim fringilla pellentesque etiam lorem enim pharetra posuere. Id quam velit at orci nullam auctor. Purus ut auctor sit eget mi, urna habitant adipiscing sodales. Viverra in viverra.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0169c69e-2817-4524-bcca-2e7315a17b4b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\uzair
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T121119Z
+    - ID: "ea49fbbd-dd8f-4495-8f37-7f03868b36cf"
+      Hint: CTA
+      Value: |
+        <link text="Download" linktype="media" target="_blank" id="{C7EAC337-90F6-4622-927E-E57F207C6C64}" />
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230216T073220Z
+    - ID: "47f208ee-fcd9-46ab-9a15-8fffc62a67db"
+      Hint: Description
+      Value: |
+        <h2>Introduction</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.
+        <br />
+        Dignissim fringilla pellentesque etiam lorem enim pharetra posuere. Id quam velit at orci nullam auctor. Purus ut auctor sit eget mi, urna habitant adipiscing sodales. Viverra in viverra.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70770fd5-471a-43ba-a59a-eccdd8dce07e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\uzair
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T121536Z
+    - ID: "ea49fbbd-dd8f-4495-8f37-7f03868b36cf"
+      Hint: CTA
+      Value: |
+        <link text="Download" linktype="media" target="_blank" id="{C7EAC337-90F6-4622-927E-E57F207C6C64}" />

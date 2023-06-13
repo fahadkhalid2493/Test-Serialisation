@@ -1,0 +1,279 @@
+﻿---
+ID: "b885c7f9-89a5-4c62-b86b-e47a5d1d168d"
+Parent: "99828e3f-3215-4abe-8da3-3ec3b65b7e16"
+Template: "84db1eae-eba4-4615-b8b2-c9cac4b20b0c"
+Path: "/sitecore/content/gulfair-app-fr/Data/Generic Slider Folder/Destination/Generic Slider Folder/DEFAULT - Destination Guide -Slide3"
+SharedFields:
+- ID: "196e67f4-48ae-4eb9-a2d2-4f9015388787"
+  Hint: CTAType1
+  Value: "{9E29A28B-7ED9-41A5-BE7D-66A986A44CC3}"
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "20165fc1-1223-4a95-86da-56f6abc403b9"
+  Hint: BackgroundImage
+  Value: |
+    <image width="1440" height="654" alt="Generic-Slider1.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/5d85fa35f1ab40a88b00bc049bf93c2b?v=d7ea441a" stylelabs-content-id="36769" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/36769/thumbnail" />
+- ID: "66f006ca-494f-4dbf-8dd2-7f90b41f6d92"
+  Hint: CTAColor2
+  Value: "{89330C54-4FC1-4573-913A-BC08CCDEBD5B}"
+- ID: "921a38b7-3074-48ab-88c5-4462833c962a"
+  Hint: CTAType2
+  Value: "{B3C4407E-7461-4B34-B944-D581BA981A27}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "a6d7f2d1-162a-424e-baf8-9c8857e04f7f"
+  Hint: TextColor
+  Value: "{89330C54-4FC1-4573-913A-BC08CCDEBD5B}"
+- ID: "b8aca052-d05d-4167-a90f-a6c01f734f8c"
+  Hint: CTAColor1
+  Value: "{F64FADCC-6FB4-46AA-A947-751B7BF0A024}"
+- ID: "d469291b-511e-449c-af1b-7f74acc6e24e"
+  Hint: OverlayColor
+  Value: "{8B58979B-FF89-4F09-9AF3-6A860E012049}"
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Destination Guide -Slide3-ar"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T191815Z
+    - ID: "28f890ff-bd6f-466f-92f3-47a640dccb40"
+      Hint: CTA1
+      Value: |
+        <link text="احجز الآن" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "3732c4c2-d948-48f5-94a5-b0788fa796c8"
+      Hint: Heading
+      Value: مومباي
+    - ID: "3d9223b7-2480-4e98-8df5-997662495f38"
+      Hint: CTA2
+      Value: |
+        <link text="عن" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "756786c4-0b3e-4e8c-834b-66b02251eb22"
+      Hint: SubText
+      Value: <p>الاقتصاد من</p><p>600 دولار أمريكي</p><p>لوريم إيبسوم هو ببساطة نص شكلي يستخدم في صناعة الطباعة والتنضيد. كان Lorem Ipsum هو النص الوهمي القياسي في الصناعة منذ القرن الخامس عشر الميلادي ، عندما أخذت طابعة غير معروفة لوحًا من النوع وتدافعت عليه لعمل كتاب عينة. لقد صمد ليس فقط لخمسة قرون ، ولكن أيضًا القفزة في التنضيد الإلكتروني ، وظل دون تغيير جوهري. تم نشره في الستينيات من القرن الماضي مع إصدار أوراق Letraset التي تحتوي على مقاطع Lorem Ipsum ، ومؤخرًا مع برامج النشر المكتبي مثل Aldus PageMaker بما في ذلك إصدارات Lorem Ipsum.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2889e056-0325-4a2b-8198-319184dec122"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233043Z
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Destination Guide -Slide3"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T191815Z
+    - ID: "28f890ff-bd6f-466f-92f3-47a640dccb40"
+      Hint: CTA1
+      Value: |
+        <link text="Book Now" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "3732c4c2-d948-48f5-94a5-b0788fa796c8"
+      Hint: Heading
+      Value: Mumbai
+    - ID: "3d9223b7-2480-4e98-8df5-997662495f38"
+      Hint: CTA2
+      Value: |
+        <link text="About" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "756786c4-0b3e-4e8c-834b-66b02251eb22"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "08ee0cf1-1fa2-4592-9be7-4b05808d2c3a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c3ed5100-8c3c-4eb2-8b32-e8639637d106"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233043Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Destination Guide -Slide3"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T191815Z
+    - ID: "28f890ff-bd6f-466f-92f3-47a640dccb40"
+      Hint: CTA1
+      Value: |
+        <link text="Book Now" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "3732c4c2-d948-48f5-94a5-b0788fa796c8"
+      Hint: Heading
+      Value: Mumbai
+    - ID: "3d9223b7-2480-4e98-8df5-997662495f38"
+      Hint: CTA2
+      Value: |
+        <link text="About" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "756786c4-0b3e-4e8c-834b-66b02251eb22"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a6bfdf7-33e2-48e7-9dbf-7678a2f60e61"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c3ed5100-8c3c-4eb2-8b32-e8639637d106"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233043Z
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Destination Guide -Slide3"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T191815Z
+    - ID: "28f890ff-bd6f-466f-92f3-47a640dccb40"
+      Hint: CTA1
+      Value: |
+        <link text="Book Now" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "3732c4c2-d948-48f5-94a5-b0788fa796c8"
+      Hint: Heading
+      Value: Mumbai
+    - ID: "3d9223b7-2480-4e98-8df5-997662495f38"
+      Hint: CTA2
+      Value: |
+        <link text="About" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "756786c4-0b3e-4e8c-834b-66b02251eb22"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3f75a648-bfdb-43a6-ac8e-a6227fe6cd36"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c3ed5100-8c3c-4eb2-8b32-e8639637d106"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233043Z
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Destination Guide -Slide3"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T191815Z
+    - ID: "28f890ff-bd6f-466f-92f3-47a640dccb40"
+      Hint: CTA1
+      Value: |
+        <link text="Book Now" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "3732c4c2-d948-48f5-94a5-b0788fa796c8"
+      Hint: Heading
+      Value: Mumbai
+    - ID: "3d9223b7-2480-4e98-8df5-997662495f38"
+      Hint: CTA2
+      Value: |
+        <link text="About" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "756786c4-0b3e-4e8c-834b-66b02251eb22"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93cf2251-3061-43ff-a8fa-ddae3d21cd07"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c3ed5100-8c3c-4eb2-8b32-e8639637d106"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233043Z

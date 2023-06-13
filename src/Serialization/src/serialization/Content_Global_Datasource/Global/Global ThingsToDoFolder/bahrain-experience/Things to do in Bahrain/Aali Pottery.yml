@@ -1,0 +1,249 @@
+﻿---
+ID: "bbd0ea67-2a9c-4712-8ece-f1d99419b3a8"
+Parent: "caf10c8c-f8da-4e57-9bda-cee5ce5a6932"
+Template: "fd582026-66f8-4395-911a-c3cb6f40634d"
+Path: "/sitecore/content/Global/Global ThingsToDoFolder/bahrain-experience/Things to do in Bahrain/Aali Pottery"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+- ID: "dbc01cbd-a304-4024-8103-5684cc1d8d37"
+  Hint: Thumbnail
+  Value: |
+    <image width="364" height="400" alt="aali-pottery-workshop.webp" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/47687e8098c94e2989c884ff55517842?v=e8bafe54" stylelabs-content-id="48684" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48684/thumbnail" />
+- ID: "ffd0635b-490c-470f-a104-bdf5459a9885"
+  Hint: ImagesList
+  Value: "{B50F480A-FD66-497F-ADB0-A743BD24E9E0}"
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T162527Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0CC46D4F-89CC-4CE6-A336-926E8DD68E56}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: شاهد الحرفيين وهم يعملون في ورشة الفخار في عالي ، حيث تنتقل الأساليب التقليدية من جيل إلى جيل.
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: مصانع الفخار في عالي
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8ecff9b-c68c-4638-ae05-6c72f9e7b7f9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230218Z
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T162527Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0CC46D4F-89CC-4CE6-A336-926E8DD68E56}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: "Beobachten Sie T&ouml;pfer bei der Arbeit in der A'ali-T&ouml;pferwerkstatt, wo traditionelle Methoden von Generation zu Generation weitergegeben werden."
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: "A'ali-Töpferwerkstatt"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7ae6dbb-d3c3-4056-82fd-4d9433482e7d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230218Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T162527Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0CC46D4F-89CC-4CE6-A336-926E8DD68E56}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: Watch potters at work in the A'ali pottery workshop, where traditional methods are passed down from generation to generation.
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: A'ali Pottery Workshop
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1f45fe8-07e6-4fd1-a62b-bc34b8345f9b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230218Z
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T162527Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0CC46D4F-89CC-4CE6-A336-926E8DD68E56}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: Observez les potiers au travail dans l'atelier de poterie A'ali, o&ugrave; les m&eacute;thodes traditionnelles sont transmises de g&eacute;n&eacute;ration en g&eacute;n&eacute;ration.
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Atelier de poterie A'ali
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3bb0c710-6ada-43c4-bad8-490d4b06ba4c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230218Z
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T162527Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0CC46D4F-89CC-4CE6-A336-926E8DD68E56}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: Понаблюдайте за работой гончаров в гончарной мастерской Аали, где традиционные методы передаются из поколения в поколение.
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Гончарная мастерская Аали
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0f9c2300-9626-4378-bdda-3ac0dd8eff01"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230218Z

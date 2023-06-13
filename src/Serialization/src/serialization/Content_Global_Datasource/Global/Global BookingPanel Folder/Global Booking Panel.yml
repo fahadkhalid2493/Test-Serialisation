@@ -1,0 +1,600 @@
+﻿---
+ID: "af836860-16f2-4492-a8a2-8e0539a9a39d"
+Parent: "ec79caae-bdd9-40d0-b910-8f41e40c9e0b"
+Template: "f00210e9-1235-4c81-adb2-0ad6271774d2"
+Path: /sitecore/content/Global/Global BookingPanel Folder/Global Booking Panel
+SharedFields:
+- ID: "09a20d0f-179f-49f7-85c2-187af9edb3a5"
+  Hint: FlightSubmitURL
+  Value: "https://gulfacc.resfinity.com/falcon/deeplink?locale=${locale}&adt=${adult}&tnn=${teen}&inf=${infant}&chd=${children}&cabin_class=${ticketType}&origin=${origin}&destination=${destination}&flight_type=${tripType}&departure_date=${dateFrom}&return_date=${dateTo}&page=flights"
+- ID: "10ad28b7-cb68-4e8d-832a-e9d7a4beffed"
+  Hint: MaxPassengers
+  Value: "{64ACA0DA-D425-43FF-9471-9A796ED4C3D5}"
+- ID: "18ac411c-a872-4d7f-ad04-de47a281ee02"
+  Hint: MaxChildrenWithAdult
+  Value: "{D37D8B33-7C11-4480-9DC0-15A55D5ECE2A}"
+- ID: "20a5b469-dfc1-4e3f-b1fa-67ec6a54c972"
+  Hint: FlightHotelSubmitURL
+  Value: "https://holidays.gulfair.com/holiday-booking-search/?origin=${origin}&destination=${destination}&date_from=${dateFrom}&date_to=${dateTo}&is_oneway=false&no_rooms=1&adult_room_1=${adult}"
+- ID: "2294de5b-f26f-4af8-a032-4d991898621a"
+  Hint: EnableFlightStatus
+  Value: 1
+- ID: "4fd0846d-ab48-4490-835d-e0d1b7f34b7a"
+  Hint: Destinations
+  Value: |
+    {2FF6AC3B-A129-4B2A-89F9-03474B8C5EF3}
+    {1865E548-EA33-49D5-8640-E585872AC8B3}
+    {4B0A82F4-D931-4541-91FC-5D82C4585DDF}
+    {B18ACDF6-3659-4BC6-BB2F-95D89D91F2FA}
+    {CD6382D4-6AA8-4A59-80BC-097772BDEDFC}
+    {9D7C78A7-D546-4364-BFF4-79E73A670886}
+    {43987451-63A8-4D86-886C-CBD3B3F45083}
+    {3C8512BB-4A1E-47A1-8D3A-47F249CC2C36}
+    {88407D3E-96AE-406C-9777-8DF1B6E04A24}
+    {161AF83D-08F5-4FCC-9EFE-68B058E43ED3}
+    {FF042B26-68F1-4A24-B49B-FEFF0F65CFDA}
+    {715CA18A-83CC-4F0B-80D1-7F39C68E3670}
+    {0F566C27-ADF0-4894-81BE-3F21FAFCF309}
+    {42DAC5DB-C5B9-4272-9CC9-A1399BD6B042}
+    {99E404EC-E22E-455B-874E-55E99670015B}
+    {DBE72F87-ECD1-4DCC-B343-90BEB41D9F45}
+    {876EA33D-4953-46CC-B912-5F86270CF83E}
+    {E5E10E9A-FFA8-4F8D-B276-141E5DA3840C}
+    {1E69DA17-15FD-4795-AFE3-9CE075B72280}
+    {3A89AB99-9A1C-426E-AD8F-904917771AE2}
+    {4A5DCB84-AF47-402E-92CA-91364F28913C}
+    {3B41DF1E-D8F9-4010-A549-E39B60B2E1CE}
+    {EF0D3A49-4E71-448C-AA1A-6C6AF32F5DE5}
+    {2E8910EB-A6F0-4082-9349-65EE4D0CB3BD}
+    {5A20F4B9-C855-4F05-81A7-3B79BCB03136}
+    {A20D07B6-71EB-4B21-9E91-B7A6E89A9638}
+    {02930019-C905-4288-A054-376FB371090F}
+    {33E0C317-082C-4EF6-8C80-BAFE78DF7212}
+    {94C7B4BE-EBE6-44D4-816E-38134B47749F}
+    {76FF9B4D-A5B0-4825-BBBD-6A11247F01EB}
+    {0D42D697-01AC-43C8-AEAD-CD614565A1EE}
+    {2CFA6E32-60CB-49FC-988C-5CF240B0FC3D}
+    {7B655B58-CDB1-4260-B289-B1E7234F86A7}
+    {558031E3-54B4-4F8E-98CE-36199FDB5928}
+    {D6951241-5C45-4F76-BE81-588778CACE25}
+    {DCCF5EE9-A398-48F1-88C5-B9CDB54F2A76}
+    {52A19453-17E8-4CA9-9A13-5D2B9BD13938}
+    {B3660238-A44A-4680-8F9D-79918EEB34D2}
+    {EA6EBF57-BD80-4085-BE1E-5E182CDFDA42}
+    {2AED33B2-3346-4546-AE0C-6A48B40808BE}
+    {326D4D05-FC48-4327-8F7E-B153A79A13D2}
+    {6651AB1D-CCD5-49B5-A232-2684AF4C5FD9}
+    {4A7BC64D-4A0A-4DEB-94F8-A8FBC01C515C}
+    {2965786E-CB3D-40E8-8E61-A0AAD1855B85}
+    {4AF35E85-A304-4FBE-8442-F17E5D049CAF}
+    {123D25E6-64B9-4561-8FEF-D07F18299540}
+    {4DA043FC-7C5A-43EF-8007-E14635A7C7E3}
+    {55D6D2EE-AB12-4BE6-858F-BECCDA151867}
+    {9634AD12-4C44-4529-9CF1-CABCF9F5C690}
+    {A746436F-A71E-4216-AD1B-FBB5798C2BE3}
+    {BC26855E-3F1D-4298-AC1A-B400F9D49A7F}
+    {4C387857-B312-4845-9A49-A9869DA68538}
+    {818497F7-50AA-4EB6-BA35-9C6525DCE663}
+    {4EC443B5-E7F0-43B8-A798-96D4B52E5EB3}
+    {FB139DF4-918F-4D35-86D1-39AB15CA8C02}
+- ID: "5219c0be-1b76-4562-abfe-89bd42859bca"
+  Hint: IsYoungAdultAloneBookable
+  Value: 1
+- ID: "657a6eac-db7f-49cc-a5f6-61bb1b27b409"
+  Hint: ManageSubmitURL
+  Value: "https://gulfacc.resfinity.com/mmb?pnr=${referencenumber}&surname=${lastname}&locale=${locale}"
+- ID: "6838a0dc-373f-4950-bf54-4c9e21b1b5f2"
+  Hint: EnableCheckIn
+  Value: 1
+- ID: "7eeb00c9-0b28-4bdd-89eb-a3395c4a3275"
+  Hint: EnableFlightAndHotels
+  Value: 1
+- ID: "82272335-2c2c-4e35-8312-d6cf212655e2"
+  Hint: AdvancedSearchURL
+  Value: "https://flights.gulfair.com"
+- ID: "92dcb746-8c6c-4270-9bef-99369d79bb77"
+  Hint: LoginPopupDetail
+  Value: "{DAAC33B6-A07A-42F1-9FEE-99637CCFD30B}"
+- ID: "9330050b-2d46-40fc-a3be-82b965263842"
+  Hint: MaxInfantWithAdult
+  Value: "{38907E00-8356-4FDA-B161-6BB69C30E63A}"
+- ID: "988b6bf5-a8ec-44d8-856b-3d28f7f5765d"
+  Hint: ReedemURL
+  Value: "https://gulfacc.resfinity.com/falcon/deeplink?locale=${locale}&adt=${adult}&tnn=${teen}&inf=${infant}&chd=${children}&cabin_class=${ticketType}&origin=${origin}&destination=${destination}&flight_type=${tripType}&departure_date=${dateFrom}&return_date=${dateTo}&pay_with_miles=true&sso_session_id=${token}&page=flights"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "a58c80fd-0b6a-4251-afb2-9e8162f5bbbd"
+  Hint: GCCDestinations
+  Value: |
+    {2FF6AC3B-A129-4B2A-89F9-03474B8C5EF3}
+    {CD6382D4-6AA8-4A59-80BC-097772BDEDFC}
+    {02930019-C905-4288-A054-376FB371090F}
+    {A20D07B6-71EB-4B21-9E91-B7A6E89A9638}
+    {5A20F4B9-C855-4F05-81A7-3B79BCB03136}
+    {6651AB1D-CCD5-49B5-A232-2684AF4C5FD9}
+    {33E0C317-082C-4EF6-8C80-BAFE78DF7212}
+    {42DAC5DB-C5B9-4272-9CC9-A1399BD6B042}
+    {52A19453-17E8-4CA9-9A13-5D2B9BD13938}
+    {818497F7-50AA-4EB6-BA35-9C6525DCE663}
+- ID: "bebf8abc-1e69-4fa4-80b1-765023dd6f22"
+  Hint: CheckInSubmitURL
+  Value: "https://dx.ci13.cert.aws.sabre.com/dx/GFCI/#/check-in/deep-link?deepLink=true&locale=${locale}&recordLocator=${referencenumber}&lastName=${lastname}"
+- ID: "bf831654-cd77-4942-952f-c0add3cd4f54"
+  Hint: SingleReedemURL
+  Value: "https://gulfacc.resfinity.com/falcon/deeplink?locale=${locale}&adt=${adult}&tnn=${teen}&inf=${infant}&chd=${children}&cabin_class=${ticketType}&origin=${origin}&destination=${destination}&flight_type=${tripType}&departure_date=${dateFrom}&pay_with_miles=true&sso_session_id=${token}&page=flights"
+- ID: "ce05b443-f06f-4262-8bb0-aed07f65f377"
+  Hint: FlightStatusSubmitURLByRoute
+  Value: "/${locale}/flying-with-us/before-you-travel/flight-status?fv=trQtype%3DCityPair%26trSubmit=CityPair%26trDepap%3D${departure}%26trArrap%3D${arrival}%26trDate%3D${date}%26trFn%3D${referencenumber}%26lc%3D${locale}"
+- ID: "dea0a001-c500-4122-b0ca-44c3a2093f92"
+  Hint: EnableFlights
+  Value: 1
+- ID: "e0fd9425-bdc2-4212-a0a6-a1b2812efd02"
+  Hint: EnableManage
+  Value: 1
+- ID: "e873d45e-5831-409f-9348-a260fd0a02f5"
+  Hint: SingleSubmitURL
+  Value: "https://gulfacc.resfinity.com/falcon/deeplink?locale=${locale}&adt=${adult}&tnn=${teen}&inf=${infant}&chd=${children}&cabin_class=${ticketType}&origin=${origin}&destination=${destination}&flight_type=${tripType}&departure_date=${dateFrom}&page=flights"
+- ID: "eb29138d-5f14-4f3f-b58f-f4b15b5eefc6"
+  Hint: FlightStatusSubmitURL
+  Value: "/${locale}/flying-with-us/before-you-travel/flight-status?fv=trQtype%3DSingleFlight%26trSubmit=SingleFlight%26trDepap%3D${departure}%26trArrap%3D${arrival}%26trDate%3D${date}%26trFn%3D${referencenumber}%26lc%3D${locale}"
+- ID: "fc05321a-8596-4815-a96c-3be939a96741"
+  Hint: FlightHotelNonGCCSubmitURL
+  Value: "https://gfholidays.gulfair.com/package/search?From=${origin}&To=${destination}&DepartureDate=${dateFrom}&ReturnDate=${dateTo}&Currency=USD&CultureCode=${locale}-US&RoomCount=1&PaxInfos%5B0%5D.AdultCount=${adult}&JourneyType=1&CabinClass=1&ProductId=d6519acc-4271-4556-af25-e019b0575178"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "060bb277-0726-4210-bcf7-8a9df3c6ee90"
+      Hint: MaxInfantWithAdultError
+      Value:  Only 1 Infant can be associated with 1 Adult pax
+    - ID: "08185def-2194-4e8f-8c20-1d079eb9dd05"
+      Hint: CheckInCTA
+      Value: 
+    - ID: "0e4e1d36-8e13-4205-acab-d1e029bde4e1"
+      Hint: TravelOptions
+      Value: 
+    - ID: "0fa608d9-fd43-444d-b8e1-aa3d7e9d259b"
+      Hint: ManageNote
+      Value: <span>أدخل بياناتك، إختر مقاعدك المفضلة غير رحلاتك أو درجة السفر.</span>
+    - ID: "11454066-c731-4d2b-a321-9dedb2952425"
+      Hint: CheckInTitle
+      Value: إتمام إجراءات الرحلة
+    - ID: "164123f5-afa4-4947-b99c-28cf9207aaaa"
+      Hint: MaxChildrenWithAdultError
+      Value:  At least 1 Adult should be there in the booking; as long as there is 1 ADT, we can add up to 8 Children
+    - ID: "23afce7b-30a8-4173-ac48-1e350940e4b0"
+      Hint: IsYoungAdultAloneBookableError
+      Value:  Can be booked alone, no dependency on Adult pax
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230414T113103Z
+    - ID: "33388f03-0205-48d6-bddc-53be33e3f2d1"
+      Hint: FlightStatusTitle
+      Value: حالة الرحلة
+    - ID: "34fe876d-f316-45de-af16-3b7169bfb90e"
+      Hint: CheckInNote
+      Value: |
+        <span>في بعض المطارات ، تتوفر خدمة إتمام إجراءات الوصول قبل 24 ساعة من موعد المغادرة المقرر. <a href="~/link.aspx?_id=0A4EEF2A855B4E61B5F41D7D74A603FE&amp;_z=z">راجع صفحة إجراءات الوصول وصفحة معلومات المطار للحصول على التفاصيل.</a></span>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "662bf791-41cf-4a48-9396-a14197b9eb9e"
+      Hint: PassengerNote
+      Value: |
+        <p>يرجى ملاحظة أنه يمكنك حجز 9 ركاب فقط كحد أقصى. للحجوزات الجماعية ، يرجى الاتصال بمكاتب طيران الخليج المحلية <a href="~/link.aspx?_id=D42C78BE26544C6CA9E440BA074BC1C5&amp;_z=z">هنا</a></p>
+    - ID: "6cd7b4ed-2526-41f2-b37f-0aae2af1c555"
+      Hint: FlightStatusCTA
+      Value: 
+    - ID: "7a5d4ef4-9754-4442-acca-c262c0ae1da7"
+      Hint: PriceJourneyDetails
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a7e1492-e57a-4fbc-8947-b68c2a315b67"
+    - ID: "a0488635-dbea-41a8-b24c-cbe7f79d054b"
+      Hint: MaxPassengersError
+      Value: يمكنك إضافة 9 مسافرين كحد أقصى
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\salmanalzarqawi
+    - ID: "c89a6d87-35a9-43d6-aa8e-36c3cc58bf25"
+      Hint: FlightAndHotelsTitle
+      Value: رحلات و فنادق
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T071041Z
+    - ID: "f0b3b7f9-a960-4860-9ab3-b1f61965e819"
+      Hint: FlightsTitle
+      Value: رحلات
+    - ID: "fb249667-e1e5-42e6-9202-5a592b21836a"
+      Hint: ManageTitle
+      Value: إدارة الحجز
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "060bb277-0726-4210-bcf7-8a9df3c6ee90"
+      Hint: MaxInfantWithAdultError
+      Value:  Only 1 Infant can be associated with 1 Adult pax
+    - ID: "08185def-2194-4e8f-8c20-1d079eb9dd05"
+      Hint: CheckInCTA
+      Value: 
+    - ID: "0e4e1d36-8e13-4205-acab-d1e029bde4e1"
+      Hint: TravelOptions
+      Value: 
+    - ID: "0fa608d9-fd43-444d-b8e1-aa3d7e9d259b"
+      Hint: ManageNote
+      Value: <span>Wechseln Sie Ihren Flug, buchen Sie ein Upgrade, w&auml;hlen Sie Ihren Sitzplatz oder erg&auml;nzen Sie weitere Dinge zu Ihrer Buchung.</span>
+    - ID: "11454066-c731-4d2b-a321-9dedb2952425"
+      Hint: CheckInTitle
+      Value: "CHECK-IN"
+    - ID: "164123f5-afa4-4947-b99c-28cf9207aaaa"
+      Hint: MaxChildrenWithAdultError
+      Value:  At least 1 Adult should be there in the booking; as long as there is 1 ADT, we can add up to 8 Children
+    - ID: "23afce7b-30a8-4173-ac48-1e350940e4b0"
+      Hint: IsYoungAdultAloneBookableError
+      Value:  Can be booked alone, no dependency on Adult pax
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230414T113103Z
+    - ID: "33388f03-0205-48d6-bddc-53be33e3f2d1"
+      Hint: FlightStatusTitle
+      Value: Flüge Status
+    - ID: "34fe876d-f316-45de-af16-3b7169bfb90e"
+      Hint: CheckInNote
+      Value: |
+        <span>An einigen Flugh&auml;fen ist der Check-in ab 24 Stunden vor Ihrem planm&auml;&szlig;igen Abflug m&ouml;glich. <a href="~/link.aspx?_id=0A4EEF2A855B4E61B5F41D7D74A603FE&amp;_z=z">Weitere Informationen finden Sie auf unserer Seite Check-in und Bearbeitungszeiten am Flughafen.</a></span>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "662bf791-41cf-4a48-9396-a14197b9eb9e"
+      Hint: PassengerNote
+      Value: |
+        <p>Please note that you may only book a maximum of 9 passengers. For bulk bookings, please contact your local Gulf Air offices <a href="~/link.aspx?_id=D42C78BE26544C6CA9E440BA074BC1C5&amp;_z=z">here</a></p>
+    - ID: "6cd7b4ed-2526-41f2-b37f-0aae2af1c555"
+      Hint: FlightStatusCTA
+      Value: 
+    - ID: "7a5d4ef4-9754-4442-acca-c262c0ae1da7"
+      Hint: PriceJourneyDetails
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db61713e-3d58-44fe-a336-01ef5a1eb351"
+    - ID: "a0488635-dbea-41a8-b24c-cbe7f79d054b"
+      Hint: MaxPassengersError
+      Value:  Only 9 pax allowed (sum of Adults, Children and Young Adults)
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\salmanalzarqawi
+    - ID: "c89a6d87-35a9-43d6-aa8e-36c3cc58bf25"
+      Hint: FlightAndHotelsTitle
+      Value: Flug + Hotel
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T043552Z
+    - ID: "f0b3b7f9-a960-4860-9ab3-b1f61965e819"
+      Hint: FlightsTitle
+      Value: Flüge
+    - ID: "fb249667-e1e5-42e6-9202-5a592b21836a"
+      Hint: ManageTitle
+      Value: Meine Buchung bearbeiten
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "060bb277-0726-4210-bcf7-8a9df3c6ee90"
+      Hint: MaxInfantWithAdultError
+      Value:  Only 1 Infant can be associated with 1 Adult pax
+    - ID: "08185def-2194-4e8f-8c20-1d079eb9dd05"
+      Hint: CheckInCTA
+      Value: 
+    - ID: "0e4e1d36-8e13-4205-acab-d1e029bde4e1"
+      Hint: TravelOptions
+      Value: 
+    - ID: "0fa608d9-fd43-444d-b8e1-aa3d7e9d259b"
+      Hint: ManageNote
+      Value: <span>Change your flight, upgrade your booking, select your seat or add additional details.</span>
+    - ID: "11454066-c731-4d2b-a321-9dedb2952425"
+      Hint: CheckInTitle
+      Value: "Check-In"
+    - ID: "164123f5-afa4-4947-b99c-28cf9207aaaa"
+      Hint: MaxChildrenWithAdultError
+      Value: At least 1 Adult should be there in the booking; as long as there is 1 ADT, we can add up to 8 Children
+    - ID: "23afce7b-30a8-4173-ac48-1e350940e4b0"
+      Hint: IsYoungAdultAloneBookableError
+      Value:  Can be booked alone, no dependency on Adult pax
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230414T113103Z
+    - ID: "33388f03-0205-48d6-bddc-53be33e3f2d1"
+      Hint: FlightStatusTitle
+      Value: FLIGHT STATUS
+    - ID: "34fe876d-f316-45de-af16-3b7169bfb90e"
+      Hint: CheckInNote
+      Value: |
+        <span>In some airports, Check-in is available starting 24 hours before your scheduled departure. <a href="~/link.aspx?_id=0A4EEF2A855B4E61B5F41D7D74A603FE&amp;_z=z">See our Check-in and Airport Processing Times page for details.</a></span>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "662bf791-41cf-4a48-9396-a14197b9eb9e"
+      Hint: PassengerNote
+      Value: |
+        <p>Please note that you may only book a maximum of 9 passengers. For bulk bookings, please contact your local Gulf Air offices <a href="~/link.aspx?_id=D42C78BE26544C6CA9E440BA074BC1C5&amp;_z=z">here</a></p>
+    - ID: "6cd7b4ed-2526-41f2-b37f-0aae2af1c555"
+      Hint: FlightStatusCTA
+      Value: |
+        <link linktype="external" url="" anchor="" target="" />
+    - ID: "7a5d4ef4-9754-4442-acca-c262c0ae1da7"
+      Hint: PriceJourneyDetails
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "110d3e2f-2e89-4231-b276-280f60f899dd"
+    - ID: "a0488635-dbea-41a8-b24c-cbe7f79d054b"
+      Hint: MaxPassengersError
+      Value:  Only 9 pax allowed (sum of Adults, Children and Young Adults)
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\salmanalzarqawi
+    - ID: "c89a6d87-35a9-43d6-aa8e-36c3cc58bf25"
+      Hint: FlightAndHotelsTitle
+      Value: Flight & Hotels
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T043530Z
+    - ID: "f0b3b7f9-a960-4860-9ab3-b1f61965e819"
+      Hint: FlightsTitle
+      Value: Flights
+    - ID: "fb249667-e1e5-42e6-9202-5a592b21836a"
+      Hint: ManageTitle
+      Value: Manage Trips
+  - Version: 2
+    Fields:
+    - ID: "060bb277-0726-4210-bcf7-8a9df3c6ee90"
+      Hint: MaxInfantWithAdultError
+      Value:  Only 1 Infant can be associated with 1 Adult pax
+    - ID: "08185def-2194-4e8f-8c20-1d079eb9dd05"
+      Hint: CheckInCTA
+      Value: 
+    - ID: "0e4e1d36-8e13-4205-acab-d1e029bde4e1"
+      Hint: TravelOptions
+      Value: 
+    - ID: "0fa608d9-fd43-444d-b8e1-aa3d7e9d259b"
+      Hint: ManageNote
+      Value: <span>Change your flight, upgrade your booking, select your seat or add additional details.</span>
+    - ID: "11454066-c731-4d2b-a321-9dedb2952425"
+      Hint: CheckInTitle
+      Value: "Check-In"
+    - ID: "164123f5-afa4-4947-b99c-28cf9207aaaa"
+      Hint: MaxChildrenWithAdultError
+      Value: At least 1 Adult should be there in the booking; as long as there is 1 ADT, we can add up to 8 Children
+    - ID: "23afce7b-30a8-4173-ac48-1e350940e4b0"
+      Hint: IsYoungAdultAloneBookableError
+      Value:  Can be booked alone, no dependency on Adult pax
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230613T061502Z
+    - ID: "33388f03-0205-48d6-bddc-53be33e3f2d1"
+      Hint: FlightStatusTitle
+      Value: FLIGHT STATUS
+    - ID: "34fe876d-f316-45de-af16-3b7169bfb90e"
+      Hint: CheckInNote
+      Value: |
+        <span>In some airports, Check-in is available starting 24 hours before your scheduled departure. <a href="~/link.aspx?_id=0A4EEF2A855B4E61B5F41D7D74A603FE&amp;_z=z">See our Check-in and Airport Processing Times page for details.</a></span>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sayedhusain
+    - ID: "662bf791-41cf-4a48-9396-a14197b9eb9e"
+      Hint: PassengerNote
+      Value: |
+        <p>Please note that you may only book a maximum of 9 passengers. For bulk bookings, please contact your local Gulf Air offices <a href="~/link.aspx?_id=D42C78BE26544C6CA9E440BA074BC1C5&amp;_z=z">here</a></p>
+    - ID: "6cd7b4ed-2526-41f2-b37f-0aae2af1c555"
+      Hint: FlightStatusCTA
+      Value: |
+        <link linktype="external" url="" anchor="" target="" />
+    - ID: "7a5d4ef4-9754-4442-acca-c262c0ae1da7"
+      Hint: PriceJourneyDetails
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19f198f0-d55e-4468-9623-0b98adea580c"
+    - ID: "a0488635-dbea-41a8-b24c-cbe7f79d054b"
+      Hint: MaxPassengersError
+      Value:  Only 9 pax allowed (sum of Adults, Children and Young Adults)
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sayedhusain
+    - ID: "c89a6d87-35a9-43d6-aa8e-36c3cc58bf25"
+      Hint: FlightAndHotelsTitle
+      Value: Flight & Hotels
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230613T061502Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230613T061511Z
+    - ID: "f0b3b7f9-a960-4860-9ab3-b1f61965e819"
+      Hint: FlightsTitle
+      Value: Flights
+    - ID: "fb249667-e1e5-42e6-9202-5a592b21836a"
+      Hint: ManageTitle
+      Value: Manage Trips
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "060bb277-0726-4210-bcf7-8a9df3c6ee90"
+      Hint: MaxInfantWithAdultError
+      Value:  Only 1 Infant can be associated with 1 Adult pax
+    - ID: "08185def-2194-4e8f-8c20-1d079eb9dd05"
+      Hint: CheckInCTA
+      Value: 
+    - ID: "0e4e1d36-8e13-4205-acab-d1e029bde4e1"
+      Hint: TravelOptions
+      Value: 
+    - ID: "0fa608d9-fd43-444d-b8e1-aa3d7e9d259b"
+      Hint: ManageNote
+      Value: "<span>Changez votre vol, surclassez-vous, s&eacute;lectionnez votre si&egrave;ge ou d&rsquo;autres options.</span>"
+    - ID: "11454066-c731-4d2b-a321-9dedb2952425"
+      Hint: CheckInTitle
+      Value: ENREGISTREMENT
+    - ID: "164123f5-afa4-4947-b99c-28cf9207aaaa"
+      Hint: MaxChildrenWithAdultError
+      Value:  At least 1 Adult should be there in the booking; as long as there is 1 ADT, we can add up to 8 Children
+    - ID: "23afce7b-30a8-4173-ac48-1e350940e4b0"
+      Hint: IsYoungAdultAloneBookableError
+      Value:  Can be booked alone, no dependency on Adult pax
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230414T113103Z
+    - ID: "33388f03-0205-48d6-bddc-53be33e3f2d1"
+      Hint: FlightStatusTitle
+      Value: Vols Statut
+    - ID: "34fe876d-f316-45de-af16-3b7169bfb90e"
+      Hint: CheckInNote
+      Value: |
+        <span>Dans certains a&eacute;roports, l'enregistrement est disponible &agrave; partir de 24 heures avant votre d&eacute;part pr&eacute;vu. <a href="~/link.aspx?_id=0A4EEF2A855B4E61B5F41D7D74A603FE&amp;_z=z">Consultez notre page D&eacute;lais d'enregistrement et de traitement &agrave; l'a&eacute;roport pour plus de d&eacute;tails.</a></span>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "662bf791-41cf-4a48-9396-a14197b9eb9e"
+      Hint: PassengerNote
+      Value: |
+        <p>Please note that you may only book a maximum of 9 passengers. For bulk bookings, please contact your local Gulf Air offices <a href="~/link.aspx?_id=D42C78BE26544C6CA9E440BA074BC1C5&amp;_z=z">here</a></p>
+    - ID: "6cd7b4ed-2526-41f2-b37f-0aae2af1c555"
+      Hint: FlightStatusCTA
+      Value: 
+    - ID: "7a5d4ef4-9754-4442-acca-c262c0ae1da7"
+      Hint: PriceJourneyDetails
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ccd84ad-186a-4bf2-b4be-c7fa1aec28f0"
+    - ID: "a0488635-dbea-41a8-b24c-cbe7f79d054b"
+      Hint: MaxPassengersError
+      Value:  Only 9 pax allowed (sum of Adults, Children and Young Adults)
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\salmanalzarqawi
+    - ID: "c89a6d87-35a9-43d6-aa8e-36c3cc58bf25"
+      Hint: FlightAndHotelsTitle
+      Value: Des vols + Hôtel
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T043645Z
+    - ID: "f0b3b7f9-a960-4860-9ab3-b1f61965e819"
+      Hint: FlightsTitle
+      Value: Vols
+    - ID: "fb249667-e1e5-42e6-9202-5a592b21836a"
+      Hint: ManageTitle
+      Value: Gérer mes réservations
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "060bb277-0726-4210-bcf7-8a9df3c6ee90"
+      Hint: MaxInfantWithAdultError
+      Value:  Only 1 Infant can be associated with 1 Adult pax
+    - ID: "08185def-2194-4e8f-8c20-1d079eb9dd05"
+      Hint: CheckInCTA
+      Value: 
+    - ID: "0e4e1d36-8e13-4205-acab-d1e029bde4e1"
+      Hint: TravelOptions
+      Value: 
+    - ID: "0fa608d9-fd43-444d-b8e1-aa3d7e9d259b"
+      Hint: ManageNote
+      Value: <span>Поменяйте свой рейс, повысьте класс обслуживания, выберете место в салоне или добавьте дополнительную информацию</span>
+    - ID: "11454066-c731-4d2b-a321-9dedb2952425"
+      Hint: CheckInTitle
+      Value: РЕГИСТРАЦИЯ
+    - ID: "164123f5-afa4-4947-b99c-28cf9207aaaa"
+      Hint: MaxChildrenWithAdultError
+      Value:  At least 1 Adult should be there in the booking; as long as there is 1 ADT, we can add up to 8 Children
+    - ID: "23afce7b-30a8-4173-ac48-1e350940e4b0"
+      Hint: IsYoungAdultAloneBookableError
+      Value:  Can be booked alone, no dependency on Adult pax
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230414T113103Z
+    - ID: "33388f03-0205-48d6-bddc-53be33e3f2d1"
+      Hint: FlightStatusTitle
+      Value: Рейсы Статус
+    - ID: "34fe876d-f316-45de-af16-3b7169bfb90e"
+      Hint: CheckInNote
+      Value: |
+        <span>В некоторых аэропортах регистрация доступна за 24 часа до вылета по расписанию. <a href="~/link.aspx?_id=0A4EEF2A855B4E61B5F41D7D74A603FE&amp;_z=z">Подробнее см. на нашей странице Время регистрации и обработки в аэропорту.</a></span>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "662bf791-41cf-4a48-9396-a14197b9eb9e"
+      Hint: PassengerNote
+      Value: |
+        <p>Please note that you may only book a maximum of 9 passengers. For bulk bookings, please contact your local Gulf Air offices <a href="~/link.aspx?_id=D42C78BE26544C6CA9E440BA074BC1C5&amp;_z=z">here</a></p>
+    - ID: "6cd7b4ed-2526-41f2-b37f-0aae2af1c555"
+      Hint: FlightStatusCTA
+      Value: 
+    - ID: "7a5d4ef4-9754-4442-acca-c262c0ae1da7"
+      Hint: PriceJourneyDetails
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af268bd9-d130-4ab7-8d72-f25fc8a680df"
+    - ID: "a0488635-dbea-41a8-b24c-cbe7f79d054b"
+      Hint: MaxPassengersError
+      Value:  Only 9 pax allowed (sum of Adults, Children and Young Adults)
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\salmanalzarqawi
+    - ID: "c89a6d87-35a9-43d6-aa8e-36c3cc58bf25"
+      Hint: FlightAndHotelsTitle
+      Value: Полетные + отель
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T043649Z
+    - ID: "f0b3b7f9-a960-4860-9ab3-b1f61965e819"
+      Hint: FlightsTitle
+      Value: Рейсы
+    - ID: "fb249667-e1e5-42e6-9202-5a592b21836a"
+      Hint: ManageTitle
+      Value: Управление моими бронирование

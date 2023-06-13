@@ -1,0 +1,245 @@
+﻿---
+ID: "f4e8181c-c222-4ea0-83cc-6633c2f7165c"
+Parent: "cdf55a17-17b5-4a8e-8428-eadb308d90d0"
+Template: "87a661e2-cd9b-4565-8f7f-0bf761d8d21d"
+Path: "/sitecore/content/gulfair-app-fr/Data/Other Offer Folder/flight deals/Default - Flight Deals - Other Offers/Default - Flight Deals - Other Offers - Mumbai"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "474ecfc6-6a37-45e0-9e8f-aa8e5469391b"
+  Hint: Currency
+  Value: USD
+- ID: "900a9c16-789f-4d7e-841b-ad0fb54b9b61"
+  Hint: Image
+  Value: |
+    <image width="364" height="172" alt="paris.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/ffa8d9459286434495e6074a90f0e479?v=07a6cce0" stylelabs-content-id="34855" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/34855/thumbnail" />
+- ID: "a07b527e-ac0f-41ec-b87e-8fa27419c2e2"
+  Hint: Tags
+  Value: |
+    {FB429821-BD27-4531-A5E0-46DB6C81E1C2}
+    {F713CAE8-2881-4E00-A009-926092B6906F}
+    {676D47C0-B108-494C-955E-CC4E3BF05321}
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "e53b6e45-8ef8-4fbb-81f2-c01a97731740"
+  Hint: Price
+  Value: 1,050
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Flight Deals - Other Offers - Mumbai"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T154644Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff58980c-d5c2-4308-b052-85a3830f936c"
+    - ID: "a1bc82d7-1eb3-4fa0-b920-e16b99016181"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://www.youtube.com/" anchor="" target="_blank" />
+    - ID: "b78c1f8b-a351-486a-b3a6-b0274ad30930"
+      Hint: SubHeading
+      Value: Economy From
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233056Z
+    - ID: "fbc3e599-d50a-431d-8ede-762dc51d29dd"
+      Hint: Heading
+      Value: Mumbai
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Flight Deals - Other Offers - Mumbai"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T154644Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9446a81c-42bc-4b88-9a1d-897198c37fa1"
+    - ID: "a1bc82d7-1eb3-4fa0-b920-e16b99016181"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "b78c1f8b-a351-486a-b3a6-b0274ad30930"
+      Hint: SubHeading
+      Value: Economy From
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233056Z
+    - ID: "fbc3e599-d50a-431d-8ede-762dc51d29dd"
+      Hint: Heading
+      Value: Mumbai
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Flight Deals - Other Offers - Mumbai"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T154644Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "840ef924-a699-45d0-928b-e508cf37b7e7"
+    - ID: "a1bc82d7-1eb3-4fa0-b920-e16b99016181"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "b78c1f8b-a351-486a-b3a6-b0274ad30930"
+      Hint: SubHeading
+      Value: Economy From
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233056Z
+    - ID: "fbc3e599-d50a-431d-8ede-762dc51d29dd"
+      Hint: Heading
+      Value: Mumbai
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Flight Deals - Other Offers - Mumbai"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T154644Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "86c04ac5-f172-4a30-a7e8-f88db260768a"
+    - ID: "a1bc82d7-1eb3-4fa0-b920-e16b99016181"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "b78c1f8b-a351-486a-b3a6-b0274ad30930"
+      Hint: SubHeading
+      Value: Economy From
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233056Z
+    - ID: "fbc3e599-d50a-431d-8ede-762dc51d29dd"
+      Hint: Heading
+      Value: Mumbai
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Flight Deals - Other Offers - Mumbai"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T154644Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14c827b2-e620-45ae-9513-a5181f1043ea"
+    - ID: "a1bc82d7-1eb3-4fa0-b920-e16b99016181"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "b78c1f8b-a351-486a-b3a6-b0274ad30930"
+      Hint: SubHeading
+      Value: Economy From
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233056Z
+    - ID: "fbc3e599-d50a-431d-8ede-762dc51d29dd"
+      Hint: Heading
+      Value: Mumbai

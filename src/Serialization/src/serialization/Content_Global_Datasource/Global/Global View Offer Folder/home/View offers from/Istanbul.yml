@@ -1,0 +1,156 @@
+﻿---
+ID: "d17ce7ea-d805-4a93-be06-9acf80d7d70b"
+Parent: "c5aa386a-dd70-4729-8afb-795e5a9858cc"
+Template: "fea9fb96-6afb-436a-a6fe-93bd826fa9d7"
+Path: /sitecore/content/Global/Global View Offer Folder/home/View offers from/Istanbul
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1200
+- ID: "bc609192-db8b-4723-ba09-9a1d73dec66d"
+  Hint: City
+  Value: "{CEB9F5CE-D43F-4D31-A132-1E2430D76276}"
+- ID: "f343f8ec-f709-4508-9cea-a0cd78ec6da4"
+  Hint: OfferList
+  Value: |
+    {98004FF1-98C4-42EC-9BD3-DA4DAA197A07}
+    {35631E8D-39FE-4E8E-AB79-B5BC858FC5EA}
+    {4E390D85-AB41-4BD8-9487-D36EFBC2294A}
+    {29E91E22-A06C-4DE2-99A0-C0D797BEE26B}
+    {5A243CD4-E468-4D3D-8AC3-8E88F5D86C28}
+    {32F567D9-E2F5-4AAE-9C33-9A082D0276E1}
+    {4ACB13F3-1C42-4132-82BE-2C88609A9E52}
+    {24C57BC9-7552-4045-B1F1-E7E8BC39AFFD}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b25849f-67c0-479b-aa08-01d2ec73cb2a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T142335Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: إسطنبول
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4878f2a4-4d3d-44db-b4c8-44f9ca65d682"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T142346Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Istanbul
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3f80a5e7-3c80-470f-91e5-3356c6c2ce16"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230531T110023Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Istanbul
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "abe52dbe-70b0-4b7c-b914-ad8d038d10c2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T142341Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Istanbul
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9f16bd7-888d-4d47-b792-85c32bd98d08"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T142401Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Стамбул

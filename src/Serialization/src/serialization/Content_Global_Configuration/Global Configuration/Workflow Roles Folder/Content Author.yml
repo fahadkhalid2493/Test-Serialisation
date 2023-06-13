@@ -1,0 +1,27 @@
+﻿---
+ID: "c2e10596-4ea2-4f4d-a755-4cefb6e5cf86"
+Parent: "19e6698a-6978-41aa-9cc3-462b120a9c89"
+Template: "900dca67-e9ee-4dfe-b77b-fbee53a61f15"
+Path: /sitecore/content/Global Configuration/Workflow Roles Folder/Content Author
+SharedFields:
+- ID: "67f88e26-f713-428c-9dd9-31b44a991765"
+  Hint: Primary
+  Value: GulfAir Content Author
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T105343Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "54d22096-aa7a-461d-a864-5a6a0a5de069"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shahbaz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230320T120415Z

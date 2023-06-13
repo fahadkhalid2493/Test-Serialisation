@@ -1,0 +1,264 @@
+﻿---
+ID: "f208a293-fa05-44ff-8ce5-25cb1bd91b12"
+Parent: "f7784794-92b0-47e0-8a5a-83f6ffbdac21"
+Template: "72246e6d-d22d-4dc0-bc15-80f139ce4fbd"
+Path: "/sitecore/content/gulfair-app-fr/Data/Quick News Folder/Home/Quick News"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - AR - Quick News"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T132148Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "801992e9-3b10-4af0-89bc-8b7789685c3e"
+      Hint: DetailCTALabel
+      Value: View detail
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7dc1968-0881-45e4-8121-dfc731bd2cc1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230512T165544Z
+    - ID: "dd823107-fd23-468a-9427-62e2d4899e1a"
+      Hint: NewsList
+      Value: |
+        {419F76CC-2E49-4760-864D-E1195145C242}
+        {A6580A1D-D043-46A5-9D93-608D43C54E7C}
+        {9AE592FB-DB08-4314-9959-75126A997D91}
+        {371E428F-C41F-4D0B-B255-5852FA506EE0}
+    - ID: "f7881e40-f169-4cba-abbe-55e6b2d0f858"
+      Hint: CTA
+      Value: |
+        <link id="{97BDB8F8-532E-4364-B50D-32B29D4B115D}" querystring="" linktype="internal" text="Media center" anchor="" url="/gulfair-app/home/about-gulf-air/media-center" title="" class="" target="" />
+    - ID: "fee6736f-207d-43c0-8da9-78308b93963f"
+      Hint: Heading
+      Value: Gulf Air news
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Quick News"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T132148Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "801992e9-3b10-4af0-89bc-8b7789685c3e"
+      Hint: DetailCTALabel
+      Value: "EN - CTA View Detail"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dca3ea7b-e0a9-4388-a7e6-20eb3c2366fb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\uzair
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230510T103514Z
+    - ID: "dd823107-fd23-468a-9427-62e2d4899e1a"
+      Hint: NewsList
+      Value: |
+        {419F76CC-2E49-4760-864D-E1195145C242}
+        {A6580A1D-D043-46A5-9D93-608D43C54E7C}
+        {9AE592FB-DB08-4314-9959-75126A997D91}
+        {371E428F-C41F-4D0B-B255-5852FA506EE0}
+    - ID: "f7881e40-f169-4cba-abbe-55e6b2d0f858"
+      Hint: CTA
+      Value: |
+        <link text="Media Center" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "fee6736f-207d-43c0-8da9-78308b93963f"
+      Hint: Heading
+      Value: Gulf Air news
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Quick News
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T132148Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "801992e9-3b10-4af0-89bc-8b7789685c3e"
+      Hint: DetailCTALabel
+      Value: View detail
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fa465b71-6f67-4ccc-99e5-a0aedcec0601"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230512T165544Z
+    - ID: "dd823107-fd23-468a-9427-62e2d4899e1a"
+      Hint: NewsList
+      Value: |
+        {419F76CC-2E49-4760-864D-E1195145C242}
+        {A6580A1D-D043-46A5-9D93-608D43C54E7C}
+        {9AE592FB-DB08-4314-9959-75126A997D91}
+        {371E428F-C41F-4D0B-B255-5852FA506EE0}
+    - ID: "f7881e40-f169-4cba-abbe-55e6b2d0f858"
+      Hint: CTA
+      Value: |
+        <link id="{97BDB8F8-532E-4364-B50D-32B29D4B115D}" querystring="" linktype="internal" text="Media center" anchor="" url="/gulfair-app/home/about-gulf-air/media-center" title="" class="" target="" />
+    - ID: "fee6736f-207d-43c0-8da9-78308b93963f"
+      Hint: Heading
+      Value: Gulf Air news
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Quick News"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T132148Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "801992e9-3b10-4af0-89bc-8b7789685c3e"
+      Hint: DetailCTALabel
+      Value: "EN - CTA View Detail"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d48dc5ed-9faf-4c80-be01-fe7cf7d87506"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T115128Z
+    - ID: "dd823107-fd23-468a-9427-62e2d4899e1a"
+      Hint: NewsList
+      Value: |
+        {419F76CC-2E49-4760-864D-E1195145C242}
+        {A6580A1D-D043-46A5-9D93-608D43C54E7C}
+        {9AE592FB-DB08-4314-9959-75126A997D91}
+        {371E428F-C41F-4D0B-B255-5852FA506EE0}
+    - ID: "f7881e40-f169-4cba-abbe-55e6b2d0f858"
+      Hint: CTA
+      Value: |
+        <link text="Media Center" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "fee6736f-207d-43c0-8da9-78308b93963f"
+      Hint: Heading
+      Value: Gulf Air news
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Quick News"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T132148Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "801992e9-3b10-4af0-89bc-8b7789685c3e"
+      Hint: DetailCTALabel
+      Value: "EN - CTA View Detail"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "924b43a7-4598-4829-ab43-221b707f2b35"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T115129Z
+    - ID: "dd823107-fd23-468a-9427-62e2d4899e1a"
+      Hint: NewsList
+      Value: |
+        {419F76CC-2E49-4760-864D-E1195145C242}
+        {A6580A1D-D043-46A5-9D93-608D43C54E7C}
+        {9AE592FB-DB08-4314-9959-75126A997D91}
+        {371E428F-C41F-4D0B-B255-5852FA506EE0}
+    - ID: "f7881e40-f169-4cba-abbe-55e6b2d0f858"
+      Hint: CTA
+      Value: |
+        <link text="Media Center" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "fee6736f-207d-43c0-8da9-78308b93963f"
+      Hint: Heading
+      Value: Gulf Air news

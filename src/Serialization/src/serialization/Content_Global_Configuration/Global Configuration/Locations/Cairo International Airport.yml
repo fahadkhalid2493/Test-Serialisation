@@ -1,0 +1,178 @@
+﻿---
+ID: "88407d3e-96ae-406c-9777-8df1b6e04a24"
+Parent: "2a609038-6fc2-41de-a46e-01e663ef60f7"
+Template: "0b5ef009-0c1f-4ac3-89b5-d0d1f3f860eb"
+Path: /sitecore/content/Global Configuration/Locations/Cairo International Airport
+SharedFields:
+- ID: "31250019-5060-40a9-ba51-294a37d456d9"
+  Hint: OnlineCheckInAvailable
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "be35fd21-18af-4d0d-a029-3bcac18564f9"
+  Hint: CityCode
+  Value: CAI
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: مطار القاهرة الدولي 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: القاهرة
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: مصر
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "652aed91-3377-4902-b6a9-cf93e21c4263"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T162155Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Kairo Internationaler Flughafen
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Kairo
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Ägypten
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1ba03225-26b9-4d43-90f1-7215774fd2e2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T165430Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Cairo International Airport
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Cairo
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Egypt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b095c7f8-cb92-4823-a97e-56d314e0a944"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T103945Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Aéroport international du Caire
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Le Caire
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Egypte
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "28585cbd-e266-486e-8657-17a03ae40dc2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T163608Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Каирский международный аэропорт
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Каир
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Египет
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1ac0b7d-e440-4359-b740-29567dff3653"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T165806Z

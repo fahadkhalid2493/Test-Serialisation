@@ -1,0 +1,42 @@
+﻿---
+ID: "3c128d9d-e310-4642-bb59-b9d7093d42af"
+Parent: "de8ec1a7-c307-4b5b-a23e-ed6d98052100"
+Template: "e1d57686-23bb-4ca5-a2f9-e2a1ae697f63"
+Path: "/sitecore/content/gulfair-app-gb/Data/Baggage Rules/Baggage/General Baggage Rules/Cardboard"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "e59416f3-a475-4cf2-90af-0cf6903d58d3"
+  Hint: Icon
+  Value: |
+    <image width="100" height="84" alt="Cardboard.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/b0bb61761f4245a689b74b1787bffcbc?v=4053c11e" stylelabs-content-id="42885" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/42885/thumbnail" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T111813Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f941de33-b6eb-4bd5-bf57-b610170db31d"
+    - ID: "98409e32-918e-4c0a-87e5-7eb22d988b65"
+      Hint: IconSubText
+      Value: Cardboard
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233244Z

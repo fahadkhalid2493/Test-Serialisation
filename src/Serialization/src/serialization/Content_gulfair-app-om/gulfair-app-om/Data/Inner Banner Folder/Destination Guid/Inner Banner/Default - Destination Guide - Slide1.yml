@@ -1,0 +1,252 @@
+﻿---
+ID: "03a28bc1-f244-4238-ad33-7681c6030e10"
+Parent: "efea682b-1889-4608-b55f-a3742ff8c2a4"
+Template: "1e823605-a717-4255-974c-7917397cd6c9"
+Path: "/sitecore/content/gulfair-app-om/Data/Inner Banner Folder/Destination Guid/Inner Banner/Default - Destination Guide - Slide1"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "66d06ec3-a13a-4601-b7d9-1ba74aed310c"
+  Hint: BackgroundImage
+  Value: |
+    <image width="1440" height="750" alt="destination-guide-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/ca03ee2baac74b2aaf480b9a9533ea84?v=38bc9ece" stylelabs-content-id="36640" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/36640/thumbnail" />
+- ID: "78a29040-85d0-4619-b1eb-f52aa266bfe0"
+  Hint: TextAlignment
+  Value: "{0A42CAE2-9E7A-4FB8-BE35-1D23B2E53FDE}"
+- ID: "7bf12b50-a496-445f-aa2b-2be4d15c48ce"
+  Hint: MobileImage
+  Value: |
+    <image width="375" height="536" alt="mobile-banner2.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/0417181dcdb74e8699b8b3ce0ff7c90c?v=f9e2ea6a" stylelabs-content-id="36843" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/36843/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "a6d7f2d1-162a-424e-baf8-9c8857e04f7f"
+  Hint: TextColor
+  Value: "{89330C54-4FC1-4573-913A-BC08CCDEBD5B}"
+- ID: "b92f071d-1def-46b6-a749-46efddbd6693"
+  Hint: CTAColor
+  Value: "{F64FADCC-6FB4-46AA-A947-751B7BF0A024}"
+- ID: "da8bada7-5833-4d14-9d91-7f1d81a65432"
+  Hint: Duration
+  Value: 5
+- ID: "f768fd8c-ee29-421c-8929-b5c21ac10c7b"
+  Hint: CTAType
+  Value: "{9E29A28B-7ED9-41A5-BE7D-66A986A44CC3}"
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Destination Guide - Slide1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T160145Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Find your next adventure
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "75f300e8-4243-43c2-9b94-86da2397ac8c"
+      Hint: CTA
+      Value: |
+        <link text="BOOK NOW" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "7ccb2c2f-780e-42e3-9b26-7b6fb2b3f8a6"
+      Hint: SubHeading
+      Value: <p>Lorem ipsum dolor sit amet consectetur. Elementum hendrerit.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4903c415-0b35-4043-8d66-e62da6a21c85"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235244Z
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Destination Guide - Slide1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T160145Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Find your next adventure
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "75f300e8-4243-43c2-9b94-86da2397ac8c"
+      Hint: CTA
+      Value: |
+        <link text="BOOK NOW" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "7ccb2c2f-780e-42e3-9b26-7b6fb2b3f8a6"
+      Hint: SubHeading
+      Value: <p>Lorem ipsum dolor sit amet consectetur. Elementum hendrerit.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50c94cea-fee7-440d-a9db-17c121f60e90"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235244Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Destination Guide - Slide1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T160145Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Find your next adventure
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "75f300e8-4243-43c2-9b94-86da2397ac8c"
+      Hint: CTA
+      Value: |
+        <link text="BOOK NOW" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "7ccb2c2f-780e-42e3-9b26-7b6fb2b3f8a6"
+      Hint: SubHeading
+      Value: <p>Lorem ipsum dolor sit amet consectetur. Elementum hendrerit.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db3ce650-16d2-4332-bb03-91847b6b9b06"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235244Z
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Destination Guide - Slide1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T160145Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Find your next adventure
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "75f300e8-4243-43c2-9b94-86da2397ac8c"
+      Hint: CTA
+      Value: |
+        <link text="BOOK NOW" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "7ccb2c2f-780e-42e3-9b26-7b6fb2b3f8a6"
+      Hint: SubHeading
+      Value: <p>Lorem ipsum dolor sit amet consectetur. Elementum hendrerit.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec0f4444-ea8b-4111-a136-4809720dae2d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235244Z
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Destination Guide - Slide1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T160145Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Find your next adventure
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "75f300e8-4243-43c2-9b94-86da2397ac8c"
+      Hint: CTA
+      Value: |
+        <link text="BOOK NOW" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "7ccb2c2f-780e-42e3-9b26-7b6fb2b3f8a6"
+      Hint: SubHeading
+      Value: <p>Lorem ipsum dolor sit amet consectetur. Elementum hendrerit.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b1d6af5-30f0-455f-8ff2-94f93876132c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235244Z

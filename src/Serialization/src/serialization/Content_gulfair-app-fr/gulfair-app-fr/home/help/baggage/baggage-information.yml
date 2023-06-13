@@ -1,0 +1,291 @@
+﻿---
+ID: "66ecfe6c-cfea-4a98-92e0-f2dde315e1a2"
+Parent: "f158dc24-9e46-40be-9958-8f0f99fc650d"
+Template: "07f50330-c962-5e98-ae02-814183b76ea0"
+Path: "/sitecore/content/gulfair-app-fr/home/help/baggage/baggage-information"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 3
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{78BCE695-62F3-465D-9ACF-B6E971121264}">
+          <p:d />
+        </r>
+        <r
+          uid="{376587D3-7FDC-4062-866E-C41DED6210F3}"
+          p:after="p[@uid='{C5230912-8E1E-5C64-A62F-715DB2F535BF}']"
+          s:ds="{B0A66BEE-84AD-4CD7-AAD7-28B09C497755}"
+          s:id="{70537B94-19D7-42BE-ACD5-DFC8CFD5577E}"
+          s:par=""
+          s:ph="jss-header"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{C8BD1984-EF3E-47A3-AA93-A417579BBD47}"
+          p:after="r[@uid='{376587D3-7FDC-4062-866E-C41DED6210F3}']"
+          s:ds="{55D6F8A2-7DA5-4AE0-9C21-CF2471FFCC2B}"
+          s:id="{2FAE24EB-118B-467A-A793-A565ECF56816}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="jss-inner-banner"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{403CE04F-7C38-44F5-A4B9-8A51E496BAD6}"
+          p:after="r[@uid='{C8BD1984-EF3E-47A3-AA93-A417579BBD47}']"
+          s:ds="{AA1E9716-BB66-459F-BC68-4DDCCC1728B6}"
+          s:id="{D0D6F51F-77E7-4D09-B3E8-8A6481623C63}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{13DBD9E9-3C22-46CA-87BA-6CA958CAD2CB}"
+          p:after="r[@uid='{403CE04F-7C38-44F5-A4B9-8A51E496BAD6}']"
+          s:ds="{D875ACE0-954F-4718-9375-FB3C9CB19804}"
+          s:id="{A5D7F5CF-475A-4B27-ACBD-E5297669B6AE}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{7AE04E3F-E8FD-4E4B-905C-E7AE84D2930B}"
+          p:after="r[@uid='{13DBD9E9-3C22-46CA-87BA-6CA958CAD2CB}']"
+          s:ds="{30C30DA1-4BBA-48AA-8BA4-0DE454BFDF2C}"
+          s:id="{9275948F-71FC-4A0D-99AE-D7773036B3E0}"
+          s:par="CTAType1=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;BackgroundColor=%7B71F20B98-2408-49A4-A472-6FC44C626DED%7D&amp;CTAColor1=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D&amp;CTAType2=%7BB3C4407E-7461-4B34-B944-D581BA981A27%7D&amp;CTAColor2=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{0EEC0D4C-8E1C-4B4C-ADB8-CB1D4F5B91A1}"
+          p:after="r[@uid='{7AE04E3F-E8FD-4E4B-905C-E7AE84D2930B}']"
+          s:ds="{8C56C298-ACF9-4C3D-8B44-5A6BA0157DB8}"
+          s:id="{891FD600-9656-4656-9751-252A6DCB1D21}"
+          s:par="BackgroundColor=%7B7C4FD76D-3B0F-42EA-A617-03C670A8A379%7D&amp;WithMargin"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{60B4B3F9-0785-4EE9-A440-C2FFBD1316F2}"
+          p:after="r[@uid='{0EEC0D4C-8E1C-4B4C-ADB8-CB1D4F5B91A1}']"
+          s:ds="{1E6929B0-56A7-47BC-9DAB-FD181A26E663}"
+          s:id="{1C3AAC8C-BC24-41C5-AA55-7877822BE3C5}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;BackgroundColor=%7B71F20B98-2408-49A4-A472-6FC44C626DED%7D&amp;CTAColor=%7BA786C902-5408-4AD0-967B-4551DCDE6A3D%7D&amp;WithMargin"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{D9FD9EFF-3D2F-4D37-A415-16224634E257}"
+          p:after="r[@uid='{60B4B3F9-0785-4EE9-A440-C2FFBD1316F2}']"
+          s:ds="{3C18BEC8-D945-4EBD-A691-EB6F678CDB00}"
+          s:id="{891FD600-9656-4656-9751-252A6DCB1D21}"
+          s:par="BackgroundColor=%7B89330C54-4FC1-4573-913A-BC08CCDEBD5B%7D&amp;WithMargin"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{2EA8AD54-E558-4495-AE41-3BDFF86FCCD2}"
+          p:after="r[@uid='{D9FD9EFF-3D2F-4D37-A415-16224634E257}']"
+          s:ds="{D8D9677D-A3A1-4C8D-B6FF-979304377858}"
+          s:id="{891FD600-9656-4656-9751-252A6DCB1D21}"
+          s:par="BackgroundColor=%7B71F20B98-2408-49A4-A472-6FC44C626DED%7D&amp;WithMargin"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{418E1A7B-BB41-495E-9AFA-1519D900B514}"
+          p:after="r[@uid='{2EA8AD54-E558-4495-AE41-3BDFF86FCCD2}']"
+          s:ds="{D61B22A0-6A5C-4B5F-B5A4-A81F8DA5A410}"
+          s:id="{7A3813BC-8D3F-43ED-B953-49F9657F75C8}"
+          s:par="BackgroundColor=%7B7C4FD76D-3B0F-42EA-A617-03C670A8A379%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{48BC78A2-78BE-49A8-8D75-0837F3A891D7}"
+          s:ph="/jss-header/jss-ga-header-bookingpanel-{376587d3-7fdc-4062-866e-c41ded6210f3}-0" />
+      </d>
+    </r>
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T062704Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: الأمتعة
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: الأمتعة
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1579d425-d0e9-41ed-9383-ce7bc30bd425"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: الأمتعة
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\fahees
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: الأمتعة
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230525T083107Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T154010Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Gepäck
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ramish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ramish
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Gepäck
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "89fa58df-996a-4d35-b499-01f115919bfd"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Gepäck
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Gepäck
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T123102Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230215T131021Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Baggage
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahad
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahad
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Baggage
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75a20185-72f5-4094-845a-cf9c782bc073"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Baggage
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Baggage
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T174234Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T153948Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: bagages
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ramish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ramish
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: bagages
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ce815eee-4903-42d9-908c-d363a2b4926c"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: bagages
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\fahees
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: bagages
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230525T083230Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T153921Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Багаж
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ramish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ramish
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Багаж
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f6de7117-cf40-4dc4-abdf-cdf987d41cca"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Багаж
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Багаж
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T123107Z

@@ -1,0 +1,217 @@
+﻿---
+ID: "12d94c8c-04eb-48a7-a3fd-99075be22c3e"
+Parent: "4f04bd29-fc83-41fc-ad2c-7366debc5185"
+Template: "51338d8b-3f81-4c25-bfcc-026dc5d8325a"
+Path: "/sitecore/content/gulfair-app-jo/Data/Sliding Banner Folder/Home/Sliding Banner Parent/DEFAULT - HOME - EN - Outstanding airport experience"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "3cd43bcc-74d1-4d07-a914-60e99cf5e1f8"
+  Hint: MobileImage
+  Value: |
+    <image width="375" height="200" alt="outstanding-airport-experience-mobile.png.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/94aff882a1e04b7eadf7d8ca7b89a11e?v=01566e94" stylelabs-content-id="38557" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38557/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ee5e2182-29c4-4a5d-902d-c03e075518c8"
+  Hint: Image
+  Value: |
+    <image width="597" height="671" alt="outstanding-airport-experience.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/8eb8901d4985481e90259dcc458fee33?v=7eb5cdd6" stylelabs-content-id="35667" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/35667/thumbnail" />
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - AR - Outstanding Airport Experience"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T175225Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "57659734-76ac-4ea9-af3c-c4efe0c87993"
+      Hint: Description
+      Value: "<p>Long layovers? Not with Gulf Air. We work to keep our connections as short as possible while still giving you enough time to get where you need to be. We believe flying should be as seamless and easy as possible and that extends to connections as well.</p>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "964b6cbf-7aba-4741-9b2a-3dd7d795d9ba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d398b9a3-8451-4621-82cd-eafc68b09b16"
+      Hint: Title
+      Value: Outstanding Airport Experience
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234326Z
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Outstanding Airport Experience"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T175224Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "57659734-76ac-4ea9-af3c-c4efe0c87993"
+      Hint: Description
+      Value: "<p>Long layovers? Not with Gulf Air. We work to keep our connections as short as possible while still giving you enough time to get where you need to be. We believe flying should be as seamless and easy as possible and that extends to connections as well.</p>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f5bc01f-0617-428d-9ebb-d559685229dc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d398b9a3-8451-4621-82cd-eafc68b09b16"
+      Hint: Title
+      Value: Outstanding Airport Experience
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234326Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Outstanding Airport Experience"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T175224Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "57659734-76ac-4ea9-af3c-c4efe0c87993"
+      Hint: Description
+      Value: "<p>Long layovers? Not with Gulf Air. We work to keep our connections as short as possible while still giving you enough time to get where you need to be. We believe flying should be as seamless and easy as possible and that extends to connections as well.</p>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6974d355-ca94-4fd2-ab5b-c86fdafbddb2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d398b9a3-8451-4621-82cd-eafc68b09b16"
+      Hint: Title
+      Value: Outstanding Airport Experience
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234325Z
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Outstanding Airport Experience"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T175224Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "57659734-76ac-4ea9-af3c-c4efe0c87993"
+      Hint: Description
+      Value: "<p>Long layovers? Not with Gulf Air. We work to keep our connections as short as possible while still giving you enough time to get where you need to be. We believe flying should be as seamless and easy as possible and that extends to connections as well.</p>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c5f5faca-455d-4e6d-9b31-b8600d52dc6e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d398b9a3-8451-4621-82cd-eafc68b09b16"
+      Hint: Title
+      Value: Outstanding Airport Experience
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234326Z
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Outstanding Airport Experience"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T175224Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "57659734-76ac-4ea9-af3c-c4efe0c87993"
+      Hint: Description
+      Value: "<p>Long layovers? Not with Gulf Air. We work to keep our connections as short as possible while still giving you enough time to get where you need to be. We believe flying should be as seamless and easy as possible and that extends to connections as well.</p>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c6bc535-1a79-4ecc-871d-f0f09056ffa8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d398b9a3-8451-4621-82cd-eafc68b09b16"
+      Hint: Title
+      Value: Outstanding Airport Experience
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234326Z

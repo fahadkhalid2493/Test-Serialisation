@@ -1,0 +1,154 @@
+﻿---
+ID: "4438773f-fc7c-4acc-9a5c-2d52a146d800"
+Parent: "c5aa386a-dd70-4729-8afb-795e5a9858cc"
+Template: "fea9fb96-6afb-436a-a6fe-93bd826fa9d7"
+Path: /sitecore/content/Global/Global View Offer Folder/home/View offers from/Frankfurt
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1100
+- ID: "bc609192-db8b-4723-ba09-9a1d73dec66d"
+  Hint: City
+  Value: "{1407CEDC-1A82-4E1D-9E26-3B490D263A7B}"
+- ID: "f343f8ec-f709-4508-9cea-a0cd78ec6da4"
+  Hint: OfferList
+  Value: |
+    {22EED43B-2B94-4FCD-B2A7-2D94D9F98D8F}
+    {435A8E09-99D4-48C0-AD11-DEF65AF1E1F8}
+    {BF5B17C0-3BBE-4554-B916-7AC569EC6EBD}
+    {693FC430-C908-414B-BEED-D45BED825F17}
+    {6B19757A-AB2E-4C33-8C4E-57575C7B564D}
+    {ADD253DB-1E56-4350-8E3F-B475968B1672}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc1ef204-4f64-408a-8749-a75bb336fce4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T133300Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: فرانكفورت
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d273f6c8-b182-49a4-b987-a9559b3845d2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T133352Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Frankfurt
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "edacfefa-f052-47f4-809d-3be87db19084"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230531T110019Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Frankfurt
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba27fd63-e426-48db-b00f-f41d9687dfe3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T133413Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Francfort
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9cafc24-f6b8-44e3-8596-d7d57539093e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T133401Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Франкфурт

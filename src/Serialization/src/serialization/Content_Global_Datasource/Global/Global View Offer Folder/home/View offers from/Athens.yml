@@ -1,0 +1,154 @@
+﻿---
+ID: "aa8f145a-9849-4f74-b41c-e54b887aa892"
+Parent: "c5aa386a-dd70-4729-8afb-795e5a9858cc"
+Template: "fea9fb96-6afb-436a-a6fe-93bd826fa9d7"
+Path: /sitecore/content/Global/Global View Offer Folder/home/View offers from/Athens
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "bc609192-db8b-4723-ba09-9a1d73dec66d"
+  Hint: City
+  Value: "{0B0CFC79-FA24-42F1-AC7B-1C5FE59847CE}"
+- ID: "f343f8ec-f709-4508-9cea-a0cd78ec6da4"
+  Hint: OfferList
+  Value: |
+    {8E1863F5-F5FA-4DDA-A8DF-FC4FFF2E8633}
+    {A740E880-8A7D-4C5D-A760-2352E2454ADA}
+    {8C1CBA1C-DC91-4CDA-A47A-6347699171B6}
+    {7D98A54F-A3AE-4634-AD50-8DC6CE64691F}
+    {F8445309-8B64-4B76-87FD-D4B3BF5C1332}
+    {B42099FB-A8A3-4330-8408-E2EE2E87D7AD}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e234714-b9f7-40c8-87ef-ab76c9e921ef"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T133448Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: أثينا
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e22a25c-cfc0-454d-9b15-0bff967d2da1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T133502Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Athen
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "20a94a05-02ab-445d-9699-42739b4a4ede"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230531T093652Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Athens
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1948c16-bbe0-4fdd-8d59-325eee90683b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T133455Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Athènes
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "220c7f0c-41cf-4e75-b886-616e81bbd253"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ramish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T133508Z
+    - ID: "fba58518-442c-4674-8429-50a36101ee27"
+      Hint: Name
+      Value: Афины

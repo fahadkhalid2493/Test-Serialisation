@@ -1,0 +1,318 @@
+﻿---
+ID: "d875ace0-954f-4718-9375-fb3c9cb19804"
+Parent: "65718473-3783-46e7-ba18-e50cd83e05cf"
+Template: "2eae1a73-ba48-4f90-add2-e995a4d19cf5"
+Path: /sitecore/content/Global/Global Baggage Rules/Baggage Information/General Baggage Rules
+SharedFields:
+- ID: "b18bf9e0-8851-43ad-864d-e4b1bd315cef"
+  Hint: Icons
+  Value: |
+    {6ADCFDCE-0D68-438A-8A0A-4C4509E1A2BC}
+    {7409F3D3-33FF-40A2-BB30-C1E586D936AD}
+    {D2F18631-41DF-415B-B71B-B280C47F11E3}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05e1911f-b78b-4cd7-b888-21d5c33ca4ae"
+      Hint: SecondColumnTitle
+      Value: غير مسموح
+    - ID: "06bf497b-bb70-49ae-8372-7ac35d7257bc"
+      Hint: SecondColumnSubText
+      Value: |
+        <ul>
+            <li><span>أمتعة بأشكال غير اعتيادية أو مربوطه بحبال<br />
+            </span></li>
+            <li><span>أمتعة مغلفه بالبطانيات</span></li>
+            <li><span>أمتعة مستديرة وغير أعتيادية</span></li>
+            <li><span>الأمتعة المنسوجة/البلاستيكية</span></li>
+            <li><span>أمتعة بأحزمة طويلة وغير مربوطة</span></li>
+        </ul>
+    - ID: "1ba5944c-3c6d-436c-b6ff-f42f612c1cf9"
+      Hint: Title
+      Value: قواعد الأمتعة العامة
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230428T115529Z
+    - ID: "41992c2c-e507-42cb-8633-c727337317d2"
+      Hint: SubText
+      Value: <p>يعتمد وزن الأمعتة المسجلة على فئات الأسعار في التذكرة، درجة العضوية في برنامج فالكون فلاير و الوجهة النهائية</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9238a23-c5b8-489a-a295-e68729dc4d24"
+    - ID: "a3a6db1d-1ce8-4436-b624-4174a659a4db"
+      Hint: Rules
+      Value: |
+        <ul>
+            <li>يجب اعتبار أي عنصر من الأمتعة التي تتجاوز 158 سم وأقل من 215 سم أمتعة ""كبيرة الحجم"" ويجب تحصيلها كقطعة إضافية من الأمتعة.</li>
+            <li>الصناديق ، الحقائب ،&nbsp; صناديق الورق المقوى ، السلع الكهربائية المعبأة مسبقًا (باستثناء أجهزة التلفزيون) مقبولة للنقل ؛ طالما أنها لا تتجاوز الأبعاد المذكورة أعلاه.</li>
+            <li>يمكن لف صناديق وحقائب ومربعات من الورق المقوى وما إلى ذلك في الغلاف البلاستيكي المقدم في مرافق تغليف المطار.</li>
+            <li>يمكن قبول أجهزة التلفزيون ، بحد أقصى 50 بوصة ، في حالة كانات معبأة مسبقًا كأمتعة محددة. يجب شحن أجهزة التلفزيون التي تزيد عن 50 بوصة عبر الشحن.</li>
+            <li>يجب أن تحمل جميع الأمتعة التي تزيد عن 23 كجم علامة (وزن ثقيل) ، يتوجب ذكر الوزن فعلي&nbsp; كعلامة واضحة على الأمتعة. يجب ألا يتجاوز الحد الأقصى للوزن لأي عنصر واحد من الأمتعة 32 كجم. يجب إعادة تعبئة أي أمتعة أثقل من 32 كجم وتخفيض الوزن قبل القبول (تشمل الاستثناءات أجهزة التنقل). يجب أن يتم وزن أمتعة المقصورة وملصق أمتعة المقصورة.</li>
+        </ul>
+    - ID: "af9959b9-e78a-4712-8242-696013b6a6b3"
+      Hint: FirstColumnSubText
+      Value: 
+    - ID: "b7740e27-4d6c-474a-a1c5-5d59e8841dce"
+      Hint: FirstColumnTitle
+      Value: الحد الأقصى للمقاسات
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T175047Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05e1911f-b78b-4cd7-b888-21d5c33ca4ae"
+      Hint: SecondColumnTitle
+      Value: Nicht erlaubt
+    - ID: "06bf497b-bb70-49ae-8372-7ac35d7257bc"
+      Hint: SecondColumnSubText
+      Value: |
+        <ul>
+            <li style="text-align: left;"><span>Unregelm&auml;&szlig;iges Gep&auml;ck<br />
+            </span></li>
+            <li style="text-align: left;"><span>Decke/Stoffpackgep&auml;ck</span></li>
+            <li style="text-align: left;"><span>Gep&auml;ck ohne flache Oberfl&auml;che (kugelf&ouml;rmig)</span></li>
+            <li style="text-align: left;"><span>Verfilzte gewebte/Plastikgep&auml;ck</span></li>
+            <li style="text-align: left;"><span>Taschen mit langen, losen Gurten</span></li>
+        </ul>
+    - ID: "1ba5944c-3c6d-436c-b6ff-f42f612c1cf9"
+      Hint: Title
+      Value: Allgemeine Gepäckregeln
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230428T115533Z
+    - ID: "41992c2c-e507-42cb-8633-c727337317d2"
+      Hint: SubText
+      Value: "<p>Ihre Gep&auml;ckausstattung h&auml;ngt von Ihrer Ticket Fare -Familie, der Falconflyer -Mitgliedschaft und dem endg&uuml;ltigen Ziel ab.</p>"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4186f4f-b626-43ab-8fa8-343553d9eabc"
+    - ID: "a3a6db1d-1ce8-4436-b624-4174a659a4db"
+      Hint: Rules
+      Value: |
+        <ul>
+            <li style="margin-top:10px;"> Jeder Gep&auml;ckst&uuml;ck von mehr als 158 cm und weniger als 215 cm gilt als ""&uuml;bergr&ouml;&szlig;ige"" Gep&auml;ck und muss als zus&auml;tzliches Gep&auml;ck berechnet werden. </li>
+            <li style="margin-top:10px;"> Koffer, Koffer, Auflagen, Taschen, Pappkartons, vorgepackte Elektrog&uuml;ter (mit Ausnahme von Fernseher) sind f&uuml;r die Bef&ouml;rderung akzeptabel. Solange sie die vorgenannten Dimensionen nicht &uuml;berschreiten. </li>
+            <li style="margin-top:10px;">Kisten, Koffer, Kartonk&auml;sten usw. k&ouml;nnen in die Plastikfolie an den Flughafenverpackungsm&ouml;glichkeiten eingewickelt werden. </li>
+            <li style="margin-top:10px;"> Fernseher mit maximal 50 Zoll in einem vorgepackten Zustand k&ouml;nnen als eingechecktes Gep&auml;ck akzeptiert werden. Fernsehger&auml;te gr&ouml;&szlig;er als 50 Zoll sollten durch Fracht geliefert werden. </li>
+            <li style="margin-top:10px;"> Alle Gep&auml;cks &uuml;ber 23 kg m&uuml;ssen ein schweres Etikett tragen, wobei das tats&auml;chliche Gewicht auf dem Tag klar markiert ist. Das maximale Gewicht eines einzelnen Gep&auml;ckst&uuml;cks darf 32 kg nicht &uuml;berschreiten. Jedes Gep&auml;ck, das schwerer als 32 kg, muss umgepackt werden und sein Gewicht vor der Annahme reduziert werden (Ausnahmen umfassen Mobilit&auml;tshilfen). Kabinengep&auml;ck sollte gewogen und ein Kabinenp&auml;ckschild angebracht werden.</li>
+        </ul>
+    - ID: "af9959b9-e78a-4712-8242-696013b6a6b3"
+      Hint: FirstColumnSubText
+      Value: 
+    - ID: "b7740e27-4d6c-474a-a1c5-5d59e8841dce"
+      Hint: FirstColumnTitle
+      Value: Maximale Abmessungen
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T070819Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05e1911f-b78b-4cd7-b888-21d5c33ca4ae"
+      Hint: SecondColumnTitle
+      Value: Not Allowed
+    - ID: "06bf497b-bb70-49ae-8372-7ac35d7257bc"
+      Hint: SecondColumnSubText
+      Value: |
+        <ul>
+            <li style="text-align: left;"><span>Irregular shaped baggage<br />
+            </span></li>
+            <li style="text-align: left;"><span>Blanket/fabric wrapped baggage</span></li>
+            <li style="text-align: left;"><span>Baggage without a flat surface (ball shaped)</span></li>
+            <li style="text-align: left;"><span>Matted woven/plastic baggage</span></li>
+            <li style="text-align: left;"><span>Bags with long, loose straps</span></li>
+        </ul>
+    - ID: "1ba5944c-3c6d-436c-b6ff-f42f612c1cf9"
+      Hint: Title
+      Value: General Baggage Rules
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T110051Z
+    - ID: "41992c2c-e507-42cb-8633-c727337317d2"
+      Hint: SubText
+      Value: <p>Your baggage allowance will depend on your ticket fare family, Falconflyer membership and final destination.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af7c382d-fd7a-4a92-893f-6b0e5af68970"
+    - ID: "a3a6db1d-1ce8-4436-b624-4174a659a4db"
+      Hint: Rules
+      Value: |
+        <ul>
+            <li style="margin-top:10px;"> Any item of baggage exceeding 158cm and less than 215cm shall be considered as &lsquo;Over Size&rsquo; baggage and must be charged as an extra piece of baggage. </li>
+            <li style="margin-top:10px;"> Boxes, suitcases, briefcases, bags, cardboard boxes, pre-packed electrical goods (except TVs) are acceptable for carriage; as long as they do not exceed the aforesaid dimensions. </li>
+            <li style="margin-top:10px;">Boxes, suitcases, cardboard boxes etc. can be wrapped in the plastic wrap provided at Airport wrapping facilities. </li>
+            <li style="margin-top:10px;"> TVs, with a maximum of 50 inches, in a pre-packed condition may be accepted as checked-in luggage. TVs larger than 50 inches should be shipped through cargo.</li>
+            <li style="margin-top:10px;"> All baggage over 23kgs must carry a Heavy Tag, with the actual weight clearly marked on the tag. The maximum weight of any single item of baggage must not exceed 32kgs. Any baggage heavier than 32kgs must be repacked and its weight reduced before acceptance (exceptions include mobility aids). Cabin baggage should be weighed and a cabin baggage label attached.</li>
+        </ul>
+    - ID: "af9959b9-e78a-4712-8242-696013b6a6b3"
+      Hint: FirstColumnSubText
+      Value: 
+    - ID: "b7740e27-4d6c-474a-a1c5-5d59e8841dce"
+      Hint: FirstColumnTitle
+      Value: Maximum Dimensions
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T070752Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05e1911f-b78b-4cd7-b888-21d5c33ca4ae"
+      Hint: SecondColumnTitle
+      Value: Interdit
+    - ID: "06bf497b-bb70-49ae-8372-7ac35d7257bc"
+      Hint: SecondColumnSubText
+      Value: |
+        <ul>
+            <li style="text-align: left;"><span>Bagages de forme irr&eacute;guli&egrave;re<br />
+            </span></li>
+            <li style="text-align: left;"><span>Branchettes / bagages envelopp&eacute;s de tissu</span></li>
+            <li style="text-align: left;"><span>Baggages sans surface plate (en forme de balle)</span></li>
+            <li style="text-align: left;"><span>Baggages tiss&eacute;s / plastique tiss&eacute;s</span></li>
+            <li style="text-align: left;"><span>Sacs avec de longues sangles</span></li>
+        </ul>
+    - ID: "1ba5944c-3c6d-436c-b6ff-f42f612c1cf9"
+      Hint: Title
+      Value: Règles générales des bagages
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230428T115536Z
+    - ID: "41992c2c-e507-42cb-8633-c727337317d2"
+      Hint: SubText
+      Value: <p>Votre allocation de bagages d&eacute;pendra de votre famille de tarifs de billets, de l'adh&eacute;sion Falconflyer et de la destination finale.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "09c2a738-2643-4189-886c-d20bbda01912"
+    - ID: "a3a6db1d-1ce8-4436-b624-4174a659a4db"
+      Hint: Rules
+      Value: |
+        <ul>
+            <li style="margin-top:10px;"> Tout &eacute;l&eacute;ment de bagages d&eacute;passant 158 cm et moins de 215 cm doit &ecirc;tre consid&eacute;r&eacute; comme des bagages &laquo;sur-taille&raquo; et doit &ecirc;tre factur&eacute; comme un bagage suppl&eacute;mentaire. </li>
+            <li style="margin-top:10px;"> Les bo&icirc;tes, les valises, les porte-documents, les sacs, les bo&icirc;tes en carton, les produits &eacute;lectriques pr&eacute;-emball&eacute;s (sauf les t&eacute;l&eacute;viseurs) sont acceptables pour le transport; Tant qu'ils ne d&eacute;passent pas les dimensions susmentionn&eacute;es. </li>
+            <li style="margin-top:10px;">Les bo&icirc;tes, les valises, les bo&icirc;tes en carton, etc. peuvent &ecirc;tre envelopp&eacute;es dans la pellicule plastique fournie dans les installations d'emballage de l'a&eacute;roport. </li>
+            <li style="margin-top:10px;"> Les t&eacute;l&eacute;viseurs, avec un maximum de 50 pouces, dans un &eacute;tat pr&eacute;-emball&eacute; peuvent &ecirc;tre accept&eacute;s comme bagages enregistr&eacute;s. Les t&eacute;l&eacute;viseurs de plus de 50 pouces doivent &ecirc;tre exp&eacute;di&eacute;s par le fret. </li>
+            <li style="margin-top:10px;"> Tous les bagages de plus de 23 kg doivent transporter une &eacute;tiquette lourde, le poids r&eacute;el clairement marqu&eacute; sur l'&eacute;tiquette. Le poids maximum de tout &eacute;l&eacute;ment de bagages ne doit pas d&eacute;passer 32 kg. Tout bagage plus lourd que 32 kg doit &ecirc;tre reconditionn&eacute; et son poids r&eacute;duit avant l'acceptation (les exceptions comprennent des aides &agrave; la mobilit&eacute;). Les bagages de cabine doivent &ecirc;tre pes&eacute;s et une &eacute;tiquette de bagages de cabine attach&eacute;e.</li>
+        </ul>
+    - ID: "af9959b9-e78a-4712-8242-696013b6a6b3"
+      Hint: FirstColumnSubText
+      Value: 
+    - ID: "b7740e27-4d6c-474a-a1c5-5d59e8841dce"
+      Hint: FirstColumnTitle
+      Value: Dimensions maximales
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T070957Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05e1911f-b78b-4cd7-b888-21d5c33ca4ae"
+      Hint: SecondColumnTitle
+      Value: Не допускается
+    - ID: "06bf497b-bb70-49ae-8372-7ac35d7257bc"
+      Hint: SecondColumnSubText
+      Value: |
+        <ul>
+            <li style="text-align: left;"><span>Нерегулярная в форме багаж<br />
+            </span></li>
+            <li style="text-align: left;"><span>Оделенка/ткань обернутый багаж</span></li>
+            <li style="text-align: left;"><span>Багаж без плоской поверхности (шариковая форма)</span></li>
+            <li style="text-align: left;"><span>Матовая тканая/пластиковый багаж</span></li>
+            <li style="text-align: left;"><span>Сумки с длинными свободными ремнями</span></li>
+        </ul>
+    - ID: "1ba5944c-3c6d-436c-b6ff-f42f612c1cf9"
+      Hint: Title
+      Value: Генеральные правила багажа
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230428T115539Z
+    - ID: "41992c2c-e507-42cb-8633-c727337317d2"
+      Hint: SubText
+      Value: <p>Ваше багажное пособие будет зависеть от вашей семьи билетов, членства Falconflyer и конечного пункта назначения.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd2a8c50-bd7d-49eb-bcb2-fb1c300f9def"
+    - ID: "a3a6db1d-1ce8-4436-b624-4174a659a4db"
+      Hint: Rules
+      Value: |
+        <ul>
+            <li style="margin-top:10px;"> Любой предмет багажа, превышающего 158 см и менее 215 см, должен рассматриваться как багаж &laquo;через размер&raquo; и должен взиматься как дополнительный кусок багажа. </li>
+            <li style="margin-top:10px;"> Ящики, чемоданы, портфель, мешки, картонные коробки, предварительно упакованные электрические товары (кроме телевизоров) приемлемы для перевозки; до тех пор, пока они не превышают вышеупомянутые измерения. </li>
+            <li style="margin-top:10px;">Ящики, чемоданы, картонные коробки и т. Д. Могут быть завернуты в полиэтиленовую пленку, предоставленную на обертывающих средах аэропорта. </li>
+            <li style="margin-top:10px;"> Телевизоры с максимум 50 дюймов в предварительно упакованном состоянии могут быть приняты в виде зарегистрированного багажа. Телевизоры, более 50 дюймов, должны быть отправлены через груз. </li>
+            <li style="margin-top:10px;"> Весь багаж более 23 кг должен нести тяжелую метку, причем фактический вес четко обозначен на бирке. Максимальный вес любого предмета багажа не должен превышать 32 кг. Любой багаж, тяжелее 32 кг, должен быть переупакован, и его вес уменьшается до принятия (исключения включают в себя вспомогательные средства мобильности). Багаж в кабине должен быть взвешен и прикреплен багажник.</li>
+        </ul>
+    - ID: "af9959b9-e78a-4712-8242-696013b6a6b3"
+      Hint: FirstColumnSubText
+      Value: 
+    - ID: "b7740e27-4d6c-474a-a1c5-5d59e8841dce"
+      Hint: FirstColumnTitle
+      Value: Максимальные размеры
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T071048Z

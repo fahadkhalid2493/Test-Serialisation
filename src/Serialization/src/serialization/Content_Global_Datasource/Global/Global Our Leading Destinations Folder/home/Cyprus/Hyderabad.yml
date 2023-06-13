@@ -1,0 +1,276 @@
+﻿---
+ID: "7d3c031d-2e53-47f0-8659-4c8342d5d340"
+Parent: "b1c79d8e-b1e7-4a89-b918-400f59d5f094"
+Template: "930d74ab-6771-40d2-ae16-42027bb0c7f6"
+Path: /sitecore/content/Global/Global Our Leading Destinations Folder/home/Cyprus/Hyderabad
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "1a683b11-ba93-4d39-ac08-3ed529c41702"
+  Hint: City
+  Value: "{5BE7C727-CAD3-4E15-8DF6-E95C795F166F}"
+- ID: "360eaaa0-c5b5-48d3-b9e7-aadc8f52e4bb"
+  Hint: Categories
+  Value: |
+    {30067CB8-6537-40C2-B098-E55C6F395349}
+    {A933CAA1-FA8B-4AE4-AF7E-5E1AB4A9541C}
+- ID: "4a56a804-f169-43e8-84c1-3fb04c201707"
+  Hint: Image
+  Value: |
+    <image width="558" height="487" alt="Hyderabad - 1440 x 750.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/fcc1ca0c3a984cadbecbdebe840553f2?v=b62c9d32" stylelabs-content-id="46562" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/46562/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T103453Z
+    - ID: "3b433445-aa96-4600-b4aa-78741b165050"
+      Hint: SubText
+      Value: السياحية من
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a56b750-1381-4c17-8861-379ab6784a63"
+      Hint: Price
+      Value: 500
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71dc60ce-9a8d-488b-83de-c98cf62a17a7"
+    - ID: "999acd96-0a11-4128-8dcd-b19a5e486ce1"
+      Hint: Currency
+      Value: GBP
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225952Z
+    - ID: "e7582df1-f2dc-45ba-bd39-45247e8d5fbd"
+      Hint: CTABookNow
+      Value: |
+        <link text="احجز الآن" linktype="external" url="https://falconflyer.gulfair.com/#/member/login" anchor="" target="_blank" />
+    - ID: "ec03944c-20f2-45cc-bb88-920614a37716"
+      Hint: CTADiscover
+      Value: |
+        <link text="أكتشف" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{CEEC7F6F-E89C-4703-AF56-AE1A660F9459}" />
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T103453Z
+    - ID: "3b433445-aa96-4600-b4aa-78741b165050"
+      Hint: SubText
+      Value: Wirtschaft von
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8a56b750-1381-4c17-8861-379ab6784a63"
+      Hint: Price
+      Value: 500
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "00ea9978-4a0f-47d8-ae93-ffd6a087fbba"
+    - ID: "999acd96-0a11-4128-8dcd-b19a5e486ce1"
+      Hint: Currency
+      Value: GBP
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225952Z
+    - ID: "e7582df1-f2dc-45ba-bd39-45247e8d5fbd"
+      Hint: CTABookNow
+      Value: |
+        <link text="Buchen Sie jetzt" linktype="external" url="https://falconflyer.gulfair.com/#/member/login" anchor="" target="_blank" />
+    - ID: "ec03944c-20f2-45cc-bb88-920614a37716"
+      Hint: CTADiscover
+      Value: |
+        <link text="Entdecken" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{CEEC7F6F-E89C-4703-AF56-AE1A660F9459}" />
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T103453Z
+    - ID: "3b433445-aa96-4600-b4aa-78741b165050"
+      Hint: SubText
+      Value: Economy from
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8a56b750-1381-4c17-8861-379ab6784a63"
+      Hint: Price
+      Value: 500
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0faf228e-0d32-400c-be4f-ac672e3ca0c9"
+    - ID: "999acd96-0a11-4128-8dcd-b19a5e486ce1"
+      Hint: Currency
+      Value: USD
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225952Z
+    - ID: "e7582df1-f2dc-45ba-bd39-45247e8d5fbd"
+      Hint: CTABookNow
+      Value: |
+        <link text="Book now" linktype="external" url="https://falconflyer.gulfair.com/#/member/login" anchor="" target="_blank" />
+    - ID: "ec03944c-20f2-45cc-bb88-920614a37716"
+      Hint: CTADiscover
+      Value: |
+        <link text="Discover" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{CEEC7F6F-E89C-4703-AF56-AE1A660F9459}" />
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T103453Z
+    - ID: "3b433445-aa96-4600-b4aa-78741b165050"
+      Hint: SubText
+      Value: Économie de
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8a56b750-1381-4c17-8861-379ab6784a63"
+      Hint: Price
+      Value: 500
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e78187c-9620-4b1e-8a15-74cfc78d0035"
+    - ID: "999acd96-0a11-4128-8dcd-b19a5e486ce1"
+      Hint: Currency
+      Value: GBP
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225952Z
+    - ID: "e7582df1-f2dc-45ba-bd39-45247e8d5fbd"
+      Hint: CTABookNow
+      Value: |
+        <link text="Reserve maintenant" linktype="external" url="https://falconflyer.gulfair.com/#/member/login" anchor="" target="_blank" />
+    - ID: "ec03944c-20f2-45cc-bb88-920614a37716"
+      Hint: CTADiscover
+      Value: |
+        <link text="Découvrir" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{CEEC7F6F-E89C-4703-AF56-AE1A660F9459}" />
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T103453Z
+    - ID: "3b433445-aa96-4600-b4aa-78741b165050"
+      Hint: SubText
+      Value: Экономика от
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8a56b750-1381-4c17-8861-379ab6784a63"
+      Hint: Price
+      Value: 500
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "08fd12a6-f1f6-42a5-9e2f-8ed6c759da50"
+    - ID: "999acd96-0a11-4128-8dcd-b19a5e486ce1"
+      Hint: Currency
+      Value: GBP
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225952Z
+    - ID: "e7582df1-f2dc-45ba-bd39-45247e8d5fbd"
+      Hint: CTABookNow
+      Value: |
+        <link text="Заказать сейчас" linktype="external" url="https://falconflyer.gulfair.com/#/member/login" anchor="" target="_blank" />
+    - ID: "ec03944c-20f2-45cc-bb88-920614a37716"
+      Hint: CTADiscover
+      Value: |
+        <link text="Обнаружить" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{CEEC7F6F-E89C-4703-AF56-AE1A660F9459}" />

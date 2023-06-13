@@ -1,0 +1,302 @@
+﻿---
+ID: "41ecd1bd-36c4-4054-bd55-75a304529569"
+Parent: "74c175ed-dc64-4e9f-886a-153b5b703b57"
+Template: "07f50330-c962-5e98-ae02-814183b76ea0"
+Path: "/sitecore/content/gulfair-app-bh/home/explore/explore-bahrain/visit-bahrain"
+SharedFields:
+- ID: "d26a428b-8f37-4ae7-bd6c-1126664c4031"
+  Hint: AvailableLanguages
+  Value: |
+    {CD5CB5D8-99FB-4035-8CF6-AA38E676E608}
+    {AE2B1160-AEC8-400B-92BF-E4F2378F29C8}
+    {6BDE25E6-CDEC-40FD-AD61-8ADC66E8BE5B}
+    {489B5329-994C-4BF6-B649-42B1A90A7FC3}
+    {02F070DE-00A8-4308-B198-7109FADE321B}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{100FB120-1AE6-4890-BFDA-8F82803D8C38}">
+          <p:d />
+        </r>
+        <r
+          uid="{B147D088-F5E8-4338-AAA8-413DEC4A92E4}"
+          s:ph="/jss-footer/jss-ga-form-{50f7ce3b-bbb1-4600-b0a6-0065049c3326}-0" />
+        <r
+          uid="{95803DFA-D0CF-4FDA-8E11-13E8394F5124}"
+          p:after="r[@uid='{B147D088-F5E8-4338-AAA8-413DEC4A92E4}']"
+          s:ds=""
+          s:id="{3A120CA3-2B1A-4374-AD55-2A2C9F692128}"
+          s:par=""
+          s:ph="/jss-inner-banner/jss-ga-inner-banner-temperature-widget-{c0cf2d79-48d1-4552-892c-ce339ce6b141}-0"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{C0CF2D79-48D1-4552-892C-CE339CE6B141}"
+          p:after="r[@uid='{95803DFA-D0CF-4FDA-8E11-13E8394F5124}']"
+          s:ds="{8D5FCF41-37A8-4418-8A60-2C6A5B14E950}"
+          s:id="{2FAE24EB-118B-467A-A793-A565ECF56816}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="jss-inner-banner"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{23E87006-6EE9-45FA-8A13-81817427E56A}"
+          p:after="r[@uid='{C0CF2D79-48D1-4552-892C-CE339CE6B141}']"
+          s:ds="{CAF10C8C-F8DA-4E57-9BDA-CEE5CE5A6932}"
+          s:id="{7BB8B9B6-0B86-4775-B959-FE9881863127}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{A5F78BA6-098A-4DC1-A6A9-61D943FFB869}"
+          p:after="r[@uid='{23E87006-6EE9-45FA-8A13-81817427E56A}']"
+          s:ds="{FDB3EF5D-A796-4090-8904-E540337A9FBB}"
+          s:id="{1D122DBA-C2EA-4FF4-9E8A-FFB1C92BEA8C}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;BackgroundColor=%7B3F16AFC2-00E8-4FFD-A242-49354F84EF7B%7D&amp;CTAColor=%7BF4B4A40B-428A-48B8-907D-F1598EBADC7A%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{89A03863-76DC-45E1-8792-2A62F60D883E}"
+          p:after="r[@uid='{A5F78BA6-098A-4DC1-A6A9-61D943FFB869}']"
+          s:ds=""
+          s:id="{6343FC04-AFC4-46A0-9495-01D11FE66001}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;WithMargin&amp;ComponentType=%7B0BF44A08-D10B-4DD9-9E13-775F33DA02F6%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{5FE46CBC-9EB9-4A9D-87C4-1F5573195D1D}"
+          p:after="r[@uid='{89A03863-76DC-45E1-8792-2A62F60D883E}']"
+          s:ds="{709CC4BF-525B-4852-A8C6-DC20560D970E}"
+          s:id="{9275948F-71FC-4A0D-99AE-D7773036B3E0}"
+          s:par="CTAType1=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;BackgroundColor=%7B71F20B98-2408-49A4-A472-6FC44C626DED%7D&amp;CTAColor1=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D&amp;CTAType2=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor2=%7BF4B4A40B-428A-48B8-907D-F1598EBADC7A%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{BA948194-B112-4277-BF59-E2A2487CBAFB}"
+          p:after="r[@uid='{5FE46CBC-9EB9-4A9D-87C4-1F5573195D1D}']"
+          s:ds=""
+          s:id="{A2E34AC3-9708-45F2-92F7-D817A84F23FF}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{DF855ABD-8931-4716-B9F5-349361A11287}"
+          p:after="r[@uid='{BA948194-B112-4277-BF59-E2A2487CBAFB}']"
+          s:ds=""
+          s:id="{7A3813BC-8D3F-43ED-B953-49F9657F75C8}"
+          s:par="BackgroundColor=%7B7C4FD76D-3B0F-42EA-A617-03C670A8A379%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{F9469B02-F741-495D-AE62-4C15FE53839F}"
+          p:after="r[@uid='{DF855ABD-8931-4716-B9F5-349361A11287}']"
+          s:ds=""
+          s:id="{9A3517B1-9AA7-4E6E-BCF4-302FD1277940}"
+          s:par="BackgroundColor=%7B7C4FD76D-3B0F-42EA-A617-03C670A8A379%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{50F7CE3B-BBB1-4600-B0A6-0065049C3326}"
+          p:after="r[@uid='{F9469B02-F741-495D-AE62-4C15FE53839F}']"
+          s:ds="{04183919-C073-4EF9-BF01-A1CF96B985FA}"
+          s:id="{BC7AA6E7-8165-4864-BD03-2F6F8AC59865}"
+          s:par=""
+          s:ph="jss-footer"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{48BC78A2-78BE-49A8-8D75-0837F3A891D7}"
+          p:after="*[1=2]" />
+      </d>
+    </r>
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T123831Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: البحرين جزيرة اللؤلؤ
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: البحرين جزيرة اللؤلؤ
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b6f5ed4-d89b-40b7-9a13-6c3f7e8c1e80"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: البحرين جزيرة اللؤلؤ
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: البحرين جزيرة اللؤلؤ
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T121444Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230509T113250Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Bahrain die Insel der Perlen
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Bahrain die Insel der Perlen
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1bc9115-be14-4eb4-ac43-5462be36d952"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Bahrain die Insel der Perlen
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Bahrain die Insel der Perlen
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T121456Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T124132Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Bahrain the island of pearls
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Bahrain the island of pearls
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed232a27-f940-48b2-b29e-a7d402bf4021"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Bahrain the island of pearls
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Bahrain the island of pearls
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230527T192708Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230509T113253Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Bahreïn l'île des perles
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Bahreïn l'île des perles
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a56bd18-41a2-41a4-b1f0-6c91dc3fd699"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Bahreïn l'île des perles
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Bahreïn l'île des perles
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T121439Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230509T113248Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Бахрейн жемчужный остров
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Бахрейн жемчужный остров
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9344360a-1b14-4fc9-bab1-233315072de2"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Бахрейн жемчужный остров
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Бахрейн жемчужный остров
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T121449Z

@@ -1,0 +1,277 @@
+﻿---
+ID: "044d3032-8c60-4c85-83e5-f96f9229bb3b"
+Parent: "7af02d49-e1ae-4e54-a363-79c2f352ab36"
+Template: "33fcf80a-1ee7-40c2-876f-537a8a5e8bc6"
+Path: "/sitecore/content/gulfair-app-gb/Data/Explore Our Network Folder/DEFAULT - Explore Our Network - Destination - Parent"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "206813c2-12de-4542-8dd4-9f14872e16ef"
+      Hint: Heading
+      Value: Explore our network
+    - ID: "20e9ec0c-bced-4337-8561-bfee0a562080"
+      Hint: Destinations
+      Value: |
+        {C2FA916F-29BD-4693-8DAC-1168AEC39234}
+        {98B5B623-093A-403C-93AC-CCCC9CBF15A4}
+        {F539D97A-3EB8-441D-8C44-74AFC6580825}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T142959Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f829bc8-a765-4fc9-a752-6f36d6449a50"
+    - ID: "aaa1f67d-a94a-4d54-b03e-c8d8294b333c"
+      Hint: RegionField
+      Value: "{71B70432-92F5-469E-988F-9FDA1DC71606}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "cce306da-6fb6-463f-b62a-819f27b251f8"
+      Hint: TripTypeField
+      Value: "{CA352DE5-FCAF-4AD0-BD6D-C2971CDCA32F}"
+    - ID: "d36055de-127c-45b6-be68-f07739fd71f9"
+      Hint: Title
+      Value: Destinations
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T114937Z
+    - ID: "dcf329be-be49-4832-9d6e-f946bcc2ebde"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Explore Our Network - Destination - Parent"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "206813c2-12de-4542-8dd4-9f14872e16ef"
+      Hint: Heading
+      Value: Explore our network
+    - ID: "20e9ec0c-bced-4337-8561-bfee0a562080"
+      Hint: Destinations
+      Value: |
+        {F539D97A-3EB8-441D-8C44-74AFC6580825}
+        {98B5B623-093A-403C-93AC-CCCC9CBF15A4}
+        {C2FA916F-29BD-4693-8DAC-1168AEC39234}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T081857Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c4e7ee26-b76b-4ac0-be76-b54fa8b254bf"
+    - ID: "aaa1f67d-a94a-4d54-b03e-c8d8294b333c"
+      Hint: RegionField
+      Value: "{71B70432-92F5-469E-988F-9FDA1DC71606}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "cce306da-6fb6-463f-b62a-819f27b251f8"
+      Hint: TripTypeField
+      Value: "{CA352DE5-FCAF-4AD0-BD6D-C2971CDCA32F}"
+    - ID: "d36055de-127c-45b6-be68-f07739fd71f9"
+      Hint: Title
+      Value: Destinations
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T114938Z
+    - ID: "dcf329be-be49-4832-9d6e-f946bcc2ebde"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Explore Our Network - Destination - Parent"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "206813c2-12de-4542-8dd4-9f14872e16ef"
+      Hint: Heading
+      Value: Explore our network
+    - ID: "20e9ec0c-bced-4337-8561-bfee0a562080"
+      Hint: Destinations
+      Value: |
+        {F539D97A-3EB8-441D-8C44-74AFC6580825}
+        {98B5B623-093A-403C-93AC-CCCC9CBF15A4}
+        {C2FA916F-29BD-4693-8DAC-1168AEC39234}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T081857Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ea72f19-88df-48bf-bb7f-9c841ddb43c7"
+    - ID: "aaa1f67d-a94a-4d54-b03e-c8d8294b333c"
+      Hint: RegionField
+      Value: "{71B70432-92F5-469E-988F-9FDA1DC71606}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "cce306da-6fb6-463f-b62a-819f27b251f8"
+      Hint: TripTypeField
+      Value: "{CA352DE5-FCAF-4AD0-BD6D-C2971CDCA32F}"
+    - ID: "d36055de-127c-45b6-be68-f07739fd71f9"
+      Hint: Title
+      Value: Destinations
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T114937Z
+    - ID: "dcf329be-be49-4832-9d6e-f946bcc2ebde"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Explore Our Network - Destination - Parent"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "206813c2-12de-4542-8dd4-9f14872e16ef"
+      Hint: Heading
+      Value: Explore our network
+    - ID: "20e9ec0c-bced-4337-8561-bfee0a562080"
+      Hint: Destinations
+      Value: |
+        {F539D97A-3EB8-441D-8C44-74AFC6580825}
+        {98B5B623-093A-403C-93AC-CCCC9CBF15A4}
+        {C2FA916F-29BD-4693-8DAC-1168AEC39234}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T081857Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f04384c9-e495-4000-bc25-07e9b246bcf3"
+    - ID: "aaa1f67d-a94a-4d54-b03e-c8d8294b333c"
+      Hint: RegionField
+      Value: "{71B70432-92F5-469E-988F-9FDA1DC71606}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "cce306da-6fb6-463f-b62a-819f27b251f8"
+      Hint: TripTypeField
+      Value: "{CA352DE5-FCAF-4AD0-BD6D-C2971CDCA32F}"
+    - ID: "d36055de-127c-45b6-be68-f07739fd71f9"
+      Hint: Title
+      Value: Destinations
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T114938Z
+    - ID: "dcf329be-be49-4832-9d6e-f946bcc2ebde"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Explore Our Network - Destination - Parent"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "206813c2-12de-4542-8dd4-9f14872e16ef"
+      Hint: Heading
+      Value: Explore our network
+    - ID: "20e9ec0c-bced-4337-8561-bfee0a562080"
+      Hint: Destinations
+      Value: |
+        {F539D97A-3EB8-441D-8C44-74AFC6580825}
+        {98B5B623-093A-403C-93AC-CCCC9CBF15A4}
+        {C2FA916F-29BD-4693-8DAC-1168AEC39234}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T081857Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9c825377-aecc-4e23-8b71-badeb258b36a"
+    - ID: "aaa1f67d-a94a-4d54-b03e-c8d8294b333c"
+      Hint: RegionField
+      Value: "{71B70432-92F5-469E-988F-9FDA1DC71606}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "cce306da-6fb6-463f-b62a-819f27b251f8"
+      Hint: TripTypeField
+      Value: "{CA352DE5-FCAF-4AD0-BD6D-C2971CDCA32F}"
+    - ID: "d36055de-127c-45b6-be68-f07739fd71f9"
+      Hint: Title
+      Value: Destinations
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T114937Z
+    - ID: "dcf329be-be49-4832-9d6e-f946bcc2ebde"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

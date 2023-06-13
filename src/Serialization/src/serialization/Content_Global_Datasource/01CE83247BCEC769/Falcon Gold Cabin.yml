@@ -1,0 +1,409 @@
+﻿---
+ID: "32ce2e35-a0b5-4956-b7ed-623889f8d71d"
+Parent: "8ba04c9e-faba-450e-993d-73b56ce7991a"
+Template: "3729cae3-88db-4a52-88f4-3a2d5c759170"
+Path: /sitecore/content/Global/CabinExperienceTabAndSliderFolder/CabinExperienceTabAndSliderParentList/Airbus 321ER/Falcon Gold Cabin
+SharedFields:
+- ID: "386bfb56-1fdd-4633-846e-7a2c470dc8d1"
+  Hint: IconFour
+  Value: 
+- ID: "491a812a-058e-470c-b08a-aca452295bfb"
+  Hint: BannerImage
+  Value: |
+    <image width="530" height="337" alt="3d-virtual.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/6ed967d054904566a19ca742406d4268?v=db8edee5" stylelabs-content-id="42714" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/42714/thumbnail" />
+- ID: "4f34da61-d14b-4a23-86eb-22c3b26f0f64"
+  Hint: IconThree
+  Value: |
+    <image width="91" height="90" alt="icon-04.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/096f51d25d51420d9b869f9f54d5e107?v=7ff28829" stylelabs-content-id="41466" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41466/thumbnail" />
+- ID: "69a232fc-4acb-4926-a26d-814ee701054f"
+  Hint: IconOne
+  Value: |
+    <image width="92" height="90" alt="icon-01.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/0b42cbe4b191486ba35e25038e501c05?v=23e5fd87" stylelabs-content-id="44878" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/44878/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "a8b8666c-6421-4a24-a015-b63c7ee33293"
+  Hint: IconTwo
+  Value: |
+    <image width="91" height="90" alt="icon-02.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/0b3b759f302743148e856595a3ad77ae?v=58f805d6" stylelabs-content-id="44884" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/44884/thumbnail" />
+- ID: "ec342446-5385-4acc-8ff1-a4cc385380fa"
+  Hint: SliderList
+  Value: "{AC291B0A-E765-4392-8D74-F6DB9778D47B}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03aa823e-ea0f-49c3-b020-f1300ebf1f26"
+      Hint: BannerSubText
+      Value: |
+        <p>في طيران الخليج، نبحث دائمًا عن طرق جديدة ومبتكرة لتعزيز تجربة سفرك.<br />
+        أحدث عروضنا هي الكابينة الافتراضية، وهي تجربة رقمية غامرة تنقلك إلى عالم من الراحة والرفاهية.</p>
+        <p>من خلال صور مرئية ثلاثية الأبعاد مذهلة و مميزات التفاعلية، يمكنك استكشاف مقصوراتنا وتصفح خدماتنا على متن الطائرة وحتى تحديد مقعدك قبل الصعود إلى الطائرة. انضم إلينا في رحلة افتراضية واكتشف مستقبل السفر مع طيران الخليج.</p>
+    - ID: "1b098cba-c01c-470a-9136-b1c231e723c2"
+      Hint: Heading
+      Value: Explore our cabin features
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T134145Z
+    - ID: "29c95e4d-dec4-41e0-b87b-73f4f377d2fa"
+      Hint: BenefitSubTitle
+      Value: |
+        <p>استرخ وانغمس في مقصورة الصقر الذهبي التابعة لشركة طيران الخليج، حيث تتحد الرفاهية والراحة لخلق تجربة لا مثيل لها على متن الطائرة.<br />
+        استمتع بخدمة مخصصة ومقاعد واسعة وأسرّة مسطحة بالكامل مع ميزات التدليك لرحلة مريحة.<br />
+        انغمس في خيارات تناول الطعام الذواقة، وشبكة واي فاي عالية السرعة، وخيارات ترفيهية واسعة النطاق، بما في ذلك أحدث الأفلام والبرامج التلفزيونية.</p>
+        <p>اكتشف مستوى جديدًا من السفر مع مزايا مقصورة الصقر الذهبي </p>
+    - ID: "2f84fb28-ae86-43b6-835e-2d011073154d"
+      Hint: IconFourTitle
+      Value: Lounge Access
+    - ID: "313fc557-c805-42ed-9713-d1d5cd0595c3"
+      Hint: IconThreeTitle
+      Value: "Wi-Fi on Board"
+    - ID: "38fc4262-795c-4830-8df1-b1e2afb13975"
+      Hint: SubTabTitle
+      Value: مقصورة الصقر الذهبي
+    - ID: "4d330bf5-0e23-416b-b829-c442f94e10c1"
+      Hint: BenefitTitles
+      Value: تمتع بالرفاهية في السماء
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "897922b3-6f6f-471a-a2d8-8b2955df636c"
+      Hint: IconOneTitle
+      Value: Fast Track Boarding
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "20efd245-fb0e-40b9-afd0-ace8abec66e2"
+    - ID: "92da30be-3dcc-4b2f-a928-11092c00e654"
+      Hint: BannerHeading
+      Value: جرب مستقبل السفر الجوي مع المقصورة الافتراضية لشركة طيران الخليج
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T105351Z
+    - ID: "e6f1acd5-3477-4a9a-b500-9592175561d2"
+      Hint: IconTwoTitle
+      Value: Gourmet Meals
+  - Version: 2
+    Fields:
+    - ID: "03aa823e-ea0f-49c3-b020-f1300ebf1f26"
+      Hint: BannerSubText
+      Value: |
+        <p>في طيران الخليج، نبحث دائمًا عن طرق جديدة ومبتكرة لتعزيز تجربة سفرك.<br />
+        أحدث عروضنا هي الكابينة الافتراضية، وهي تجربة رقمية غامرة تنقلك إلى عالم من الراحة والرفاهية.</p>
+        <p>من خلال صور مرئية ثلاثية الأبعاد مذهلة و مميزات التفاعلية، يمكنك استكشاف مقصوراتنا وتصفح خدماتنا على متن الطائرة وحتى تحديد مقعدك قبل الصعود إلى الطائرة. انضم إلينا في رحلة افتراضية واكتشف مستقبل السفر مع طيران الخليج.</p>
+    - ID: "1b098cba-c01c-470a-9136-b1c231e723c2"
+      Hint: Heading
+      Value: Explore our cabin features
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T105824Z
+    - ID: "29c95e4d-dec4-41e0-b87b-73f4f377d2fa"
+      Hint: BenefitSubTitle
+      Value: |
+        <p>استرخ وانغمس في مقصورة الصقر الذهبي التابعة لشركة طيران الخليج، حيث تتحد الرفاهية والراحة لخلق تجربة لا مثيل لها على متن الطائرة.<br />
+        استمتع بخدمة مخصصة ومقاعد واسعة وأسرّة مسطحة بالكامل مع ميزات التدليك لرحلة مريحة.<br />
+        انغمس في خيارات تناول الطعام الذواقة، وشبكة واي فاي عالية السرعة، وخيارات ترفيهية واسعة النطاق، بما في ذلك أحدث الأفلام والبرامج التلفزيونية.</p>
+        <p>اكتشف مستوى جديدًا من السفر مع مزايا مقصورة الصقر الذهبي </p>
+    - ID: "2f84fb28-ae86-43b6-835e-2d011073154d"
+      Hint: IconFourTitle
+      Value: 
+    - ID: "313fc557-c805-42ed-9713-d1d5cd0595c3"
+      Hint: IconThreeTitle
+      Value: دخول الصالة
+    - ID: "38fc4262-795c-4830-8df1-b1e2afb13975"
+      Hint: SubTabTitle
+      Value: مقصورة الصقر الذهبي
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "4d330bf5-0e23-416b-b829-c442f94e10c1"
+      Hint: BenefitTitles
+      Value: تمتع بالرفاهية في السماء
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\EmanBurwais
+    - ID: "897922b3-6f6f-471a-a2d8-8b2955df636c"
+      Hint: IconOneTitle
+      Value: المسار السريع
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ce74f785-b417-4815-84cd-14dad0194fb1"
+    - ID: "92da30be-3dcc-4b2f-a928-11092c00e654"
+      Hint: BannerHeading
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230607T105824Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225847Z
+    - ID: "e6f1acd5-3477-4a9a-b500-9592175561d2"
+      Hint: IconTwoTitle
+      Value: الوجبات اللذيذة
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03aa823e-ea0f-49c3-b020-f1300ebf1f26"
+      Hint: BannerSubText
+      Value: |
+        <p>Bei Gulf Air suchen wir immer nach neuen und innovativen M&ouml;glichkeiten, um Ihr Reiseerlebnis zu verbessern.<br />
+        Unser neuestes Angebot ist die virtuelle Kabine, ein immersives digitales Erlebnis, das Sie in eine Welt voller Komfort und Luxus bringt.</p>
+        <p>Mit atemberaubenden 3D-Visuals und interaktiven Funktionen k&ouml;nnen Sie unsere Kabinen erkunden, unsere Dienste w&auml;hrend des Flugs durchsuchen und sogar Ihren Sitz ausw&auml;hlen, bevor Sie an Bord gehen. Besuchen Sie uns auf einer virtuellen Reise und entdecken Sie die Zukunft der Flugreisen mit Golfluft.</p>
+    - ID: "1b098cba-c01c-470a-9136-b1c231e723c2"
+      Hint: Heading
+      Value: Explore our cabin features
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T134145Z
+    - ID: "29c95e4d-dec4-41e0-b87b-73f4f377d2fa"
+      Hint: BenefitSubTitle
+      Value: |
+        <p>Entspannen Sie sich und g&ouml;nnen Sie sich die Falcon Gold Cabin von Golf Air, wo Luxus und Komfort ein beispielloses Erlebnis auf dem Flug schaffen.<br />
+        Genie&szlig;en Sie personalisierten Service, ger&auml;umige Sitzgelegenheiten und vollsprachige Flachbetts mit Massagefunktionen f&uuml;r eine erholsame Reise.<br />
+        G&ouml;nnen Sie sich Gourmet-Restaurantoptionen, Hochgeschwindigkeits-WLAN und umfangreiche Unterhaltungsauswahl, einschlie&szlig;lich der neuesten Filme und Fernsehsendungen.</p>
+        <p>Entdecken Sie ein neues Reisenniveau mit den Vorteilen von Falcon Gold Cabin.</p>
+    - ID: "2f84fb28-ae86-43b6-835e-2d011073154d"
+      Hint: IconFourTitle
+      Value: Lounge Access
+    - ID: "313fc557-c805-42ed-9713-d1d5cd0595c3"
+      Hint: IconThreeTitle
+      Value: "Wi-Fi on Board"
+    - ID: "38fc4262-795c-4830-8df1-b1e2afb13975"
+      Hint: SubTabTitle
+      Value: Falcon Gold Cabin
+    - ID: "4d330bf5-0e23-416b-b829-c442f94e10c1"
+      Hint: BenefitTitles
+      Value: Luxus im Himmel erleben
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "897922b3-6f6f-471a-a2d8-8b2955df636c"
+      Hint: IconOneTitle
+      Value: Fast Track Boarding
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "02e7d2ba-c1ce-4a4b-b0c1-b97b214f5247"
+    - ID: "92da30be-3dcc-4b2f-a928-11092c00e654"
+      Hint: BannerHeading
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225847Z
+    - ID: "e6f1acd5-3477-4a9a-b500-9592175561d2"
+      Hint: IconTwoTitle
+      Value: Gourmet Meals
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03aa823e-ea0f-49c3-b020-f1300ebf1f26"
+      Hint: BannerSubText
+      Value: |
+        <p>At Gulf Air, we are always looking for new and innovative ways to enhance your travel experience.<br />
+        Our latest offering is the Virtual Cabin, an immersive digital experience that transports you to a world of comfort and luxury.<br />
+        With stunning 3D visuals and interactive features, you can explore our cabins, browse our in-flight services, and even select your seat before you board. Join us on a virtual journey and discover the future of air travel with Gulf Air.</p>
+    - ID: "1b098cba-c01c-470a-9136-b1c231e723c2"
+      Hint: Heading
+      Value: Explore our cabin features
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T134145Z
+    - ID: "29c95e4d-dec4-41e0-b87b-73f4f377d2fa"
+      Hint: BenefitSubTitle
+      Value: |
+        <p>Relax and indulge in Gulf Air's Falcon Gold cabin, where luxury and comfort combine to create an unparalleled in-flight experience.<br />
+        Enjoy personalized service, spacious seating, and fully flatbeds with massage features for a restful journey.<br />
+        Indulge in gourmet dining options, high-speed Wi-Fi, and extensive entertainment choices, including the latest movies and TV shows.&nbsp;</p>
+        <p>Discover a new level of travel with Falcon Gold cabin benefits.</p>
+    - ID: "2f84fb28-ae86-43b6-835e-2d011073154d"
+      Hint: IconFourTitle
+      Value: Lounge Access
+    - ID: "313fc557-c805-42ed-9713-d1d5cd0595c3"
+      Hint: IconThreeTitle
+      Value: "Wi-Fi on Board"
+    - ID: "38fc4262-795c-4830-8df1-b1e2afb13975"
+      Hint: SubTabTitle
+      Value: Falcon Gold Cabin
+    - ID: "4d330bf5-0e23-416b-b829-c442f94e10c1"
+      Hint: BenefitTitles
+      Value: Experience Luxury in the Skies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "897922b3-6f6f-471a-a2d8-8b2955df636c"
+      Hint: IconOneTitle
+      Value: Fast Track Boarding
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5da6f422-096c-4ded-a2a3-a15009b7ac18"
+    - ID: "92da30be-3dcc-4b2f-a928-11092c00e654"
+      Hint: BannerHeading
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225846Z
+    - ID: "e6f1acd5-3477-4a9a-b500-9592175561d2"
+      Hint: IconTwoTitle
+      Value: Gourmet Meals
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03aa823e-ea0f-49c3-b020-f1300ebf1f26"
+      Hint: BannerSubText
+      Value: |
+        <p>Chez Gulf Air, nous recherchons toujours de nouvelles fa&ccedil;ons innovantes d'am&eacute;liorer votre exp&eacute;rience de voyage.<br />
+        Notre derni&egrave;re offre est The Virtual Cabin, une exp&eacute;rience num&eacute;rique immersive qui vous transporte dans un monde de confort et de luxe.</p>
+        <p>Avec de superbes visuels 3D et des fonctionnalit&eacute;s interactives, vous pouvez explorer nos cabines, parcourir nos services en vol et m&ecirc;me s&eacute;lectionner votre si&egrave;ge avant de monter &agrave; bord. Rejoignez-nous dans un voyage virtuel et d&eacute;couvrez l'avenir des voyages en avion avec Gulf Air.</p>
+    - ID: "1b098cba-c01c-470a-9136-b1c231e723c2"
+      Hint: Heading
+      Value: Explore our cabin features
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T134145Z
+    - ID: "29c95e4d-dec4-41e0-b87b-73f4f377d2fa"
+      Hint: BenefitSubTitle
+      Value: |
+        <p>D&eacute;tendez-vous et faites plaisir &agrave; la cabine Falcon Gold de Gulf Air, o&ugrave; le luxe et le confort se combinent pour cr&eacute;er une exp&eacute;rience en vol in&eacute;gal&eacute;e.<br />
+        Profitez du service personnalis&eacute;, des si&egrave;ges spacieux et des plateaux enti&egrave;rement &agrave; plat avec des caract&eacute;ristiques de massage pour un voyage reposant.<br />
+        Offrez-vous les options de restauration gastronomique, le Wi-Fi &agrave; grande vitesse et les choix de divertissement &eacute;tendus, y compris les derniers films et &eacute;missions de t&eacute;l&eacute;vision.</p>
+        <p>D&eacute;couvrez un nouveau niveau de voyage avec les avantages de la cabine Falcon Gold.</p>
+        <p>Aside from the cabin features shown above, Falcon Gold cabin passengers can also enjoy these exclusive Gold Cabin benefits.</p>
+    - ID: "2f84fb28-ae86-43b6-835e-2d011073154d"
+      Hint: IconFourTitle
+      Value: Lounge Access
+    - ID: "313fc557-c805-42ed-9713-d1d5cd0595c3"
+      Hint: IconThreeTitle
+      Value: "Wi-Fi on Board"
+    - ID: "38fc4262-795c-4830-8df1-b1e2afb13975"
+      Hint: SubTabTitle
+      Value: Cabine en or Falcon
+    - ID: "4d330bf5-0e23-416b-b829-c442f94e10c1"
+      Hint: BenefitTitles
+      Value: Vivre le luxe dans le ciel
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "897922b3-6f6f-471a-a2d8-8b2955df636c"
+      Hint: IconOneTitle
+      Value: Fast Track Boarding
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b106b21-6fbc-4f25-8f4a-6113aa8cb514"
+    - ID: "92da30be-3dcc-4b2f-a928-11092c00e654"
+      Hint: BannerHeading
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225847Z
+    - ID: "e6f1acd5-3477-4a9a-b500-9592175561d2"
+      Hint: IconTwoTitle
+      Value: Gourmet Meals
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03aa823e-ea0f-49c3-b020-f1300ebf1f26"
+      Hint: BannerSubText
+      Value: |
+        <p>В Gulf Air мы всегда ищем новые и инновационные способы улучшения вашего опыта путешествий.<br />
+        Наше последнее предложение - виртуальная кабина, захватывающий цифровой опыт, который переносит вас в мир комфорта и роскоши.</p>
+        <p>С потрясающими 3D-визуальными эффектами и интерактивными функциями, вы можете исследовать наши каюты, просматривать наши услуги в полете и даже выбрать свое место перед сбором. Присоединяйтесь к нам в виртуальном путешествии и откройте для себя будущее авиаперелета с Gulf Air.</p>
+    - ID: "1b098cba-c01c-470a-9136-b1c231e723c2"
+      Hint: Heading
+      Value: Explore our cabin features
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T134145Z
+    - ID: "29c95e4d-dec4-41e0-b87b-73f4f377d2fa"
+      Hint: BenefitSubTitle
+      Value: |
+        <p>Расслабьтесь и побалуйте себя в кабине Falcon Gold Oir в Gulf Air, где роскошь и комфорт объединяются, чтобы создать беспрецедентный опыт в полете.<br />
+        Наслаждайтесь персонализированным обслуживанием, просторными сидениями и полностью плавниками с массажными функциями для спокойного путешествия.<br />
+        Побалуйте себя изысканными вариантами ресторанов, высокоскоростным Wi-Fi и обширным развлечениям, включая последние фильмы и телешоу.</p>
+        <p>Откройте для себя новый уровень путешествий с преимуществами каюты Falcon Gold.</p>
+    - ID: "2f84fb28-ae86-43b6-835e-2d011073154d"
+      Hint: IconFourTitle
+      Value: Lounge Access
+    - ID: "313fc557-c805-42ed-9713-d1d5cd0595c3"
+      Hint: IconThreeTitle
+      Value: "Wi-Fi on Board"
+    - ID: "38fc4262-795c-4830-8df1-b1e2afb13975"
+      Hint: SubTabTitle
+      Value: Сокол Золотой Хижина
+    - ID: "4d330bf5-0e23-416b-b829-c442f94e10c1"
+      Hint: BenefitTitles
+      Value: Испытать роскошь в небе
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "897922b3-6f6f-471a-a2d8-8b2955df636c"
+      Hint: IconOneTitle
+      Value: Fast Track Boarding
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d06f4b35-b27a-4cbd-b68a-8318a1542746"
+    - ID: "92da30be-3dcc-4b2f-a928-11092c00e654"
+      Hint: BannerHeading
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225847Z
+    - ID: "e6f1acd5-3477-4a9a-b500-9592175561d2"
+      Hint: IconTwoTitle
+      Value: Gourmet Meals

@@ -1,0 +1,206 @@
+﻿---
+ID: "c5aa386a-dd70-4729-8afb-795e5a9858cc"
+Parent: "9b99633e-34db-4ee8-b7d7-c0ee19789951"
+Template: "60228653-3d28-4952-8915-2cc51979912f"
+Path: /sitecore/content/Global/Global View Offer Folder/home/View offers from
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {FEA9FB96-6AFB-436A-A6FE-93BD826FA9D7}
+    {60228653-3D28-4952-8915-2CC51979912F}
+- ID: "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9"
+  Hint: __Subitems Sorting
+  Value: 
+- ID: "b92f071d-1def-46b6-a749-46efddbd6693"
+  Hint: CTAColor
+  Value: "{89330C54-4FC1-4573-913A-BC08CCDEBD5B}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 325
+- ID: "e7253f0a-6c84-4918-9688-9804aa9259b1"
+  Hint: OriginList
+  Value: |
+    {4AEFE66C-2726-4190-9176-9D631D129364}
+    {AA8F145A-9849-4F74-B41C-E54B887AA892}
+    {848501E4-B7F1-41C2-8BB4-A9E2B3FC83E6}
+    {6E2EFF3F-39EC-480C-9A60-8151B68F5921}
+    {6E33A60B-FFD9-4C1E-B82D-2F0613FF67CE}
+    {4E5E637F-EB9A-4072-BC58-75544622E535}
+    {554FD784-298B-45BD-AD54-6C90654393EC}
+    {A7295A8C-DFD9-46FB-B471-147A32491A58}
+    {7788E2C4-1ACE-4110-B5C5-37AFADD6E563}
+    {FCE9A720-992C-440E-AEEE-2A62399DD3AA}
+    {DFB5071A-4F75-4A48-B492-EFE6FDC60CBB}
+    {4438773F-FC7C-4ACC-9A5C-2D52A146D800}
+    {D17CE7EA-D805-4A93-BE06-9ACF80D7D70B}
+    {85335A85-9531-4856-B367-C6238A759B89}
+    {4A4F4E7A-0594-4339-BCAD-23ED4CC312E5}
+    {373C8144-4454-4538-868B-793010130872}
+    {C47EEAD9-7877-4434-AAC6-FB526FBD026A}
+    {053D42EE-EBAC-48F2-BB35-873A83E3064B}
+    {2811CF30-1204-4D21-BAA2-89E32AFD0806}
+    {9C4C3420-CF81-4ED6-BD15-571F291755AB}
+    {D7A0AA53-9B57-42DF-9836-AD44C3FBCAD0}
+    {3DC3B514-803E-49B5-A80D-BE58FC2E3863}
+    {73EE7CC9-23A0-407A-BFCC-258E9169FD1F}
+    {A17D37FF-EB60-438C-B8E4-A0506B617A7A}
+    {EDA6EC51-D5DD-4DDE-8297-B1507BF0E659}
+    {F1A1D7CA-8242-4690-A9F2-26B6C167FABD}
+    {DBA6E5B5-D44A-434E-AD37-9376BD4C93C3}
+- ID: "f768fd8c-ee29-421c-8929-b5c21ac10c7b"
+  Hint: CTAType
+  Value: "{B3C4407E-7461-4B34-B944-D581BA981A27}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114120Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "80d924df-3094-4224-bf82-dc5c90cb1213"
+      Hint: Heading
+      Value: أحدث العروض من
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "acd427d6-cf3b-45c8-bf19-8b38f02e4b10"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\husain
+    - ID: "be48a26b-5ffc-412c-8800-7925666c8dc1"
+      Hint: ViewAllCTA
+      Value: |
+        <link text="جميع العروض" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{A71BED47-4938-43E4-8C3C-EF15284538F7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230604T055208Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114120Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "80d924df-3094-4224-bf82-dc5c90cb1213"
+      Hint: Heading
+      Value: View offers from
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a18adad-4534-44f9-83ea-b93d91a5c449"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "be48a26b-5ffc-412c-8800-7925666c8dc1"
+      Hint: ViewAllCTA
+      Value: |
+        <link text="View all offers" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{A71BED47-4938-43E4-8C3C-EF15284538F7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T200704Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114120Z
+    - ID: "80d924df-3094-4224-bf82-dc5c90cb1213"
+      Hint: Heading
+      Value: View offers from
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7d908c9-f8f7-4827-a5fd-4a855967644c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "be48a26b-5ffc-412c-8800-7925666c8dc1"
+      Hint: ViewAllCTA
+      Value: |
+        <link text="View all offers" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{A71BED47-4938-43E4-8C3C-EF15284538F7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230518T174535Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114120Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "80d924df-3094-4224-bf82-dc5c90cb1213"
+      Hint: Heading
+      Value: View offers from
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5532de58-a57c-44e3-ab07-41b102f1e11e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "be48a26b-5ffc-412c-8800-7925666c8dc1"
+      Hint: ViewAllCTA
+      Value: |
+        <link text="View all offers" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{A71BED47-4938-43E4-8C3C-EF15284538F7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T200718Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114120Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "80d924df-3094-4224-bf82-dc5c90cb1213"
+      Hint: Heading
+      Value: View offers from
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "28a93610-8738-4828-ab18-0e3f99328f6e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "be48a26b-5ffc-412c-8800-7925666c8dc1"
+      Hint: ViewAllCTA
+      Value: |
+        <link text="View all offers" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{A71BED47-4938-43E4-8C3C-EF15284538F7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T200732Z

@@ -1,0 +1,195 @@
+﻿---
+ID: "d762c8ab-a9fb-4e7e-96a7-42f5c6958f92"
+Parent: "b1c3501c-52d1-4fd6-a327-01ed3930288f"
+Template: "442819bb-7f40-4254-ace9-6890bba50f83"
+Path: /sitecore/content/Global/Global Header Folder/Standard Global Header/RightNavigation/Flying with us/Our Fleet
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230513T122117Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{CE5A9C84-B796-475A-B914-1C439E18B43C}"
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: وجهات رومانسية
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="مرحباَ بك" linktype="external" url="" anchor="" target="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="أسطولنا" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{DB76497B-1BA3-45A2-A8C5-F5A07A671061}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "911da7cd-16e3-43de-aa2b-fe1e3de49946"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilal
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230531T132331Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230513T122342Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{CE5A9C84-B796-475A-B914-1C439E18B43C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Unsere Flotte" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{DB76497B-1BA3-45A2-A8C5-F5A07A671061}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a67c9596-46fc-4215-bbca-e31895185cff"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230513T122352Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230512T194911Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Our Fleet" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{DB76497B-1BA3-45A2-A8C5-F5A07A671061}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7ee641b-8a86-4d4b-bc2e-435dbab14ed5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230512T194946Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230513T122216Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{CE5A9C84-B796-475A-B914-1C439E18B43C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Notre flotte" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{DB76497B-1BA3-45A2-A8C5-F5A07A671061}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "29c34fb3-0ccf-4dec-9de9-2e4c107100fa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230513T122228Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230513T122520Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{CE5A9C84-B796-475A-B914-1C439E18B43C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Наш флот" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{DB76497B-1BA3-45A2-A8C5-F5A07A671061}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "582fecd5-fbce-439f-b509-97eeec695fdc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230513T122536Z

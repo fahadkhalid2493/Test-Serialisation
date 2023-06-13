@@ -1,0 +1,199 @@
+﻿---
+ID: "77169faf-acf2-4452-936b-e0ec7ff319a2"
+Parent: "7912d99f-c8f4-45c0-b93e-b98d0c58e08a"
+Template: "43777290-de6e-474c-a476-b659ebcf4cb1"
+Path: /sitecore/content/Global/Global Search Module With Information Tile Folder/Support/Info Cards/Rebooking Cancellations and Refunds
+SharedFields:
+- ID: "2cc85e79-09b1-4098-a6bc-1c11d181008a"
+  Hint: LiveChatOptionWithCTA
+  Value: "{55004A9C-071B-45B2-9154-5EF5BA160143}"
+- ID: "40afc0c0-49bf-41f5-950a-9586c0504f4d"
+  Hint: Icon
+  Value: |
+    <image width="120" height="120" alt="icon-2.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/224d73fd378d4cdd9dbadf83def07b00?v=2e68eadb" stylelabs-content-id="46891" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/46891/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T192818Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: لتغيير مواعيد السفر أو الإلغاء أو استرداد الاموال، يرجى زيارة صفحة إدارة الحجز الخاصة بنا. توفر لك هذه الصفحة وصولاً سهلاً إلى الحجز الخاص بك، حيث يمكنك إجراء تغييرات على خط سير رحلتك بسهولة. إذا كنت بحاجة إلى أي مساعدة في تغيير الحجز الخاص بك، فإن فريق الدعم لدينا متاح لمساعدتك.
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: <p> لإعادة الحجز أو الإلغاء أو استرداد الاموال، يرجى زيارة صفحة الحجز الخاصة بنا. توفر لك هذه الصفحة وصولاً سهلاً إلى الحجز الخاص بك، حيث يمكنك إجراء تغييرات على خط سير رحلتك بسهولة. إذا كنت بحاجة إلى أي مساعدة في تغيير الحجز الخاص بك، فإن فريق الدعم لدينا متاح لمساعدتك.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f8554c2e-7f5f-477a-8514-08d0821d8d36"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\emanburwais
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: إعادة الحجز، الإلغاء واسترداد الأموال  
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: إعادة الحجز، الإلغاء واسترداد الأموال  
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T125704Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T192745Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: "Um Ihre Buchung neu zu kündigen, zu stornieren oder zu erstatten, besuchen Sie bitte unsere Buchungsseite verwalten Sie meine Buchungsseite. Diese Seite bietet Ihnen einen einfachen Zugriff auf Ihre Buchung, wo Sie mühelos Änderungen an Ihrer Reiseroute vornehmen können. Wenn Sie Unterstützung bei der Verwaltung Ihrer Buchung benötigen, steht unser Support -Team zur Verfügung, um Sie zu unterstützen."
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: "<p>Um Ihre Buchung neu zu k&uuml;ndigen, zu stornieren oder zu erstatten, besuchen Sie bitte unsere Buchungsseite verwalten Sie meine Buchungsseite. Diese Seite bietet Ihnen einen einfachen Zugriff auf Ihre Buchung, wo Sie m&uuml;helos &Auml;nderungen an Ihrer Reiseroute vornehmen k&ouml;nnen. Wenn Sie Unterst&uuml;tzung bei der Verwaltung Ihrer Buchung ben&ouml;tigen, steht unser Support -Team zur Verf&uuml;gung, um Sie zu unterst&uuml;tzen.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "898702d0-32b8-4665-82a6-8ac9e24a63c5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Neubuch, Stornierung und Rückerstattungen
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Neubuch, Stornierung und Rückerstattungen
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T171016Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: To rebook, cancel or refund your booking, please visit our Manage My Booking page. This page provides you with easy access to your booking, where you can make changes to your itinerary with ease. If you need any assistance with managing your booking, our support team is available to assist you.
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: <p>To rebook, cancel or refund your booking, please visit our Manage My Booking page. This page provides you with easy access to your booking, where you can make changes to your itinerary with ease. If you need any assistance with managing your booking, our support team is available to assist you.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "34620e65-d8fb-4666-a8ca-b1e1b0b1ff2a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Rebooking, Cancellation & Refunds
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Rebooking, Cancellation & Refunds
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T192802Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Pour liser, annuler ou rembourser votre réservation, veuillez visiter notre page Gérer ma réservation. Cette page vous offre un accès facile à votre réservation, où vous pouvez apporter facilement des modifications à votre itinéraire. Si vous avez besoin d'aide pour gérer votre réservation, notre équipe d'assistance est disponible pour vous aider.
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: <p>Pour liser, annuler ou rembourser votre r&eacute;servation, veuillez visiter notre page G&eacute;rer ma r&eacute;servation. Cette page vous offre un acc&egrave;s facile &agrave; votre r&eacute;servation, o&ugrave; vous pouvez apporter facilement des modifications &agrave; votre itin&eacute;raire. Si vous avez besoin d'aide pour g&eacute;rer votre r&eacute;servation, notre &eacute;quipe d'assistance est disponible pour vous aider.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39011abc-4591-49fe-a67f-9359c4d305a4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Libère, annulation et remboursements
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Libère, annulation et remboursements
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T192729Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Чтобы перебронировать, отменить или вернуть вам бронирование, посетите нашу страницу управления моей страницей бронирования. Эта страница предоставляет вам легкий доступ к вашему бронированию, где вы можете легко внести изменения в свой маршрут. Если вам нужна помощь в управлении вашим бронированием, наша команда поддержки доступна, чтобы помочь вам.
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: <p>Чтобы перебронировать, отменить или вернуть вам бронирование, посетите нашу страницу управления моей страницей бронирования. Эта страница предоставляет вам легкий доступ к вашему бронированию, где вы можете легко внести изменения в свой маршрут. Если вам нужна помощь в управлении вашим бронированием, наша команда поддержки доступна, чтобы помочь вам.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d456dfb1-7e40-4660-8865-e3182c278bd4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Перебронирование, отмена и возмещение
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Перебронирование, отмена и возмещение
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z

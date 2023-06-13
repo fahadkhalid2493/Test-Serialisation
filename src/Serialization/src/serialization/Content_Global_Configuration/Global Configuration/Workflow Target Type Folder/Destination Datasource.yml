@@ -1,0 +1,30 @@
+﻿---
+ID: "5556a96a-4a03-4665-bce0-8877abd4cbd0"
+Parent: "636600ff-76df-4f63-b7d4-79561a69630c"
+Template: "900dca67-e9ee-4dfe-b77b-fbee53a61f15"
+Path: /sitecore/content/Global Configuration/Workflow Target Type Folder/Destination Datasource
+SharedFields:
+- ID: "3f17d9ec-fa91-42f5-8222-e39971af6e80"
+  Hint: Secondary
+  Value: 2
+- ID: "67f88e26-f713-428c-9dd9-31b44a991765"
+  Hint: Primary
+  Value: Destination Datasource
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T105343Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1faf2959-f036-4406-9a1c-d116dfd635a4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shahbaz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230320T130604Z

@@ -1,0 +1,202 @@
+﻿---
+ID: "99cd73e3-2456-4e89-a0a9-da67711639e7"
+Parent: "654ba1ca-ec26-4a46-b355-083bb6fe80b6"
+Template: "491496e9-2f99-4562-88d4-4709cd482a29"
+Path: /sitecore/content/Global Configuration/Global Settings Folder/Global Settings
+SharedFields:
+- ID: "0c005f26-0b61-4ea7-8e18-9becd8a1b619"
+  Hint: LiveChatEnvironment
+  Value: live
+- ID: "0df11b23-572b-4a58-afd4-6edb312587b0"
+  Hint: Prod_IBEURL
+  Value: "https://flights.gulfair.com"
+- ID: "1d350870-5ade-4f47-ba50-17f1c1a70b7d"
+  Hint: LiveChatDomain
+  Value: prod
+- ID: "24679803-cc49-4fb0-bae9-f38dc9e7b20d"
+  Hint: Sand_IBEURL
+  Value: "https://gulfacc.resfinity.com"
+- ID: "24b5a862-4d3b-4d17-bcb2-b28d821b431c"
+  Hint: Sand_FlightStatusURL
+  Value: "https://ttracker.flightview.com"
+- ID: "2cfb3725-ba3e-449f-8b04-a9f13418afb1"
+  Hint: Sand_FalconUpgradeURL
+  Value: "https://request.stage.plusgrade.com/request/vb1u9p5rGF"
+- ID: "35541c0d-74ab-4288-87f1-2bbdde255b02"
+  Hint: Sand_CheckVisaURL
+  Value: "https://sdk.joinsherpa.io"
+- ID: "442837ee-0466-4af1-8bd8-09a8b232227d"
+  Hint: Prod_TrackYourCargoURL
+  Value: "https://ebooking.champ.aero"
+- ID: "4791eba2-7c93-4f6e-b770-1409423b55d9"
+  Hint: Sand_FalconFlyerLoginURL
+  Value: "https://falconflyer.gulfair.com"
+- ID: "51e9db0f-8136-4d14-82ae-5e7fc3cf258f"
+  Hint: Prod_FalconFlyerLoginURL
+  Value: "https://falconflyer.gulfair.com"
+- ID: "53b9f90f-a673-4b0c-ab74-4fd5b7ef2948"
+  Hint: Prod_FlightStatusURL
+  Value: "https://tracker.flightview.com"
+- ID: "5aa0a5bb-92b5-47b9-87a0-ef79739b24f3"
+  Hint: gtm_ID
+  Value: "GTM-PH7WHH"
+- ID: "6405cfa3-fbfd-4e1a-ae6e-de4a1789196a"
+  Hint: Prod_CheckEligibilityURL
+  Value: "https://consumer.plusgrade.com"
+- ID: "79c290f8-1c0d-4500-babe-b37fc067c2fa"
+  Hint: Prod_GFHolidaysURL
+  Value: "https://gfholidays.gulfair.com"
+- ID: "7c63eeaf-6b1e-4e89-915c-d2fb1fa05905"
+  Hint: Sand_HolidaysURL
+  Value: "https://holidays.gulfair.com"
+- ID: "871739f4-2e28-47ca-a327-f9824daf9fb2"
+  Hint: Sand_CheckEligibilityURL
+  Value: "https://consumer.stage.plusgrade.com"
+- ID: "876284ea-e3f2-4e6c-b76d-f5dc93c7888b"
+  Hint: Prod_FalconUpgradeURL
+  Value: "https://request.plusgrade.com/request/vb1u9p5rGF"
+- ID: "a596b06d-740c-4be8-8fb4-b570efc6dd53"
+  Hint: Sand_TrackYourCargoURL
+  Value: "https://ebooking.champ.aero"
+- ID: "bef5cc18-38a4-40b6-8d00-ff2aac57b078"
+  Hint: Prod_CheckVisaURL
+  Value: "https://sdk.joinsherpa.io"
+- ID: "bf9b6f9b-6fc7-4e7f-baf5-9254a75c2fdc"
+  Hint: gtm_SiteVerificationContent
+  Value: rjhWZEtDS80ASuByyBwK0jDmLS2eXyaJ8SUor8tbC0k
+- ID: "c2fcc7f2-ecba-4614-9a9a-634262121a89"
+  Hint: Sand_WebCheckInURL
+  Value: "https://dx.ci13.cert.aws.sabre.com"
+- ID: "c789fa8f-8125-4402-a368-659e7c07734a"
+  Hint: Sand_GFHolidaysURL
+  Value: "https://gfholidays.gulfair.com"
+- ID: "caf7159a-a80e-4abf-a047-52b48b883712"
+  Hint: LiveChatAppId
+  Value: "18751935-d12a-477d-867a-ce857b6ed419"
+- ID: "e05be368-7960-429f-b69d-68b35853c65a"
+  Hint: Prod_WebCheckInURL
+  Value: "https://dxcheckin.gulfair.com"
+- ID: "f0a11811-f84a-4343-8f5e-b982a87332c0"
+  Hint: LiveChatURL
+  Value: "https://web.pypestream.com/api-launcher.js"
+- ID: "f9174475-a771-44b7-8221-3505790f0c1d"
+  Hint: Prod_HolidaysURL
+  Value: "https://holidays.gulfair.com"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T114915Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "369a8646-6e26-442e-a79c-e3ed98a6a8af"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hassan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T114915Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230608T042800Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassanfarooq
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassanfarooq
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f727b659-bba0-4c6c-8dc0-4c231391a028"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T130918Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T114341Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac9d2a7d-ef02-434b-a7c2-a2e28583247c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T144015Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230608T042755Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassanfarooq
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassanfarooq
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6658184e-cfae-4d56-a147-abfb943247a7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hassanfarooq
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230608T042755Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230608T042803Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassanfarooq
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassanfarooq
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d4039942-6dbe-4527-adb2-5563ab3b7aa3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hassanfarooq
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230608T042803Z

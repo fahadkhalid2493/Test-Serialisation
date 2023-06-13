@@ -1,0 +1,35 @@
+﻿---
+ID: "a97f4403-1957-4813-937f-f96cc1f85946"
+Parent: "200003dc-a515-452f-995f-4b6b577439a4"
+Template: "e489cf7c-71e3-4a77-b1b0-255e5f38df0c"
+Path: "/sitecore/content/gulfair-app-ru/Data/Falcon Flyer News Folder/FalconFlyerNews"
+SharedFields:
+- ID: "f092e45f-217c-4162-a5cc-b396e1390ed9"
+  Hint: NewsList
+  Value: "{8476F75A-7CED-40C9-B2BD-A17B51452701}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230406T075123Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f72af861-6fa2-4285-938b-3c8661c842df"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\uzair
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230406T075249Z

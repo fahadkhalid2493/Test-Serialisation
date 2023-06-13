@@ -1,0 +1,34 @@
+﻿---
+ID: "bad3d4ba-d4c4-47f1-9aca-fd61dbb944dc"
+Parent: "f008b538-b011-4168-b34e-4e1f9ce60f85"
+Template: "a79ed78c-d47c-48c8-b816-a82edc9d061d"
+Path: /sitecore/content/Global Configuration/Workflow Test Folder/1
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\shahbaz_test" date="20230509T064615Z" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230508T135401Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3963e58c-509d-4d02-a5d2-5405b3e306c3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shahbaz_test
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T064615Z

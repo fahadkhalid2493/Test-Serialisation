@@ -1,0 +1,465 @@
+﻿---
+ID: "c47dceca-2835-450a-ad0b-fa7d0e0e256f"
+Parent: "837291d2-ddec-402d-b79a-83686622f619"
+Template: "eb1cef65-53e3-45bb-828d-695fcaac8375"
+Path: "/sitecore/content/Global/Global Eligibility Module Folder/at-the-airport/Health and safety"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "160af7ea-8871-4972-bd23-4e36bdd0d6cc"
+      Hint: LeftHeading
+      Value: الصحة و السلامة 
+    - ID: "1da6d4fc-6ec6-45b8-acb0-90e946c0041e"
+      Hint: RightHeading
+      Value: إجراءات السلامة
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T180428Z
+    - ID: "4692f6c4-253a-4ae8-8d41-720153e4f0a6"
+      Hint: CTA
+      Value: |
+        <link text="للمزيد من التفاصيل" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{CE123DB1-0FE0-495E-82D0-2CA636BB4973}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e94d2384-dfd2-4311-b78a-eabc4397c4bf"
+    - ID: "9f1daa49-1c92-4a1a-b54c-cde2186cf275"
+      Hint: RightSubText
+      Value: "<p>وتتماشى هذه التدابير مع المبادئ التوجيهية التي تقدمها منظمة الصحة العالمية والسلطات المحلية. أتمنى لك رحلة آمنة وصحية!</p>"
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T225638Z
+    - ID: "eb0147b4-fa93-4e4b-9ff2-77f40c40b830"
+      Hint: LeftSubText
+      Value: <p>تلتزم طيران الخليج بضمان صحة وسلامة ركابها وموظفيها في جميع الأوقات. نفذت شركة الطيران تدابير مثل التنظيف المنتظم وتطهير الأسطح عالية اللمس، وتوافر معقمات اليدين، وإرشادات التباعد الاجتماعي وعملية تسجيل الوصول بدون تلامس لتقليل التفاعلات وجهًا لوجه.</p>
+  - Version: 2
+    Fields:
+    - ID: "160af7ea-8871-4972-bd23-4e36bdd0d6cc"
+      Hint: LeftHeading
+      Value: الصحة و السلامة 
+    - ID: "1da6d4fc-6ec6-45b8-acb0-90e946c0041e"
+      Hint: RightHeading
+      Value: إجراءات السلامة
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230608T024721Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "4692f6c4-253a-4ae8-8d41-720153e4f0a6"
+      Hint: CTA
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ghazi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e225a31-d13f-4442-974b-3217682d6867"
+    - ID: "9f1daa49-1c92-4a1a-b54c-cde2186cf275"
+      Hint: RightSubText
+      Value: "<p>وتتماشى هذه التدابير مع المبادئ التوجيهية التي تقدمها منظمة الصحة العالمية والسلطات المحلية. أتمنى لك رحلة آمنة وصحية!</p>"
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230608T024700Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T225638Z
+    - ID: "eb0147b4-fa93-4e4b-9ff2-77f40c40b830"
+      Hint: LeftSubText
+      Value: <p>تلتزم طيران الخليج بضمان صحة وسلامة ركابها وموظفيها في جميع الأوقات. نفذت شركة الطيران تدابير مثل التنظيف المنتظم وتطهير الأسطح عالية اللمس، وتوافر معقمات اليدين، وإرشادات التباعد الاجتماعي وعملية تسجيل الوصول بدون تلامس لتقليل التفاعلات وجهًا لوجه.</p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "160af7ea-8871-4972-bd23-4e36bdd0d6cc"
+      Hint: LeftHeading
+      Value: Gesundheit und Sicherheit
+    - ID: "1da6d4fc-6ec6-45b8-acb0-90e946c0041e"
+      Hint: RightHeading
+      Value: Sicherheitsmaßnahmen
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T181002Z
+    - ID: "4692f6c4-253a-4ae8-8d41-720153e4f0a6"
+      Hint: CTA
+      Value: |
+        <link text="Mehr erfahren" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{CE123DB1-0FE0-495E-82D0-2CA636BB4973}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b42dd688-6072-4e37-86c8-bdde6007ab3a"
+    - ID: "9f1daa49-1c92-4a1a-b54c-cde2186cf275"
+      Hint: RightSubText
+      Value: "<p>Diese Ma&szlig;nahmen entsprechen den Richtlinien der Weltgesundheitsorganisation (WHO) und der lokalen Beh&ouml;rden. Hab einen sicheren und gesunden Flug!</p>"
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T225609Z
+    - ID: "eb0147b4-fa93-4e4b-9ff2-77f40c40b830"
+      Hint: LeftSubText
+      Value: "<p>Gulf Air setzt sich f&uuml;r die Gesundheit und Sicherheit seiner Passagiere und Mitarbeiter ein. Die Fluggesellschaft hat Ma&szlig;nahmen wie regelm&auml;&szlig;ige Reinigung und Desinfektion von High-Touch-Oberfl&auml;chen, Verf&uuml;gbarkeit von H&auml;ndedesinfektionsmitteln, Richtlinien f&uuml;r soziale Distanzierungen und kontaktlosen Check-in-Verfahren durchgef&uuml;hrt, um die pers&ouml;nlichen Interaktionen zu minimieren.</p>"
+  - Version: 2
+    Fields:
+    - ID: "160af7ea-8871-4972-bd23-4e36bdd0d6cc"
+      Hint: LeftHeading
+      Value: Gesundheit und Sicherheit
+    - ID: "1da6d4fc-6ec6-45b8-acb0-90e946c0041e"
+      Hint: RightHeading
+      Value: Sicherheitsmaßnahmen
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230608T024739Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "4692f6c4-253a-4ae8-8d41-720153e4f0a6"
+      Hint: CTA
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ghazi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7057fe75-3191-40a2-b8de-1ab074be4aba"
+    - ID: "9f1daa49-1c92-4a1a-b54c-cde2186cf275"
+      Hint: RightSubText
+      Value: "<p>Diese Ma&szlig;nahmen entsprechen den Richtlinien der Weltgesundheitsorganisation (WHO) und der lokalen Beh&ouml;rden. Hab einen sicheren und gesunden Flug!</p>"
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230608T024700Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T225609Z
+    - ID: "eb0147b4-fa93-4e4b-9ff2-77f40c40b830"
+      Hint: LeftSubText
+      Value: "<p>Gulf Air setzt sich f&uuml;r die Gesundheit und Sicherheit seiner Passagiere und Mitarbeiter ein. Die Fluggesellschaft hat Ma&szlig;nahmen wie regelm&auml;&szlig;ige Reinigung und Desinfektion von High-Touch-Oberfl&auml;chen, Verf&uuml;gbarkeit von H&auml;ndedesinfektionsmitteln, Richtlinien f&uuml;r soziale Distanzierungen und kontaktlosen Check-in-Verfahren durchgef&uuml;hrt, um die pers&ouml;nlichen Interaktionen zu minimieren.</p>"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "160af7ea-8871-4972-bd23-4e36bdd0d6cc"
+      Hint: LeftHeading
+      Value: Health and Safety
+    - ID: "1da6d4fc-6ec6-45b8-acb0-90e946c0041e"
+      Hint: RightHeading
+      Value: Safety Measures
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T175700Z
+    - ID: "4692f6c4-253a-4ae8-8d41-720153e4f0a6"
+      Hint: CTA
+      Value: |
+        <link text="Learn more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{CE123DB1-0FE0-495E-82D0-2CA636BB4973}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3306ca4e-8a5c-4f1c-8c89-8bab55ecd7f2"
+    - ID: "9f1daa49-1c92-4a1a-b54c-cde2186cf275"
+      Hint: RightSubText
+      Value: "<p>These measures are in line with guidelines provided by the World Health Organization (WHO) and local authorities. Have a safe and healthy flight!</p>"
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T225601Z
+    - ID: "eb0147b4-fa93-4e4b-9ff2-77f40c40b830"
+      Hint: LeftSubText
+      Value: "<p>Gulf Air is committed to ensuring the health and safety of its passengers and staff at all times. The airline has implemented measures such as regular cleaning and disinfection of high-touch surfaces, hand sanitizers availability, social distancing guidelines and contactless check-in process to minimize face-to-face interactions. </p>"
+  - Version: 2
+    Fields:
+    - ID: "160af7ea-8871-4972-bd23-4e36bdd0d6cc"
+      Hint: LeftHeading
+      Value: Health and Safety
+    - ID: "1da6d4fc-6ec6-45b8-acb0-90e946c0041e"
+      Hint: RightHeading
+      Value: Safety Measures
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230608T024647Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "4692f6c4-253a-4ae8-8d41-720153e4f0a6"
+      Hint: CTA
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ghazi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01dec9f7-72fc-42f3-96a3-d83429963302"
+    - ID: "9f1daa49-1c92-4a1a-b54c-cde2186cf275"
+      Hint: RightSubText
+      Value: "<p>These measures are in line with guidelines provided by the World Health Organization (WHO) and local authorities. Have a safe and healthy flight!</p>"
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230608T024600Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T225601Z
+    - ID: "eb0147b4-fa93-4e4b-9ff2-77f40c40b830"
+      Hint: LeftSubText
+      Value: "<p>Gulf Air is committed to ensuring the health and safety of its passengers and staff at all times. The airline has implemented measures such as regular cleaning and disinfection of high-touch surfaces, hand sanitizers availability, social distancing guidelines and contactless check-in process to minimize face-to-face interactions. </p>"
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "160af7ea-8871-4972-bd23-4e36bdd0d6cc"
+      Hint: LeftHeading
+      Value: Santé et sécurité
+    - ID: "1da6d4fc-6ec6-45b8-acb0-90e946c0041e"
+      Hint: RightHeading
+      Value: Mesures de sécurité
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T180720Z
+    - ID: "4692f6c4-253a-4ae8-8d41-720153e4f0a6"
+      Hint: CTA
+      Value: |
+        <link text="Apprendre encore plus" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{CE123DB1-0FE0-495E-82D0-2CA636BB4973}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e3be5a4-4324-494f-be18-88a04cc37ecf"
+    - ID: "9f1daa49-1c92-4a1a-b54c-cde2186cf275"
+      Hint: RightSubText
+      Value: "<p>Ces mesures sont conformes aux directives fournies par l'Organisation mondiale de la sant&eacute; (OMS) et les autorit&eacute;s locales. Ayez un vol s&ucirc;r et sain!</p>"
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T225647Z
+    - ID: "eb0147b4-fa93-4e4b-9ff2-77f40c40b830"
+      Hint: LeftSubText
+      Value: <p>Gulf Air s'engage &agrave; assurer la sant&eacute; et la s&eacute;curit&eacute; de ses passagers et du personnel &agrave; tout moment. La compagnie a&eacute;rienne a mis en &oelig;uvre des mesures telles que le nettoyage r&eacute;gulier et la d&eacute;sinfection des surfaces &agrave; tacs &eacute;lev&eacute;s, la disponibilit&eacute; des d&eacute;sinfectants pour les mains, les directives de distanciation sociale et le processus d'enregistrement sans contact pour minimiser les interactions en face &agrave; face.</p>
+  - Version: 2
+    Fields:
+    - ID: "160af7ea-8871-4972-bd23-4e36bdd0d6cc"
+      Hint: LeftHeading
+      Value: Santé et sécurité
+    - ID: "1da6d4fc-6ec6-45b8-acb0-90e946c0041e"
+      Hint: RightHeading
+      Value: Mesures de sécurité
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230608T024759Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "4692f6c4-253a-4ae8-8d41-720153e4f0a6"
+      Hint: CTA
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ghazi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b9ae9a12-3184-43b6-a490-733da75e1017"
+    - ID: "9f1daa49-1c92-4a1a-b54c-cde2186cf275"
+      Hint: RightSubText
+      Value: "<p>Ces mesures sont conformes aux directives fournies par l'Organisation mondiale de la sant&eacute; (OMS) et les autorit&eacute;s locales. Ayez un vol s&ucirc;r et sain!</p>"
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230608T024700Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T225647Z
+    - ID: "eb0147b4-fa93-4e4b-9ff2-77f40c40b830"
+      Hint: LeftSubText
+      Value: <p>Gulf Air s'engage &agrave; assurer la sant&eacute; et la s&eacute;curit&eacute; de ses passagers et du personnel &agrave; tout moment. La compagnie a&eacute;rienne a mis en &oelig;uvre des mesures telles que le nettoyage r&eacute;gulier et la d&eacute;sinfection des surfaces &agrave; tacs &eacute;lev&eacute;s, la disponibilit&eacute; des d&eacute;sinfectants pour les mains, les directives de distanciation sociale et le processus d'enregistrement sans contact pour minimiser les interactions en face &agrave; face.</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "160af7ea-8871-4972-bd23-4e36bdd0d6cc"
+      Hint: LeftHeading
+      Value: Здоровье и безопасность
+    - ID: "1da6d4fc-6ec6-45b8-acb0-90e946c0041e"
+      Hint: RightHeading
+      Value: Меры предосторожности
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T183902Z
+    - ID: "4692f6c4-253a-4ae8-8d41-720153e4f0a6"
+      Hint: CTA
+      Value: |
+        <link text="Учить больше" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{CE123DB1-0FE0-495E-82D0-2CA636BB4973}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "88b6d79c-3be2-4934-b5ff-34a80b2cbf4b"
+    - ID: "9f1daa49-1c92-4a1a-b54c-cde2186cf275"
+      Hint: RightSubText
+      Value: "<p>Эти меры соответствуют руководящим принципам, предоставленным Всемирной организацией здравоохранения (ВОЗ) и местными властями. Удачного и здорового полета!</p>"
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T225656Z
+    - ID: "eb0147b4-fa93-4e4b-9ff2-77f40c40b830"
+      Hint: LeftSubText
+      Value: <p>Gulf Air стремится обеспечить здоровье и безопасность своих пассажиров и сотрудников. Авиакомпания приняла такие меры, как регулярная очистка и дезинфекция поверхностей с высоким отступлением, доступность дезинения рук, рекомендации по социальному расстоянию и бесконтактный процесс регистрации, чтобы минимизировать личные взаимодействия.</p>
+  - Version: 2
+    Fields:
+    - ID: "160af7ea-8871-4972-bd23-4e36bdd0d6cc"
+      Hint: LeftHeading
+      Value: Здоровье и безопасность
+    - ID: "1da6d4fc-6ec6-45b8-acb0-90e946c0041e"
+      Hint: RightHeading
+      Value: Меры предосторожности
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230608T024820Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "4692f6c4-253a-4ae8-8d41-720153e4f0a6"
+      Hint: CTA
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ghazi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f70801d4-5e2a-4773-a243-6141b1f74b85"
+    - ID: "9f1daa49-1c92-4a1a-b54c-cde2186cf275"
+      Hint: RightSubText
+      Value: "<p>Эти меры соответствуют руководящим принципам, предоставленным Всемирной организацией здравоохранения (ВОЗ) и местными властями. Удачного и здорового полета!</p>"
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230608T024800Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T225656Z
+    - ID: "eb0147b4-fa93-4e4b-9ff2-77f40c40b830"
+      Hint: LeftSubText
+      Value: <p>Gulf Air стремится обеспечить здоровье и безопасность своих пассажиров и сотрудников. Авиакомпания приняла такие меры, как регулярная очистка и дезинфекция поверхностей с высоким отступлением, доступность дезинения рук, рекомендации по социальному расстоянию и бесконтактный процесс регистрации, чтобы минимизировать личные взаимодействия.</p>

@@ -1,0 +1,148 @@
+﻿---
+ID: "1e6929b0-56a7-47bc-9dab-fd181a26e663"
+Parent: "fc8b72e6-3986-4ba4-8046-3a80e8f1ae2c"
+Template: "a7c55506-2488-4ad8-a08d-171221f27c5e"
+Path: /sitecore/content/Global/Global Information Tiles Folder/Baggage/Information Tiles
+SharedFields:
+- ID: "256e4d0c-680c-43b3-915d-f4fdd81f23d1"
+  Hint: Tiles
+  Value: |
+    {697CFB94-7308-4BA4-90F2-D09D0E14BB4E}
+    {84414B81-D021-4762-BB2B-AF1F5705595A}
+    {FF980F40-50E3-4541-AF2A-FF8FAD17EA4C}
+    {A3855E86-EEEF-4EB4-9B74-95C0A50968C9}
+    {32F153F5-F5C1-45D8-A1A9-D5DBD0F119D1}
+    {E7A339E8-12F9-4494-90EF-645C715F2FD2}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103331Z
+    - ID: "3535821b-fd22-490b-a8d6-1c32067bf062"
+      Hint: Description
+      Value: <h3>معلومات أخرى عن الأمتعة </h3>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fec62c70-c5bb-4a25-beaa-8889dcf9ee8f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T074555Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103331Z
+    - ID: "3535821b-fd22-490b-a8d6-1c32067bf062"
+      Hint: Description
+      Value: <h3>Andere Gep&auml;ckinformationen</h3>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7de555c6-8c7f-4595-97ac-de2f8e7d95aa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T074440Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103331Z
+    - ID: "3535821b-fd22-490b-a8d6-1c32067bf062"
+      Hint: Description
+      Value: <h3>Other Baggage Information</h3>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4ac0733-52eb-458d-8bff-1fcf0595f24f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T074202Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103331Z
+    - ID: "3535821b-fd22-490b-a8d6-1c32067bf062"
+      Hint: Description
+      Value: <h3>Autres informations sur les bagages</h3>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c23137d9-b7a0-4fc8-ab3a-83a10975a89a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T074507Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103331Z
+    - ID: "3535821b-fd22-490b-a8d6-1c32067bf062"
+      Hint: Description
+      Value: <h3>Другая информация о багаже</h3>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "66982df3-3952-4529-b1b2-5b5b51f6dfec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T074532Z

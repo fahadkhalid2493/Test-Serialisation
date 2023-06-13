@@ -1,0 +1,355 @@
+﻿---
+ID: "85c31eb1-2cbc-4a18-a295-c9b8e20554b8"
+Parent: "1e7a01cc-66a6-4139-8126-5b6f355a6f41"
+Template: "442819bb-7f40-4254-ace9-6890bba50f83"
+Path: /sitecore/content/Global/Global Header Folder/Standard Global Header/RightNavigation/Falconflyer/Miles and Points
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{98270EC9-6559-4687-9E7F-B0DC5BDA8903}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
+- ID: "d8659908-123e-4a5b-9ce5-ff5c083ec776"
+  Hint: LevelList
+  Value: |
+    {9B886518-25DD-428C-AD01-0D7FE0EC70FE}
+    {1EABD81E-5584-4F86-AAFA-6B8B2D566DCF}
+- ID: "e68f7f12-575f-48aa-87ad-4dfe356af824"
+  Hint: BannerImage
+  Value: |
+    <image width="390" height="180" alt="Cabin Crew serving food.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/3ec6e796319e4d7c96db5424f6b5b742?v=7650477b" stylelabs-content-id="50657" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/50657/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230113T144931Z
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Miles &amp; Points" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "66cfc81d-8a31-454f-a75c-0926e0fc12b7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230120T183150Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "45889cca-9b88-45fc-bc92-6c98c83c0f21"
+      Hint: BannerDescription
+      Value: 
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: سافر اكثر. اكسب اكثر
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="مرحباَ بك" linktype="external" url="" anchor="" target="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="الأميال و النقاط" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c95147bb-e284-4cb5-887a-edcbe970be4d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225852Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Miles &amp; Points" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "389a5a73-930f-48a1-a8e1-d5050e0bca1c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120626Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Meilen und Treuepunkte" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2af370b5-fadf-4911-93a0-b79b43192afc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225852Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "45889cca-9b88-45fc-bc92-6c98c83c0f21"
+      Hint: BannerDescription
+      Value: 
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Fly more. Earn more
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: 
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Miles &amp; Points" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "341b7a34-a874-4948-80ac-b49762215427"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225852Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Miles &amp; Points" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee44b7ac-8190-4f6b-88d8-d9f65556f209"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120542Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Miles et Points" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "56305072-d545-4900-95b1-997d2033ab91"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225852Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Miles &amp; Points" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f55443ab-8544-4b01-9ff4-eb8cb2931195"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120443Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Мили и бонусные баллы" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e91c3b2-4cbd-4d4c-a319-d6d59c5d7e95"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225852Z

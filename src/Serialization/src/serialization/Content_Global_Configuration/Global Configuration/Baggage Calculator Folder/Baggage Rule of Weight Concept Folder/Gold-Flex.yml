@@ -1,0 +1,238 @@
+﻿---
+ID: "78e5d2f4-d780-4efc-87a5-eea5ff174181"
+Parent: "e521f51d-ccca-4649-9484-400eba77b793"
+Template: "9d41410c-76a0-4f1b-85d7-a07fa222a441"
+Path: "/sitecore/content/Global Configuration/Baggage Calculator Folder/Baggage Rule of Weight Concept Folder/Gold-Flex"
+SharedFields:
+- ID: "024cce00-0168-40d4-b61f-81373a33d602"
+  Hint: Origin
+  Value: "{CD6382D4-6AA8-4A59-80BC-097772BDEDFC}"
+- ID: "0eaf80b7-848a-4cd5-9c99-bc59ae4e923c"
+  Hint: CabinClass
+  Value: "{5ED887D8-9040-4C60-B733-4E0E4B7E90AA}"
+- ID: "468c1f6b-8356-483f-a47f-02f03bce4ddb"
+  Hint: NumberOfBags
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "b5b0fe78-c8d1-41ec-a848-7569f0076227"
+  Hint: Destination
+  Value: "{2FF6AC3B-A129-4B2A-89F9-03474B8C5EF3}"
+- ID: "cdcf857e-feff-4c1e-a9a2-ce906a6e92e9"
+  Hint: FareType
+  Value: "{16F3169B-DD02-49FC-A008-FAD1B47EA18B}"
+- ID: "d369a586-4c09-489f-983d-102ea3561adc"
+  Hint: PerBagWeightInKG
+  Value: 40
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230331T103855Z
+    - ID: "4a6d34e4-fde2-459b-9434-e07612fe33f5"
+      Hint: CabinBaggageInfo
+      Value: |
+        <ul>
+            <li>حقيبة واحدة بوزن 7 كج</li>
+          <li>الحد الأقصى للمقاسات <span dir='ltr'>45 x 40 x 30 cm</span> </li>
+        </ul>
+        <br />
+        <p class="font-bold card-footer card-footer-item">يسمح بحمل المتعلقات الشخصية مثل جهاز الحاسب الآلي المحمول وحقيبة اليد ومظلة وكتب القراءة</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d71e11a7-b054-49a7-b33f-3708d0e63925"
+    - ID: "aaf801f7-75f8-47e2-8c26-3b5a407d45d8"
+      Hint: CheckInBaggageInfo
+      Value: |
+        <ul>
+            <li>لغاية 40 كج </li>
+        </ul>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\fahees
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230606T173813Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T080616Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{CE5A9C84-B796-475A-B914-1C439E18B43C}"
+    - ID: "4a6d34e4-fde2-459b-9434-e07612fe33f5"
+      Hint: CabinBaggageInfo
+      Value: |
+        <ul>
+            <li> 1 Tasche und eine Aktentasche bis 7 kg    </li>
+            <li> maximale Abmessung 45 x 40 x 30 cm </li>
+        </ul>
+        <br />
+        <p class="font-bold card-footer card-footer-item"> Zus&auml;tzliche Gegenst&auml;nde wie Laptop, Geldb&ouml;rse, Regenschirm, B&uuml;cher usw. k&ouml;nnen zugelassen werden    </p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "68b32c3e-0a64-4eb0-99d1-b5d0800a86d0"
+    - ID: "aaf801f7-75f8-47e2-8c26-3b5a407d45d8"
+      Hint: CheckInBaggageInfo
+      Value: |
+        <ul>
+            <li> Bis 40kg   </li>
+        </ul>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230511T080659Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230331T103855Z
+    - ID: "4a6d34e4-fde2-459b-9434-e07612fe33f5"
+      Hint: CabinBaggageInfo
+      Value: |
+        <ul>
+            <li>1 bag and one briefcase up to 7 kg  </li>
+            <li> maximum dimension 45 x 40 x 30 cm </li>
+        </ul>
+        <br />
+        <p class="font-bold card-footer card-footer-item"> Additional items such as a laptop, purse, umbrella, books etc. may be permitted. </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "451139d9-57a7-4e90-81cd-4497fb6221d6"
+    - ID: "aaf801f7-75f8-47e2-8c26-3b5a407d45d8"
+      Hint: CheckInBaggageInfo
+      Value: |
+        <ul>
+            <li>Up to 40kg </li>
+        </ul>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaidzaheer
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230605T104743Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T072724Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{CE5A9C84-B796-475A-B914-1C439E18B43C}"
+    - ID: "4a6d34e4-fde2-459b-9434-e07612fe33f5"
+      Hint: CabinBaggageInfo
+      Value: |
+        <ul>
+            <li>1 sac et une mallette jusqu'&agrave; 7 kg  </li>
+            <li>dimension maximale 45 x 40 x 30 cm </li>
+        </ul>
+        <br />
+        <p class="font-bold card-footer card-footer-item"> Des articles suppl&eacute;mentaires tels qu'un ordinateur portable, un sac &agrave; main, un parapluie, des livres, etc. peuvent &ecirc;tre autoris&eacute;s.  </p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "855dc097-dfb6-43ac-8020-475a79e25ecd"
+    - ID: "aaf801f7-75f8-47e2-8c26-3b5a407d45d8"
+      Hint: CheckInBaggageInfo
+      Value: |
+        <ul>
+            <li>Jusqu'&agrave; 40 kg  </li>
+        </ul>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230511T072823Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T082714Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{CE5A9C84-B796-475A-B914-1C439E18B43C}"
+    - ID: "4a6d34e4-fde2-459b-9434-e07612fe33f5"
+      Hint: CabinBaggageInfo
+      Value: |
+        <ul>
+            <li> 1 сумка и один портфель до 7 кг  </li>
+            <li> максимальный размер 45 х 40 х 30 см   </li>
+        </ul>
+        <br />
+        <p class="font-bold card-footer card-footer-item"> Могут быть разрешены дополнительные предметы, такие как ноутбук, кошелек, зонт, книги и т. д.      </p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db9ff378-5acc-420d-95ea-f9752c418e3b"
+    - ID: "aaf801f7-75f8-47e2-8c26-3b5a407d45d8"
+      Hint: CheckInBaggageInfo
+      Value: |
+        <ul>
+            <li> до 40 кг  </li>
+        </ul>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230511T082857Z

@@ -1,0 +1,306 @@
+﻿---
+ID: "daac33b6-a07a-42f1-9fee-99637ccfd30b"
+Parent: "96acb271-1869-4907-9b64-5b10dabe9735"
+Template: "5d78fad5-3a75-4eb4-a436-db59852dcebb"
+Path: /sitecore/content/Global Configuration/Login/Login
+SharedFields:
+- ID: "10372331-34f3-483a-bd91-7c271704939a"
+  Hint: ClientID
+  Value: "auth-channel"
+- ID: "3f7e88f7-1da9-4953-992c-bc717bb3da5d"
+  Hint: Secret
+  Value: _DHFHSGDSFDSDAQ
+- ID: "404c3be0-4bf6-4ed3-b38a-f2247a976c02"
+  Hint: ProgramCode
+  Value: FF
+- ID: "5ce741a8-9ce1-483a-9f39-fc390ef78e1e"
+  Hint: RefreshTokenURL
+  Value: "https://gulfair-prd.ibsplc.aero/lmpapi/api/authservice/auth/refresh"
+- ID: "825caec4-14ac-4f9e-b44d-6e122a0eda16"
+  Hint: SubmitURL
+  Value: "https://gulfair-prd.ibsplc.aero/lmpapi/api/authservice/users/login"
+- ID: "9680844e-3d8d-4e30-af82-4a208df1ce73"
+  Hint: MemberDashboardURL
+  Value: "https://falconflyer.gulfair.com/member/dashboard?lang=${locale}&access_token=${token}"
+- ID: "d9372bf1-bc28-4fd4-90bd-9d60bcc39916"
+  Hint: LoginAPIURL
+  Value: "https://gulfair-prd.ibsplc.aero/lmpapi/api/authservice/users/login"
+- ID: "dcdeea21-0faa-4ac1-8699-49650f5eb52d"
+  Hint: ValidationUrl
+  Value: "https://gulfair-prd.ibsplc.aero/lmpapi/api/authservice/social-login/user/me"
+- ID: "e1284524-ae4f-4c56-9f3a-96a97ec98eec"
+  Hint: CompanyCode
+  Value: GF
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "202ec0f2-d69c-42c0-8646-bcdbbf0adbc7"
+      Hint: EmailField
+      Value: "{9607E4EE-0839-4574-A8AB-5A1E26847907}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T064425Z
+    - ID: "50ac257c-b549-4eeb-aa6e-9ea71ddbd0ff"
+      Hint: Heading
+      Value: تسجيل الدخول إلى فالكون فلاير
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74e4e1d2-f551-4c3e-98b6-90cd3b18082e"
+      Hint: PasswordField
+      Value: "{53E4C698-7A6A-4104-8E7D-27A78FDA633F}"
+    - ID: "82e5f652-1443-48a6-91f5-09a18f0da584"
+      Hint: LabelEmail
+      Value: البريد الإلكتروني
+    - ID: "8799314b-8df8-4532-9ea0-a6631d480eda"
+      Hint: MembershipNumberField
+      Value: "{5FEF3AB9-C1F9-4D04-912D-6728DF7AE7F9}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a180af60-3e60-4fe5-8ff4-370255a3ad9f"
+    - ID: "9700017f-873b-469a-b937-e0980db8cec7"
+      Hint: ForgotPasswordCTA
+      Value: |
+        <link text="هل نسيت كلمة المرور؟" linktype="external" url="https://falconflyer.gulfair.com/#/forgotpassword" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\husain
+    - ID: "c3a51891-1c1e-45ad-b478-9d7fb8970b7d"
+      Hint: LabelPassword
+      Value: كلمة المرور
+    - ID: "c3b114f4-effa-4fd6-b4b3-61dcf65985ed"
+      Hint: SubText
+      Value: قم بتسجيل الدخول إلى حسابك واستمتع بمزايا برنامج فالكون فلاير.
+    - ID: "ce3e0e7b-d907-4ebc-bf24-8f678083a5d8"
+      Hint: LabelMembership
+      Value: رقم العضوية
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230606T192358Z
+    - ID: "e44ca942-45d5-44b9-aa6e-8a1914a188a4"
+      Hint: LabelLogin
+      Value: تسجيل الدخول
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "202ec0f2-d69c-42c0-8646-bcdbbf0adbc7"
+      Hint: EmailField
+      Value: "{9607E4EE-0839-4574-A8AB-5A1E26847907}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230111T065011Z
+    - ID: "50ac257c-b549-4eeb-aa6e-9ea71ddbd0ff"
+      Hint: Heading
+      Value: Falconflyer Mitglied Anmelden
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "74e4e1d2-f551-4c3e-98b6-90cd3b18082e"
+      Hint: PasswordField
+      Value: "{53E4C698-7A6A-4104-8E7D-27A78FDA633F}"
+    - ID: "82e5f652-1443-48a6-91f5-09a18f0da584"
+      Hint: LabelEmail
+      Value: Email
+    - ID: "8799314b-8df8-4532-9ea0-a6631d480eda"
+      Hint: MembershipNumberField
+      Value: "{5FEF3AB9-C1F9-4D04-912D-6728DF7AE7F9}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "91e4892c-fbc2-4a8e-8881-ef87dd6990f1"
+    - ID: "9700017f-873b-469a-b937-e0980db8cec7"
+      Hint: ForgotPasswordCTA
+      Value: |
+        <link text="Passwort vergessen?" linktype="external" url="https://falconflyer.gulfair.com/#/forgotpassword" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c3a51891-1c1e-45ad-b478-9d7fb8970b7d"
+      Hint: LabelPassword
+      Value: Passwort
+    - ID: "c3b114f4-effa-4fd6-b4b3-61dcf65985ed"
+      Hint: SubText
+      Value: "Melden Sie sich in Ihrem Konto an und genießen Sie die Vorteile des Falconflyer -Programms."
+    - ID: "ce3e0e7b-d907-4ebc-bf24-8f678083a5d8"
+      Hint: LabelMembership
+      Value: Mitgliedsnummer
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230530T071713Z
+    - ID: "e44ca942-45d5-44b9-aa6e-8a1914a188a4"
+      Hint: LabelLogin
+      Value: Anmeldung
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "202ec0f2-d69c-42c0-8646-bcdbbf0adbc7"
+      Hint: EmailField
+      Value: "{9607E4EE-0839-4574-A8AB-5A1E26847907}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230111T065011Z
+    - ID: "50ac257c-b549-4eeb-aa6e-9ea71ddbd0ff"
+      Hint: Heading
+      Value: FalconFlyer Member Login
+    - ID: "74e4e1d2-f551-4c3e-98b6-90cd3b18082e"
+      Hint: PasswordField
+      Value: "{53E4C698-7A6A-4104-8E7D-27A78FDA633F}"
+    - ID: "82e5f652-1443-48a6-91f5-09a18f0da584"
+      Hint: LabelEmail
+      Value: Email
+    - ID: "8799314b-8df8-4532-9ea0-a6631d480eda"
+      Hint: MembershipNumberField
+      Value: "{5FEF3AB9-C1F9-4D04-912D-6728DF7AE7F9}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0f02e03-4291-4962-a27e-c6b03c284c5a"
+    - ID: "9700017f-873b-469a-b937-e0980db8cec7"
+      Hint: ForgotPasswordCTA
+      Value: |
+        <link text="Forgot Password?" linktype="external" url="https://falconflyer.gulfair.com/#/forgotpassword" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c3a51891-1c1e-45ad-b478-9d7fb8970b7d"
+      Hint: LabelPassword
+      Value: Password
+    - ID: "c3b114f4-effa-4fd6-b4b3-61dcf65985ed"
+      Hint: SubText
+      Value: Login to your account and enjoy FalconFlyer programme benefits.
+    - ID: "ce3e0e7b-d907-4ebc-bf24-8f678083a5d8"
+      Hint: LabelMembership
+      Value: Membership Number
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T113530Z
+    - ID: "e44ca942-45d5-44b9-aa6e-8a1914a188a4"
+      Hint: LabelLogin
+      Value: Login
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "202ec0f2-d69c-42c0-8646-bcdbbf0adbc7"
+      Hint: EmailField
+      Value: "{9607E4EE-0839-4574-A8AB-5A1E26847907}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230111T065011Z
+    - ID: "50ac257c-b549-4eeb-aa6e-9ea71ddbd0ff"
+      Hint: Heading
+      Value: Connexion du membre Falconflyer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "74e4e1d2-f551-4c3e-98b6-90cd3b18082e"
+      Hint: PasswordField
+      Value: "{53E4C698-7A6A-4104-8E7D-27A78FDA633F}"
+    - ID: "82e5f652-1443-48a6-91f5-09a18f0da584"
+      Hint: LabelEmail
+      Value: "E-mail"
+    - ID: "8799314b-8df8-4532-9ea0-a6631d480eda"
+      Hint: MembershipNumberField
+      Value: "{5FEF3AB9-C1F9-4D04-912D-6728DF7AE7F9}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da464f31-9ea5-4dab-8364-4e8956a066a9"
+    - ID: "9700017f-873b-469a-b937-e0980db8cec7"
+      Hint: ForgotPasswordCTA
+      Value: |
+        <link text="Mot de passe oublié?" linktype="external" url="https://falconflyer.gulfair.com/#/forgotpassword" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c3a51891-1c1e-45ad-b478-9d7fb8970b7d"
+      Hint: LabelPassword
+      Value: Mot de passe
+    - ID: "c3b114f4-effa-4fd6-b4b3-61dcf65985ed"
+      Hint: SubText
+      Value: "Connectez-vous à votre compte et profitez des avantages du programme Falconflyer."
+    - ID: "ce3e0e7b-d907-4ebc-bf24-8f678083a5d8"
+      Hint: LabelMembership
+      Value: Numéro de membre
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230530T071038Z
+    - ID: "e44ca942-45d5-44b9-aa6e-8a1914a188a4"
+      Hint: LabelLogin
+      Value: Connexion
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "202ec0f2-d69c-42c0-8646-bcdbbf0adbc7"
+      Hint: EmailField
+      Value: "{9607E4EE-0839-4574-A8AB-5A1E26847907}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230111T065011Z
+    - ID: "50ac257c-b549-4eeb-aa6e-9ea71ddbd0ff"
+      Hint: Heading
+      Value: Falconflyer Member Login
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "74e4e1d2-f551-4c3e-98b6-90cd3b18082e"
+      Hint: PasswordField
+      Value: "{53E4C698-7A6A-4104-8E7D-27A78FDA633F}"
+    - ID: "82e5f652-1443-48a6-91f5-09a18f0da584"
+      Hint: LabelEmail
+      Value: Электронная почта
+    - ID: "8799314b-8df8-4532-9ea0-a6631d480eda"
+      Hint: MembershipNumberField
+      Value: "{5FEF3AB9-C1F9-4D04-912D-6728DF7AE7F9}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "347c05c2-1b55-416f-8c8b-f60ac909aab3"
+    - ID: "9700017f-873b-469a-b937-e0980db8cec7"
+      Hint: ForgotPasswordCTA
+      Value: |
+        <link text="Забыли пароль?" linktype="external" url="https://falconflyer.gulfair.com/#/forgotpassword" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c3a51891-1c1e-45ad-b478-9d7fb8970b7d"
+      Hint: LabelPassword
+      Value: Пароль
+    - ID: "c3b114f4-effa-4fd6-b4b3-61dcf65985ed"
+      Hint: SubText
+      Value: Войдите в свою учетную запись и наслаждайтесь преимуществами программы Falconflyer.
+    - ID: "ce3e0e7b-d907-4ebc-bf24-8f678083a5d8"
+      Hint: LabelMembership
+      Value: Количество членов
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230530T075845Z
+    - ID: "e44ca942-45d5-44b9-aa6e-8a1914a188a4"
+      Hint: LabelLogin
+      Value: Авторизоваться

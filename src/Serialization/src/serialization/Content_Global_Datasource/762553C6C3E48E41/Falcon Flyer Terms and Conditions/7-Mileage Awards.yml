@@ -1,0 +1,48 @@
+﻿---
+ID: "dc92ce35-1451-4eee-839f-34177d08dca5"
+Parent: "31eacd34-875c-4814-b1a6-fbcfc231effe"
+Template: "5ccfccdf-b51d-47cc-8200-acd509f076d9"
+Path: "/sitecore/content/Global/Global Accordian With Page Slider Folder/Falcon Flyer Terms and Conditions/Falcon Flyer Terms and Conditions/7-Mileage Awards"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230612T075308Z
+    - ID: "2623820d-1b17-4be5-a84b-e5201ac08f85"
+      Hint: Description
+      Value: |
+        <ol>
+            <li><span style="color: #212529;">Mileage awards can be earned on Gulf Air flights at eligible fare levels only. Published Falcon Gold, full Economy and Economy Excursion fares qualify for Mileage awards. Certain "promotional" or "discounted" fares earn a reduced Award, whilst most other (discounted) fares, including bulk or other unpublished fares or travel industry discounted fares and redemption tickets are not eligible for Mileage awards at all.</span></li>
+            <li><span style="color: #212529;">The specific class codes which are eligible for Mileage awards and the number of miles awarded by flight, by tier and by class code are detailed on the website.</span></li>
+        </ol>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ghazijawad
+    - ID: "5a4499d3-dbd1-4db1-8ba8-6f08064b02fc"
+      Hint: Heading
+      Value: 7. Mileage Awards
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "826e2e14-d484-445e-aec8-0f13fe32a5af"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230612T075348Z

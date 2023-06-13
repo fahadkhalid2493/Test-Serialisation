@@ -1,0 +1,203 @@
+﻿---
+ID: "8728dbe0-1594-4b43-a035-9fc4c2c5355d"
+Parent: "d06bb4bf-c78f-424d-8d18-5e0a42a2f2c6"
+Template: "4f11fe5d-c287-40d8-ab63-50ef015599fb"
+Path: /sitecore/content/Global/Global Meal Change Request Folder/Dining/Meal Change Request Item
+SharedFields:
+- ID: "0c96a9ee-e8ec-4f4c-b4c5-52dacf58a39f"
+  Hint: SecondColumnBookingReferenceField
+  Value: "{B41DE51C-9A3B-42E5-8BE7-A450D32C0F7D}"
+- ID: "3f08d6ae-115e-46fa-ba7b-8feb18525d36"
+  Hint: SecondColumnLastNameField
+  Value: "{D9C3373B-7138-449E-BABA-3CCF0D66FDC7}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e6c1c32-b37a-4334-bce3-6a0f40935031"
+      Hint: FirstColumnHeading
+      Value:  الطلبات الخاصة
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230313T115158Z
+    - ID: "41cb2859-eb3e-428c-93ec-0bb962a1f1f4"
+      Hint: SecondColumnHeading
+      Value:  غيّر وجبتك
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d0a91677-7c44-48c4-b353-840bf01703d3"
+    - ID: "bab790e3-06dd-49ed-93bb-578de8f13249"
+      Hint: FirstColumnSubText
+      Value: <p>يمكن لجميع العملاء على رحلات شركة طيران الخليج طلب وجبة خاصة لتلائم متطلبات نظامهم الغذائي من القائمة أدناه</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danishabdul
+    - ID: "bf60ba35-d18e-4935-bc16-ca3a6c470e4b"
+      Hint: SecondColumnChangeMealCTA
+      Value: |
+        <link text="غير وجبتي" linktype="external" url="https://gulfacc.resfinity.com/mmb?pnr={pnr}&amp;surname={surname}&amp;locale=ar" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230605T152155Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e6c1c32-b37a-4334-bce3-6a0f40935031"
+      Hint: FirstColumnHeading
+      Value: Besondere Bitte
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T141917Z
+    - ID: "41cb2859-eb3e-428c-93ec-0bb962a1f1f4"
+      Hint: SecondColumnHeading
+      Value: Ändern Sie Ihre Mahlzeit
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b00ec9cb-d720-4a34-8c2c-0218e0e6f919"
+    - ID: "bab790e3-06dd-49ed-93bb-578de8f13249"
+      Hint: FirstColumnSubText
+      Value: <p>Alle Kunden von Gulf Air k&ouml;nnen eine spezielle Mahlzeit anfordern, die angemessen ist ihre Ern&auml;hrungsanforderungen aus der folgenden Liste.g</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danishabdul
+    - ID: "bf60ba35-d18e-4935-bc16-ca3a6c470e4b"
+      Hint: SecondColumnChangeMealCTA
+      Value: |
+        <link text="mein Essen ändern" linktype="external" url="https://gulfacc.resfinity.com/mmb?pnr={pnr}&amp;surname={surname}&amp;locale=de" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230605T152349Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e6c1c32-b37a-4334-bce3-6a0f40935031"
+      Hint: FirstColumnHeading
+      Value: Special Request
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230313T115158Z
+    - ID: "41cb2859-eb3e-428c-93ec-0bb962a1f1f4"
+      Hint: SecondColumnHeading
+      Value: Change your meal
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e2460bd5-b3e3-42c6-a89a-7ce4ffee405b"
+    - ID: "bab790e3-06dd-49ed-93bb-578de8f13249"
+      Hint: FirstColumnSubText
+      Value: <p>All customers on Gulf Air may request a special meal to suit their dietary requirements from the list below.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danishabdul
+    - ID: "bf60ba35-d18e-4935-bc16-ca3a6c470e4b"
+      Hint: SecondColumnChangeMealCTA
+      Value: |
+        <link text="change my meal" linktype="external" url="https://gulfacc.resfinity.com/mmb?pnr={pnr}&amp;surname={surname}&amp;locale=en" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230605T152017Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e6c1c32-b37a-4334-bce3-6a0f40935031"
+      Hint: FirstColumnHeading
+      Value: Demande spéciale
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T142117Z
+    - ID: "41cb2859-eb3e-428c-93ec-0bb962a1f1f4"
+      Hint: SecondColumnHeading
+      Value: Changez votre repas
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5b81596e-1f18-42b5-bd65-6a9773a3a31a"
+    - ID: "bab790e3-06dd-49ed-93bb-578de8f13249"
+      Hint: FirstColumnSubText
+      Value: "<p>Tous les clients de Gulf Air peuvent demander un repas sp&eacute;cial pour convenir leurs exigences alimentaires de la liste ci-dessous.</p>"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danishabdul
+    - ID: "bf60ba35-d18e-4935-bc16-ca3a6c470e4b"
+      Hint: SecondColumnChangeMealCTA
+      Value: |
+        <link text="changer mon repas" linktype="external" url="https://gulfacc.resfinity.com/mmb?pnr={pnr}&amp;surname={surname}&amp;locale=fr" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230605T152206Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e6c1c32-b37a-4334-bce3-6a0f40935031"
+      Hint: FirstColumnHeading
+      Value: Специальный запрос
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T142204Z
+    - ID: "41cb2859-eb3e-428c-93ec-0bb962a1f1f4"
+      Hint: SecondColumnHeading
+      Value: Измените свою еду
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa6c6d40-2460-4711-b816-eebd1490610c"
+    - ID: "bab790e3-06dd-49ed-93bb-578de8f13249"
+      Hint: FirstColumnSubText
+      Value: <p>Все клиенты в Gulf Air могут запросить специальную еду в соответствии с их диетические требования из списка ниже.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danishabdul
+    - ID: "bf60ba35-d18e-4935-bc16-ca3a6c470e4b"
+      Hint: SecondColumnChangeMealCTA
+      Value: |
+        <link text="изменить мою еду" linktype="external" url="https://gulfacc.resfinity.com/mmb?pnr={pnr}&amp;surname={surname}&amp;locale=ru" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T075102Z

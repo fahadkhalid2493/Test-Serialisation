@@ -1,0 +1,330 @@
+﻿---
+ID: "18481fac-7229-4677-a11d-f296297c60a7"
+Parent: "72e20f4e-a43a-437e-9c4f-58fb9f1b1eeb"
+Template: "3729cae3-88db-4a52-88f4-3a2d5c759170"
+Path: "/sitecore/content/gulfair-app-eg/Data/CabinExperienceTabAndSliderFolder/CabinExperienceTabAndSliderParentList/Boeing 787-9 Dreamliner/Economy Cabin"
+SharedFields:
+- ID: "386bfb56-1fdd-4633-846e-7a2c470dc8d1"
+  Hint: IconFour
+  Value: |
+    <image width="91" height="90" alt="icon-04.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/a9509fa180454a6a8e2070fd8a182bd9?v=b4312589" stylelabs-content-id="44883" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/44883/thumbnail" />
+- ID: "491a812a-058e-470c-b08a-aca452295bfb"
+  Hint: BannerImage
+  Value: |
+    <image width="530" height="337" alt="3d-virtual.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/6ed967d054904566a19ca742406d4268?v=d97df8c7" stylelabs-content-id="42714" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/42714/thumbnail" />
+- ID: "4f34da61-d14b-4a23-86eb-22c3b26f0f64"
+  Hint: IconThree
+  Value: |
+    <image width="92" height="90" alt="icon-03.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/ce93b7ed8b524c2d82b421e7e8fe6197?v=d5d6898f" stylelabs-content-id="41460" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41460/thumbnail" />
+- ID: "69a232fc-4acb-4926-a26d-814ee701054f"
+  Hint: IconOne
+  Value: |
+    <image width="92" height="90" alt="icon-01.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/3eeef499cca9462ba70be2a017b4527c?v=026c0724" stylelabs-content-id="41462" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41462/thumbnail" />
+- ID: "a8b8666c-6421-4a24-a015-b63c7ee33293"
+  Hint: IconTwo
+  Value: |
+    <image width="91" height="90" alt="icon-02.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/1b2b130154af4b18b119fc706f8e75d1?v=357b02df" stylelabs-content-id="41463" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41463/thumbnail" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "ec342446-5385-4acc-8ff1-a4cc385380fa"
+  Hint: SliderList
+  Value: |
+    {56405D75-7C77-4FCB-9612-52A926CE4BD8}
+    {163B0C27-47BC-460D-BAF0-138D8FFD258A}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03aa823e-ea0f-49c3-b020-f1300ebf1f26"
+      Hint: BannerSubText
+      Value: <p>خذ لحظة للصعود على متن الطائرة واستمتع بأقرب شيء لتجربة مقصورة طيران الخليج الحقيقية من خلال جهاز محاكاة المقصورة الافتراضي ثلاثي الأبعاد.</p>
+    - ID: "1b098cba-c01c-470a-9136-b1c231e723c2"
+      Hint: Heading
+      Value: اكتشف ميزات المقصورة لدينا
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T134145Z
+    - ID: "29c95e4d-dec4-41e0-b87b-73f4f377d2fa"
+      Hint: BenefitSubTitle
+      Value: <p>بصرف النظر عن ميزات المقصورة الموضحة أعلاه ، يمكن لركاب مقصورة Falcon Gold أيضًا الاستمتاع بمزايا المقصورة الذهبية الحصرية هذه.</p>
+    - ID: "2f84fb28-ae86-43b6-835e-2d011073154d"
+      Hint: IconFourTitle
+      Value: صالة الوصول
+    - ID: "313fc557-c805-42ed-9713-d1d5cd0595c3"
+      Hint: IconThreeTitle
+      Value: واي فاي على متن الطائرة
+    - ID: "38fc4262-795c-4830-8df1-b1e2afb13975"
+      Hint: SubTabTitle
+      Value: مقصورة اقتصادية
+    - ID: "4d330bf5-0e23-416b-b829-c442f94e10c1"
+      Hint: BenefitTitles
+      Value: مقصورة اقتصادية
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "897922b3-6f6f-471a-a2d8-8b2955df636c"
+      Hint: IconOneTitle
+      Value: الصعود السريع
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb8b049c-2af7-4735-aaef-b153668e059a"
+    - ID: "92da30be-3dcc-4b2f-a928-11092c00e654"
+      Hint: BannerHeading
+      Value: تجربة المقصورة الافتراضية ثلاثية الأبعاد
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d4c4921f-afb1-4884-8fb2-07273c495804"
+      Hint: BannerCTA
+      Value: |
+        <link text="خطوة على متن الطائرة" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232357Z
+    - ID: "e6f1acd5-3477-4a9a-b500-9592175561d2"
+      Hint: IconTwoTitle
+      Value: وجبات الذواقة
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03aa823e-ea0f-49c3-b020-f1300ebf1f26"
+      Hint: BannerSubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "1b098cba-c01c-470a-9136-b1c231e723c2"
+      Hint: Heading
+      Value: Explore our cabin features
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T134145Z
+    - ID: "29c95e4d-dec4-41e0-b87b-73f4f377d2fa"
+      Hint: BenefitSubTitle
+      Value: Aside from the cabin features shown above, Falcon Gold cabin passengers can also enjoy these exclusive Gold Cabin benefits.
+    - ID: "2f84fb28-ae86-43b6-835e-2d011073154d"
+      Hint: IconFourTitle
+      Value: Lounge Access
+    - ID: "313fc557-c805-42ed-9713-d1d5cd0595c3"
+      Hint: IconThreeTitle
+      Value: "Wi-Fi on Board"
+    - ID: "38fc4262-795c-4830-8df1-b1e2afb13975"
+      Hint: SubTabTitle
+      Value: Falcon Gold Cabin
+    - ID: "4d330bf5-0e23-416b-b829-c442f94e10c1"
+      Hint: BenefitTitles
+      Value: Falcon Gold cabin benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "897922b3-6f6f-471a-a2d8-8b2955df636c"
+      Hint: IconOneTitle
+      Value: Fast Track Boarding
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8146a80a-7142-4f0e-bbf0-324b7b8372e3"
+    - ID: "92da30be-3dcc-4b2f-a928-11092c00e654"
+      Hint: BannerHeading
+      Value: 3D virtual cabin experience
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d4c4921f-afb1-4884-8fb2-07273c495804"
+      Hint: BannerCTA
+      Value: |
+        <link text="Step aboard" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232357Z
+    - ID: "e6f1acd5-3477-4a9a-b500-9592175561d2"
+      Hint: IconTwoTitle
+      Value: Gourmet Meals
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03aa823e-ea0f-49c3-b020-f1300ebf1f26"
+      Hint: BannerSubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "1b098cba-c01c-470a-9136-b1c231e723c2"
+      Hint: Heading
+      Value: Explore our cabin features
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T134145Z
+    - ID: "29c95e4d-dec4-41e0-b87b-73f4f377d2fa"
+      Hint: BenefitSubTitle
+      Value: <p>Aside from the cabin features shown above, Falcon Gold cabin passengers can also enjoy these exclusive Gold Cabin benefits.</p>
+    - ID: "2f84fb28-ae86-43b6-835e-2d011073154d"
+      Hint: IconFourTitle
+      Value: 
+    - ID: "313fc557-c805-42ed-9713-d1d5cd0595c3"
+      Hint: IconThreeTitle
+      Value: "Wi-Fi on Board"
+    - ID: "38fc4262-795c-4830-8df1-b1e2afb13975"
+      Hint: SubTabTitle
+      Value: Economy Cabin5
+    - ID: "4d330bf5-0e23-416b-b829-c442f94e10c1"
+      Hint: BenefitTitles
+      Value: Economy cabin benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "897922b3-6f6f-471a-a2d8-8b2955df636c"
+      Hint: IconOneTitle
+      Value: Fast Track Boarding
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c2773e96-14f5-4d6c-bbd6-601fe9d96b4f"
+    - ID: "92da30be-3dcc-4b2f-a928-11092c00e654"
+      Hint: BannerHeading
+      Value: Eco 3D virtual cabin experience
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d4c4921f-afb1-4884-8fb2-07273c495804"
+      Hint: BannerCTA
+      Value: |
+        <link text="Step aboard" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232357Z
+    - ID: "e6f1acd5-3477-4a9a-b500-9592175561d2"
+      Hint: IconTwoTitle
+      Value: Gourmet Meals
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03aa823e-ea0f-49c3-b020-f1300ebf1f26"
+      Hint: BannerSubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "1b098cba-c01c-470a-9136-b1c231e723c2"
+      Hint: Heading
+      Value: Explore our cabin features
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T134145Z
+    - ID: "29c95e4d-dec4-41e0-b87b-73f4f377d2fa"
+      Hint: BenefitSubTitle
+      Value: Aside from the cabin features shown above, Falcon Gold cabin passengers can also enjoy these exclusive Gold Cabin benefits.
+    - ID: "2f84fb28-ae86-43b6-835e-2d011073154d"
+      Hint: IconFourTitle
+      Value: Lounge Access
+    - ID: "313fc557-c805-42ed-9713-d1d5cd0595c3"
+      Hint: IconThreeTitle
+      Value: "Wi-Fi on Board"
+    - ID: "38fc4262-795c-4830-8df1-b1e2afb13975"
+      Hint: SubTabTitle
+      Value: Falcon Gold Cabin
+    - ID: "4d330bf5-0e23-416b-b829-c442f94e10c1"
+      Hint: BenefitTitles
+      Value: Falcon Gold cabin benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "897922b3-6f6f-471a-a2d8-8b2955df636c"
+      Hint: IconOneTitle
+      Value: Fast Track Boarding
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd61eeb8-1a63-4a2a-afaf-f5a57165df84"
+    - ID: "92da30be-3dcc-4b2f-a928-11092c00e654"
+      Hint: BannerHeading
+      Value: 3D virtual cabin experience
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d4c4921f-afb1-4884-8fb2-07273c495804"
+      Hint: BannerCTA
+      Value: |
+        <link text="Step aboard" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232357Z
+    - ID: "e6f1acd5-3477-4a9a-b500-9592175561d2"
+      Hint: IconTwoTitle
+      Value: Gourmet Meals
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03aa823e-ea0f-49c3-b020-f1300ebf1f26"
+      Hint: BannerSubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "1b098cba-c01c-470a-9136-b1c231e723c2"
+      Hint: Heading
+      Value: Explore our cabin features
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T134145Z
+    - ID: "29c95e4d-dec4-41e0-b87b-73f4f377d2fa"
+      Hint: BenefitSubTitle
+      Value: Aside from the cabin features shown above, Falcon Gold cabin passengers can also enjoy these exclusive Gold Cabin benefits.
+    - ID: "2f84fb28-ae86-43b6-835e-2d011073154d"
+      Hint: IconFourTitle
+      Value: Lounge Access
+    - ID: "313fc557-c805-42ed-9713-d1d5cd0595c3"
+      Hint: IconThreeTitle
+      Value: "Wi-Fi on Board"
+    - ID: "38fc4262-795c-4830-8df1-b1e2afb13975"
+      Hint: SubTabTitle
+      Value: Falcon Gold Cabin
+    - ID: "4d330bf5-0e23-416b-b829-c442f94e10c1"
+      Hint: BenefitTitles
+      Value: Falcon Gold cabin benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "897922b3-6f6f-471a-a2d8-8b2955df636c"
+      Hint: IconOneTitle
+      Value: Fast Track Boarding
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0975c0b-574d-477e-86dd-63f5c0b38be4"
+    - ID: "92da30be-3dcc-4b2f-a928-11092c00e654"
+      Hint: BannerHeading
+      Value: 3D virtual cabin experience
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d4c4921f-afb1-4884-8fb2-07273c495804"
+      Hint: BannerCTA
+      Value: |
+        <link text="Step aboard" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232357Z
+    - ID: "e6f1acd5-3477-4a9a-b500-9592175561d2"
+      Hint: IconTwoTitle
+      Value: Gourmet Meals

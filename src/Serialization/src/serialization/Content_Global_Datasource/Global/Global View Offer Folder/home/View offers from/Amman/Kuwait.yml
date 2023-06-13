@@ -1,0 +1,180 @@
+﻿---
+ID: "375f5056-c47b-4da6-91e5-4188485a7942"
+Parent: "4aefe66c-2726-4190-9176-9d631d129364"
+Template: "f8064d4b-868b-43fe-a8db-c8126b3d5a74"
+Path: /sitecore/content/Global/Global View Offer Folder/home/View offers from/Amman/Kuwait
+SharedFields:
+- ID: "0edc92b8-9df8-4df1-907b-956bfce59708"
+  Hint: City
+  Value: "{5107016C-EE45-473F-8452-45A9C5BE0E42}"
+- ID: "1f1273b3-fd43-4691-9b26-43b7fba1c6cc"
+  Hint: Currency
+  Value: JOD
+- ID: "1f3c2536-9502-4b92-bc97-1ce163762143"
+  Hint: ReturnDays
+  Value: "{FEB1AECB-B198-43BE-A914-E004B57CC02F}"
+- ID: "5fb8630b-a7e2-47ca-8594-de42ee9abcef"
+  Hint: Price
+  Value: 370
+- ID: "6b54abcf-47bb-4de8-abc0-3f38dd6c164e"
+  Hint: Adult
+  Value: "{96D304B9-C3ED-444D-8430-5CB43340CC3E}"
+- ID: "6bab46ac-eacc-42be-8c94-ac5f23b9996f"
+  Hint: CTA
+  Value: |
+    <link linktype="external" url="https://gulfacc.resfinity.com/falcon/deeplink?adt=1&amp;cabin_class=Y&amp;departure_date={DDATE}&amp;return_date={RDATE}&amp;origin=AMM&amp;destination=KWI&amp;flight_type=return&amp;page=calendar" anchor="" target="_blank" />
+- ID: "7431acca-f405-4264-b666-b4989c1ab1b9"
+  Hint: CabinClass
+  Value: "{AAB594EA-0736-4F58-9C11-2970CA73B8E5}"
+- ID: "86933a7b-2642-4994-8504-a0941505e5c2"
+  Hint: BackgroundImage
+  Value: |
+    <image width="364" height="400" alt="KWI-364x400.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/c04fec83ad7c47d99979fe636b5672e8?v=9826fd1a" stylelabs-content-id="46193" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/46193/thumbnail" />
+- ID: "b7575dbc-d152-4184-b5df-fa75b529e605"
+  Hint: DepartureDays
+  Value: "{96D304B9-C3ED-444D-8430-5CB43340CC3E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "dddc3a38-a578-4e83-93de-8913220da17f"
+  Hint: Destination
+  Value: "{33E0C317-082C-4EF6-8C80-BAFE78DF7212}"
+- ID: "e0fd5133-8a82-4c38-8b10-18a6ead69b3f"
+  Hint: FlightType
+  Value: "{9923767D-CED5-4E11-8615-6C54164AD3B2}"
+- ID: "e27793d2-3cb7-45ea-897f-15842912891f"
+  Hint: Origin
+  Value: "{4A7BC64D-4A0A-4DEB-94F8-A8FBC01C515C}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114355Z
+    - ID: "37dcb1c0-ebf1-4229-9969-05560085d490"
+      Hint: TicketType
+      Value: السياحية من
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6569af0f-b612-4b76-9532-0aebfc9daed5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230221Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114355Z
+    - ID: "37dcb1c0-ebf1-4229-9969-05560085d490"
+      Hint: TicketType
+      Value: Wirtschaft von
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4ecbe201-08d3-40d3-a66e-eb47fe1bd43d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230221Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114355Z
+    - ID: "37dcb1c0-ebf1-4229-9969-05560085d490"
+      Hint: TicketType
+      Value: Economy From
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "91ab33d7-a267-41fd-9604-7ddd0f9ba58f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230613T030501Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114355Z
+    - ID: "37dcb1c0-ebf1-4229-9969-05560085d490"
+      Hint: TicketType
+      Value: Économie de
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1b83d0d-73ce-4d2e-9ac9-2705bf11e293"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230221Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T114355Z
+    - ID: "37dcb1c0-ebf1-4229-9969-05560085d490"
+      Hint: TicketType
+      Value: Экономика от
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3a7b2467-8ef6-40cd-8f33-4bfc0659db32"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230221Z

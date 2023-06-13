@@ -1,0 +1,186 @@
+﻿---
+ID: "abf9ec2b-70bd-43f0-b374-a429375f4771"
+Parent: "7a46dae4-606e-4963-98cf-be6b1e7153a5"
+Template: "04a73307-2eac-48bd-b9d2-2ac8b7869324"
+Path: /sitecore/content/Global/ContactYourLocalOfficeFolder/ContactYourLocalOfficeParent/ContactYourLocalOffice
+SharedFields:
+- ID: "41a968f3-e25c-483b-9bbd-6f649eac8977"
+  Hint: Address
+  Value: <p>1 Alborlsy St, From Fakhar Eldin Khaled – Elgawazat Elmansoura</p>
+- ID: "6b5760de-7d73-4470-b20d-dbead5d393eb"
+  Hint: SalesPhone
+  Value: +201222300025
+- ID: "9f436871-61d6-485d-b379-2975232aeab5"
+  Hint: City
+  Value: "{6F2EE5A8-2987-4A00-BF8F-5877846A892C}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230418T101035Z
+    - ID: "3d5f0e00-437c-4876-bc64-689b96432724"
+      Hint: SalesEmail
+      Value: Fawzi.Mattar@gulfair.com
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "7510bdae-ddea-49b6-b884-bfd56d0f912f"
+      Hint: CargoEmail
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e21d2e7-0dd0-45e8-b73c-105dc6de2274"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230418T101035Z
+    - ID: "df700d07-7312-4f37-af22-7988241f4569"
+      Hint: CargoPhone
+      Value: +973 17373737
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T093258Z
+    - ID: "3d5f0e00-437c-4876-bc64-689b96432724"
+      Hint: SalesEmail
+      Value: Fawzi.Mattar@gulfair.com
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "7510bdae-ddea-49b6-b884-bfd56d0f912f"
+      Hint: CargoEmail
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da7448f0-1e76-4ee5-94dd-379f3a088397"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230418T100949Z
+    - ID: "df700d07-7312-4f37-af22-7988241f4569"
+      Hint: CargoPhone
+      Value: +973 17373737
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T093258Z
+    - ID: "3d5f0e00-437c-4876-bc64-689b96432724"
+      Hint: SalesEmail
+      Value: Fawzi.Mattar@gulfair.com
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "7510bdae-ddea-49b6-b884-bfd56d0f912f"
+      Hint: CargoEmail
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78b0d66b-0352-4643-8e39-68d544447500"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230510T140809Z
+    - ID: "df700d07-7312-4f37-af22-7988241f4569"
+      Hint: CargoPhone
+      Value: +973 17373737
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T093258Z
+    - ID: "3d5f0e00-437c-4876-bc64-689b96432724"
+      Hint: SalesEmail
+      Value: Fawzi.Mattar@gulfair.com
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "7510bdae-ddea-49b6-b884-bfd56d0f912f"
+      Hint: CargoEmail
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "56a89c54-06fd-449c-adab-bd822c40a946"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230418T100956Z
+    - ID: "df700d07-7312-4f37-af22-7988241f4569"
+      Hint: CargoPhone
+      Value: +973 17373737
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T093258Z
+    - ID: "3d5f0e00-437c-4876-bc64-689b96432724"
+      Hint: SalesEmail
+      Value: Fawzi.Mattar@gulfair.com
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "7510bdae-ddea-49b6-b884-bfd56d0f912f"
+      Hint: CargoEmail
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "47c310de-eb3d-48d9-b117-185249fa59c5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230418T101005Z
+    - ID: "df700d07-7312-4f37-af22-7988241f4569"
+      Hint: CargoPhone
+      Value: +973 17373737

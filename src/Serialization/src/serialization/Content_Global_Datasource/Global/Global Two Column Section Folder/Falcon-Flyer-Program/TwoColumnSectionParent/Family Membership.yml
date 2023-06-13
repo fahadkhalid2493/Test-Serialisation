@@ -1,0 +1,245 @@
+﻿---
+ID: "5fa20fd9-6bee-4af9-83ec-9690674c7085"
+Parent: "22ddbc31-2174-4988-a1bc-f2a0acd5938f"
+Template: "ccf252a7-d3e3-401a-95e5-b42bdf2c187a"
+Path: "/sitecore/content/Global/Global Two Column Section Folder/Falcon-Flyer-Program/TwoColumnSectionParent/Family Membership"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "709d2fac-25a4-45d5-8dc5-23703849e530"
+  Hint: Image
+  Value: |
+    <image width="922" height="664" alt="Passnger processing the check it.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/5e0f63c8213b4eef966ead3a989354d7?v=cfa7b979" stylelabs-content-id="50359" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/50359/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "bfb10fad-32e7-4081-9524-167591e8745a"
+  Hint: PopupVideoURL
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: العضوية العائلية
+    - ID: "0f3b38f7-9d77-4092-908e-1d07c0fe6a7c"
+      Hint: CTA2
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: |
+        <p style="text-align: right;"><span dir="RTL">تستطيع ان تضيف ثمانية من افراد العائلة تحت عضويتك الشخصية و الحصول على 70 % من الاميال الخاصة بهم</span></p>
+        <p style="text-align: right;"><span dir="RTL">كل فرد من افراد العائلة سيحصل على رقم عضوية خاص به و يجب عليه استخدام هذا الرقم عند السفر او حجز التذاكر</span><span> </span></p>
+        <p style="text-align: right;"><span dir="RTL">يستطيع صاحب العضوية الرئيسية من تغيير 4 افراد فقط من افراد العائلة خلال عام واحد يبدأ من يناير الى ديسمبر من نفس العام</span></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "7730c784-a54b-4dc1-9d92-dbdee9308d87"
+      Hint: SubHeading
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3d1cfeb0-cc1f-4e48-9e11-ccb80e3607c1"
+    - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
+      Hint: CTA1
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230221Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Familienmitgliedschaft
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: <p>Da wir an Familienbindung glauben, k&ouml;nnen Sie ab jetzt bis zu acht Familienmitglieder benennen, die Meilen f&uuml;r Sie sammeln, wen sie mit Gulf Air fliegen.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0010435-147f-494b-970a-e31b88be37f5"
+    - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
+      Hint: CTA1
+      Value: |
+        <link text="Weiterlesen" linktype="anchor" url="{08C057FD-40A0-4742-AC71-49585F872BE4}" anchor="{08C057FD-40A0-4742-AC71-49585F872BE4}" title="" class="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230221Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Family Membership
+    - ID: "0f3b38f7-9d77-4092-908e-1d07c0fe6a7c"
+      Hint: CTA2
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: |
+        <p><span>Nominate up to 8 family members under your account and earn 70% of the regular mileage award on your behalf every time they fly on Gulf Air - even if they're not travelling with you.&nbsp;</span>Each nominated family member* will receive his/her own membership number.</p>
+        <p>To receive their miles, ensure that their membership numbers are quoted when booking. A member may make a change to 4 family members on his list in any 12 month period from January to December</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "7730c784-a54b-4dc1-9d92-dbdee9308d87"
+      Hint: SubHeading
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e287242a-6fc5-46f1-acdf-7d4d19369dc2"
+    - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
+      Hint: CTA1
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "ce1b5c66-2791-4787-b1dc-12c49304dd5f"
+      Hint: ModalTitle
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230221Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Adhésion familiale
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: <p>Parce que nous croyons aux familles unies, vous pouvez d&eacute;sormais d&eacute;signer jusqu'&agrave; huit membres de votre famille pour accumuler des miles en votre faveur lorsqu'ils prennent des vols Gulf Air.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "05e4a2b1-be16-464c-bf28-2ba6de2f8d9a"
+    - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
+      Hint: CTA1
+      Value: |
+        <link text="Lire la suite" linktype="anchor" url="{08C057FD-40A0-4742-AC71-49585F872BE4}" anchor="{08C057FD-40A0-4742-AC71-49585F872BE4}" title="" class="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230221Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Семейное членство
+    - ID: "0f3b38f7-9d77-4092-908e-1d07c0fe6a7c"
+      Hint: CTA2
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: <p>Мы &ndash; за семейные путешествия, поэтому вы можете добавлять до восьми родственников на свой счет. Вы будете зарабатывать мили, когда члены вашей семьи будут летать рейсами авиакомпании Gulf Air.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9db7925a-3a0f-495b-a6da-14baf590eb01"
+    - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
+      Hint: CTA1
+      Value: |
+        <link text="Читать больше" linktype="anchor" url="{08C057FD-40A0-4742-AC71-49585F872BE4}" anchor="{08C057FD-40A0-4742-AC71-49585F872BE4}" title="" class="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230221Z

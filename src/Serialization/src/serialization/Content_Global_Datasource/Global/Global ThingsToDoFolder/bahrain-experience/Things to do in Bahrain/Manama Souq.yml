@@ -1,0 +1,266 @@
+﻿---
+ID: "8083313c-445f-415c-9ce8-2ffac3bd0684"
+Parent: "caf10c8c-f8da-4e57-9bda-cee5ce5a6932"
+Template: "fd582026-66f8-4395-911a-c3cb6f40634d"
+Path: "/sitecore/content/Global/Global ThingsToDoFolder/bahrain-experience/Things to do in Bahrain/Manama Souq"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dbc01cbd-a304-4024-8103-5684cc1d8d37"
+  Hint: Thumbnail
+  Value: |
+    <image width="364" height="400" alt="manama-souq.webp" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/34554f388a654f2e8a1035906d041e28?v=5fbe4ac8" stylelabs-content-id="48693" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48693/thumbnail" />
+- ID: "ffd0635b-490c-470f-a104-bdf5459a9885"
+  Hint: ImagesList
+  Value: |
+    {72A89C46-2DDE-49E4-BA08-D092775ACF84}
+    {92FA9390-5805-4775-87E1-039E166A3958}
+    {FBAF2257-62AE-4DDB-824A-862BDE536988}
+    {18DC373A-D353-44E6-A78D-4F76E6DAF4A7}
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T162501Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{07986B14-9588-4CE3-AD0E-49B325F18E4F}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: |
+        <p>باب البحرين هو مدخل سوق المنامة ، حيث يمكنك العثور على مجموعة من المحلات التجارية التي تقدم مجموعة واسعة من السلع من المنسوجات والتوابل والعطور والحرف اليدوية والهدايا التذكارية. المساومة أمر لا بد منه!</p>
+        <p>هناك أيضًا العديد من المقاهي التقليدية ، ومن أشهرها مقهى حاجي. يعد الضياع في أزقة السوق إحدى الطرق للاستمتاع بها أو استئجار دراجة والبدء في الاستكشاف.</p>
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: سوق المنامة
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d6c8b295-1f9e-4d5c-9449-0b79414882ce"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230219Z
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T162501Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{07986B14-9588-4CE3-AD0E-49B325F18E4F}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: |
+        Bab Al Bahrain ist der Eingang zum Manama Souq, wo Sie eine Reihe von Gesch&auml;ften finden, die eine gro&szlig;e Auswahl an Waren aus Textilien, Gew&uuml;rzen, Parf&uuml;ms, Kunsthandwerk und Souvenirs anbieten. Verhandeln ist Pflicht!<br />
+        <br />
+        Es gibt auch mehrere traditionelle Caf&eacute;s, wobei das Haji-Caf&eacute; eines der beliebtesten ist. Eine M&ouml;glichkeit, sich in den Gassen des Souks zu verlieren, ist eine M&ouml;glichkeit, ihn zu genie&szlig;en, oder man mietet sich ein Fahrrad und beginnt mit der Erkundung.
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Manama Souq
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "928262b3-ffa6-471e-b910-55d2f784b714"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230219Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T162501Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{07986B14-9588-4CE3-AD0E-49B325F18E4F}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: |
+        <p>Bab Al Bahrain is the entrance of Manama Souq, where you can find a collection of shops offering a wide range of goods from textiles, spices, perfumes, handicrafts, and souvenirs. Bargaining is a must!</p>
+        <p>There are also several traditional coffee shops, Haji caf&eacute; being one of the most popular ones. Getting lost in the alleyways of the souq is one way to enjoy it, or rent a bike and start exploring.</p>
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Manama Souq
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c54314b6-65e8-44d2-a350-6c632178b358"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230219Z
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T162501Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{07986B14-9588-4CE3-AD0E-49B325F18E4F}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: |
+        Bab Al Bahre&iuml;n est l'entr&eacute;e du souk de Manama, o&ugrave; vous trouverez une collection de boutiques proposant une large gamme de produits allant des textiles, des &eacute;pices, des parfums, de l'artisanat et des souvenirs. Le marchandage s'impose !<br />
+        <br />
+        Il existe &eacute;galement plusieurs caf&eacute;s traditionnels, le caf&eacute; Haji &eacute;tant l'un des plus populaires. Se perdre dans les ruelles du souk est une fa&ccedil;on d'en profiter, ou de louer un v&eacute;lo et de commencer &agrave; explorer.
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Souk de Manama
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85e44961-9896-4f2b-9133-79125c1ab1bb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230219Z
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T162501Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{07986B14-9588-4CE3-AD0E-49B325F18E4F}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: |
+        Баб-аль-Бахрейн &mdash; это вход на базар Манама, где вы можете найти множество магазинов, предлагающих широкий ассортимент товаров: текстиль, специи, парфюмерию, изделия ручной работы и сувениры. Торг обязателен!<br />
+        <br />
+        Есть также несколько традиционных кофеен, одна из самых популярных &ndash; кафе &laquo;Хаджи&raquo;. Один из способов развлечься &mdash; заблудиться в переулках базара или взять напрокат велосипед и начать исследовать.
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Рынок Манама
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de57b3af-e8c3-4973-bb5e-821fda74a981"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230219Z

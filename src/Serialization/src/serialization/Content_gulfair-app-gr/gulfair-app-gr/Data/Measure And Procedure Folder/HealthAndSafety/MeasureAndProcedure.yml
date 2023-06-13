@@ -1,0 +1,229 @@
+﻿---
+ID: "8a4f6383-bcb1-4d22-987f-69b1bfc258e6"
+Parent: "51954012-64e1-433f-9dcf-2eb303c46e90"
+Template: "354ca8cf-2854-4741-929a-18287eb2bbb2"
+Path: "/sitecore/content/gulfair-app-gr/Data/Measure And Procedure Folder/HealthAndSafety/MeasureAndProcedure"
+SharedFields:
+- ID: "2dbb4ca8-0878-4c0e-be86-b6bede38569d"
+  Hint: VideoURL
+  Value: "https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/26895cc0d4ad42f0912afe945a4a1ed3?v=4c2a704f"
+- ID: "f4a664ef-4e89-408b-83e3-405abfe61283"
+  Hint: Image
+  Value: |
+    <image width="550" height="295" alt="pre-flight-check-list.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/f4cfda4cee7f4559b104082bcec3a5a4?v=505b922a" stylelabs-content-id="35004" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/35004/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "079abf47-aa45-4d70-9b1e-d049231ceaa6"
+      Hint: PopUpSubTitle
+      Value: Video
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T154535Z
+    - ID: "3fe8629f-397e-4929-8430-6b763fbd8b50"
+      Hint: PopUpTitle
+      Value: Measures and Procedures
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "539d0065-ebfb-4882-b552-f61274ead12a"
+      Hint: Title
+      Value: Measures and Procedures
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "6e3bb3f3-f65f-4911-aa46-2cbc6eadb8a8"
+      Hint: SubText
+      Value: <p>Vitae hac adipiscing nulla eget molestie consequat hac faucibus mi magnis in eget at euismod maecenas pellentesque ornare nisi sed.</p><ul><li>Lorem ipsum dolor sit amet, consectetur</li><li>Adipiscing elit vel ac congue sagittis in tempus</li><li>A placerat nisl imperdiet. Scelerisque mus viverra nec sed urna magna donec pharetra pellentesque</li><li>Morbi id sagittis cras posuere amet feugiat nunc ultricies quis</li><li>Quis mattis a, dictumst sapien nulla</li></ul>
+    - ID: "83908e23-beeb-4309-915b-64cee48842a2"
+      Hint: Description
+      Value: <span>Urna vulputate mauris pellentesque aliquam.</span>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1320a697-bc70-4372-a575-c455133ee329"
+    - ID: "a46cd692-cc22-478d-b108-1c9c203d3094"
+      Hint: Heading
+      Value: International Guidelines
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233818Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "079abf47-aa45-4d70-9b1e-d049231ceaa6"
+      Hint: PopUpSubTitle
+      Value: Video
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T154535Z
+    - ID: "3fe8629f-397e-4929-8430-6b763fbd8b50"
+      Hint: PopUpTitle
+      Value: Measures and Procedures
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "539d0065-ebfb-4882-b552-f61274ead12a"
+      Hint: Title
+      Value: Measures and Procedures
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "6e3bb3f3-f65f-4911-aa46-2cbc6eadb8a8"
+      Hint: SubText
+      Value: <p>Vitae hac adipiscing nulla eget molestie consequat hac faucibus mi magnis in eget at euismod maecenas pellentesque ornare nisi sed.</p><ul><li>Lorem ipsum dolor sit amet, consectetur</li><li>Adipiscing elit vel ac congue sagittis in tempus</li><li>A placerat nisl imperdiet. Scelerisque mus viverra nec sed urna magna donec pharetra pellentesque</li><li>Morbi id sagittis cras posuere amet feugiat nunc ultricies quis</li><li>Quis mattis a, dictumst sapien nulla</li></ul>
+    - ID: "83908e23-beeb-4309-915b-64cee48842a2"
+      Hint: Description
+      Value: <span>Urna vulputate mauris pellentesque aliquam.</span>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "021868d0-3a9d-4b45-9410-3b8e6916e1d4"
+    - ID: "a46cd692-cc22-478d-b108-1c9c203d3094"
+      Hint: Heading
+      Value: International Guidelines
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233818Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "079abf47-aa45-4d70-9b1e-d049231ceaa6"
+      Hint: PopUpSubTitle
+      Value: Video
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T154535Z
+    - ID: "3fe8629f-397e-4929-8430-6b763fbd8b50"
+      Hint: PopUpTitle
+      Value: Measures and Procedures
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "539d0065-ebfb-4882-b552-f61274ead12a"
+      Hint: Title
+      Value: Measures and Procedures
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "6e3bb3f3-f65f-4911-aa46-2cbc6eadb8a8"
+      Hint: SubText
+      Value: <p>Vitae hac adipiscing nulla eget molestie consequat hac faucibus mi magnis in eget at euismod maecenas pellentesque ornare nisi sed.</p><ul><li>Lorem ipsum dolor sit amet, consectetur</li><li>Adipiscing elit vel ac congue sagittis in tempus</li><li>A placerat nisl imperdiet. Scelerisque mus viverra nec sed urna magna donec pharetra pellentesque</li><li>Morbi id sagittis cras posuere amet feugiat nunc ultricies quis</li><li>Quis mattis a, dictumst sapien nulla</li></ul>
+    - ID: "83908e23-beeb-4309-915b-64cee48842a2"
+      Hint: Description
+      Value: <span>Urna vulputate mauris pellentesque aliquam.</span>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d7d0261-08ff-472c-90b8-68355bcf6005"
+    - ID: "a46cd692-cc22-478d-b108-1c9c203d3094"
+      Hint: Heading
+      Value: International Guidelines
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233818Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "079abf47-aa45-4d70-9b1e-d049231ceaa6"
+      Hint: PopUpSubTitle
+      Value: Video
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T154535Z
+    - ID: "3fe8629f-397e-4929-8430-6b763fbd8b50"
+      Hint: PopUpTitle
+      Value: Measures and Procedures
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "539d0065-ebfb-4882-b552-f61274ead12a"
+      Hint: Title
+      Value: Measures and Procedures
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "6e3bb3f3-f65f-4911-aa46-2cbc6eadb8a8"
+      Hint: SubText
+      Value: <p>Vitae hac adipiscing nulla eget molestie consequat hac faucibus mi magnis in eget at euismod maecenas pellentesque ornare nisi sed.</p><ul><li>Lorem ipsum dolor sit amet, consectetur</li><li>Adipiscing elit vel ac congue sagittis in tempus</li><li>A placerat nisl imperdiet. Scelerisque mus viverra nec sed urna magna donec pharetra pellentesque</li><li>Morbi id sagittis cras posuere amet feugiat nunc ultricies quis</li><li>Quis mattis a, dictumst sapien nulla</li></ul>
+    - ID: "83908e23-beeb-4309-915b-64cee48842a2"
+      Hint: Description
+      Value: <span>Urna vulputate mauris pellentesque aliquam.</span>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d053923-405b-411e-bb1e-294ebfec7be6"
+    - ID: "a46cd692-cc22-478d-b108-1c9c203d3094"
+      Hint: Heading
+      Value: International Guidelines
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233818Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "079abf47-aa45-4d70-9b1e-d049231ceaa6"
+      Hint: PopUpSubTitle
+      Value: Video
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T154535Z
+    - ID: "3fe8629f-397e-4929-8430-6b763fbd8b50"
+      Hint: PopUpTitle
+      Value: Measures and Procedures
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "539d0065-ebfb-4882-b552-f61274ead12a"
+      Hint: Title
+      Value: Measures and Procedures
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "6e3bb3f3-f65f-4911-aa46-2cbc6eadb8a8"
+      Hint: SubText
+      Value: <p>Vitae hac adipiscing nulla eget molestie consequat hac faucibus mi magnis in eget at euismod maecenas pellentesque ornare nisi sed.</p><ul><li>Lorem ipsum dolor sit amet, consectetur</li><li>Adipiscing elit vel ac congue sagittis in tempus</li><li>A placerat nisl imperdiet. Scelerisque mus viverra nec sed urna magna donec pharetra pellentesque</li><li>Morbi id sagittis cras posuere amet feugiat nunc ultricies quis</li><li>Quis mattis a, dictumst sapien nulla</li></ul>
+    - ID: "83908e23-beeb-4309-915b-64cee48842a2"
+      Hint: Description
+      Value: <span>Urna vulputate mauris pellentesque aliquam.</span>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17f5d79a-308b-48f6-bc7e-e94c64a85968"
+    - ID: "a46cd692-cc22-478d-b108-1c9c203d3094"
+      Hint: Heading
+      Value: International Guidelines
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233818Z

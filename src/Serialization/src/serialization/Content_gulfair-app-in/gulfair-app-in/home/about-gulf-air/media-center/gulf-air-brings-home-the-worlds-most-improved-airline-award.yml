@@ -1,0 +1,108 @@
+﻿---
+ID: "1e6e65ae-6fae-479a-9cd6-f37298205e9c"
+Parent: "f2f14911-06be-4af4-81ba-212b7a10a1bd"
+Template: "8770006f-f915-4e1f-8e7d-b40071252955"
+Path: "/sitecore/content/gulfair-app-in/home/about-gulf-air/media-center/gulf-air-brings-home-the-worlds-most-improved-airline-award"
+SharedFields:
+- ID: "20959342-e658-408d-b70f-f4cbdb7f7c01"
+  Hint: Month
+  Value: "{DB760AC5-18D7-4107-8C4A-23F7028FFEA8}"
+- ID: "3fadd799-f505-4f45-8130-bebd2faaf7fa"
+  Hint: Year
+  Value: "{916E6FA8-0C82-4A8A-BEF4-5CD354099956}"
+- ID: "6a328d2d-1bf1-455f-b098-af5445640bd2"
+  Hint: PostDate
+  Value: 20220923T000000Z
+- ID: "9053e908-a34a-4953-b417-ce752f7c57a3"
+  Hint: Type
+  Value: "{3D82CD7F-51B5-4045-A83F-9EF33CF9E2FD}"
+- ID: "931607e8-d50d-406d-9dcc-cf37c447e7eb"
+  Hint: Image
+  Value: |
+    <image width="1606" height="1007" alt="Gulf Air Brings Home the World’s Most Improved Airline Award.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/d15ca8a6e1d044efbc752a2c37efe89e?v=4818dab9" stylelabs-content-id="45796" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/45796/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+- ID: "d26a428b-8f37-4ae7-bd6c-1126664c4031"
+  Hint: AvailableLanguages
+  Value: "{AE2B1160-AEC8-400B-92BF-E4F2378F29C8}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{9272589F-FADA-4470-8E11-CB54DE028246}"
+          p:after="r[@uid='{78BCE695-62F3-465D-9ACF-B6E971121264}']"
+          s:ds="{74BC24B3-4A81-4880-905F-1987F4FB3976}"
+          s:id="{2FAE24EB-118B-467A-A793-A565ECF56816}"
+          s:par=""
+          s:ph="jss-inner-banner"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{F1899BC2-7ADD-4AA1-938F-E73FECC1C818}"
+          p:after="*[1=2]"
+          s:ds="{AF836860-16F2-4492-A8A2-8E0539A9A39D}"
+          s:id="{B92E6411-5337-4FA7-B591-B233C1E52B91}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="/jss-header/jss-ga-header-bookingpanel-{78bce695-62f3-465d-9acf-b6e971121264}-0"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230411T110626Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Gulf Air Brings Home the World’s Most Improved Airline Award
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "6799c71e-c57a-4b81-bc2e-1a7e97da57e6"
+      Hint: Description
+      Value: Gulf Air, the national carrier of the Kingdom of Bahrain, announced today the airline was named the winner of the World’s Most Improved Airline at the Skytrax World Airline Awards 2022; held earlier today at the Langham Hotel, London.
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Gulf Air Brings Home the World’s Most Improved Airline Award
+    - ID: "87cdf5b8-f9d7-40e5-9efc-83c4535d084c"
+      Hint: Heading
+      Value: Gulf Air Brings Home the World’s Most Improved Airline Award
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "879dc76d-da89-489c-b81b-e1b0fbfe7992"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Gulf Air Brings Home the World’s Most Improved Airline Award
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Gulf Air Brings Home the World’s Most Improved Airline Award
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234039Z
+    - ID: "ffa6b30f-6ecc-4c36-8242-9faf7cab6704"
+      Hint: DetailDescription
+      Value: |
+        <p>Gulf Air, the national carrier of the Kingdom of Bahrain, announced today the airline was named the winner of the World&rsquo;s Most Improved Airline at the Skytrax World Airline Awards 2022; held earlier today at the Langham Hotel, London. The award comes as a testament to Gulf Air&rsquo;s strategy success which the airline revealed in 2018, which aims at being more customer-centric and becoming the airline of choice in the region.&nbsp;</p>
+        <p>His Excellency Mr. Zayed R. Alzayani, Minister of Industry and Commerce, and Chairman of Gulf Air&rsquo;s Board of Directors commented &ldquo;We are so proud and grateful for the success of our strategy, evident by winning this prestigious award. This was made possible due to the commitment, determination and passion of Gulf Air's workforce and management team who are relentlessly working towards the airline's future, which is one of the main tributaries of the Bahraini economy and one of its assets for transport and tourism; and I thank and congratulate them all for achieving this goal&rdquo;.&nbsp;</p>
+        <p>The World&rsquo;s Most Improved Airline is a key award that reflects an airline&rsquo;s quality improvement across the entire World Airline Awards programme, evaluating an airline&rsquo;s change in the global rating, and their performance improvements in different award categories.&nbsp;</p>
+        <p>For his part, Captain Waleed AlAlawi, Gulf Air Acting Chief Executive Officer said &ldquo;The new look and feel for Gulf Air, alongside its new fleet, new network, and new products and services are all improvements that represent the Gulf Air of tomorrow. We eagerly look forward to all the achievements the future has in store for us, and this delightful Skytrax award we won today proves we are on the right path to those achievements&rdquo;.&nbsp;</p>
+        <p>The World Airline Awards began in 1999, when Skytrax launched its first global, annual airline customer satisfaction survey. Over 100 customer nationalities participated in the 2021-2022 survey, and travellers across the globe take part each year in the world&rsquo;s largest airline passenger satisfaction survey to decide the winners.</p>

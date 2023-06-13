@@ -1,0 +1,532 @@
+﻿---
+ID: "5868786e-8f46-48f1-a710-e3bdc3482ea3"
+Parent: "a9fb19cf-84c5-4af0-ae79-4824e269c3d4"
+Template: "736ac33e-e829-4dd1-9cc1-665d00630c3e"
+Path: "/sitecore/content/Global/Global Plane Specs Slider Folder/Plane Specs Slider Parent/Boeing 787-9 Dreamliner"
+SharedFields:
+- ID: "0222c215-f05a-4cdb-8ab7-c6e792b30668"
+  Hint: CTABannerImageMobile
+  Value: |
+    <image width="340" height="215" alt="Falcon Gold banner 787" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/6a9e528f35c34776a46205dbd0a595f1?v=f3f8d88f" stylelabs-content-id="49058" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/49058/thumbnail" />
+- ID: "828fe380-0548-4b9f-be2f-a44edec31d4a"
+  Hint: AirPlaneImageMobile
+  Value: |
+    <image width="932" height="288" alt="787-9" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/a418963deb9b4e4e9b5ce1cc50124db9?v=44d60d9d" stylelabs-content-id="48352" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48352/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "b0ff799c-58b1-45fa-be79-11f44b0c5a87"
+  Hint: AirPlaneImage
+  Value: |
+    <image width="932" height="288" alt="787-9" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/a418963deb9b4e4e9b5ce1cc50124db9?v=7986af33" stylelabs-content-id="48352" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48352/thumbnail" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "db0060d8-9160-4037-a332-c952b272e647"
+  Hint: CTABannerImage
+  Value: |
+    <image width="1921" height="751" alt="Falcon Gold banner 787" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/fe7a772924a54e879fbe5713d353b8f2?v=82469816" stylelabs-content-id="49058" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/49058/thumbnail" />
+- ID: "f21e85fb-68be-464c-a9d3-bb2b36984424"
+  Hint: SeatingImage
+  Value: |
+    <image width="1700" height="363" alt="OurFleet_b787.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/b5e14beb2d1b4f54ba7346fff58fe377?v=be790686" stylelabs-content-id="49029" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/49029/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: مقصورة الصقر الذهبي
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: تجربة المقصورة
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>عدد المقاعد</strong></p>
+        <ul>
+            <li>26</li>
+        </ul>
+        <p><strong>مساحة المقعد</strong></p>
+        <ul>
+            <li>80-90&rdquo;</li>
+        </ul>
+        <p><strong>الميزات والخدمات</strong></p>
+        <ul>
+            <li>منفذان (2) USB ومصدر تيار كهربائي في المقعد</li>
+            <li>خزانات إضافية ومساحة للمتعلقات الشخصية</li>
+            <li>مقعد سرير مسطح</li>
+            <li>شاشة ترفيه مقاس 22 بوصة مع جهاز تحكم بشاشة لمس</li>
+            <li>شاشة خصوصية</li>
+            <li>واي فاي</li>
+            <li>خدمة ترتيب وتجهيز المقعد للرحلات الطويلة (عند الطلب)</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: مقصورة الدرجة الاقتصادية
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>عدد المقاعد</strong></p>
+        <ul>
+            <li>256</li>
+        </ul>
+        <p><strong>مساحة المقعد</strong></p>
+        <ul>
+            <li>32&rdquo;</li>
+        </ul>
+        <p><strong>الميزات والخدمات</strong></p>
+        <ul>
+            <li>منافذ USB ومصدر تيار كهربائي في المقعد</li>
+            <li>شاشة ترفيه مقاس 11.6 بوصة مع جهاز تحكم بشاشة لمس</li>
+            <li>واي فاي</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>بوينج 9-787 دريملاينر</h4>
+        <p>طائرة على أحدث طراز تتميز بتكنولوجيا متقدمة وتحسين كفاءة الوقود. مع سعة جلوس تصل إلى 280 راكبًا، فإنها توفر تجربة طيران مريحة وممتعة. وهي مجهزة بأحدث أنظمة الترفيه على متن الطائرة ووسائل الراحة الحديثة. توفر الديناميكا الهوائية المتقدمة لـ دريم لاينر أيضًا رحلة أكثر سلاسة وهدوءًا. إنها طائرة موثوقة وفعالة تفخر طيران الخليج بتشغيلها.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0be11c0a-c6a2-4c97-9145-d691bec043fc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: "بوينج 9-787 دريملاينر"
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="تفاصيل  اكثر" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230215Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: Falcon Gold Cabin
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Kabinenerfahrung
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>Anzahl Sitzpl&auml;tze</strong></p>
+        <ul>
+            <li>26</li>
+        </ul>
+        <p><strong>Sitzplatz</strong></p>
+        <ul>
+            <li>80-90&rdquo;</li>
+        </ul>
+        <p><strong>Funktionen und Dienste</strong></p>
+        <ul>
+            <li>Zus&auml;tzliche Ablagef&auml;cher und Platz f&uuml;r Ihre pers&ouml;nlichen Gegenst&auml;nde</li>
+            <li>Flachbettsitze</li>
+            <li>22-Zoll-Unterhaltungsbildschirm mit Touchscreen-Controller</li>
+            <li>Sichtblende</li>
+            <li>Wi-Fi</li>
+            <li>Wohlf&uuml;hlservice f&uuml;r &Uuml;bernachtfl&uuml;ge (auf Anfrage)</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: Wirtschaftskabine
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>Anzahl Sitzpl&auml;tze</strong></p>
+        <ul>
+            <li>256</li>
+        </ul>
+        <p><strong>Sitzplatz</strong></p>
+        <ul>
+            <li>32&rdquo;</li>
+        </ul>
+        <p><strong>Funktionen und Dienste</strong></p>
+        <ul>
+            <li>USB-Anschl&uuml;sse und Stromversorgung am Platz</li>
+            <li>1,6-Zoll-Unterhaltungsbildschirm mit Touchscreen-Controller</li>
+            <li>WiFi</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>Boeing 787-9 Dreamliner</h4>
+        <p>Ein hochmodernes Flugzeug mit fortschrittlicher Technologie und verbesserter Kraftstoffeffizienz. Mit einer Sitzkapazit&auml;t von bis zu 280 Passagieren bietet es ein komfortables und angenehmes Flugerlebnis. Es ist mit den neuesten Unterhaltungssystemen und modernen Annehmlichkeiten im Flug ausgestattet. Die fortgeschrittene Aerodynamik des Dreamliner bietet auch eine glattere und ruhigere Fahrt. Es ist ein zuverl&auml;ssiges und effizientes Flugzeug, auf das Gulf Air stolz darauf ist.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5def9b24-0a01-4943-9bb3-fc3c84e76798"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: "Boeing 787-9 Dreamline"
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="Erfahren Sie mehr" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230215Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: Falcon Gold Cabin
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Cabin experience
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>Number of Seats</strong></p>
+        <ul>
+            <li>26</li>
+        </ul>
+        <p><strong>Seat Pitch</strong></p>
+        <ul>
+            <li>80-90”</li>
+        </ul>
+        <p><strong>Features &amp; Services</strong></p>
+        <ul>
+            <li>2 USB ports and in-seat power supply</li>
+            <li>Additional storage compartments and space for your personal belongings</li>
+            <li>Flatbed seat</li>
+            <li>22” entertainment screen with a touchscreen controller </li>
+            <li>Privacy screen</li>
+            <li>Wi-Fi</li>
+            <li>Turn-down services for overnight flights (upon request)</li>
+        </ul>
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: Economy Cabin
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>Number of Seats</strong></p>
+        <ul>
+            <li>256</li>
+        </ul>
+        <p><strong>Seat Pitch</strong></p>
+        <ul>
+            <li>32&rdquo;</li>
+        </ul>
+        <p><strong>Features &amp; Services</strong></p>
+        <ul>
+            <li>2 USB ports and in-seat power supply</li>
+            <li>11.6” entertainment screen with a touchscreen controller </li>
+            <li>Wi-Fi</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>Boeing 787-9 Dreamliner</h4>
+        <p>A state-of-the-art aircraft featuring advanced technology and improved fuel efficiency. With a seating capacity of up to 280 passengers, it offers a comfortable and enjoyable flying experience. It is equipped with the latest in-flight entertainment systems and modern amenities. The Dreamliner's advanced aerodynamics also provide a smoother and quieter ride. It is a reliable and efficient aircraft that Gulf Air is proud to operate.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8296511b-890f-4db8-a788-f7cc7d7a2a6e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazi
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: "Boeing 787-9 Dreamline"
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="Learn more" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230605T143218Z
+  - Version: 2
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: Falcon Gold Cabin
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Cabin experience
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230605T174436Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>Number of Seats</strong></p>
+        <ul>
+            <li>26</li>
+        </ul>
+        <p><strong>Seat Pitch</strong></p>
+        <ul>
+            <li>80-90”</li>
+        </ul>
+        <p><strong>Features &amp; Services</strong></p>
+        <ul>
+            <li>2 USB ports and in-seat power supply</li>
+            <li>Additional storage compartments and space for your personal belongings</li>
+            <li>Flatbed seat</li>
+            <li>22” entertainment screen with a touchscreen controller </li>
+            <li>Privacy screen</li>
+            <li>Wi-Fi</li>
+            <li>Turn-down services for overnight flights (upon request)</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ghazi
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ghazi
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: Economy Cabin
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>Number of Seats</strong></p>
+        <ul>
+            <li>256</li>
+        </ul>
+        <p><strong>Seat Pitch</strong></p>
+        <ul>
+            <li>32&rdquo;</li>
+        </ul>
+        <p><strong>Features &amp; Services</strong></p>
+        <ul>
+            <li>2 USB ports and in-seat power supply</li>
+            <li>11.6” entertainment screen with a touchscreen controller </li>
+            <li>Wi-Fi</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>Boeing 787-9 Dreamliner</h4>
+        <p>A state-of-the-art aircraft featuring advanced technology and improved fuel efficiency. With a seating capacity of up to 280 passengers, it offers a comfortable and enjoyable flying experience. It is equipped with the latest in-flight entertainment systems and modern amenities. The Dreamliner's advanced aerodynamics also provide a smoother and quieter ride. It is a reliable and efficient aircraft that Gulf Air is proud to operate.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "84859afd-489e-4aa2-9a5d-559c84c5ed01"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: "Boeing 787-9 Dreamline"
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="Learn more" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230605T174436Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230215Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: Cabine en or Falcon
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Expérience de cabine
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>Nombre de places</strong></p>
+        <ul>
+            <li>26</li>
+        </ul>
+        <p><strong>Tangage de si&egrave;ge</strong></p>
+        <ul>
+            <li>80-90&rdquo;</li>
+        </ul>
+        <p><strong>Fonctionnalit&eacute;s et services</strong></p>
+        <ul>
+            <li>2 ports USB et prise &eacute;lectrique int&eacute;gr&eacute;e au si&egrave;ge</li>
+            <li>Compartiments de rangement suppl&eacute;mentaires et espace pour vos effets personnels</li>
+            <li>Si&egrave;ge-lit inclinable</li>
+            <li>&Eacute;cran de divertissement de 22" avec commande tactile</li>
+            <li>Paravent</li>
+            <li>Wi-Fi</li>
+            <li>Service de pr&eacute;paration pour la nuit pour des vols de nuit (sur demande)</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: Cabine économique
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>Nombre de places</strong></p>
+        <ul>
+            <li>256</li>
+        </ul>
+        <p><strong>Tangage de si&egrave;ge</strong></p>
+        <ul>
+            <li>32&rdquo;</li>
+        </ul>
+        <p><strong>Fonctionnalit&eacute;s et services</strong></p>
+        <ul>
+            <li>Ports USB et prise &eacute;lectrique int&eacute;gr&eacute;e au si&egrave;ge</li>
+            <li>&Eacute;cran de divertissement de 11,6" avec commande tactile</li>
+            <li>WiFi</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>Boeing 787-9 Dreamliner</h4>
+        <p>Un avion de pointe avec une technologie de pointe et une am&eacute;lioration de l'efficacit&eacute; &eacute;nerg&eacute;tique. Avec une capacit&eacute; de si&egrave;ges allant jusqu'&agrave; 280 passagers, il offre une exp&eacute;rience de vol confortable et agr&eacute;able. Il est &eacute;quip&eacute; des derniers syst&egrave;mes de divertissement en vol et des &eacute;quipements modernes. L'a&eacute;rodynamique avanc&eacute;e du Dreamliner offre &eacute;galement une conduite plus fluide et plus silencieuse. C'est un avion fiable et efficace que Gulf Air est fier de fonctionner.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4c8852c-6f34-4c11-ba12-bab35c6c773a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: "Boeing 787-9 Dreamline"
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="Apprendre encore plus" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230215Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: Сокол Золотой Хижина
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Опыт кабины
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>Количество мест</strong></p>
+        <ul>
+            <li>26</li>
+        </ul>
+        <p><strong>Сиденья</strong></p>
+        <ul>
+            <li>80-90&rdquo;</li>
+        </ul>
+        <p><strong>Функции и услуги</strong></p>
+        <ul>
+            <li>2 порта USB и блок питания в сиденье</li>
+            <li>Дополнительные отделения для хранения вещей и место для личных вещей</li>
+            <li>Горизонтальное сиденье с плоской кроватью</li>
+            <li>22-дюймовый экран для развлечений с сенсорным контроллером</li>
+            <li>Экран конфиденциальности</li>
+            <li>WiFi</li>
+            <li>Подготовка постели ко сну для ночных рейсов (по запросу)</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: Экономическая каюта
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>Количество мест</strong></p>
+        <ul>
+            <li>256</li>
+        </ul>
+        <p><strong>Сиденья</strong></p>
+        <ul>
+            <li>32&rdquo;</li>
+        </ul>
+        <p><strong>Функции и услуги</strong></p>
+        <ul>
+            <li>USB-порты и блок питания в сиденье</li>
+            <li>11,6-дюймовый экран для развлечений с сенсорным контроллером</li>
+            <li>WiFi</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>Boeing 787-9 Dreamliner</h4>
+        <p>Современный самолет с передовыми технологиями и повышенной эффективностью топлива. Благодаря вместимости до 280 пассажиров, он предлагает удобный и приятный опыт полета. Он оснащен новейшими развлекательными системами в полете и современными удобствами. Расширенная аэродинамика Dreamliner также обеспечивает более плавную и более спокойную поездку. Это надежный и эффективный самолет, которым Gulf Air с гордостью работает.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "34951852-30e3-4220-8bf6-d8739fb320fe"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: "Boeing 787-9 Dreamline"
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="Узнать больше" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230215Z

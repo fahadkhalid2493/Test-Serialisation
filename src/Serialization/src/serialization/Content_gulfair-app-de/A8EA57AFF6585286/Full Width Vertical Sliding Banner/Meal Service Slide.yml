@@ -1,0 +1,251 @@
+﻿---
+ID: "40760576-4033-4bc5-ae8f-40c9185839d4"
+Parent: "20a3de7c-4bb3-4a4b-b527-54e3545ac96e"
+Template: "507baf32-190f-450d-9627-7a6a794f92a8"
+Path: "/sitecore/content/gulfair-app-de/Data/Full Width Vertical Sliding Banner Folder/Bahrain Faclon Gold lounge/Full Width Vertical Sliding Banner/Meal Service Slide"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "7aa59fac-b607-43af-b92d-827bfd45a873"
+  Hint: Image
+  Value: |
+    <image width="1100" height="717" alt="FalconGoldLoungeMealService.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/8b6d18daa4e4485990a454e04111ecc6?v=877f1e72" stylelabs-content-id="37823" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/37823/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "b92f071d-1def-46b6-a749-46efddbd6693"
+  Hint: CTAColor
+  Value: "{8B58979B-FF89-4F09-9AF3-6A860E012049}"
+- ID: "f768fd8c-ee29-421c-8929-b5c21ac10c7b"
+  Hint: CTAType
+  Value: "{9E29A28B-7ED9-41A5-BE7D-66A986A44CC3}"
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Meal Service Slide
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T113028Z
+    - ID: "2f4a53a2-4df2-4f20-a5a2-4967d5fc9a7f"
+      Hint: CTA
+      Value: |
+        <link text="Take a tour" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "508e79bd-da47-42f8-88df-5c2fada7e89a"
+      Hint: SubHeading
+      Value: Live cooking stations
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "292cb52e-f3e1-4791-abcd-ebce37c4c388"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c907c8ed-adf8-4873-8262-7cf11a77eb28"
+      Hint: Heading
+      Value: A feast for your senses
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232832Z
+    - ID: "e0b85415-9681-4d90-8692-63450f443586"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque.</p>
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Meal Service Slide
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T113028Z
+    - ID: "2f4a53a2-4df2-4f20-a5a2-4967d5fc9a7f"
+      Hint: CTA
+      Value: |
+        <link text="Take a tour" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "508e79bd-da47-42f8-88df-5c2fada7e89a"
+      Hint: SubHeading
+      Value: Live cooking stations
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "98e64e37-141f-45dd-8689-bd11d0e12694"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c907c8ed-adf8-4873-8262-7cf11a77eb28"
+      Hint: Heading
+      Value: A feast for your senses
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232831Z
+    - ID: "e0b85415-9681-4d90-8692-63450f443586"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque.</p>
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Meal Service Slide
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T113028Z
+    - ID: "2f4a53a2-4df2-4f20-a5a2-4967d5fc9a7f"
+      Hint: CTA
+      Value: |
+        <link text="Take a tour" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "508e79bd-da47-42f8-88df-5c2fada7e89a"
+      Hint: SubHeading
+      Value: Live cooking stations
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5b005cbf-63bc-41dc-89be-f99685b22cc3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c907c8ed-adf8-4873-8262-7cf11a77eb28"
+      Hint: Heading
+      Value: A feast for your senses
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232831Z
+    - ID: "e0b85415-9681-4d90-8692-63450f443586"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque.</p>
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Meal Service Slide
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T113028Z
+    - ID: "2f4a53a2-4df2-4f20-a5a2-4967d5fc9a7f"
+      Hint: CTA
+      Value: |
+        <link text="Take a tour" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "508e79bd-da47-42f8-88df-5c2fada7e89a"
+      Hint: SubHeading
+      Value: Live cooking stations
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "22386299-89ea-4995-9bbf-f824096c726e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c907c8ed-adf8-4873-8262-7cf11a77eb28"
+      Hint: Heading
+      Value: A feast for your senses
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232832Z
+    - ID: "e0b85415-9681-4d90-8692-63450f443586"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque.</p>
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Meal Service Slide
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T113028Z
+    - ID: "2f4a53a2-4df2-4f20-a5a2-4967d5fc9a7f"
+      Hint: CTA
+      Value: |
+        <link text="Take a tour" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "508e79bd-da47-42f8-88df-5c2fada7e89a"
+      Hint: SubHeading
+      Value: Live cooking stations
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "91c4e9c9-214d-43aa-ba95-7d9e703aafc3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c907c8ed-adf8-4873-8262-7cf11a77eb28"
+      Hint: Heading
+      Value: A feast for your senses
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232832Z
+    - ID: "e0b85415-9681-4d90-8692-63450f443586"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque.</p>

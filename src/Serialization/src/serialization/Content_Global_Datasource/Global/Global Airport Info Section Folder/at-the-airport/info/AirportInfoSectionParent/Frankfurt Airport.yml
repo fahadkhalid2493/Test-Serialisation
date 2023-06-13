@@ -1,0 +1,416 @@
+﻿---
+ID: "d570bb43-5ab4-4ddd-9bab-705614aa13b9"
+Parent: "6de181f3-d153-4376-a7ea-63977f9985da"
+Template: "64fec9d9-d83e-40e2-81c8-bd6e6a654eb3"
+Path: "/sitecore/content/Global/Global Airport Info Section Folder/at-the-airport/info/AirportInfoSectionParent/Frankfurt Airport"
+SharedFields:
+- ID: "2ed07a2d-5ec4-4469-85bc-49746a7724cd"
+  Hint: Airport
+  Value: "{876EA33D-4953-46CC-B912-5F86270CF83E}"
+- ID: "3c09129a-e8b8-40d8-b82e-0392a2328f2a"
+  Hint: WebCheckin
+  Value: "{584449BA-3F3E-48A3-AFAA-00B0A5392C90}"
+- ID: "684f084f-cee6-461d-a4c9-e63c99a54d24"
+  Hint: CheckinTimeColor
+  Value: "{7C4FD76D-3B0F-42EA-A617-03C670A8A379}"
+- ID: "7d5ad0bc-c0a0-43ea-aa8a-c1146d311fc6"
+  Hint: CheckinCountersColor
+  Value: "{7C4FD76D-3B0F-42EA-A617-03C670A8A379}"
+- ID: "95b1e77c-f04a-4f75-bd0e-6beff504cda7"
+  Hint: WebCheckinColor
+  Value: "{3F16AFC2-00E8-4FFD-A242-49354F84EF7B}"
+- ID: "974f1505-990f-4931-91b1-9c7b708c5fc1"
+  Hint: PremiumCheckinServiceColor
+  Value: "{3F16AFC2-00E8-4FFD-A242-49354F84EF7B}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "df4dd1f7-ba31-4a06-bbf5-250f9a00dc23"
+  Hint: MapCTAColor
+  Value: "{8B58979B-FF89-4F09-9AF3-6A860E012049}"
+- ID: "f0d82689-dd4b-419e-8cbb-a57b16349fa3"
+  Hint: BeforeYouFlyCTAColor
+  Value: "{8B58979B-FF89-4F09-9AF3-6A860E012049}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="إعرض الخريطة" linktype="external" url="https://goo.gl/maps/Emh7oWysfJCBWGhy7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>
+        المميزة: <strong>D ، 897-899</strong><br />
+        الدرجة السياحية: <strong>D ، 897-899</strong>
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T193359Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="زيارة الموقع" linktype="external" url="https://www.frankfurt-airport.com/en.html" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>الموقع</h3>
+        <p>يقع مطار فرانكفورت على بعد 12 كم (7.5 ميل) جنوب غرب وسط فرانكفورت ، بالقرب من تقاطع الأوتوبان&nbsp; فرانكفورتر كريوز</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "072c9417-e172-4e3f-8c95-f767a070f963"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>تفاصيل المحطة</h3>
+        <p>تعد المحطة 2 في مطار فرانكفورت  واحدة من أكثر المطارات تقدماً وكفاءة في أوروبا. لديها تصميم حديث ، مع مرافق ومرافق حديثة لتقديم تجربة سلسة وخالية من المتاعب لجميع المسافرين. تتكون المحطة من العديد من المتاجر والمقاهي ، مع مجموعة واسعة من المنتجات والخدمات للاختيار من بينها. تقدم المحطة أيضًا مجموعة متنوعة من الخدمات للمسافرين ، مثل تسجيل الوصول ، والتعامل مع الأمتعة ، والهجرة. بالإضافة إلى ذلك ، تجعل روابط النقل الفعالة من السهل على المسافرين التجول في المدينة واستكشاف مناطق الجذب المحلية. تقدم المحطة 2 في مطار فرانكفورت زوارها تجربة مريحة وممتعة بشكل لا يصدق وهي جزء أساسي من البنية التحتية للمدينة.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T093034Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>قبل السفر</h3>
+        <p><strong>معلومات مهمة للمسافرين</strong>
+        <br />
+        يجب الوصول إلى مطار فرانكفورت  الدولي قبل 3 ساعات على الأقل من رحلتك. تذكر حمل وثائق سفر صالحة والتحقق من متطلبات التأشيرة. تحقق عبر الإنترنت أو في مكتب المطار قبل رحلتك.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>
+        في أقرب وقت ممكن: قبل <strong>3 ساعات</strong> من وقت المغادرة المحدودة<br />
+        الأحدث: <strong>60 دقيقة</strong> قبل وقت المغادرة المحدودة
+        </p>
+  - Version: 2
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="إعرض الخريطة" linktype="external" url="https://goo.gl/maps/Emh7oWysfJCBWGhy7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>
+        المميزة: <strong>D ، 897-899</strong><br />
+        الدرجة السياحية: <strong>D ، 897-899</strong>
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T121703Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="زيارة الموقع" linktype="external" url="https://www.frankfurt-airport.com/en.html" anchor="" target="_blank" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\EmanBurwais
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>الموقع</h3>
+        <p>يقع مطار فرانكفورت على بعد 12 كم (7.5 ميل) جنوب غرب وسط فرانكفورت ، بالقرب من تقاطع الأوتوبان&nbsp; فرانكفورتر كريوز</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "860eb93b-7748-4fe2-ac91-d3b578f1a29c"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>تفاصيل المحطة</h3>
+        <p>تعد المحطة 2 في مطار فرانكفورت  واحدة من أكثر المطارات تقدماً وكفاءة في أوروبا. لديها تصميم حديث ، مع مرافق ومرافق حديثة لتقديم تجربة سلسة وخالية من المتاعب لجميع المسافرين. تتكون المحطة من العديد من المتاجر والمقاهي ، مع مجموعة واسعة من المنتجات والخدمات للاختيار من بينها. تقدم المحطة أيضًا مجموعة متنوعة من الخدمات للمسافرين ، مثل تسجيل الوصول ، والتعامل مع الأمتعة ، والهجرة. بالإضافة إلى ذلك ، تجعل روابط النقل الفعالة من السهل على المسافرين التجول في المدينة واستكشاف مناطق الجذب المحلية. تقدم المحطة 2 في مطار فرانكفورت زوارها تجربة مريحة وممتعة بشكل لا يصدق وهي جزء أساسي من البنية التحتية للمدينة.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\EmanBurwais
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230607T121703Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T121710Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>قبل السفر</h3>
+        <p><strong>معلومات مهمة للمسافرين</strong>
+        <br />
+        يجب الوصول إلى مطار فرانكفورت  الدولي قبل 3 ساعات على الأقل من رحلتك. تذكر حمل وثائق سفر صالحة والتحقق من متطلبات التأشيرة. تحقق عبر الإنترنت أو في مكتب المطار قبل رحلتك.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>
+        أقرب موعد لإتمام إجراءات السفر:&nbsp;قبل&nbsp;<strong>3&nbsp;ساعات</strong>&nbsp;من وقت المغادرة المحدد<br />
+        اقصى موعد لإتمام إجراءات السفر:&nbsp;<strong>60 دقيقة</strong>&nbsp;قبل وقت المغادرة المحدد&nbsp;&nbsp;</p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Ansichts Karte" linktype="external" url="https://goo.gl/maps/Emh7oWysfJCBWGhy7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>D, 897-899</strong><br />
+        Wirtschaft: <strong>D, 897-899</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230401T230459Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Besuche die Website" linktype="external" url="https://www.frankfurt-airport.com/en.html" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Ort</h3>
+        <p>Der Flughafen Frankfurt liegt 12 km s&uuml;dwestlich von Central Frankfurt in der N&auml;he der Autobahn -Kreuzung Frankfurter Kreuz</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79198eed-78ba-4aef-a3ac-e4f54fd58a28"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminaldetails</h3>
+        <p>Terminal 2 am Frankfurt Airport (FRA) ist einer der fortschrittlichsten und effizientesten Flughäfen in Europa. Es hat ein modernes Design mit hochmodernen Einrichtungen und Annehmlichkeiten, um allen Reisenden ein reibungsloses und problemloses Erlebnis zu bieten. Das Terminal besteht aus einer Vielzahl von Geschäften und Cafés mit einer großen Auswahl an Produkten und Dienstleistungen zur Auswahl. Das Terminal bietet auch eine Vielzahl von Dienstleistungen für Reisende wie ein Check-in, Gepäckabwicklung und Einwanderung an. Darüber hinaus erleichtern die effizienten Transportverbindungen den Reisenden, um die Stadt zu umgehen und die örtlichen Attraktionen zu erkunden. Terminal 2 am Frankfurt Airport bietet seinen Besuchern ein unglaublich komfortables und angenehmes Erlebnis und ist ein wesentlicher Bestandteil der Infrastruktur der Stadt.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T131116Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Bevor du fliegst</h3>
+        <p><strong>Wichtige Informationen f&uuml;r Passagiere</strong>
+        <br />
+        Kommen Sie mindestens 3 Stunden vor Ihrem Flug am Frankfurt Flughafen an. Denken Sie daran, g&uuml;ltige Reisedokumente zu f&uuml;hren und die Visumanforderungen zu &uuml;berpr&uuml;fen. Schauen Sie sich vor Ihrem Flug online oder am Flughafenschalter ein.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>früheste: <strong>3 Stunden</strong> vor geplanter Abreisezeit<br />
+        Letzte: <strong>60 Minuten</strong> vor geplanter Abreisezeit</p>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="View Map" linktype="external" url="https://goo.gl/maps/Emh7oWysfJCBWGhy7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>D, 897-899</strong><br />
+        Economy: <strong>D, 897-899</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T193359Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visit website" linktype="external" url="https://www.frankfurt-airport.com/en.html" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Location</h3>
+        <p>Frankfurt Airport lies 12 km (7.5 mi) southwest of central Frankfurt, near the Autobahn intersection Frankfurter Kreuz</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "33d0c328-7559-4295-8ecf-8968fff83fca"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminal Details</h3>
+        <p>Terminal 2 at Frankfurt Airport (FRA) is one of the most advanced and efficient airports in Europe. It has a modern design, with state-of-the-art facilities and amenities to offer a smooth and hassle-free experience for all its travellers. The terminal consists of a multitude of shops and cafes, with a wide selection of products and services to choose from. The terminal also offers a variety of services for travellers, such as check-in, baggage handling, and immigration. In addition, its efficient transport links make it easy for travellers to get around the city and explore the local attractions. Terminal 2 at Frankfurt Airport offers its visitors an incredibly comfortable and enjoyable experience and is an essential part of the city's infrastructure.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T134234Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Before you Fly</h3>
+        <p><strong>Important information for passengers</strong>
+        <br />
+        Arrive at Frankfurt Airport at least 3 hours before your flight. Remember to carry valid travel documents and check visa requirements. Check in online or at the airport counter before your flight.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>Earliest: <strong>3 Hours</strong>&nbsp;before scheduled time of departure<br />
+        Latest: <strong>60 Minutes</strong> before scheduled time of departure</p>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Voir la carte" linktype="external" url="https://goo.gl/maps/Emh7oWysfJCBWGhy7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>D, 897-899</strong><br />
+        Économie: <strong>D, 897-899</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230401T230216Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visitez le site Web" linktype="external" url="https://www.frankfurt-airport.com/en.html" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Emplacement</h3>
+        <p>L'a&eacute;roport de Francfort se trouve &agrave; 12 km (7,5 mi) au sud-ouest du centre de Francfort, pr&egrave;s de l'intersection Autobahn Frankfurter Kreuz</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c7d2259-3c55-4f77-b9dd-c064b5e23abe"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>D&eacute;tails du terminal</h3>
+        <p>Le terminal 2 de l'aéroport de Francfort (FRA) est l'un des aéroports les plus avancés et les plus efficaces d'Europe. Il a un design moderne, avec des installations et des équipements de pointe pour offrir une expérience fluide et sans tracas pour tous ses voyageurs. Le terminal se compose d'une multitude de magasins et de cafés, avec une large sélection de produits et services à choisir. Le terminal offre également une variété de services pour les voyageurs, tels que l'enregistrement, la manipulation des bagages et l'immigration. De plus, ses liens de transport efficaces permettent aux voyageurs de se déplacer facilement dans la ville et d'explorer les attractions locales. Terminal 2 de l'aéroport de Frankfurt offre à ses visiteurs une expérience incroyablement confortable et agréable et constitue une partie essentielle de l'infrastructure de la ville.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T124833Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Avant de voler</h3>
+        <p><strong>Informations importantes pour les passagers</strong>
+        <br />
+        Arrivez &agrave; Aéroport de Francfort au moins 3 heures avant votre vol. N'oubliez pas de transporter des documents de voyage valides et de v&eacute;rifier les exigences de visa. Enregistrez-vous en ligne ou au comptoir de l'a&eacute;roport avant votre vol.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>précoce: <strong>3 heures</strong> avant l'heure de départ prévue<br />
+        Dernier: <strong>60 minutes</strong> avant l'heure de départ prévue</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Посмотреть карту" linktype="external" url="https://goo.gl/maps/Emh7oWysfJCBWGhy7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>D, 897-899</strong><br />
+        Экономика: <strong>D, 897-899</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T172251Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Посетите вебсайт" linktype="external" url="https://www.frankfurt-airport.com/en.html" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Место нахождения</h3>
+        <p>Аэропорт Франкфурта находится в 12 км (7,5 миль) к юго -западу от Центрального Франкфурта, недалеко от перекрестка Autobahn Frankfurter Kreuz</p>
+        <div id="gtx-trans" style="position: absolute; left: -9px; top: 22.4062px;">
+        <div class="gtx-trans-icon">&nbsp;</div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc43f8b4-7d3f-4278-80cc-70d4321b9512"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Терминальные детали</h3>
+        <p>Терминал 2 в аэропорту Франкфурта (FRA) является одним из самых продвинутых и эффективных аэропортов в Европе. Он имеет современный дизайн, с самыми современными объектами и удобствами, чтобы предложить гладкий и беспрепятственный опыт для всех своих путешественников. Терминал состоит из множества магазинов и кафе, с широким выбором продуктов и услуг на выбор. Терминал также предлагает различные услуги для путешественников, таких как регистрация, обработка багажа и иммиграция. Кроме того, его эффективные транспортные ссылки позволяют путешественникам легко передвигаться по городу и исследовать местные достопримечательности. Терминал 2 в аэропорту Франкфурта предлагает своим посетителям невероятно удобный и приятный опыт и является неотъемлемой частью инфраструктуры города.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T132115Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Перед полетом</h3>
+        <p><strong>Важная информация для пассажиров</strong>
+        <br />
+        Приезжайте в Аэропорт Франкфурта по крайней мере за 3 часа до вашего рейса. Не забудьте вести действительные туристические документы и проверить требования визы. Зарегистрируйтесь в Интернете или на стойке аэропорта перед рейсом.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>течение раннего: <strong>за 3 часа</strong> до запланированного отъезда<br />
+        Последнее: <strong>за 60 минут</strong> до запланированного времени отъезда</p>

@@ -1,0 +1,42 @@
+﻿---
+ID: "12bdb4ed-066e-4800-9056-6803305dc4fe"
+Parent: "bf609f7c-8e69-40e1-aad3-f860b94d9490"
+Template: "c5d4c2c1-7cbe-4529-baca-f738e4cb4ba4"
+Path: /sitecore/content/Global Configuration/View Offer API End Points
+SharedFields:
+- ID: "368f91d3-4665-4378-b490-5e32d1796139"
+  Hint: GenerateTokenAPIEndPoint
+  Value: /falcon/b2c/api/v2/token/get
+- ID: "44f38d76-fa47-4078-9f0f-1c03999302b9"
+  Hint: GetFlightsAPIEndPoint
+  Value: /falcon/b2c/api/v2/flights/calendar
+- ID: "65b6a0b0-3e9e-4435-9fb7-9f7a6c5068a8"
+  Hint: AccountName
+  Value: TeamCollectivePROD
+- ID: "8e3854bd-0c26-4521-a588-760a9f5fbd36"
+  Hint: ValidateTokenAPIEndPoint
+  Value: /falcon/b2c/api/v2/token/valid
+- ID: "cc8f690d-365a-4262-b448-7a386a30751a"
+  Hint: AccountToken
+  Value: teamCollectiveToken
+- ID: "e750c95f-3d71-4787-86c4-1a5bdd4b89ce"
+  Hint: BaseUrl
+  Value: "https://flights.gulfair.com"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T090930Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6606817c-2a98-4b96-8a13-b577dc9a7fbe"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T205534Z

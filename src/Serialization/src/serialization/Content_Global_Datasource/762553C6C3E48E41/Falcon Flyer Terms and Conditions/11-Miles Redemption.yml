@@ -1,0 +1,74 @@
+﻿---
+ID: "95694d7a-ee35-4b13-8daa-a5fafaaef289"
+Parent: "31eacd34-875c-4814-b1a6-fbcfc231effe"
+Template: "5ccfccdf-b51d-47cc-8200-acd509f076d9"
+Path: "/sitecore/content/Global/Global Accordian With Page Slider Folder/Falcon Flyer Terms and Conditions/Falcon Flyer Terms and Conditions/11-Miles Redemption"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+- ID: "d57acd21-27a0-4f84-9193-6729e98bd6b7"
+  Hint: PageSliderItemsList
+  Value: |
+    {C8413B28-DCBA-42E0-8889-F37961A74130}
+    {38D65E00-BE7E-4B3E-9E1A-31E6EC6148A8}
+    {55A3CCEC-62A7-4A7F-902E-DF6E374AFE0F}
+    {92B44293-D811-4179-82B1-E2B40C02303A}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230612T075701Z
+    - ID: "2623820d-1b17-4be5-a84b-e5201ac08f85"
+      Hint: Description
+      Value: |
+        <ol>
+            <li><span style="color: #212529;">The member may issue redemption ticket for himself or any family members under his family list without a maximum limit during the whole year.</span></li>
+            <li><span style="color: #212529;">Redemption ticket is issued against miles deducted from the main member's account.</span></li>
+            <li><span style="color: #212529;">Redemption tickets can be issued and booked on operated Gulf Air flights as well as any of Gulf Air Airline Partners.</span></li>
+            <li><span style="color: #212529;">Miles deducted depend on the destination &amp; cabin of service requested.<br />
+            (Please refer to mileage calculator option in member portal to know the number of miles required for each sector) </span></li>
+            <li><span style="color: #212529;">All redemptions tickets are subject to availability. The number of redemption seats on each flight is limited. Members should book their redemption tickets as early as possible to maximise the chance of securing the Member's first choice.</span></li>
+            <li><span style="color: #212529;">Gulf Air may from time to time impose a blackout period in which no redemption tickets will be available.</span></li>
+            <li><span style="color: #212529;">Gulf Air may withdraw, replace or substitute any redemption ticket at any time without notice.</span></li>
+            <li><span style="color: #212529;">Miles required for Children redemption tickets are the same as required for adult ticket.</span></li>
+            <li><span style="color: #212529;">Once the redemption ticket is issued, the passenger&rsquo;s name on the ticket may not be changed and the ticket may not be used by anyone else.</span></li>
+            <li> <span style="color: #212529;">redemption tickets are not eligible for accrual of miles or loyalty points.</span></li>
+            <li> <span style="color: #212529;">Booking of redemption tickets must be confirmed at time of issuance.</span></li>
+            <li> <span style="color: #212529;">Taxes and additional expenses (such as Airport fees, surcharges&hellip;etc.) should be paid by the member and are non-refundable.</span></li>
+            <li> <span style="color: #212529;">redemptions tickets are valid for 12 months from the date of issue, unless otherwise stated and cannot be extended or left open.</span></li>
+            <li> <span style="color: #212529;">Redemption tickets must be used in order. Itineraries cannot be abandoned or used in reverse order.</span></li>
+            <li> <span style="color: #212529;">In case of refund, miles will be re-deposited back to the members account from which the miles were withdrawn. Miles should be within the Miles validity period. Expired Miles is non-refundable.</span></li>
+            <li> <span style="color: #212529;">All redemption tickets redeemed by a member are not for sale and/or cannot be exchanged for any form of payment neither is convertible to cash. In case of suspect ion of fraud or misuse, Gulf Air has the right to stop issuance of the redemption ticket and terminate the membership without any notice.</span></li>
+            <li> <span style="color: #212529;">Redemption tickets changes and cancellation terms for all memberships are shown below.</span></li>
+        </ol>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ghazijawad
+    - ID: "5a4499d3-dbd1-4db1-8ba8-6f08064b02fc"
+      Hint: Heading
+      Value: 11. Miles Redemption
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e4ad68b-a113-437f-aecb-cd9262c8a0c7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230612T081502Z

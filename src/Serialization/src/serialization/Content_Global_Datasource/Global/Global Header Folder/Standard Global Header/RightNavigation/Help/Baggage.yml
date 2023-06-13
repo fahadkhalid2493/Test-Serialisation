@@ -1,0 +1,353 @@
+﻿---
+ID: "b94fefd7-b748-4520-be38-15a32f912c4a"
+Parent: "ec36c9eb-4f63-4b83-8b46-e715d491d28e"
+Template: "442819bb-7f40-4254-ace9-6890bba50f83"
+Path: /sitecore/content/Global/Global Header Folder/Standard Global Header/RightNavigation/Help/Baggage
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{98270EC9-6559-4687-9E7F-B0DC5BDA8903}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "d8659908-123e-4a5b-9ce5-ff5c083ec776"
+  Hint: LevelList
+  Value: |
+    {04CAB829-A80D-4671-ADDC-CAE2FD31C19F}
+    {1CB8C824-51FC-4397-AF71-9FD0CD3FE94A}
+    {3885720B-7E1F-4F19-97DE-ACD11F825E2A}
+    {CF7EBFBE-5EF9-4F17-9D92-20C1AA8FFE43}
+    {78511907-9421-4488-B4DB-714DB826472E}
+- ID: "e68f7f12-575f-48aa-87ad-4dfe356af824"
+  Hint: BannerImage
+  Value: |
+    <image width="400" height="180" alt="BaggageBanner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/34cb7c52d5364960b0556a930c9ca146?v=9f91e399" stylelabs-content-id="40698" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/40698/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230113T144942Z
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Baggage" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "80ae26fe-7034-4176-a111-4be00ee01e08"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230121T063649Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: الأمتعة
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="للمزيد من التفاصيل" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B05E7FC6-5740-4A97-BC5A-17109CD2828E}" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="الحقائب و الأمتعة" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dea7b3f8-0de7-4c43-aecf-0926ef37a31c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225853Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Baggage" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8fce7df5-c73c-4277-9cf8-df53a9aa704f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120627Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Gepäck" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "066e2dde-56fd-4795-9cab-87bac33e6a81"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225853Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Baggage
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="More details " anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B05E7FC6-5740-4A97-BC5A-17109CD2828E}" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Baggage" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9cc14a79-4f31-4098-ab7c-d7506b46fa91"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225853Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Baggage" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "28ff18df-fd55-4115-97c6-5b256014b7a9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120545Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Bagages" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44dd93c0-a5d5-4ef7-a569-d840abbf310f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225853Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Baggage" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "67ec1b22-cd26-4d79-95cb-dc6b9e3d3b24"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120445Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="Багаж" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a0413e8-8ea8-4114-bcf7-c49a0ea096f4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225853Z

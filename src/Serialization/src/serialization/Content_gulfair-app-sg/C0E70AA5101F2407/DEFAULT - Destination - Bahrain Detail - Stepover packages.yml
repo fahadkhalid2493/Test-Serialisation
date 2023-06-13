@@ -1,0 +1,268 @@
+﻿---
+ID: "9d1942f1-a453-4fd9-870d-1b554f27bafa"
+Parent: "9f6ace25-770e-47ec-90d7-1b94a9fe951a"
+Template: "ccf252a7-d3e3-401a-95e5-b42bdf2c187a"
+Path: "/sitecore/content/gulfair-app-sg/Data/Two Column Section Folder/Destination-Bahrain/TwoColumnSectionParent/DEFAULT - Destination - Bahrain Detail - Stepover packages"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "709d2fac-25a4-45d5-8dc5-23703849e530"
+  Hint: Image
+  Value: |
+    <image width="461" height="343" alt="stepover-packages.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/98a544d42e1044899bf6e78439da56a3?v=290f5298" stylelabs-content-id="36524" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/36524/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Destination - Bahrain Detail - Stepover packages"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Stepover packages
+    - ID: "0f3b38f7-9d77-4092-908e-1d07c0fe6a7c"
+      Hint: CTA2
+      Value: |
+        <link text="Search" linktype="external" url="/" anchor="" target="" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7730c784-a54b-4dc1-9d92-dbdee9308d87"
+      Hint: SubHeading
+      Value: Subheading
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a357ff64-443c-47ec-a360-f98c8ce62a01"
+    - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
+      Hint: CTA1
+      Value: |
+        <link text="Book" linktype="external" url="/" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000241Z
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Destination - Bahrain Detail - Stepover packages"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Stepover packages
+    - ID: "0f3b38f7-9d77-4092-908e-1d07c0fe6a7c"
+      Hint: CTA2
+      Value: |
+        <link text="Search" linktype="external" url="/" anchor="" target="" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "7730c784-a54b-4dc1-9d92-dbdee9308d87"
+      Hint: SubHeading
+      Value: Subheading
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca27e7fe-a1f5-4f1b-b9d0-e6e1a85dcc71"
+    - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
+      Hint: CTA1
+      Value: |
+        <link text="Book" linktype="external" url="/" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000241Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Destination - Bahrain Detail - Stepover packages"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Stepover packages
+    - ID: "0f3b38f7-9d77-4092-908e-1d07c0fe6a7c"
+      Hint: CTA2
+      Value: |
+        <link text="Search" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "7730c784-a54b-4dc1-9d92-dbdee9308d87"
+      Hint: SubHeading
+      Value: Subheading
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c68a3d4c-0645-40e6-86fd-56cc24e64e9d"
+    - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
+      Hint: CTA1
+      Value: |
+        <link text="Book" linktype="anchor" url="{195D82FE-EC47-464B-80AE-BE3B7F71F461}" anchor="{195D82FE-EC47-464B-80AE-BE3B7F71F461}" title="" class="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000241Z
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Destination - Bahrain Detail - Stepover packages"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Stepover packages
+    - ID: "0f3b38f7-9d77-4092-908e-1d07c0fe6a7c"
+      Hint: CTA2
+      Value: |
+        <link text="Search" linktype="external" url="/" anchor="" target="" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "7730c784-a54b-4dc1-9d92-dbdee9308d87"
+      Hint: SubHeading
+      Value: Subheading
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35b83960-405a-4259-ae10-2d4e4f484acd"
+    - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
+      Hint: CTA1
+      Value: |
+        <link text="Book" linktype="external" url="/" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000241Z
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Destination - Bahrain Detail - Stepover packages"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Stepover packages
+    - ID: "0f3b38f7-9d77-4092-908e-1d07c0fe6a7c"
+      Hint: CTA2
+      Value: |
+        <link text="Search" linktype="external" url="/" anchor="" target="" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "7730c784-a54b-4dc1-9d92-dbdee9308d87"
+      Hint: SubHeading
+      Value: Subheading
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "866c04d3-7d56-4c36-acd5-a6a6121182fe"
+    - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
+      Hint: CTA1
+      Value: |
+        <link text="Book" linktype="external" url="/" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000241Z

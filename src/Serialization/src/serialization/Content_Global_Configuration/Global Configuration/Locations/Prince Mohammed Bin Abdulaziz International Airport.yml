@@ -1,0 +1,178 @@
+﻿---
+ID: "6651ab1d-ccd5-49b5-a232-2684af4c5fd9"
+Parent: "2a609038-6fc2-41de-a46e-01e663ef60f7"
+Template: "0b5ef009-0c1f-4ac3-89b5-d0d1f3f860eb"
+Path: /sitecore/content/Global Configuration/Locations/Prince Mohammed Bin Abdulaziz International Airport
+SharedFields:
+- ID: "31250019-5060-40a9-ba51-294a37d456d9"
+  Hint: OnlineCheckInAvailable
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "be35fd21-18af-4d0d-a029-3bcac18564f9"
+  Hint: CityCode
+  Value: MED
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: مطار الأمير محمد بن عبد العزيز الدولي
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: المدينة المنورة
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: المملكة العربية السعودية
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "82fd174d-1fe0-4fdd-a611-5ffc5f08b9e3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T163301Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Prinz Mohammed Bin Abdulaziz Internationaler Flughafen
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Medina
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: "Saudi-Arabien"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76b2318d-65e9-47d6-959b-def8aa00a761"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T163000Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Prince Mohammed Bin Abdulaziz International Airport
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Medina
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Saudi Arabia
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ef38358-7dc1-40a8-b0d4-3af1d8059a02"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T104210Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Prince Mohammed Bin Abdulaziz International Airport
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Médine
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Arabie Saoudite
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f828d49c-9fca-4225-a28a-74fba6b40a68"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T165237Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Принц Мохаммед бин Абдулазиз международный аэропорт
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Медина
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Саудовская Аравия
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b9e58013-95e4-4642-8d8a-308fa1008059"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T170050Z

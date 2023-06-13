@@ -1,0 +1,244 @@
+﻿---
+ID: "994913c4-e888-4a98-8cbd-fdf5afc162c2"
+Parent: "0b985e3f-a92a-49d2-a062-03069b8e80b9"
+Template: "3843b59f-b575-4431-aabb-927a481f5c4e"
+Path: /sitecore/content/Global/Global Quick Support Folder/Home/Quick Support/Contact us
+SharedFields:
+- ID: "11f1bf07-bd09-4b87-a255-39b00b7cf8fd"
+  Hint: Image
+  Value: |
+    <image width="500" height="400" alt="New-website-images-Contact-us.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/5206af1d6d444f218180f65ba407cbec?v=cce30ab8" stylelabs-content-id="47940" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/47940/thumbnail" />
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T081016Z
+    - ID: "35c2a4fa-fad8-43ad-b409-f4e05eef7774"
+      Hint: CTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6c520a07-2b20-4359-9e5d-32248eb779b1"
+      Hint: SubText
+      Value: اتصل بخدمة العملاء
+    - ID: "86823dd0-5177-40d0-a6e2-0c41f1039d9a"
+      Hint: Summary
+      Value: 
+    - ID: "89938be5-ff85-4f5d-97cf-956d4636edad"
+      Hint: Heading
+      Value: اتصل بنا
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49e4416e-926a-4db6-9711-6c1240693000"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T081015Z
+    - ID: "35c2a4fa-fad8-43ad-b409-f4e05eef7774"
+      Hint: CTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "6c520a07-2b20-4359-9e5d-32248eb779b1"
+      Hint: SubText
+      Value: Wenden Sie sich an unsere Unterstützung
+    - ID: "86823dd0-5177-40d0-a6e2-0c41f1039d9a"
+      Hint: Summary
+      Value: 
+    - ID: "89938be5-ff85-4f5d-97cf-956d4636edad"
+      Hint: Heading
+      Value: Kontaktiere uns
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97c663a7-7472-4ce6-8db6-abf3b5bf017c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T081015Z
+    - ID: "35c2a4fa-fad8-43ad-b409-f4e05eef7774"
+      Hint: CTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "6c520a07-2b20-4359-9e5d-32248eb779b1"
+      Hint: SubText
+      Value: Contact our support team available 24/7
+    - ID: "86823dd0-5177-40d0-a6e2-0c41f1039d9a"
+      Hint: Summary
+      Value: <p>Allowances, excess baggage, claims and more</p>
+    - ID: "89938be5-ff85-4f5d-97cf-956d4636edad"
+      Hint: Heading
+      Value: Contact us
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "960e981c-5ae9-4b1f-91c9-639b1771b4d3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T081015Z
+    - ID: "35c2a4fa-fad8-43ad-b409-f4e05eef7774"
+      Hint: CTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "6c520a07-2b20-4359-9e5d-32248eb779b1"
+      Hint: SubText
+      Value: Contactez notre support
+    - ID: "86823dd0-5177-40d0-a6e2-0c41f1039d9a"
+      Hint: Summary
+      Value: 
+    - ID: "89938be5-ff85-4f5d-97cf-956d4636edad"
+      Hint: Heading
+      Value: "Contactez-nous"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d25dafa-c92d-4b68-a000-78ae21454dee"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T081015Z
+    - ID: "35c2a4fa-fad8-43ad-b409-f4e05eef7774"
+      Hint: CTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "6c520a07-2b20-4359-9e5d-32248eb779b1"
+      Hint: SubText
+      Value: Свяжитесь с нашей поддержкой
+    - ID: "86823dd0-5177-40d0-a6e2-0c41f1039d9a"
+      Hint: Summary
+      Value: 
+    - ID: "89938be5-ff85-4f5d-97cf-956d4636edad"
+      Hint: Heading
+      Value: Свяжитесь с нами
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35f35b6f-1574-4fe2-996d-9cfdeaad35ad"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z

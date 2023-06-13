@@ -1,0 +1,84 @@
+﻿---
+ID: "73a33cf5-ba51-45db-a7e4-339d9d805b86"
+Parent: "1ca0269e-226f-426c-8453-f05dd7659b29"
+Template: "f2695307-b5c9-4960-ac05-33fe710e032a"
+Path: "/sitecore/content/Global/Global Frequently Asked Questions Folder/binding-corporate-rules/Articles - Parent/Article 13"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230330T075516Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04942ca6-f1eb-4656-9971-3eccff50e269"
+    - ID: "9db57e03-2068-4fae-8676-d97ec7d6dd32"
+      Hint: Heading
+      Value: "ARTICLE 13: RESTRICTIONS ON TRANSFERS AND ONWARD TRANSFERS TO EXTERNAL PROCESSORS AND CONTROLLERS"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T144119Z
+    - ID: "f8e1179b-050a-4ac2-95d9-5627803a19ae"
+      Hint: Description
+      Value: |
+        <p><strong>13.1</strong> When transferring Personal Data to external processors, a distinction shall be made between: <br />
+        <strong>(a)</strong> Third Party Data Processors, namely parties that Process Personal Data solely on behalf of GF and under GF direction (e.g. Third Parties that Process passenger registration data on behalf of GF); and<br />
+        <strong>(b)</strong> Third Party Data Controllers, namely Third Parties that Process Personal Data and determine the purposes and methods of the Processing (e.g. GF business partners that provide their own goods or services to Customers). </p>
+        <p><strong>13.2</strong> GF shall transfer Personal Data to a Third Party only to the extent necessary to serve the legitimate purpose for which the Personal Data is Processed (including processing for Secondary Purposes or for purposes for which the Data Subject has provided consent in accordance with Article 5). </p>
+        <p><strong>13.3</strong> GF shall ensure that Third Party Data Controllers (other than public authorities) can Process Personal Data obtained in connection with their relationship with GF only if such Third Party Data Controllers have a written contract with GF. </p>
+        <p><strong>13.4</strong> GF shall ensure that the data privacy rights of Data Subjects concerned by such Processing are protected contractually. </p>
+        <p><strong>13.5</strong> The transfer of business contact information may be made to a Third Party Data Controller without a contract if GF take reasonable steps to ensure that such information will be used by the Third Party Data Controller to contact the Data Subject for legitimate business purposes related to that same Data Subject&rsquo;s business or interests. </p>
+        <p><strong>13.6</strong> GF shall not transfer, sell, lease, or offer for hire Business Contact Information in bulk to a Third Party Data Controller without consent except as permitted or required under applicable law and to the extent such transfer, sale, lease, or rent serves a Business Purpose (per Article 5.1).  </p>
+        <h4>
+        13.7 Third Party Data Processor Contracts
+        </h4>
+        <p>Third Party Data Processors may Process Personal Data only if the Third Party Data Processor has a written contract with GF which includes terms and conditions addressing the following: <br />
+        <strong>(a)</strong> The Third Party Data Processor shall Process Personal Data only in accordance with GF&rsquo;s instructions and for the purposes authorised by GF; <br />
+        <strong>(b)</strong> The Third Party Data Processor shall keep the Personal Data confidential; <br />
+        <strong>(c)</strong> The Third Party Data Processor shall take appropriate technical, physical, administrative and organisational security measures to protect the Personal Data; <br />
+        <strong>(d)</strong> The Third Party Data Processor shall not permit subcontractors to Process Personal Data in connection with its obligations to GF without the prior written consent of GF; <br />
+        <strong>(e)</strong> That GF shall have the right to review the security measures taken by the Third Party Data Processor and the Third Party Data Processor shall be required submit its relevant data processing facilities to audits and inspections by GF or any relevant government authority; and <br />
+        <strong>(f)</strong> The Third Party Data Processor shall promptly inform GF of any incident involving Personal Data, including hacking or data breaches concerning the obligations set out by the GDPR.</p>
+        <h4>13.8 Transfers to Territories without an EU Adequacy Decision or Data Treaty</h4>
+        <p>Transfers of Personal Data to a Third Party located in a country that is not considered by the European Commission to provide an &lsquo;adequate level of protection&rsquo; for Personal Data under Chapter V of the GDPR (&ldquo;Non-Adequate territory&rdquo;) shall only be made if the following conditions are satisfied: <br />
+        <strong>(a)</strong> A contract has been concluded between GF and the relevant Third Party that provides for safeguards at a similar level of protection as that provided by the BCRs;<br />
+        <strong>(b)</strong> The contract shall conform to any model contract required under applicable local law (if any, including those covered by guidance from the European Data Protection Board or the ICO); <br />
+        <strong>(c)</strong> The Third Party has been certified under the EU-US Privacy Shield as such treaty may be modified or succeeded by EU-US data treaties or any other similar scheme or treaty that is recognised as providing an &lsquo;adequate&rsquo; level of data protection for GDPR purposes; <br />
+        <strong>(d)</strong> The Third Party has established binding corporate rules or a similar transfer control mechanism which provide adequate safeguards as required under applicable law and these have been deemed GDPR compliant by competent authorities; <br />
+        <strong>(e)</strong> The transfer is necessary for the performance of a contract with the customer, supplier or business partner or to take necessary steps at the request of the customer, supplier or business partner prior to entering into a contract; <br />
+        <strong>(f)</strong> The transfer is necessary for the conclusion or performance of a contract concluded in the interest of the individual between GF and a Third Party; <br />
+        <strong>(g)</strong> The transfer is necessary to protect a vital interest of the Data Subject or of another natural person (for example, dealing with an emergency); <br />
+        <strong>(h)</strong> The transfer is necessary for the establishment, exercise or defence of a legal claim; <br />
+        <strong>(i)</strong> The transfer is required by any law to which the relevant GF entity is subject; or   <br />
+        <strong>(j)</strong> The individual has consented to such transfer.</p>
+        <h4>13.9 Non-Adequate Territory Consent for Transfer</h4>
+        <p>When seeking consent pursuant to Article 14.8(j), GF shall provide the Data Subject with the following information: <br />
+        <strong>(a)</strong> The purpose of the transfer; <br />
+        <strong>(b)</strong> The identity of the transferring GF entity; <br />
+        <strong>(c)</strong> The identity or categories of Third Parties to which the Personal Data will be transferred; <br />
+        <strong>(d)</strong> The categories of Personal Data that will be transferred; <br />
+        <strong>(e)</strong> The country to which the Personal Data will be transferred; and <br />
+        <strong>(f)</strong> The fact that the Personal Data will be transferred to a Non-Adequate territory. </p>
+        <h4>13.10 Transfers between Non-Adequate Territories</h4>
+        <p>Personal Data collected by GF in the EEA and transferred to a Third Party located in a Non-Adequate territory may in turn be transferred to a second Third Party located in that same or another Non-Adequate territory only if the following conditions are met: <br />
+        <strong>(a)</strong> The transfer must be necessary for compliance with a legal obligation to which the relevant GF entity is subject; <br />
+        <strong>(b)</strong> The transfer must be necessary to serve the public interest; or <br />
+        <strong>(c)</strong> The transfer must be necessary to satisfy a legitimate purpose of GF (per Article 5).</p>

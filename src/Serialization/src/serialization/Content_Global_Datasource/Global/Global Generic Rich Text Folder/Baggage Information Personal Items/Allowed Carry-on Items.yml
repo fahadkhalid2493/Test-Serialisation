@@ -1,0 +1,208 @@
+﻿---
+ID: "bd58232c-0376-4709-92ae-a4c46f1415d2"
+Parent: "53d670c0-0c97-4ac5-a226-387b7b85782d"
+Template: "6fe5d11d-722f-4a7e-9d7d-e8f8a6834737"
+Path: "/sitecore/content/Global/Global Generic Rich Text Folder/Baggage Information Personal Items/Allowed Carry-on Items"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230130T123030Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>العناصر المسموح بحملها على الأمتعة</h2>
+        <h3><strong><span style="font-size: 16px;">السوائل غير القابلة للاشتعال و البخاخات - بما في ذلك الأطعمة والمشروبات وأدوات النظافة - بكميات 3.4 أوقية أو أقل.</span></strong></h3>
+        <ul>
+            <li>المباريات والولاعات</li>
+            <li>بطاريات</li>
+            <li>إبر الحياكة</li>
+            <li>هدايا</li>
+            <li>إلكترونيات</li>
+            <li>الأدوية والمعدات الطبية</li>
+            <li>أغذية الأطفال ومعداتهم واحتياجاتهم</li>
+            <li>عناصر باهظة الثمن</li>
+            <li>السوائل الإلكترونية والسجائر الإلكترونية و</li>
+            <li>ماكينات الحلاقة الكهربائية التي تستخدم لمرة واحدة</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "929c6229-5624-4b87-b2c6-48d53610149f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230503T065834Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T115246Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>Gegenst&auml;nde, die zum Gep&auml;ck versehen sind</h2>
+        <h3>Nicht flammbare Fl&uuml;ssigkeiten, Gele und Aerosole - einschlie&szlig;lich Lebensmittel, Getr&auml;nke und Toilettenartikel - in Mengen von 3,4 Unzen oder weniger.</h3>
+        <ul>
+            <li>Matches und Feuerzeuge</li>
+            <li>Batterien</li>
+            <li>Stricknadeln</li>
+            <li>Geschenke</li>
+            <li>Elektronik</li>
+            <li>Medikamente und medizinische Ger&auml;te</li>
+            <li>Babynahrung, Ausr&uuml;stung und Bed&uuml;rfnisse</li>
+            <li>Teure Artikel</li>
+            <li>E-Liquids, elektronische Zigaretten und Vaping-Ger&auml;te</li>
+            <li>Einweg- und elektrische Rasierer</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c4f26753-3ffa-40e2-a539-71ed18f79363"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\farhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T152121Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T115246Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>Items Allowed for Carry On Baggage</h2>
+        <h3><strong><span style="font-size: 16px;">Nonflammable liquids, gels, and aerosols&mdash;including food, drinks, and toiletries&mdash;in quantities of 3.4 ounces or less.</span></strong></h3>
+        <ul>
+            <li>Matches and lighters</li>
+            <li>Batteries</li>
+            <li>Knitting Needles</li>
+            <li>Gifts</li>
+            <li>Electronics</li>
+            <li>Medication and Medical Equipment</li>
+            <li>Baby food, equipment and needs</li>
+            <li>Expensive items</li>
+            <li>E-liquids, electronic cigarettes, and vaping devices</li>
+            <li>Disposable and electric razors</li>
+        </ul>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1410436a-3889-4c4d-9ddb-d70f8592b221"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230503T065823Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T115246Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>Articles autoris&eacute;s pour les bagages de report</h2>
+        <h3>Liquides, gels et a&eacute;rosols non flammables - y compris la nourriture, les boissons et les articles de toilette - en quantit&eacute;s de 3,4 onces ou moins.</h3>
+        <ul>
+            <li>Matchs et briquets</li>
+            <li>Batteries</li>
+            <li>Des aiguilles &agrave; tricoter</li>
+            <li>Cadeaux</li>
+            <li>&Eacute;lectronique</li>
+            <li>M&eacute;dicaments et &eacute;quipement m&eacute;dical</li>
+            <li>Nourriture, &eacute;quipement et besoins pour b&eacute;b&eacute;</li>
+            <li>Articles co&ucirc;teux</li>
+            <li>E-liquides, cigarettes &eacute;lectroniques et dispositifs de vapotage</li>
+            <li>Rasoirs jetables et &eacute;lectriques</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b65ee362-88a4-4b25-b88f-2d6d3933e1b4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\farhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T152137Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T115246Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>Предметы, разрешенные для переноса багажа</h2>
+        <h3>Неспланированные жидкости, гели и аэрозоли, включая еду, напитки и туалетные принадлежности, в количестве 3,4 унции или меньше.</h3>
+        <ul>
+            <li>Матчи и зажигалки</li>
+            <li>Батареи</li>
+            <li>Вязальные спицы</li>
+            <li>Дары</li>
+            <li>Электроника</li>
+            <li>Лекарства и медицинское оборудование</li>
+            <li>Детское питание, оборудование и потребности</li>
+            <li>Дорогие предметы</li>
+            <li>Электронные жидкости, электронные сигареты и вейпинговые устройства</li>
+            <li>Одноразовые и электрические бритвы</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df42f77f-60a9-4ba0-b965-dd8ba6bc91b5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\farhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T152149Z

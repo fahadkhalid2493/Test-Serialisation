@@ -1,0 +1,27 @@
+﻿---
+ID: "fc249357-9d0f-4d56-b533-99176fae0d1c"
+Parent: "bf609f7c-8e69-40e1-aad3-f860b94d9490"
+Template: "b19bf3d3-7198-42ca-8cc2-a73b261e3f39"
+Path: /sitecore/content/Global Configuration/Calendar
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230303T072410Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d581e1ba-2b7c-420e-9489-9b363fe9b39e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230313T140124Z

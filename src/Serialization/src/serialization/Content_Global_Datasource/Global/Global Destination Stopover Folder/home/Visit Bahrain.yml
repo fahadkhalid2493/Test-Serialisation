@@ -1,0 +1,287 @@
+﻿---
+ID: "a22fc726-081c-409f-bc6c-89653c42451a"
+Parent: "ca1e1e6b-f52c-417b-b7a7-3598cfc806e1"
+Template: "b4a044c3-e017-4201-a13e-608ea002f07e"
+Path: /sitecore/content/Global/Global Destination Stopover Folder/home/Visit Bahrain
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "76be0f24-bf18-445b-82d6-d38826548689"
+  Hint: Image
+  Value: |
+    <image width="1920" height="1080" alt="Explore Bahrain Hero Banner" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/95d2dfb9b6764a9187d1b071b44b46bd?v=9509718f" stylelabs-content-id="48635" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48635/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "d1816d8b-7b76-49a1-86ed-f7f12f3ef1a4"
+  Hint: PopupVideoLink
+  Value: "https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/6d9b5f67986341a49a58535ef22c4f26?v=c2dd657d"
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Global - Visit Bahrain"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T175535Z
+    - ID: "297fdfc0-8d98-42f1-97c8-e841e9948a26"
+      Hint: Description
+      Value: <p>جرب مملكة البحرين مع كل ما تقدمه</p>
+    - ID: "2efce3ab-7179-4c73-9388-50415e6a897e"
+      Hint: SubHeading
+      Value: قم بزيارة البحرين
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4526bcad-0b99-4fb1-8f93-5742d2901097"
+      Hint: Heading
+      Value: باقات التوقف في البحرين
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6d3423cb-71ac-4b1f-a0e6-e60c4d086c8e"
+      Hint: CTA
+      Value: |
+        <link text="اكتشف المزيد" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8E6BCC77-BC67-4396-B477-86791F64CA50}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3fcec73-a999-4da9-9905-263b4f381de6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d451474f-b096-4854-80f0-86d59f159ee5"
+      Hint: PopupHeading
+      Value: قم بزيارة البحرين
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225900Z
+    - ID: "e5d3a549-6c3c-4dd3-8064-272ff93da31f"
+      Hint: PopupSubTitle
+      Value: 
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Visit Bahrain
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T175535Z
+    - ID: "297fdfc0-8d98-42f1-97c8-e841e9948a26"
+      Hint: Description
+      Value: <p>Erleben Sie das K&ouml;nigreich Bahrain mit allem, was es zu bieten hat</p>
+    - ID: "2efce3ab-7179-4c73-9388-50415e6a897e"
+      Hint: SubHeading
+      Value: Besuchen Sie Bahrain
+    - ID: "4526bcad-0b99-4fb1-8f93-5742d2901097"
+      Hint: Heading
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "6d3423cb-71ac-4b1f-a0e6-e60c4d086c8e"
+      Hint: CTA
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8E6BCC77-BC67-4396-B477-86791F64CA50}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e1ee3e70-329a-43cf-a408-f500bca9135c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d451474f-b096-4854-80f0-86d59f159ee5"
+      Hint: PopupHeading
+      Value: Besuchen Sie Bahrain
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225900Z
+    - ID: "e5d3a549-6c3c-4dd3-8064-272ff93da31f"
+      Hint: PopupSubTitle
+      Value: 
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Visit Bahrain
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T175535Z
+    - ID: "297fdfc0-8d98-42f1-97c8-e841e9948a26"
+      Hint: Description
+      Value: "<p>Experience the Kingdom of Bahrain and all it has to offer &ndash; from events, to history and culture, to local-living and more!</p>"
+    - ID: "2efce3ab-7179-4c73-9388-50415e6a897e"
+      Hint: SubHeading
+      Value: Visit Bahrain
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4526bcad-0b99-4fb1-8f93-5742d2901097"
+      Hint: Heading
+      Value: Bahrain Stopover
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "6d3423cb-71ac-4b1f-a0e6-e60c4d086c8e"
+      Hint: CTA
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8E6BCC77-BC67-4396-B477-86791F64CA50}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35e98266-970b-4e7e-a029-76c718fdc381"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d451474f-b096-4854-80f0-86d59f159ee5"
+      Hint: PopupHeading
+      Value: Visit Bahrain
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T012656Z
+    - ID: "e5d3a549-6c3c-4dd3-8064-272ff93da31f"
+      Hint: PopupSubTitle
+      Value: 
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Visit Bahrain
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T175535Z
+    - ID: "297fdfc0-8d98-42f1-97c8-e841e9948a26"
+      Hint: Description
+      Value: <p>D&eacute;couvrez le Royaume de Bahre&iuml;n avec tout ce qu'il a &agrave; offrir</p>
+    - ID: "2efce3ab-7179-4c73-9388-50415e6a897e"
+      Hint: SubHeading
+      Value: Visitez Bahreïn
+    - ID: "4526bcad-0b99-4fb1-8f93-5742d2901097"
+      Hint: Heading
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "6d3423cb-71ac-4b1f-a0e6-e60c4d086c8e"
+      Hint: CTA
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8E6BCC77-BC67-4396-B477-86791F64CA50}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3add3bc1-7985-4e1c-b77e-df5220f3f051"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d451474f-b096-4854-80f0-86d59f159ee5"
+      Hint: PopupHeading
+      Value: Visitez Bahreïn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225900Z
+    - ID: "e5d3a549-6c3c-4dd3-8064-272ff93da31f"
+      Hint: PopupSubTitle
+      Value: 
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Visit Bahrain
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T175535Z
+    - ID: "297fdfc0-8d98-42f1-97c8-e841e9948a26"
+      Hint: Description
+      Value: <p>Испытайте королевство Бахрейн со всем, что он может предложить</p>
+    - ID: "2efce3ab-7179-4c73-9388-50415e6a897e"
+      Hint: SubHeading
+      Value: Посетите Бахрейн
+    - ID: "4526bcad-0b99-4fb1-8f93-5742d2901097"
+      Hint: Heading
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "6d3423cb-71ac-4b1f-a0e6-e60c4d086c8e"
+      Hint: CTA
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8E6BCC77-BC67-4396-B477-86791F64CA50}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a2de87f7-e0b2-4f64-bcba-a71648c02231"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d451474f-b096-4854-80f0-86d59f159ee5"
+      Hint: PopupHeading
+      Value: Посетите Бахрейн
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225900Z
+    - ID: "e5d3a549-6c3c-4dd3-8064-272ff93da31f"
+      Hint: PopupSubTitle
+      Value: 

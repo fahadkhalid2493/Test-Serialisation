@@ -1,0 +1,30 @@
+﻿---
+ID: "6ec0c57b-d6c5-4a2b-8599-9df99f73af73"
+Parent: "2fbcfecf-f9a3-4b9b-b296-57a800b8afd5"
+Template: "900dca67-e9ee-4dfe-b77b-fbee53a61f15"
+Path: /sitecore/content/Global Configuration/Workflow Store Front Folder/All
+SharedFields:
+- ID: "3f17d9ec-fa91-42f5-8222-e39971af6e80"
+  Hint: Secondary
+  Value: 0
+- ID: "67f88e26-f713-428c-9dd9-31b44a991765"
+  Hint: Primary
+  Value: All
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T105343Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e4e0c4f-b675-492d-b55b-8c912f3d3849"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shahbaz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230320T130411Z

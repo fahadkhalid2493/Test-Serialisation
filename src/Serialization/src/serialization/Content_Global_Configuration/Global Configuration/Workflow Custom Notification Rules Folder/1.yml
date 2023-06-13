@@ -1,0 +1,42 @@
+﻿---
+ID: "ff3d0a88-2a67-4426-b85c-7a5e99989778"
+Parent: "e54dc5cd-6a7c-4c86-b8c2-e181bc5f3e06"
+Template: "714d7302-6420-498a-b949-a8fc13caec54"
+Path: /sitecore/content/Global Configuration/Workflow Custom Notification Rules Folder/1
+SharedFields:
+- ID: "0aedb286-e74c-45f7-b8f7-1b6c1f9875f1"
+  Hint: Store Front
+  Value: "{1838C476-5B7C-4B10-BEBC-00EB1A02A540}"
+- ID: "344179fc-5ca3-4bcc-8ec1-26d0b07f5d18"
+  Hint: Trigger Type
+  Value: "{EC81D7BE-471F-4C2C-9C18-6DDD1F6DC08A}"
+- ID: "4ba734ed-229d-4d95-9827-e180b8eac0ae"
+  Hint: Recipient Role
+  Value: "{B5D93ADE-380B-4393-89A9-D8E7EC70DA0E}"
+- ID: "4dd6f20b-d9ec-460f-bb65-5e46be312981"
+  Hint: Email Type
+  Value: "{3285E9E8-1250-4A56-BE7B-52C5273778AA}"
+- ID: "af526e1a-d00e-41a4-8331-cb7af9548b70"
+  Hint: Rule Status
+  Value: "{E27A48B2-9FEF-49FA-91C5-46ED15602AB0}"
+- ID: "e251cc5c-e05b-4cf8-a1c2-b0c3786dc797"
+  Hint: Target Type
+  Value: "{07CA3B6F-F9A9-4163-88D5-426A96CE946B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T113537Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "63c62acc-237a-45c6-af84-4f223736b3de"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shahbaz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230321T085121Z

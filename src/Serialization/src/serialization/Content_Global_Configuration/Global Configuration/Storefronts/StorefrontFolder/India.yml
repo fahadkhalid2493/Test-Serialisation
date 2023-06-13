@@ -1,0 +1,282 @@
+﻿---
+ID: "c2283e92-db48-4c54-9374-6806a37fda7a"
+Parent: "5ad85e65-f094-4c37-9745-2af45e719dcb"
+Template: "5685e44c-a001-40e9-9a11-69e382eac5b1"
+Path: /sitecore/content/Global Configuration/Storefronts/StorefrontFolder/India
+SharedFields:
+- ID: "08e7160e-ce03-49df-98b8-91d9f1ce062e"
+  Hint: Origins
+  Value: |
+    {161AF83D-08F5-4FCC-9EFE-68B058E43ED3}
+    {FF042B26-68F1-4A24-B49B-FEFF0F65CFDA}
+    {715CA18A-83CC-4F0B-80D1-7F39C68E3670}
+    {0F566C27-ADF0-4894-81BE-3F21FAFCF309}
+    {3A89AB99-9A1C-426E-AD8F-904917771AE2}
+    {2E8910EB-A6F0-4082-9349-65EE4D0CB3BD}
+    {2965786E-CB3D-40E8-8E61-A0AAD1855B85}
+    {BC26855E-3F1D-4298-AC1A-B400F9D49A7F}
+- ID: "3298a202-7532-4af7-b33d-619f9820166a"
+  Hint: DefaultAirport
+  Value: "{3A89AB99-9A1C-426E-AD8F-904917771AE2}"
+- ID: "ad42ab65-1ba5-4709-b891-825e99ac1c97"
+  Hint: CountryCode
+  Value: IN
+- ID: "cf48a587-766e-4564-927a-5c0ac4022111"
+  Hint: DefaultCity
+  Value: "{BCC99C35-C3C7-43E7-9A8A-6FC43C3C89F8}"
+- ID: "ef3cbc5b-9441-46e8-a7e9-a239f9b19e4c"
+  Hint: Flag
+  Value: |
+    <image width="640" height="480" alt="in.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/dfd6ef2d7bbd4d0983f7ffb5c1e4645c?v=39b1d213" stylelabs-content-id="44301" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/44301/thumbnail" />
+- ID: "f6c0162c-3117-429d-8e9f-6a49f0531573"
+  Hint: DefaultLanguage
+  Value: "{AE2B1160-AEC8-400B-92BF-E4F2378F29C8}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T150647Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6257f35a-9353-498e-ab35-fb59e9f27091"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hassan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230217T134243Z
+    - ID: "f806fbfd-5662-4f19-842c-5ce6fa07f96a"
+      Hint: Country
+      Value: أذربيجان
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221216T135625Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c8dfbd30-23bf-43ea-a3a6-759bfd3191e9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225553Z
+    - ID: "f806fbfd-5662-4f19-842c-5ce6fa07f96a"
+      Hint: Country
+      Value: الهند
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221216T135625Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9bda3ee7-f5cf-4999-a0f7-336a159a4807"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120134Z
+    - ID: "f806fbfd-5662-4f19-842c-5ce6fa07f96a"
+      Hint: Country
+      Value: Egypt
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221216T135625Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d4a98aff-476d-4d74-881d-9e53eec0a6db"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225553Z
+    - ID: "f806fbfd-5662-4f19-842c-5ce6fa07f96a"
+      Hint: Country
+      Value: Indien
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221216T135625Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "73fbb6f1-03e4-4b29-a8f8-0703a0c81a9e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225553Z
+    - ID: "f806fbfd-5662-4f19-842c-5ce6fa07f96a"
+      Hint: Country
+      Value: India
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221216T135625Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b3c8ac9-896a-44af-a0cc-16d695256aeb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T110846Z
+    - ID: "f806fbfd-5662-4f19-842c-5ce6fa07f96a"
+      Hint: Country
+      Value: Egypt
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221216T135625Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a20068b-17cf-41f0-842a-3974d5ab6515"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225553Z
+    - ID: "f806fbfd-5662-4f19-842c-5ce6fa07f96a"
+      Hint: Country
+      Value: Inde
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221216T135625Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b680b26-3c1a-463b-8985-a2b4b64e835d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120348Z
+    - ID: "f806fbfd-5662-4f19-842c-5ce6fa07f96a"
+      Hint: Country
+      Value: Egypt
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221216T135625Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc9b52f3-d4f8-4aca-809a-ddc7a971c367"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225553Z
+    - ID: "f806fbfd-5662-4f19-842c-5ce6fa07f96a"
+      Hint: Country
+      Value: Индия

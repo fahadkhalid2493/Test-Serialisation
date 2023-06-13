@@ -1,0 +1,239 @@
+﻿---
+ID: "ed4c7128-91e8-49f5-a768-44c08aabc6c3"
+Parent: "d5612715-4cf5-44df-90e3-522c24a62299"
+Template: "9e373a70-97e3-453e-afdc-943c1e84528b"
+Path: "/sitecore/content/gulfair-app-cy/Data/Hero Banner Folder/Home/HeroBanner/Slide 3 - GF Holidays"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "78a29040-85d0-4619-b1eb-f52aa266bfe0"
+  Hint: TextAlignment
+  Value: "{0A42CAE2-9E7A-4FB8-BE35-1D23B2E53FDE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "a6d7f2d1-162a-424e-baf8-9c8857e04f7f"
+  Hint: TextColor
+  Value: "{89330C54-4FC1-4573-913A-BC08CCDEBD5B}"
+- ID: "ac86e416-afdc-4e0b-a22b-8223759369c9"
+  Hint: MobileImage
+  Value: |
+    <image width="375" height="562" alt="GF Holidays.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/8b35fb996e2a469cbc0415c22410e058?v=8ad0b3d7" stylelabs-content-id="48133" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48133/thumbnail" />
+- ID: "b06d181c-0380-4d1f-b620-1047706b81f7"
+  Hint: Duration
+  Value: 5
+- ID: "b92f071d-1def-46b6-a749-46efddbd6693"
+  Hint: CTAColor
+  Value: "{F4B4A40B-428A-48B8-907D-F1598EBADC7A}"
+- ID: "e3a24086-71fd-46b8-86b0-6bcce32f6c7b"
+  Hint: BackgroundImage
+  Value: |
+    <image width="1440" height="1024" alt="GF Holidays.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/e94e41f967854f62b6b687f5c717bad7?v=68067c19" stylelabs-content-id="48133" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48133/thumbnail" />
+- ID: "f768fd8c-ee29-421c-8929-b5c21ac10c7b"
+  Hint: CTAType
+  Value: "{9E29A28B-7ED9-41A5-BE7D-66A986A44CC3}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230419T202709Z
+    - ID: "30ae8b3e-baf9-4c21-b07d-b84a42eb305a"
+      Hint: CTA
+      Value: 
+    - ID: "4d098a99-53e3-4afc-8aa6-6b7ee12685a9"
+      Hint: Heading
+      Value: "احجز مع عطلات طيران الخليج!"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7340e826-c3eb-4a15-843d-1d984429c6c6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232124Z
+    - ID: "ed51780d-703a-444e-8e7d-f21c85e743d8"
+      Hint: SubHeading
+      Value: |
+        <p>محطة واحدة للتخطيط لإجازة مذهلة!<br />
+        كل ما تحتاجه  لتلبية احتياجاتك في السفر. سواء كنت ستقضيها في رحلة تسوق أو إجازة مليئة بالمغامرات، خطّط لعطلتك بكل راحة وباختياراتك المفضلة</p>
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T133818Z
+    - ID: "30ae8b3e-baf9-4c21-b07d-b84a42eb305a"
+      Hint: CTA
+      Value: 
+    - ID: "4d098a99-53e3-4afc-8aa6-6b7ee12685a9"
+      Hint: Heading
+      Value: "Buchen Sie Ihren Gulf Air-Urlaub!"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "600241ac-f3dd-4f52-bc1f-bdd96e327532"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232124Z
+    - ID: "ed51780d-703a-444e-8e7d-f21c85e743d8"
+      Hint: SubHeading
+      Value: "<p>Ein brandneuer One-Stop-Shop für Ihre Reisebedürfnisse. Sei es ein Einkaufsbummel oder ein erlebnisreicher Urlaub, planen Sie Ihren Urlaub in Bahrain ganz nach Ihren Wünschen und mit Ihren bevorzugten Optionen.</p>"
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T133818Z
+    - ID: "30ae8b3e-baf9-4c21-b07d-b84a42eb305a"
+      Hint: CTA
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4d098a99-53e3-4afc-8aa6-6b7ee12685a9"
+      Hint: Heading
+      Value: "Book your Gulf Air holiday!"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "31361bb7-af5e-4697-9fb3-a2421ea9048d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232124Z
+    - ID: "ed51780d-703a-444e-8e7d-f21c85e743d8"
+      Hint: SubHeading
+      Value: "<p>A brand new one-stop-shop for your travel needs.  Be it a shopping trip or an adventure-filled vacation, plan your holiday to Bahrain at your own convenience and with your preferred choices.</p>"
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T133818Z
+    - ID: "30ae8b3e-baf9-4c21-b07d-b84a42eb305a"
+      Hint: CTA
+      Value: 
+    - ID: "4d098a99-53e3-4afc-8aa6-6b7ee12685a9"
+      Hint: Heading
+      Value: "Réservez vos vacances à Gulf Air !"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "316e4d8e-529b-4e6f-a295-57bb5ff01370"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232124Z
+    - ID: "ed51780d-703a-444e-8e7d-f21c85e743d8"
+      Hint: SubHeading
+      Value: <p>Un tout nouveau guichet unique pour vos besoins de voyage. Qu'il s'agisse d'une virée shopping ou de vacances remplies d'aventures, planifiez vos vacances à Bahreïn à votre convenance et avec vos choix préférés</p>
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T133818Z
+    - ID: "30ae8b3e-baf9-4c21-b07d-b84a42eb305a"
+      Hint: CTA
+      Value: 
+    - ID: "4d098a99-53e3-4afc-8aa6-6b7ee12685a9"
+      Hint: Heading
+      Value: "Забронируйте отпуск в компании Gulf Air!"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e452f13e-6f52-4e9a-8e80-7b7286cfb748"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232124Z
+    - ID: "ed51780d-703a-444e-8e7d-f21c85e743d8"
+      Hint: SubHeading
+      Value: <p>Совершенно новый универсальный магазин для ваших нужд в путешествии. Будь то поход по магазинам или полный приключений отпуск, спланируйте свой отпуск в Бахрейне так, как вам удобно и с вашим предпочтительным выбором</p>

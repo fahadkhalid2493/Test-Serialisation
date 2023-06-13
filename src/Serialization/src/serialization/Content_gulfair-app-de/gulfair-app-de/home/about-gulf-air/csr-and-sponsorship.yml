@@ -1,0 +1,268 @@
+﻿---
+ID: "af7b96ea-a0da-40a2-831d-cbdf2d5a5d52"
+Parent: "5283695d-b521-46e6-afdb-34b18d9abf93"
+Template: "07f50330-c962-5e98-ae02-814183b76ea0"
+Path: "/sitecore/content/gulfair-app-de/home/about-gulf-air/csr-and-sponsorship"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2300
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{D2A90C12-5AB7-47E4-8190-E12F6279D2A9}"
+          p:after="r[@uid='{78BCE695-62F3-465D-9ACF-B6E971121264}']"
+          s:ds="{8C892597-D145-48EA-8FAB-6370E9CB2173}"
+          s:id="{2FAE24EB-118B-467A-A793-A565ECF56816}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="jss-inner-banner"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{18D81E65-C0DF-4F13-B3FD-EB870E2FB11C}"
+          p:after="r[@uid='{D2A90C12-5AB7-47E4-8190-E12F6279D2A9}']"
+          s:ds="{B764C8BF-CAE0-4EC1-9647-5E288C758872}"
+          s:id="{6D10D3F0-051F-4EA7-A8A1-2AE9ACB77B6B}"
+          s:par="WithMargin=1&amp;BackgroundColor=%7BAA7CCFBF-2B5C-4F85-970E-DCBC25B6923C%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{B1BE6AE2-307D-4D3F-BA7F-DC13E68DA3E1}"
+          p:after="r[@uid='{18D81E65-C0DF-4F13-B3FD-EB870E2FB11C}']"
+          s:ds="{3BD25617-C59C-4FE8-BD6A-72D94A57C2DF}"
+          s:id="{1C3AAC8C-BC24-41C5-AA55-7877822BE3C5}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;BackgroundColor=%7B89330C54-4FC1-4573-913A-BC08CCDEBD5B%7D&amp;CTAColor=%7BAA7CCFBF-2B5C-4F85-970E-DCBC25B6923C%7D&amp;WithMargin"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{9A7F0C8D-CC12-477F-9390-0D85136E888C}"
+          p:after="r[@uid='{B1BE6AE2-307D-4D3F-BA7F-DC13E68DA3E1}']"
+          s:ds="{44ED3BF0-FE01-4F56-A4CD-4D370653A3C6}"
+          s:id="{6E246FF7-B375-4AF1-86C1-50F28AFB52C6}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{AFD6D1A1-775F-49C7-AA7B-60919CF09A94}"
+          p:after="r[@uid='{9A7F0C8D-CC12-477F-9390-0D85136E888C}']"
+          s:ds="{29558823-F128-420B-A13A-F0BFD510E25E}"
+          s:id="{E9709E8A-BD03-47A5-9240-44EC7015DB54}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{4CE4AD5F-3ABD-4AA8-9590-0BC64CA916EF}"
+          p:after="r[@uid='{AFD6D1A1-775F-49C7-AA7B-60919CF09A94}']"
+          s:ds="{AC6DA6F7-8153-4CC2-857F-386128F027E9}"
+          s:id="{9275948F-71FC-4A0D-99AE-D7773036B3E0}"
+          s:par="CTAType1=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;BackgroundColor=%7B89330C54-4FC1-4573-913A-BC08CCDEBD5B%7D&amp;CTAColor1=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D&amp;CTAType2=%7BB3C4407E-7461-4B34-B944-D581BA981A27%7D&amp;CTAColor2=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{E412CFAA-6581-47A0-9CD2-635D4B2EEC55}"
+          p:after="r[@uid='{4CE4AD5F-3ABD-4AA8-9590-0BC64CA916EF}']"
+          s:ds="{339EA07C-6234-4A0A-BB1F-20D8CF0B32C9}"
+          s:id="{7A3813BC-8D3F-43ED-B953-49F9657F75C8}"
+          s:par="BackgroundColor=%7B7C4FD76D-3B0F-42EA-A617-03C670A8A379%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{390CF56B-8C20-4A60-BC7A-4526A67339FE}"
+          p:after="r[@uid='{E412CFAA-6581-47A0-9CD2-635D4B2EEC55}']"
+          s:ds="{F444FF8F-9B4E-46E7-B7C8-2F526AC0D4F3}"
+          s:id="{891FD600-9656-4656-9751-252A6DCB1D21}"
+          s:par="BackgroundColor=%7BF4B4A40B-428A-48B8-907D-F1598EBADC7A%7D&amp;WithMargin"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230208T132009Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: المسؤولية الاجتماعية للشركات ورعايتها
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: المسؤولية الاجتماعية للشركات ورعايتها
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "123c0fd0-019d-4798-a244-15403992214b"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: المسؤولية الاجتماعية للشركات ورعايتها
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: المسؤولية الاجتماعية للشركات ورعايتها
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T123741Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T153005Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Soziale Verantwortung und Sponsoring von Unternehmensunternehmen
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ramish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ramish
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Soziale Verantwortung und Sponsoring von Unternehmensunternehmen
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f68d2da6-867d-460c-8f7f-084f9d328da7"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Soziale Verantwortung und Sponsoring von Unternehmensunternehmen
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Soziale Verantwortung und Sponsoring von Unternehmensunternehmen
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T123759Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T130125Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Corporate Social Responsibility and Sponsorship
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Corporate Social Responsibility and Sponsorship
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8570f64c-8bef-4437-903d-1e38435359d2"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Corporate Social Responsibility and Sponsorship
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Corporate Social Responsibility and Sponsorship
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T123453Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T153057Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Responsabilité sociale et parrainage des entreprises
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ramish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ramish
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Responsabilité sociale et parrainage des entreprises
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "821371d9-f569-4204-b453-d2a031a5309b"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Responsabilité sociale et parrainage des entreprises
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Responsabilité sociale et parrainage des entreprises
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T123749Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T153100Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Корпоративная социальная ответственность и спонсорство
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ramish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ramish
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Корпоративная социальная ответственность и спонсорство
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5dc0ae7a-fb9e-4d1f-a740-9fd48587c14e"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Корпоративная социальная ответственность и спонсорство
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Корпоративная социальная ответственность и спонсорство
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T123808Z

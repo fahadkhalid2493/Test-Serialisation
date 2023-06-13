@@ -1,0 +1,379 @@
+﻿---
+ID: "56a702f5-865f-4bf5-8ab5-a837715a0b3c"
+Parent: "2c3175e6-da9d-45d6-9b81-8a0951120b9a"
+Template: "442819bb-7f40-4254-ace9-6890bba50f83"
+Path: /sitecore/content/Global/Global Header Folder/Standard Global Header/RightNavigation/Explore/By Experience
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{98270EC9-6559-4687-9E7F-B0DC5BDA8903}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "d8659908-123e-4a5b-9ce5-ff5c083ec776"
+  Hint: LevelList
+  Value: |
+    {DFEA2D74-3819-439C-BA3A-B622AD9AFCAE}
+    {6DEC59FB-A650-49B5-B2E9-840CBF694CB2}
+    {4C1BF94D-BF8F-4C00-A411-E53AB37DC951}
+    {EB50B824-09AE-43E1-8382-3BB7B6E471DE}
+- ID: "e68f7f12-575f-48aa-87ad-4dfe356af824"
+  Hint: BannerImage
+  Value: |
+    <image width="450" height="200" alt="Maldives-1440 x 750.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/b9fb92e16e544ea4bbdf21357aeb3b14?v=34c2c02a" stylelabs-content-id="46616" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/46616/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230113T144924Z
+    - ID: "45889cca-9b88-45fc-bc92-6c98c83c0f21"
+      Hint: BannerDescription
+      Value: 
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="By Experience" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4ff8a5c8-ae44-4276-a08b-38e801587ed3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230120T182902Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "45889cca-9b88-45fc-bc92-6c98c83c0f21"
+      Hint: BannerDescription
+      Value: 
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: حلق إلى المالديف
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="احجز الآن" linktype="external" url="https://flights.gulfair.com" anchor="" target="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="اختر تجربة السفر" linktype="anchor" url="#" anchor="#" title="" class="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a3d19325-43fb-4e16-863f-eae3a8defc1c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225851Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "45889cca-9b88-45fc-bc92-6c98c83c0f21"
+      Hint: BannerDescription
+      Value: 
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="By Experience" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b728ef39-aa5f-4dc2-8eb7-0e7e90d50ebb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120625Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "45889cca-9b88-45fc-bc92-6c98c83c0f21"
+      Hint: BannerDescription
+      Value: 
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Fly to Maldives
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Book Now" linktype="external" url="https://flights.gulfair.com" anchor="" target="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="durch Erfahrung" linktype="anchor" url="#" anchor="#" title="" class="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "60e059b5-6c4d-48b2-9550-fcf36fdcbf08"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225851Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "45889cca-9b88-45fc-bc92-6c98c83c0f21"
+      Hint: BannerDescription
+      Value: 
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Fly to Maldives
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Book Now" linktype="external" url="https://flights.gulfair.com/" anchor="" target="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="By Experience" linktype="anchor" url="#" anchor="#" title="" class="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ebe0b612-0242-478d-a6d0-cfd1d50ae830"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225851Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "45889cca-9b88-45fc-bc92-6c98c83c0f21"
+      Hint: BannerDescription
+      Value: 
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="By Experience" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "30264595-f433-44fb-aa14-db81a79c773e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120541Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "45889cca-9b88-45fc-bc92-6c98c83c0f21"
+      Hint: BannerDescription
+      Value: 
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Fly to Maldives
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Book Now" linktype="external" url="https://flights.gulfair.com" anchor="" target="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="par expérience" linktype="anchor" url="#" anchor="#" title="" class="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97244f2c-9a4c-45de-a838-b0ffea901653"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225851Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "45889cca-9b88-45fc-bc92-6c98c83c0f21"
+      Hint: BannerDescription
+      Value: 
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Romantic Gateways
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="By Experience" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b59bd202-92e2-4a52-afbf-407148df73f3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120441Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T141145Z
+    - ID: "45889cca-9b88-45fc-bc92-6c98c83c0f21"
+      Hint: BannerDescription
+      Value: 
+    - ID: "5261f5b4-79b8-4286-a03c-920478751204"
+      Hint: BannerTitle
+      Value: Fly to Maldives
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74b366c4-38d0-45e9-af94-d94a8f1e0e5c"
+      Hint: BannerCTA
+      Value: |
+        <link text="Book Now" linktype="external" url="https://flights.gulfair.com" anchor="" target="" />
+    - ID: "800d6e5a-7f92-4eb5-b33a-a9266834429e"
+      Hint: CTA
+      Value: |
+        <link text="по опыту" linktype="anchor" url="#" anchor="#" title="" class="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1eb84e72-7b48-472b-911b-04a2f80c1d55"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225851Z

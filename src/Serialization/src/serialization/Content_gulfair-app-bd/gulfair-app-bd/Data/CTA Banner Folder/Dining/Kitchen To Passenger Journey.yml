@@ -1,0 +1,249 @@
+﻿---
+ID: "26270785-95d0-4b2c-b5f0-f07bf74e557e"
+Parent: "ee7cbfcf-d567-4bb3-9915-ec46ffac8ec1"
+Template: "183e3d21-b170-43ab-ab6f-5a2cf0ed9d3e"
+Path: "/sitecore/content/gulfair-app-bd/Data/CTA Banner Folder/Dining/Kitchen To Passenger Journey"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "2c4184a0-1b39-4931-ad0f-ade20e7d3183"
+  Hint: IsVideoPopup
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Check Out Latest Release
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: The journey from Kitchen to you
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T141247Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d5516d6-b145-412b-b9d0-4f53247b9205"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231700Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: "<p>Discover the fascinating and little understood process of preparing 10,000 in-flight meals each and every day. Arcu bibendu.</p>"
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Check Out Latest Release
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: Check out our latest releases.
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T141247Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="335" height="214" alt="LatestReleaseCTABannerImageMobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/55fe12ab6feb47c7bfd705b1c6d75712?v=1398ce21" stylelabs-content-id="39535" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39535/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f875e185-2ca3-4348-a921-d07280c204a8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231700Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: <p>Take your pick from hundreds of the latest films, television programmes, albums, audio books and games.</p>
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: The journey from Kitchen to you
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T141247Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="325" height="214" alt="PrepaidLoungeCalloutMobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/722448a58140444f965e6802a182d81c?v=3275b29b" stylelabs-content-id="38086" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38086/thumbnail" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "764e3575-d319-4853-ac53-cd1367121c66"
+      Hint: PopupSubTitle
+      Value: Video
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a31bfdfe-042e-4d88-99c7-8f242d230bc2"
+    - ID: "b98d5a13-020b-4942-a666-8623979f22c6"
+      Hint: PopupTitle
+      Value: The journey from Kitchen to you
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231700Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: "<p>Discover the fascinating and little understood process of preparing 10,000 in-flight meals each and every day. Arcu bibendu.</p>"
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Check Out Latest Release
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: Check out our latest releases.
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T141247Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="335" height="214" alt="LatestReleaseCTABannerImageMobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/55fe12ab6feb47c7bfd705b1c6d75712?v=1398ce21" stylelabs-content-id="39535" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39535/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e96f812d-0358-4615-a36a-4443151ff05e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231700Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: <p>Take your pick from hundreds of the latest films, television programmes, albums, audio books and games.</p>
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Check Out Latest Release
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: Check out our latest releases.
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T141247Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="335" height="214" alt="LatestReleaseCTABannerImageMobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/55fe12ab6feb47c7bfd705b1c6d75712?v=1398ce21" stylelabs-content-id="39535" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39535/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db68ba25-f69c-4003-8196-0f3487940ee1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231700Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: <p>Take your pick from hundreds of the latest films, television programmes, albums, audio books and games.</p>

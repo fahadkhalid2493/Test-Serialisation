@@ -1,0 +1,168 @@
+{
+  "namespace": "Project",
+  "items": {
+    "includes": [
+
+      {
+        "name": "templateFoundation",
+        "path": "/sitecore/templates/Foundation",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "templateFeature",
+        "path": "/sitecore/templates/Feature",
+        "rules": [
+          {
+            "path": "/gulfair-app",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+
+          }
+
+        ]
+      },
+      {
+        "name": "templateProject",
+        "path": "/sitecore/templates/Project",
+        "rules": [
+          {
+            "path": "/Global Modules",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          },
+          {
+            "path": "/gulfair-app",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          },
+          {
+            "path": "/Rendering Parameters",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+
+          }
+
+        ]
+
+      },
+
+      {
+        "name": "renderingsFeature",
+        "path": "/sitecore/layout/Renderings/Feature",
+        "rules": [
+          {
+            "path": "/gulfair-app",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+
+        ]
+
+      },
+ 
+      {
+        "name": "placeholholderSettings",
+        "path": "/sitecore/layout/Placeholder Settings/Project",
+        "rules": [
+          {
+            "path": "/gulfair-app",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          },
+
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+
+        ]
+
+      },
+
+      {
+        "name": "layout",
+        "path": "/sitecore/layout/Layouts/Project",
+        "rules": [
+          {
+            "path": "/gulfair-app",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          },
+
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+
+        ]
+      },
+      {
+        "name": "system",
+        "path": "/sitecore/system/Modules/DAM",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "forms",
+        "path": "/sitecore/Forms",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "content",
+        "path": "/sitecore/content",
+
+        "rules": [
+          {
+            "path": "/Dark Site Datasource",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          },
+          {
+            "path": "/Destination Datasource",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          },
+          {
+            "path": "/Global Configuration",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          },
+
+          {
+            "path": "/Global",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          },
+
+
+          {
+            "path": "/gulfair-app",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+        ]
+      }
+
+
+
+    ]
+  }
+}

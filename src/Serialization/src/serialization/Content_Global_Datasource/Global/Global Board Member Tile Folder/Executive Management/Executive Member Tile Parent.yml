@@ -1,0 +1,158 @@
+﻿---
+ID: "5dc36769-d472-4ce2-bde7-d75960cc85cf"
+Parent: "faa85477-251b-488d-9727-b51c45bc947d"
+Template: "cf4b50a3-8660-4dc4-8c3f-ad57b80c69cd"
+Path: /sitecore/content/Global/Global Board Member Tile Folder/Executive Management/Executive Member Tile Parent
+SharedFields:
+- ID: "8deba75d-d7e7-4dd7-bd7e-67f57b4367f2"
+  Hint: MemberTiles
+  Value: |
+    {D81FBE13-8C98-489F-AF03-226BF7A37FEA}
+    {A818C75F-8185-47EE-BB49-C95BA1B88ACF}
+    {0D3E2C2B-CA81-4B3E-8B0F-00C90C834EC9}
+    {96B32EAE-CE6A-497B-8BB2-8312E05E5E29}
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19017306-8bcd-460f-9f47-0f37ff5ca720"
+      Hint: ModalHeading
+      Value: الادارة التنفيذية
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T112104Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "148ccfb6-63ed-498d-9485-a5c82b218424"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilal
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230531T125047Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19017306-8bcd-460f-9f47-0f37ff5ca720"
+      Hint: ModalHeading
+      Value: Executive Management
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230519T151026Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b374bbbc-afe9-42e0-a0af-46005a70f3c3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T151029Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19017306-8bcd-460f-9f47-0f37ff5ca720"
+      Hint: ModalHeading
+      Value: Executive Management
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T112104Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "87ec55fe-f043-40b4-a7dd-32b1fc7a2b2f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T105129Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19017306-8bcd-460f-9f47-0f37ff5ca720"
+      Hint: ModalHeading
+      Value: Direction
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230519T151020Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4d9063d-bb0c-49eb-ad70-b7610906be7e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilal
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230531T125056Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19017306-8bcd-460f-9f47-0f37ff5ca720"
+      Hint: ModalHeading
+      Value: Исполнительная дирекция
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230519T150922Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bcd5d4f7-7153-464b-b88d-8a94e8fdd372"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilal
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230531T125113Z

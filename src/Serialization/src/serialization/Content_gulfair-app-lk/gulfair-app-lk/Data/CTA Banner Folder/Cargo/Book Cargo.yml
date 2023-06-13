@@ -1,0 +1,246 @@
+﻿---
+ID: "a4f46793-f87c-4072-b97e-d8a4086e4bd4"
+Parent: "08772dec-a394-4405-8e5e-89b9cb167dd7"
+Template: "183e3d21-b170-43ab-ab6f-5a2cf0ed9d3e"
+Path: "/sitecore/content/gulfair-app-lk/Data/CTA Banner Folder/Cargo/Book Cargo"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Check Out Latest Release
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: Book Cargo
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: |
+        <link text="Watch the video" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T141247Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="325" height="214" alt="Image.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/3fa1d3eb5d6d477896348c8e51f23671?v=381a9dde" stylelabs-content-id="41852" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41852/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71bb057c-e7a0-4799-97c3-6de0bd4ab687"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234718Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: <p>Whether your consignment is big, small, precious or perishable, we're committed to ensuring your cargo is handled responsibly and efficiently every step of the way.</p>
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Check Out Latest Release
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: Check out our latest releases.
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: |
+        <link id="{61484358-02D6-4F4F-B096-D198EBB30482}" querystring="" linktype="internal" text="See what’s on" anchor="" url="/gulfair-app/home/flying-with-us/on-board/in-flight-entertainment" title="" class="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T141247Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="335" height="214" alt="LatestReleaseCTABannerImageMobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/55fe12ab6feb47c7bfd705b1c6d75712?v=1398ce21" stylelabs-content-id="39535" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39535/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ad60712-9153-46a3-b0f1-3c674cddf55d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234718Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: <p>Take your pick from hundreds of the latest films, television programmes, albums, audio books and games.</p>
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: Book Cargo
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: |
+        <link text="Book cargo" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T141247Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="325" height="214" alt="Image.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/3fa1d3eb5d6d477896348c8e51f23671?v=fb2c5d65" stylelabs-content-id="41852" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41852/thumbnail" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f823a91-cd08-4964-9993-cab4169e7453"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234718Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: <p>Whether your consignment is big, small, precious or perishable, we're committed to ensuring your cargo is handled responsibly and efficiently every step of the way.</p>
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Check Out Latest Release
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: Check out our latest releases.
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: |
+        <link id="{61484358-02D6-4F4F-B096-D198EBB30482}" querystring="" linktype="internal" text="See what’s on" anchor="" url="/gulfair-app/home/flying-with-us/on-board/in-flight-entertainment" title="" class="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T141247Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="335" height="214" alt="LatestReleaseCTABannerImageMobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/55fe12ab6feb47c7bfd705b1c6d75712?v=1398ce21" stylelabs-content-id="39535" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39535/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9bf1f9b3-b251-4474-91ae-de5bf6396616"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234718Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: <p>Take your pick from hundreds of the latest films, television programmes, albums, audio books and games.</p>
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Check Out Latest Release
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: Check out our latest releases.
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: |
+        <link id="{61484358-02D6-4F4F-B096-D198EBB30482}" querystring="" linktype="internal" text="See what’s on" anchor="" url="/gulfair-app/home/flying-with-us/on-board/in-flight-entertainment" title="" class="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T141247Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="335" height="214" alt="LatestReleaseCTABannerImageMobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/55fe12ab6feb47c7bfd705b1c6d75712?v=1398ce21" stylelabs-content-id="39535" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39535/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1dcac0c-66f1-43b1-9b9f-9192bba05b9b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234718Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: <p>Take your pick from hundreds of the latest films, television programmes, albums, audio books and games.</p>

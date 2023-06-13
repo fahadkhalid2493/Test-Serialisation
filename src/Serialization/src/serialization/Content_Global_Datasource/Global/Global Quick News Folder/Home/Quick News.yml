@@ -1,0 +1,65 @@
+﻿---
+ID: "d38f27b2-5cd2-45ea-8a07-c1517673d66d"
+Parent: "7e9c36b2-6104-45a7-bc61-048080fba783"
+Template: "72246e6d-d22d-4dc0-bc15-80f139ce4fbd"
+Path: /sitecore/content/Global/Global Quick News Folder/Home/Quick News
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T132148Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "801992e9-3b10-4af0-89bc-8b7789685c3e"
+      Hint: DetailCTALabel
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9021bec4-b6f9-402f-be24-7a454016781d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230514T134505Z
+    - ID: "dd823107-fd23-468a-9427-62e2d4899e1a"
+      Hint: NewsList
+      Value: |
+        {419F76CC-2E49-4760-864D-E1195145C242}
+        {A6580A1D-D043-46A5-9D93-608D43C54E7C}
+        {9AE592FB-DB08-4314-9959-75126A997D91}
+        {371E428F-C41F-4D0B-B255-5852FA506EE0}
+    - ID: "f7881e40-f169-4cba-abbe-55e6b2d0f858"
+      Hint: CTA
+      Value: |
+        <link text="Media center" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{97BDB8F8-532E-4364-B50D-32B29D4B115D}" />
+    - ID: "fee6736f-207d-43c0-8da9-78308b93963f"
+      Hint: Heading
+      Value: Gulf Air News

@@ -1,0 +1,84 @@
+﻿---
+ID: "81bc7bbf-7073-41c2-ae76-2b8ab840f1c8"
+Parent: "f07cd31e-82b5-4ff4-9b28-63b368c44185"
+Template: "672a3c0e-080b-4476-bb32-81753d06b6a6"
+Path: /sitecore/content/Dark Site Datasource/Dark Site Banner
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2010c771-b568-4b16-9808-f648c2d3e192"
+      Hint: Heading
+      Value: "Latest News about Flight GF-123"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230330T055116Z
+    - ID: "28ea7c0c-830d-432c-afbb-754414e92b6c"
+      Hint: Title
+      Value: Hot Line
+    - ID: "2c8906d3-7d9b-4067-bc54-e057f604cae1"
+      Hint: Phone
+      Value: +1 800 333 9999
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5837144d-5949-4a92-8a07-729a5b122630"
+      Hint: SubText
+      Value: |
+        <p>Our team is available 24/7 to take your call.<br />
+        Please call our hotline if you have any information to help with the investigation. Thank you.<br />
+        <br />
+        </p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f552e031-b53d-4734-bd0d-cb33a2500dd8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\abyes
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230503T110017Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2010c771-b568-4b16-9808-f648c2d3e192"
+      Hint: Heading
+      Value: "Latest News about Flight GF-XXX"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230330T055116Z
+    - ID: "28ea7c0c-830d-432c-afbb-754414e92b6c"
+      Hint: Title
+      Value: Hot Line
+    - ID: "2c8906d3-7d9b-4067-bc54-e057f604cae1"
+      Hint: Phone
+      Value: +1 800 333 9999
+    - ID: "5837144d-5949-4a92-8a07-729a5b122630"
+      Hint: SubText
+      Value: |
+        Our team is available 24/7 to take your call.<br />
+        Please call our hotline if you have any information to help with the investigation. Thank you.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cdbc5d74-73bc-401f-b864-5b37e3b45470"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazi
+    - ID: "cadaa370-6ea3-437d-98f6-030dbe7087cd"
+      Hint: News
+      Value: |
+        {23093C84-4A03-4189-B992-60385F4FD33A}
+        {AE8B11DE-19B9-4CD2-A03D-6B278A08635E}
+        {282F528D-9471-416F-8D0C-2E78F1F11B4D}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230604T151953Z

@@ -1,0 +1,201 @@
+﻿---
+ID: "7ad900de-1a06-4063-91ea-d7b3da7ce0c2"
+Parent: "9efa68d8-1ec6-4c0e-8f76-2c14997653d5"
+Template: "183e3d21-b170-43ab-ab6f-5a2cf0ed9d3e"
+Path: "/sitecore/content/gulfair-app-ph/Data/CTA Banner Folder/CheckIn/PrepaidLoungeAccess"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: Prepaid lounge access
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: |
+        <link text="Get Access" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230202T071823Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="325" height="214" alt="PrepaidLoungeCalloutMobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/722448a58140444f965e6802a182d81c?v=c0321f61" stylelabs-content-id="38086" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38086/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c80ee145-420d-4368-81bf-e58b143cc7a9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235441Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse</p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: Prepaid lounge access
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: |
+        <link text="Get Access" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230202T071823Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="325" height="214" alt="PrepaidLoungeCalloutMobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/722448a58140444f965e6802a182d81c?v=681df215" stylelabs-content-id="38086" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38086/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6da6fd1-a393-4d5b-8ab9-ebcc05b94539"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235441Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse</p>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: Prepaid lounge access
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: |
+        <link text="Get Access" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230202T071823Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="325" height="214" alt="PrepaidLoungeCalloutMobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/722448a58140444f965e6802a182d81c?v=681df215" stylelabs-content-id="38086" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38086/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7952297b-1d1e-496e-845a-07c1d3de06e6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235441Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse</p>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: Prepaid lounge access
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: |
+        <link text="Get Access" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230202T071823Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="325" height="214" alt="PrepaidLoungeCalloutMobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/722448a58140444f965e6802a182d81c?v=681df215" stylelabs-content-id="38086" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38086/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f8070d96-3a5a-4cad-9ff4-0c14b7e0223f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235441Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: Prepaid lounge access
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: |
+        <link text="Get Access" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230202T071823Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="325" height="214" alt="PrepaidLoungeCalloutMobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/722448a58140444f965e6802a182d81c?v=681df215" stylelabs-content-id="38086" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38086/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "030ed140-72f0-48f7-b05f-ba62b44cbc5b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235441Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse</p>

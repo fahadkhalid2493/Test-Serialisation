@@ -1,0 +1,173 @@
+﻿---
+ID: "44c0c49f-7c46-48db-8fb5-cea757477825"
+Parent: "688b906c-9a23-496d-877d-41582855cd7d"
+Template: "7123002c-16f9-4920-b373-1759bbe65ed1"
+Path: "/sitecore/content/gulfair-app-om/Data/CabinExperienceTabAndSliderFolder/CabinExperienceTabAndSliderParentList/Airbus A320Neo/Economy Cabin/Copy of Spacious seating"
+SharedFields:
+- ID: "5f488e17-0d69-4ba5-b390-eae00cf41111"
+  Hint: Image
+  Value: |
+    <image width="1101" height="550" alt="promo-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/3cd7e96f4ad24a79955ddc40eac6e2f5?v=e7f5ce77" stylelabs-content-id="41478" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41478/thumbnail" />
+- ID: "a7b92fc5-60c6-4d38-9352-b25bbf3e8e05"
+  Hint: MobileImage
+  Value: |
+    <image width="285" height="337" alt="promo-mobile-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/c87520244ce546f59466b3b40509d4d4?v=684361ac" stylelabs-content-id="41476" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41476/thumbnail" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T134150Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "6fc2da6d-80b1-45bc-86a8-5ab37e800564"
+      Hint: ImageSubTitle
+      Value: "<p>Enjoy spacious seats of 80-89 inches wide. Each of the 26 Falcon Gold seats recline fully and are equipped with privacy screens for ultimate comfort in sleeping during your flight.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1392950d-ad64-43f4-8eb7-6ce783eaec6b"
+    - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
+      Hint: ImageTitle
+      Value: Spacious seating
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235228Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T134150Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "6fc2da6d-80b1-45bc-86a8-5ab37e800564"
+      Hint: ImageSubTitle
+      Value: "<p>Enjoy spacious seats of 80-89 inches wide. Each of the 26 Falcon Gold seats recline fully and are equipped with privacy screens for ultimate comfort in sleeping during your flight.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "16a63242-bed0-43d2-bebd-11fcb5dd27a5"
+    - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
+      Hint: ImageTitle
+      Value: Spacious seating
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235228Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T134150Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "6fc2da6d-80b1-45bc-86a8-5ab37e800564"
+      Hint: ImageSubTitle
+      Value: "<p>Enjoy spacious seats of 80-89 inches wide. Each of the 26 Falcon Gold seats recline fully and are equipped with privacy screens for ultimate comfort in sleeping during your flight1.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b0089c87-7dec-42ee-a402-ed4067d4b311"
+    - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
+      Hint: ImageTitle
+      Value: Spacious seating
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235228Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T134150Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "6fc2da6d-80b1-45bc-86a8-5ab37e800564"
+      Hint: ImageSubTitle
+      Value: "<p>Enjoy spacious seats of 80-89 inches wide. Each of the 26 Falcon Gold seats recline fully and are equipped with privacy screens for ultimate comfort in sleeping during your flight.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e6213d6b-6120-4fc0-a058-a6a85a4fb92a"
+    - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
+      Hint: ImageTitle
+      Value: Spacious seating
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235228Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T134150Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "6fc2da6d-80b1-45bc-86a8-5ab37e800564"
+      Hint: ImageSubTitle
+      Value: "<p>Enjoy spacious seats of 80-89 inches wide. Each of the 26 Falcon Gold seats recline fully and are equipped with privacy screens for ultimate comfort in sleeping during your flight.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e11e59e8-1929-46a9-9485-b767b692516b"
+    - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
+      Hint: ImageTitle
+      Value: Spacious seating
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235228Z

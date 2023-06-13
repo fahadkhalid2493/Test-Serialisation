@@ -1,0 +1,236 @@
+﻿---
+ID: "81bc5c67-cbab-4b88-9a2f-80193bd5b250"
+Parent: "3d88fc46-97d7-4d5f-832e-680da5dedd3e"
+Template: "507baf32-190f-450d-9627-7a6a794f92a8"
+Path: "/sitecore/content/gulfair-app-mv/Data/Full Width Vertical Sliding Banner Folder/Gulf Air App/App Benefits/App Benefits"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "4adbccaf-66db-4572-83b0-45a97d6e1721"
+  Hint: EnablePopup
+  Value: 
+- ID: "7aa59fac-b607-43af-b92d-827bfd45a873"
+  Hint: Image
+  Value: |
+    <image width="1440" height="938" alt="Vertical Slider.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/8a1bc0035f6f4476ae7c6966ac5ecc03?v=1c059da2" stylelabs-content-id="39035" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39035/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T093550Z
+    - ID: "2f4a53a2-4df2-4f20-a5a2-4967d5fc9a7f"
+      Hint: CTA
+      Value: |
+        <link text="قم بتنزيل التطبيق" linktype="external" url="/" anchor="" target="" />
+    - ID: "508e79bd-da47-42f8-88df-5c2fada7e89a"
+      Hint: SubHeading
+      Value: تحقق في الانترنت
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "28592cd8-61af-47c0-aed2-1996f1610f35"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c907c8ed-adf8-4873-8262-7cf11a77eb28"
+      Hint: Heading
+      Value: فوائد التطبيق
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235049Z
+    - ID: "e0b85415-9681-4d90-8692-63450f443586"
+      Hint: Description
+      Value: <p>هنالك العديد من الأنواع المتوفرة لنصوص لوريم إيبسوم، ولكن الغالبية تم تعديلها بشكل ما عبر إدخال بعض النوادر أو الكلمات العشوائية إلى النص. إن كنت تريد أن تستخدم نص لوريم إيبسوم ما، عليك أن تتحقق أولاً أن ليس هناك أي كلمات أو عبارات محرجة أو غير لائقة مخبأة في هذا النص. بينما تعمل جميع مولّدات نصوص لوريم إيبسوم على الإنترنت على إعادة تكرار مقاطع من نص لوريم إيبسوم نفسه عدة مرات بما تتطلبه الحاجة، يقوم مولّدنا هذا باستخدام كلمات من قاموس </p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T093550Z
+    - ID: "2f4a53a2-4df2-4f20-a5a2-4967d5fc9a7f"
+      Hint: CTA
+      Value: |
+        <link text="Download the App" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "508e79bd-da47-42f8-88df-5c2fada7e89a"
+      Hint: SubHeading
+      Value: "Check-in Online"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "69a8acf9-17b6-44b7-8210-d067423c9ee8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c907c8ed-adf8-4873-8262-7cf11a77eb28"
+      Hint: Heading
+      Value: App Benefits
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235049Z
+    - ID: "e0b85415-9681-4d90-8692-63450f443586"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque.</p>
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T093550Z
+    - ID: "2f4a53a2-4df2-4f20-a5a2-4967d5fc9a7f"
+      Hint: CTA
+      Value: |
+        <link text="Download the App" linktype="external" url="/" anchor="" target="" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "508e79bd-da47-42f8-88df-5c2fada7e89a"
+      Hint: SubHeading
+      Value: "Check-in Online"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6dc899c2-a22d-4577-bf1c-3353856d527f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c907c8ed-adf8-4873-8262-7cf11a77eb28"
+      Hint: Heading
+      Value: App Benefits
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235049Z
+    - ID: "e0b85415-9681-4d90-8692-63450f443586"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque.</p>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T093550Z
+    - ID: "2f4a53a2-4df2-4f20-a5a2-4967d5fc9a7f"
+      Hint: CTA
+      Value: |
+        <link text="Download the App" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "508e79bd-da47-42f8-88df-5c2fada7e89a"
+      Hint: SubHeading
+      Value: "Check-in Online"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c480037e-4fa4-4656-8c46-0513cdb003bb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c907c8ed-adf8-4873-8262-7cf11a77eb28"
+      Hint: Heading
+      Value: App Benefits
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235049Z
+    - ID: "e0b85415-9681-4d90-8692-63450f443586"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque.</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T093550Z
+    - ID: "2f4a53a2-4df2-4f20-a5a2-4967d5fc9a7f"
+      Hint: CTA
+      Value: |
+        <link text="Download the App" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "508e79bd-da47-42f8-88df-5c2fada7e89a"
+      Hint: SubHeading
+      Value: "Check-in Online"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "73ee54e1-107b-485f-b18f-cb5d40e5282c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c907c8ed-adf8-4873-8262-7cf11a77eb28"
+      Hint: Heading
+      Value: App Benefits
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235049Z
+    - ID: "e0b85415-9681-4d90-8692-63450f443586"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque.</p>

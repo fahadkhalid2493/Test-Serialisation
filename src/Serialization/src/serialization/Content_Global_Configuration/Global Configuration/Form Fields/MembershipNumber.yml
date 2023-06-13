@@ -1,0 +1,187 @@
+﻿---
+ID: "5fef3ab9-c1f9-4d04-912d-6728df7ae7f9"
+Parent: "20966d1d-8845-4a20-8f3c-88f681ba0512"
+Template: "12142ef5-01dc-4fc3-a9fb-97af03e9a33d"
+Path: /sitecore/content/Global Configuration/Form Fields/MembershipNumber
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230116T105602Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "53b2cac8-026d-4db4-9ef0-a33e4a7fd26c"
+      Hint: Label
+      Value: رقم العضوية
+    - ID: "5843c54b-f2df-4d90-9b10-de0ce88156b5"
+      Hint: Placeholder
+      Value: رقم العضوية
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "61962b7c-a711-492e-ac77-3b01b52772e6"
+      Hint: Error
+      Value: يرجى إدخال هذه الخانة
+    - ID: "6c641a71-6a22-4f6c-ba07-1796368e6e37"
+      Hint: Required
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e9c537b-07cd-4440-affb-33df88d48b2a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilal
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230531T080825Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230116T105602Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "53b2cac8-026d-4db4-9ef0-a33e4a7fd26c"
+      Hint: Label
+      Value: Mitgliedsnummer
+    - ID: "5843c54b-f2df-4d90-9b10-de0ce88156b5"
+      Hint: Placeholder
+      Value: Mitgliedsnummer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "61962b7c-a711-492e-ac77-3b01b52772e6"
+      Hint: Error
+      Value: This field is required
+    - ID: "6c641a71-6a22-4f6c-ba07-1796368e6e37"
+      Hint: Required
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b336d36a-5425-4178-a82f-032953bea5a4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230530T062056Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230116T105602Z
+    - ID: "53b2cac8-026d-4db4-9ef0-a33e4a7fd26c"
+      Hint: Label
+      Value: Membership Number
+    - ID: "5843c54b-f2df-4d90-9b10-de0ce88156b5"
+      Hint: Placeholder
+      Value: Membership Number
+    - ID: "61962b7c-a711-492e-ac77-3b01b52772e6"
+      Hint: Error
+      Value: This field is required
+    - ID: "6c641a71-6a22-4f6c-ba07-1796368e6e37"
+      Hint: Required
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e2e8b3a0-3071-47b1-9941-9a9dc680525a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230118T134036Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230116T105602Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "53b2cac8-026d-4db4-9ef0-a33e4a7fd26c"
+      Hint: Label
+      Value: Numéro de membre
+    - ID: "5843c54b-f2df-4d90-9b10-de0ce88156b5"
+      Hint: Placeholder
+      Value: Numéro de membre
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "61962b7c-a711-492e-ac77-3b01b52772e6"
+      Hint: Error
+      Value: This field is required
+    - ID: "6c641a71-6a22-4f6c-ba07-1796368e6e37"
+      Hint: Required
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d3073a6-59cc-402a-82a5-792053329910"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230530T062046Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230116T105602Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "53b2cac8-026d-4db4-9ef0-a33e4a7fd26c"
+      Hint: Label
+      Value: Количество членов
+    - ID: "5843c54b-f2df-4d90-9b10-de0ce88156b5"
+      Hint: Placeholder
+      Value: Количество членов
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "61962b7c-a711-492e-ac77-3b01b52772e6"
+      Hint: Error
+      Value: This field is required
+    - ID: "6c641a71-6a22-4f6c-ba07-1796368e6e37"
+      Hint: Required
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eccc1e9b-f4b0-4533-b199-e8be5867c869"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230530T062103Z

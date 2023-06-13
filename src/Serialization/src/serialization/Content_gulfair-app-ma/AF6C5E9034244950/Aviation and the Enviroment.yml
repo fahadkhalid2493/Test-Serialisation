@@ -1,0 +1,244 @@
+﻿---
+ID: "3f313d39-0b6d-4b45-85df-f10c5f5070e5"
+Parent: "7d54bfd1-1c7d-4bf4-8adc-ec4480ba59a0"
+Template: "ccf252a7-d3e3-401a-95e5-b42bdf2c187a"
+Path: "/sitecore/content/gulfair-app-ma/Data/Two Column Section Folder/Corporate social resposibility/TwoColumnSectionParent/Aviation and the Enviroment"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "709d2fac-25a4-45d5-8dc5-23703849e530"
+  Hint: Image
+  Value: |
+    <image width="640" height="474" alt="AviationAndEnvironment.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/17cc72b663a94bda8c21b8177463288f?v=6f787623" stylelabs-content-id="39345" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39345/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Aviation and the Enviroment
+    - ID: "0f3b38f7-9d77-4092-908e-1d07c0fe6a7c"
+      Hint: CTA2
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: |
+        <p>The Intergovernmental Panel on Climate Change (IPCC) estimated that aviation may contribute around 3.5% of the total contribution of human activities to global warming. An International Air Transport Association (IATA) report says aviation is responsible for only 2% of global CO2 emissions and by 2050 will represent 3%. However, aviation has been unfairly labelled as a big polluter and there is not much of an understanding of this issue. Yet, globally, aviation companies, have already started addressing this issue and have made significant progress thus far.Thanks to modern technology, today's aircraft fly 3 times farther on the same amount of fuel. New technologies are expected to be at least 50% more fuel efficient than today.</p>
+        <p>
+        The environmental track record of the industry is good: over the last four decades we have reduced noise by 75%, eliminated soot and improved fuel efficiency by 70%. And the billions being invested in new aircraft will make our fleet 25% more fuel efficient by 2020. (IATA)
+        GULF AIR
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "7730c784-a54b-4dc1-9d92-dbdee9308d87"
+      Hint: SubHeading
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e227fd4-afbe-4934-97f4-bf608c0a9d2c"
+    - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
+      Hint: CTA1
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234918Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Aviation and the Enviroment
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: |
+        <p>The Intergovernmental Panel on Climate Change (IPCC) estimated that aviation may contribute around 3.5% of the total contribution of human activities to global warming. An International Air Transport Association (IATA) report says aviation is responsible for only 2% of global CO2 emissions and by 2050 will represent 3%. However, aviation has been unfairly labelled as a big polluter and there is not much of an understanding of this issue. Yet, globally, aviation companies, have already started addressing this issue and have made significant progress thus far.Thanks to modern technology, today's aircraft fly 3 times farther on the same amount of fuel. New technologies are expected to be at least 50% more fuel efficient than today.</p>
+        <p>
+        The environmental track record of the industry is good: over the last four decades we have reduced noise by 75%, eliminated soot and improved fuel efficiency by 70%. And the billions being invested in new aircraft will make our fleet 25% more fuel efficient by 2020. (IATA)
+        GULF AIR
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a7a8885-18c6-4887-9089-c5a1f286901a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234918Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Aviation and the Enviroment
+    - ID: "0f3b38f7-9d77-4092-908e-1d07c0fe6a7c"
+      Hint: CTA2
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: |
+        <p>The Intergovernmental Panel on Climate Change (IPCC) estimated that aviation may contribute around 3.5% of the total contribution of human activities to global warming. An International Air Transport Association (IATA) report says aviation is responsible for only 2% of global CO2 emissions and by 2050 will represent 3%. However, aviation has been unfairly labelled as a big polluter and there is not much of an understanding of this issue. Yet, globally, aviation companies, have already started addressing this issue and have made significant progress thus far.Thanks to modern technology, today's aircraft fly 3 times farther on the same amount of fuel. New technologies are expected to be at least 50% more fuel efficient than today.</p>
+        <p>
+        The environmental track record of the industry is good: over the last four decades we have reduced noise by 75%, eliminated soot and improved fuel efficiency by 70%. And the billions being invested in new aircraft will make our fleet 25% more fuel efficient by 2020. (IATA)
+        GULF AIR
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "7730c784-a54b-4dc1-9d92-dbdee9308d87"
+      Hint: SubHeading
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b34bcd5-139a-4b74-bc5c-5abfd11f1bb7"
+    - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
+      Hint: CTA1
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234918Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Aviation and the Enviroment
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: |
+        <p>The Intergovernmental Panel on Climate Change (IPCC) estimated that aviation may contribute around 3.5% of the total contribution of human activities to global warming. An International Air Transport Association (IATA) report says aviation is responsible for only 2% of global CO2 emissions and by 2050 will represent 3%. However, aviation has been unfairly labelled as a big polluter and there is not much of an understanding of this issue. Yet, globally, aviation companies, have already started addressing this issue and have made significant progress thus far.Thanks to modern technology, today's aircraft fly 3 times farther on the same amount of fuel. New technologies are expected to be at least 50% more fuel efficient than today.</p>
+        <p>
+        The environmental track record of the industry is good: over the last four decades we have reduced noise by 75%, eliminated soot and improved fuel efficiency by 70%. And the billions being invested in new aircraft will make our fleet 25% more fuel efficient by 2020. (IATA)
+        GULF AIR
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "159d61f9-9733-494b-b7f2-f5636d144393"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234918Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Aviation and the Enviroment
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: |
+        <p>The Intergovernmental Panel on Climate Change (IPCC) estimated that aviation may contribute around 3.5% of the total contribution of human activities to global warming. An International Air Transport Association (IATA) report says aviation is responsible for only 2% of global CO2 emissions and by 2050 will represent 3%. However, aviation has been unfairly labelled as a big polluter and there is not much of an understanding of this issue. Yet, globally, aviation companies, have already started addressing this issue and have made significant progress thus far.Thanks to modern technology, today's aircraft fly 3 times farther on the same amount of fuel. New technologies are expected to be at least 50% more fuel efficient than today.</p>
+        <p>
+        The environmental track record of the industry is good: over the last four decades we have reduced noise by 75%, eliminated soot and improved fuel efficiency by 70%. And the billions being invested in new aircraft will make our fleet 25% more fuel efficient by 2020. (IATA)
+        GULF AIR
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5b8cd60f-01c4-4ed5-a3ac-c18031e08111"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234918Z

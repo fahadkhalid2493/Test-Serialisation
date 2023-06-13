@@ -1,0 +1,426 @@
+﻿---
+ID: "a10afee5-b64a-426d-87df-b4f272e1358f"
+Parent: "bbac0ef6-818c-40d4-80aa-2101c9090f41"
+Template: "5ea2119c-6e45-4518-bdec-199a09682cb9"
+Path: "/sitecore/content/gulfair-app-ma/Data/Join Falcon Flyer Folder/Join FalconFlyer"
+SharedFields:
+- ID: "32a1ba23-dcb3-4ce2-8bf2-8573e7b766b7"
+  Hint: SmallCardLoginFields
+  Value: "{DAAC33B6-A07A-42F1-9FEE-99637CCFD30B}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00eabb2d-ddac-47f9-9d00-74bacb409078"
+      Hint: BigCardDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - ID: "0f2b4dc3-c152-40ee-b1ee-7d11d60f267b"
+      Hint: BigCardAfterLoginDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T132045Z
+    - ID: "4026d216-c1cc-406d-bf56-9fb7b8236ae6"
+      Hint: SmallCardHeading
+      Value: Join FalconFlyer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "59bf6ebc-c4ba-4d29-8467-49c21372a6ac"
+      Hint: BigCardAfterLoginHeading
+      Value: "Check-in for your flights"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "5fb250ef-9f3b-4ceb-8df8-573733a0d185"
+      Hint: BigCardHeading
+      Value: "Check-in for your flights"
+    - ID: "602343ae-6a4e-4fcb-9db3-89abe496fca8"
+      Hint: SmallCardCTA
+      Value: |
+        <link text="Sign up for FalconFlyer" linktype="external" url="https://falconflyer.gulfair.com/" anchor="" target="_blank" />
+    - ID: "79a05f6a-bcb3-4abf-b42d-a4cb8790d5c5"
+      Hint: BigCardCTA
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb691f5b-77e3-4046-981e-b5703b9ee4f7"
+    - ID: "9ddffbff-4540-4f71-bf47-178b4d2b9fa4"
+      Hint: SmallCardSubHeading
+      Value: Start earning awards today
+    - ID: "a1b9ac2e-5821-49bf-9e8f-c32d84ce81ef"
+      Hint: SmallCardAfterLoginBookNow
+      Value: |
+        <link text="Book Now" linktype="external" url="https://www.youtube.com/" anchor="" target="_blank" />
+    - ID: "aaea35f2-8be0-452c-987c-043f3f74592b"
+      Hint: SmallCardAfterLoginLeftHeading
+      Value: Welcome <First Name>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\uzair
+    - ID: "d75b96e4-73a2-4add-8b22-500e023a4f1e"
+      Hint: SmallCardAfterLoginCTA
+      Value: |
+        <link text="View your profile" linktype="external" url="https://www.youtube.com/" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230213T081526Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00eabb2d-ddac-47f9-9d00-74bacb409078"
+      Hint: BigCardDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - ID: "0da81691-9353-47a0-b728-cfd3732e9b68"
+      Hint: BigCardSubHeading
+      Value: gfdgf
+    - ID: "0f2b4dc3-c152-40ee-b1ee-7d11d60f267b"
+      Hint: BigCardAfterLoginDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - ID: "165e4e28-0521-437a-8abf-166554745314"
+      Hint: BigCardAfterLoginSubHeading
+      Value: sdsdsd
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230213T081359Z
+    - ID: "4026d216-c1cc-406d-bf56-9fb7b8236ae6"
+      Hint: SmallCardHeading
+      Value: Join FalconFlyer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "59bf6ebc-c4ba-4d29-8467-49c21372a6ac"
+      Hint: BigCardAfterLoginHeading
+      Value: "Check-in for your flights"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "5fb250ef-9f3b-4ceb-8df8-573733a0d185"
+      Hint: BigCardHeading
+      Value: "Check-in for your flights"
+    - ID: "602343ae-6a4e-4fcb-9db3-89abe496fca8"
+      Hint: SmallCardCTA
+      Value: |
+        <link text="Sign up for FalconFlyer" linktype="external" url="https://falconflyer.gulfair.com/" anchor="" target="_blank" />
+    - ID: "79a05f6a-bcb3-4abf-b42d-a4cb8790d5c5"
+      Hint: BigCardCTA
+      Value: |
+        <link text="sdsadsad" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d3f8049c-d571-4504-9db3-db6b205fc17a"
+    - ID: "9ddffbff-4540-4f71-bf47-178b4d2b9fa4"
+      Hint: SmallCardSubHeading
+      Value: Start earning awards today
+    - ID: "a1b9ac2e-5821-49bf-9e8f-c32d84ce81ef"
+      Hint: SmallCardAfterLoginBookNow
+      Value: |
+        <link text="Book Now" linktype="external" url="https://www.youtube.com/" anchor="" target="_blank" />
+    - ID: "aaea35f2-8be0-452c-987c-043f3f74592b"
+      Hint: SmallCardAfterLoginLeftHeading
+      Value: Welcome <First Name>
+    - ID: "b0fa671f-cc9f-4637-b4d5-e9781809cce8"
+      Hint: BigCardAfterLoginCTA
+      Value: |
+        <link text="Get" linktype="external" url="http://www.youtube.com" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230213T081359Z
+    - ID: "d75b96e4-73a2-4add-8b22-500e023a4f1e"
+      Hint: SmallCardAfterLoginCTA
+      Value: |
+        <link text="View your profile" linktype="external" url="https://www.youtube.com/" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120901Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00eabb2d-ddac-47f9-9d00-74bacb409078"
+      Hint: BigCardDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - ID: "0f2b4dc3-c152-40ee-b1ee-7d11d60f267b"
+      Hint: BigCardAfterLoginDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T132045Z
+    - ID: "4026d216-c1cc-406d-bf56-9fb7b8236ae6"
+      Hint: SmallCardHeading
+      Value: Join FalconFlyer
+    - ID: "59bf6ebc-c4ba-4d29-8467-49c21372a6ac"
+      Hint: BigCardAfterLoginHeading
+      Value: "Check-in for your flights"
+    - ID: "5fb250ef-9f3b-4ceb-8df8-573733a0d185"
+      Hint: BigCardHeading
+      Value: "Check-in for your flights"
+    - ID: "602343ae-6a4e-4fcb-9db3-89abe496fca8"
+      Hint: SmallCardCTA
+      Value: |
+        <link text="Sign up for FalconFlyer" linktype="external" url="https://falconflyer.gulfair.com/" anchor="" target="_blank" />
+    - ID: "79a05f6a-bcb3-4abf-b42d-a4cb8790d5c5"
+      Hint: BigCardCTA
+      Value: |
+        <link text="Sign up for FalconFlyer" linktype="external" url="https://falconflyer.gulfair.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e4c8a20-4b74-492a-ac0a-0f7130ad7a9c"
+    - ID: "9ddffbff-4540-4f71-bf47-178b4d2b9fa4"
+      Hint: SmallCardSubHeading
+      Value: Start earning awards today
+    - ID: "a1b9ac2e-5821-49bf-9e8f-c32d84ce81ef"
+      Hint: SmallCardAfterLoginBookNow
+      Value: |
+        <link text="Book Now" linktype="external" url="https://www.youtube.com/" anchor="" target="_blank" />
+    - ID: "aaea35f2-8be0-452c-987c-043f3f74592b"
+      Hint: SmallCardAfterLoginLeftHeading
+      Value: Welcome <First Name>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d75b96e4-73a2-4add-8b22-500e023a4f1e"
+      Hint: SmallCardAfterLoginCTA
+      Value: |
+        <link text="View your profile" linktype="external" url="https://www.youtube.com/" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230203T112744Z
+  - Version: 2
+    Fields:
+    - ID: "00eabb2d-ddac-47f9-9d00-74bacb409078"
+      Hint: BigCardDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - ID: "0da81691-9353-47a0-b728-cfd3732e9b68"
+      Hint: BigCardSubHeading
+      Value: gfdgf
+    - ID: "0f2b4dc3-c152-40ee-b1ee-7d11d60f267b"
+      Hint: BigCardAfterLoginDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - ID: "165e4e28-0521-437a-8abf-166554745314"
+      Hint: BigCardAfterLoginSubHeading
+      Value: sdsdsd
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230213T081359Z
+    - ID: "4026d216-c1cc-406d-bf56-9fb7b8236ae6"
+      Hint: SmallCardHeading
+      Value: Join FalconFlyer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "59bf6ebc-c4ba-4d29-8467-49c21372a6ac"
+      Hint: BigCardAfterLoginHeading
+      Value: "Check-in for your flights"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "5fb250ef-9f3b-4ceb-8df8-573733a0d185"
+      Hint: BigCardHeading
+      Value: "Check-in for your flights"
+    - ID: "602343ae-6a4e-4fcb-9db3-89abe496fca8"
+      Hint: SmallCardCTA
+      Value: |
+        <link text="Sign up for FalconFlyer" linktype="external" url="https://falconflyer.gulfair.com/" anchor="" target="_blank" />
+    - ID: "79a05f6a-bcb3-4abf-b42d-a4cb8790d5c5"
+      Hint: BigCardCTA
+      Value: |
+        <link text="sdsadsad" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77020de9-3c2f-4769-9cbc-f04e3af35433"
+    - ID: "9ddffbff-4540-4f71-bf47-178b4d2b9fa4"
+      Hint: SmallCardSubHeading
+      Value: Start earning awards today
+    - ID: "a1b9ac2e-5821-49bf-9e8f-c32d84ce81ef"
+      Hint: SmallCardAfterLoginBookNow
+      Value: |
+        <link text="Book Now" linktype="external" url="https://www.youtube.com/" anchor="" target="_blank" />
+    - ID: "aaea35f2-8be0-452c-987c-043f3f74592b"
+      Hint: SmallCardAfterLoginLeftHeading
+      Value: Welcome <First Name>
+    - ID: "b0fa671f-cc9f-4637-b4d5-e9781809cce8"
+      Hint: BigCardAfterLoginCTA
+      Value: |
+        <link text="Get" linktype="external" url="http://www.youtube.com" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\uiuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230213T081359Z
+    - ID: "d75b96e4-73a2-4add-8b22-500e023a4f1e"
+      Hint: SmallCardAfterLoginCTA
+      Value: |
+        <link text="View your profile" linktype="external" url="https://www.youtube.com/" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T123918Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00eabb2d-ddac-47f9-9d00-74bacb409078"
+      Hint: BigCardDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - ID: "0da81691-9353-47a0-b728-cfd3732e9b68"
+      Hint: BigCardSubHeading
+      Value: gfdgf
+    - ID: "0f2b4dc3-c152-40ee-b1ee-7d11d60f267b"
+      Hint: BigCardAfterLoginDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - ID: "165e4e28-0521-437a-8abf-166554745314"
+      Hint: BigCardAfterLoginSubHeading
+      Value: sdsdsd
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230213T081359Z
+    - ID: "4026d216-c1cc-406d-bf56-9fb7b8236ae6"
+      Hint: SmallCardHeading
+      Value: Join FalconFlyer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "59bf6ebc-c4ba-4d29-8467-49c21372a6ac"
+      Hint: BigCardAfterLoginHeading
+      Value: "Check-in for your flights"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "5fb250ef-9f3b-4ceb-8df8-573733a0d185"
+      Hint: BigCardHeading
+      Value: "Check-in for your flights"
+    - ID: "602343ae-6a4e-4fcb-9db3-89abe496fca8"
+      Hint: SmallCardCTA
+      Value: |
+        <link text="Sign up for FalconFlyer" linktype="external" url="https://falconflyer.gulfair.com/" anchor="" target="_blank" />
+    - ID: "79a05f6a-bcb3-4abf-b42d-a4cb8790d5c5"
+      Hint: BigCardCTA
+      Value: |
+        <link text="sdsadsad" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e5f63b58-631f-4457-9e3b-bdea63befdc2"
+    - ID: "9ddffbff-4540-4f71-bf47-178b4d2b9fa4"
+      Hint: SmallCardSubHeading
+      Value: Start earning awards today
+    - ID: "a1b9ac2e-5821-49bf-9e8f-c32d84ce81ef"
+      Hint: SmallCardAfterLoginBookNow
+      Value: |
+        <link text="Book Now" linktype="external" url="https://www.youtube.com/" anchor="" target="_blank" />
+    - ID: "aaea35f2-8be0-452c-987c-043f3f74592b"
+      Hint: SmallCardAfterLoginLeftHeading
+      Value: Welcome <First Name>
+    - ID: "b0fa671f-cc9f-4637-b4d5-e9781809cce8"
+      Hint: BigCardAfterLoginCTA
+      Value: |
+        <link text="Get" linktype="external" url="http://www.youtube.com" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230213T081359Z
+    - ID: "d75b96e4-73a2-4add-8b22-500e023a4f1e"
+      Hint: SmallCardAfterLoginCTA
+      Value: |
+        <link text="View your profile" linktype="external" url="https://www.youtube.com/" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T121156Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00eabb2d-ddac-47f9-9d00-74bacb409078"
+      Hint: BigCardDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - ID: "0da81691-9353-47a0-b728-cfd3732e9b68"
+      Hint: BigCardSubHeading
+      Value: gfdgf
+    - ID: "0f2b4dc3-c152-40ee-b1ee-7d11d60f267b"
+      Hint: BigCardAfterLoginDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - ID: "165e4e28-0521-437a-8abf-166554745314"
+      Hint: BigCardAfterLoginSubHeading
+      Value: sdsdsd
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230213T081359Z
+    - ID: "4026d216-c1cc-406d-bf56-9fb7b8236ae6"
+      Hint: SmallCardHeading
+      Value: Join FalconFlyer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "59bf6ebc-c4ba-4d29-8467-49c21372a6ac"
+      Hint: BigCardAfterLoginHeading
+      Value: "Check-in for your flights"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "5fb250ef-9f3b-4ceb-8df8-573733a0d185"
+      Hint: BigCardHeading
+      Value: "Check-in for your flights"
+    - ID: "602343ae-6a4e-4fcb-9db3-89abe496fca8"
+      Hint: SmallCardCTA
+      Value: |
+        <link text="Sign up for FalconFlyer" linktype="external" url="https://falconflyer.gulfair.com/" anchor="" target="_blank" />
+    - ID: "79a05f6a-bcb3-4abf-b42d-a4cb8790d5c5"
+      Hint: BigCardCTA
+      Value: |
+        <link text="sdsadsad" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb983f90-ee12-4725-bc15-9df20b11b225"
+    - ID: "9ddffbff-4540-4f71-bf47-178b4d2b9fa4"
+      Hint: SmallCardSubHeading
+      Value: Start earning awards today
+    - ID: "a1b9ac2e-5821-49bf-9e8f-c32d84ce81ef"
+      Hint: SmallCardAfterLoginBookNow
+      Value: |
+        <link text="Book Now" linktype="external" url="https://www.youtube.com/" anchor="" target="_blank" />
+    - ID: "aaea35f2-8be0-452c-987c-043f3f74592b"
+      Hint: SmallCardAfterLoginLeftHeading
+      Value: Welcome <First Name>
+    - ID: "b0fa671f-cc9f-4637-b4d5-e9781809cce8"
+      Hint: BigCardAfterLoginCTA
+      Value: |
+        <link text="Get" linktype="external" url="http://www.youtube.com" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230213T081359Z
+    - ID: "d75b96e4-73a2-4add-8b22-500e023a4f1e"
+      Hint: SmallCardAfterLoginCTA
+      Value: |
+        <link text="View your profile" linktype="external" url="https://www.youtube.com/" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T121552Z

@@ -1,0 +1,417 @@
+﻿---
+ID: "afd44e29-5e67-4747-9e52-981727d6d51c"
+Parent: "703c2e70-e9cc-45fa-aac9-d8ffc9cde2db"
+Template: "5ea2119c-6e45-4518-bdec-199a09682cb9"
+Path: "/sitecore/content/gulfair-app-mv/Data/Join Falcon Flyer Folder/Falcon FlyerProgram"
+SharedFields:
+- ID: "32a1ba23-dcb3-4ce2-8bf2-8573e7b766b7"
+  Hint: SmallCardLoginFields
+  Value: "{DAAC33B6-A07A-42F1-9FEE-99637CCFD30B}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00eabb2d-ddac-47f9-9d00-74bacb409078"
+      Hint: BigCardDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat.
+    - ID: "0da81691-9353-47a0-b728-cfd3732e9b68"
+      Hint: BigCardSubHeading
+      Value: 
+    - ID: "0f2b4dc3-c152-40ee-b1ee-7d11d60f267b"
+      Hint: BigCardAfterLoginDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum tincidunt eget in est, feugiat egestas nunc feugiat. Consequat interdum massa non dui augue.
+    - ID: "165e4e28-0521-437a-8abf-166554745314"
+      Hint: BigCardAfterLoginSubHeading
+      Value: Subtitle Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T132045Z
+    - ID: "4026d216-c1cc-406d-bf56-9fb7b8236ae6"
+      Hint: SmallCardHeading
+      Value: Join FalconFlyer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "59bf6ebc-c4ba-4d29-8467-49c21372a6ac"
+      Hint: BigCardAfterLoginHeading
+      Value: "Check-in for your flights"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "5fb250ef-9f3b-4ceb-8df8-573733a0d185"
+      Hint: BigCardHeading
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    - ID: "602343ae-6a4e-4fcb-9db3-89abe496fca8"
+      Hint: SmallCardCTA
+      Value: |
+        <link text="Join now" linktype="external" url="/" anchor="" target="" />
+    - ID: "79a05f6a-bcb3-4abf-b42d-a4cb8790d5c5"
+      Hint: BigCardCTA
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4ba1ad4-1d67-4189-9bb1-39539564dcfa"
+    - ID: "9ddffbff-4540-4f71-bf47-178b4d2b9fa4"
+      Hint: SmallCardSubHeading
+      Value: Start earning rewards today
+    - ID: "a1b9ac2e-5821-49bf-9e8f-c32d84ce81ef"
+      Hint: SmallCardAfterLoginBookNow
+      Value: |
+        <link text="Book Now" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "aaea35f2-8be0-452c-987c-043f3f74592b"
+      Hint: SmallCardAfterLoginLeftHeading
+      Value: Welcome
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d75b96e4-73a2-4add-8b22-500e023a4f1e"
+      Hint: SmallCardAfterLoginCTA
+      Value: |
+        <link text="View your profile" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230306T135441Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00eabb2d-ddac-47f9-9d00-74bacb409078"
+      Hint: BigCardDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum tincidunt eget in est, feugiat egestas nunc feugiat. Consequat interdum massa non dui augue.
+    - ID: "0f2b4dc3-c152-40ee-b1ee-7d11d60f267b"
+      Hint: BigCardAfterLoginDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum tincidunt eget in est, feugiat egestas nunc feugiat. Consequat interdum massa non dui augue.
+    - ID: "165e4e28-0521-437a-8abf-166554745314"
+      Hint: BigCardAfterLoginSubHeading
+      Value: Subtitle Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103619Z
+    - ID: "4026d216-c1cc-406d-bf56-9fb7b8236ae6"
+      Hint: SmallCardHeading
+      Value: Join FalconFlyer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "59bf6ebc-c4ba-4d29-8467-49c21372a6ac"
+      Hint: BigCardAfterLoginHeading
+      Value: "Check-in for your flights"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "5fb250ef-9f3b-4ceb-8df8-573733a0d185"
+      Hint: BigCardHeading
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "602343ae-6a4e-4fcb-9db3-89abe496fca8"
+      Hint: SmallCardCTA
+      Value: |
+        <link text="Join now" linktype="external" url="/" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ce83d893-c792-4486-aee5-c56ddae6246e"
+    - ID: "9ddffbff-4540-4f71-bf47-178b4d2b9fa4"
+      Hint: SmallCardSubHeading
+      Value: Start earning rewards today
+    - ID: "a1b9ac2e-5821-49bf-9e8f-c32d84ce81ef"
+      Hint: SmallCardAfterLoginBookNow
+      Value: |
+        <link text="Book Now" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "aaea35f2-8be0-452c-987c-043f3f74592b"
+      Hint: SmallCardAfterLoginLeftHeading
+      Value: Welcome
+    - ID: "b0fa671f-cc9f-4637-b4d5-e9781809cce8"
+      Hint: BigCardAfterLoginCTA
+      Value: |
+        <link text="test" linktype="external" url="http://www.youtube.com" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103619Z
+    - ID: "d75b96e4-73a2-4add-8b22-500e023a4f1e"
+      Hint: SmallCardAfterLoginCTA
+      Value: |
+        <link text="View your profile" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120901Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00eabb2d-ddac-47f9-9d00-74bacb409078"
+      Hint: BigCardDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum tincidunt eget in est, feugiat egestas nunc feugiat. Consequat interdum massa non dui augue.
+    - ID: "0da81691-9353-47a0-b728-cfd3732e9b68"
+      Hint: BigCardSubHeading
+      Value: Subtitle Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "0f2b4dc3-c152-40ee-b1ee-7d11d60f267b"
+      Hint: BigCardAfterLoginDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum tincidunt eget in est, feugiat egestas nunc feugiat. Consequat interdum massa non dui augue.
+    - ID: "165e4e28-0521-437a-8abf-166554745314"
+      Hint: BigCardAfterLoginSubHeading
+      Value: Subtitle Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T132045Z
+    - ID: "4026d216-c1cc-406d-bf56-9fb7b8236ae6"
+      Hint: SmallCardHeading
+      Value: Join FalconFlyer
+    - ID: "59bf6ebc-c4ba-4d29-8467-49c21372a6ac"
+      Hint: BigCardAfterLoginHeading
+      Value: "Check-in for your flights"
+    - ID: "5fb250ef-9f3b-4ceb-8df8-573733a0d185"
+      Hint: BigCardHeading
+      Value: "Check-in for your flights"
+    - ID: "602343ae-6a4e-4fcb-9db3-89abe496fca8"
+      Hint: SmallCardCTA
+      Value: |
+        <link text="Join now" linktype="external" url="/" anchor="" target="" />
+    - ID: "79a05f6a-bcb3-4abf-b42d-a4cb8790d5c5"
+      Hint: BigCardCTA
+      Value: |
+        <link text="Find Out More" linktype="external" url="http://www.youtube.com" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d87855e-2373-4a5c-90ee-e61039023704"
+    - ID: "9ddffbff-4540-4f71-bf47-178b4d2b9fa4"
+      Hint: SmallCardSubHeading
+      Value: Start earning rewards today
+    - ID: "a1b9ac2e-5821-49bf-9e8f-c32d84ce81ef"
+      Hint: SmallCardAfterLoginBookNow
+      Value: |
+        <link text="Book Now" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "aaea35f2-8be0-452c-987c-043f3f74592b"
+      Hint: SmallCardAfterLoginLeftHeading
+      Value: Welcome
+    - ID: "b0fa671f-cc9f-4637-b4d5-e9781809cce8"
+      Hint: BigCardAfterLoginCTA
+      Value: |
+        <link text="test" linktype="external" url="http://www.youtube.com" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\fahad
+    - ID: "d75b96e4-73a2-4add-8b22-500e023a4f1e"
+      Hint: SmallCardAfterLoginCTA
+      Value: |
+        <link text="View your profile" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230213T151004Z
+  - Version: 2
+    Fields:
+    - ID: "00eabb2d-ddac-47f9-9d00-74bacb409078"
+      Hint: BigCardDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat.
+    - ID: "0da81691-9353-47a0-b728-cfd3732e9b68"
+      Hint: BigCardSubHeading
+      Value: 
+    - ID: "0f2b4dc3-c152-40ee-b1ee-7d11d60f267b"
+      Hint: BigCardAfterLoginDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum tincidunt eget in est, feugiat egestas nunc feugiat. Consequat interdum massa non dui augue.
+    - ID: "165e4e28-0521-437a-8abf-166554745314"
+      Hint: BigCardAfterLoginSubHeading
+      Value: Subtitle Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103619Z
+    - ID: "4026d216-c1cc-406d-bf56-9fb7b8236ae6"
+      Hint: SmallCardHeading
+      Value: Join FalconFlyer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "59bf6ebc-c4ba-4d29-8467-49c21372a6ac"
+      Hint: BigCardAfterLoginHeading
+      Value: "Check-in for your flights"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "5fb250ef-9f3b-4ceb-8df8-573733a0d185"
+      Hint: BigCardHeading
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    - ID: "602343ae-6a4e-4fcb-9db3-89abe496fca8"
+      Hint: SmallCardCTA
+      Value: |
+        <link text="Join now" linktype="external" url="https://gulfacc.resfinity.com/" anchor="" target="_blank" />
+    - ID: "79a05f6a-bcb3-4abf-b42d-a4cb8790d5c5"
+      Hint: BigCardCTA
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e52fe1a-b231-4cf2-bb01-02bf08bcf0df"
+    - ID: "9ddffbff-4540-4f71-bf47-178b4d2b9fa4"
+      Hint: SmallCardSubHeading
+      Value: Start earning rewards today
+    - ID: "a1b9ac2e-5821-49bf-9e8f-c32d84ce81ef"
+      Hint: SmallCardAfterLoginBookNow
+      Value: |
+        <link text="Book Now" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "aaea35f2-8be0-452c-987c-043f3f74592b"
+      Hint: SmallCardAfterLoginLeftHeading
+      Value: Welcome
+    - ID: "b0fa671f-cc9f-4637-b4d5-e9781809cce8"
+      Hint: BigCardAfterLoginCTA
+      Value: |
+        <link text="test" linktype="external" url="http://www.youtube.com" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\uiuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103619Z
+    - ID: "d75b96e4-73a2-4add-8b22-500e023a4f1e"
+      Hint: SmallCardAfterLoginCTA
+      Value: |
+        <link text="View your profile" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T124122Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00eabb2d-ddac-47f9-9d00-74bacb409078"
+      Hint: BigCardDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum tincidunt eget in est, feugiat egestas nunc feugiat. Consequat interdum massa non dui augue.
+    - ID: "0f2b4dc3-c152-40ee-b1ee-7d11d60f267b"
+      Hint: BigCardAfterLoginDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum tincidunt eget in est, feugiat egestas nunc feugiat. Consequat interdum massa non dui augue.
+    - ID: "165e4e28-0521-437a-8abf-166554745314"
+      Hint: BigCardAfterLoginSubHeading
+      Value: Subtitle Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103619Z
+    - ID: "4026d216-c1cc-406d-bf56-9fb7b8236ae6"
+      Hint: SmallCardHeading
+      Value: Join FalconFlyer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "59bf6ebc-c4ba-4d29-8467-49c21372a6ac"
+      Hint: BigCardAfterLoginHeading
+      Value: "Check-in for your flights"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "5fb250ef-9f3b-4ceb-8df8-573733a0d185"
+      Hint: BigCardHeading
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "602343ae-6a4e-4fcb-9db3-89abe496fca8"
+      Hint: SmallCardCTA
+      Value: |
+        <link text="Join now" linktype="external" url="/" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c53e50cc-7f55-4952-bffa-d34236fd9d12"
+    - ID: "9ddffbff-4540-4f71-bf47-178b4d2b9fa4"
+      Hint: SmallCardSubHeading
+      Value: Start earning rewards today
+    - ID: "a1b9ac2e-5821-49bf-9e8f-c32d84ce81ef"
+      Hint: SmallCardAfterLoginBookNow
+      Value: |
+        <link text="Book Now" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "aaea35f2-8be0-452c-987c-043f3f74592b"
+      Hint: SmallCardAfterLoginLeftHeading
+      Value: Welcome
+    - ID: "b0fa671f-cc9f-4637-b4d5-e9781809cce8"
+      Hint: BigCardAfterLoginCTA
+      Value: |
+        <link text="test" linktype="external" url="http://www.youtube.com" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103619Z
+    - ID: "d75b96e4-73a2-4add-8b22-500e023a4f1e"
+      Hint: SmallCardAfterLoginCTA
+      Value: |
+        <link text="View your profile" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T121156Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00eabb2d-ddac-47f9-9d00-74bacb409078"
+      Hint: BigCardDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum tincidunt eget in est, feugiat egestas nunc feugiat. Consequat interdum massa non dui augue.
+    - ID: "0f2b4dc3-c152-40ee-b1ee-7d11d60f267b"
+      Hint: BigCardAfterLoginDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum tincidunt eget in est, feugiat egestas nunc feugiat. Consequat interdum massa non dui augue.
+    - ID: "165e4e28-0521-437a-8abf-166554745314"
+      Hint: BigCardAfterLoginSubHeading
+      Value: Subtitle Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103619Z
+    - ID: "4026d216-c1cc-406d-bf56-9fb7b8236ae6"
+      Hint: SmallCardHeading
+      Value: Join FalconFlyer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "59bf6ebc-c4ba-4d29-8467-49c21372a6ac"
+      Hint: BigCardAfterLoginHeading
+      Value: "Check-in for your flights"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "5fb250ef-9f3b-4ceb-8df8-573733a0d185"
+      Hint: BigCardHeading
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "602343ae-6a4e-4fcb-9db3-89abe496fca8"
+      Hint: SmallCardCTA
+      Value: |
+        <link text="Join now" linktype="external" url="/" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "27f85232-8fe7-4791-bedc-298cecdf7328"
+    - ID: "9ddffbff-4540-4f71-bf47-178b4d2b9fa4"
+      Hint: SmallCardSubHeading
+      Value: Start earning rewards today
+    - ID: "a1b9ac2e-5821-49bf-9e8f-c32d84ce81ef"
+      Hint: SmallCardAfterLoginBookNow
+      Value: |
+        <link text="Book Now" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "aaea35f2-8be0-452c-987c-043f3f74592b"
+      Hint: SmallCardAfterLoginLeftHeading
+      Value: Welcome
+    - ID: "b0fa671f-cc9f-4637-b4d5-e9781809cce8"
+      Hint: BigCardAfterLoginCTA
+      Value: |
+        <link text="test" linktype="external" url="http://www.youtube.com" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103619Z
+    - ID: "d75b96e4-73a2-4add-8b22-500e023a4f1e"
+      Hint: SmallCardAfterLoginCTA
+      Value: |
+        <link text="View your profile" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T121552Z

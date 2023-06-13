@@ -1,0 +1,358 @@
+﻿---
+ID: "2c3175e6-da9d-45d6-9b81-8a0951120b9a"
+Parent: "f2298366-4f51-46a6-b2b4-3d2f263324ef"
+Template: "f009daee-e849-4b5f-bf19-3d8a4c130cfe"
+Path: /sitecore/content/Global/Global Header Folder/Standard Global Header/RightNavigation/Explore
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{442819BB-7F40-4254-ACE9-6890BBA50F83}"
+- ID: "16a198cc-3904-4364-bd38-2a7c4a6fd01b"
+  Hint: BannerImage
+  Value: |
+    <image width="450" height="200" alt="Explore Bahrain Hero Banner" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/de6b3bc51d1f4953996a20fc6a14c3f2?v=db42d240" stylelabs-content-id="48635" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48635/thumbnail" />
+- ID: "a493a74f-560d-4c91-a6ff-3793ecdfc4cc"
+  Hint: LinkList
+  Value: |
+    {AD40C70B-25DF-4CCC-BCCC-B543101F50E6}
+    {56A702F5-865F-4BF5-8AB5-A837715A0B3C}
+    {7EAB59B0-0A2E-445B-9BD9-37C63A1BAD2A}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230113T144539Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cbbd24c2-3003-41dd-9006-dbf2ea63564a"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="Explore" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: Romantic Getaways
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230123T092756Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T103125Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "5ddace6a-bfaa-421b-918a-43818c082ce3"
+      Hint: BannerDescription
+      Value: جرب مملكة البحرين مع كل ما تقدمه
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "199a1e8c-b162-44bd-a9fe-aa044b50e2c1"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="اكتشف البحرين" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8E6BCC77-BC67-4396-B477-86791F64CA50}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="اكتشف" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8E6BCC77-BC67-4396-B477-86791F64CA50}" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: قم بزيارة البحرين
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225851Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T103125Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff6a1531-1ec8-416b-8362-579757fd0661"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="Explore" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: Romantic Getaways
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120625Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T103125Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "5ddace6a-bfaa-421b-918a-43818c082ce3"
+      Hint: BannerDescription
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d9f3cfa-a97c-4523-8959-72ce89849702"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="Weiterlesen" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8E6BCC77-BC67-4396-B477-86791F64CA50}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="entdecken" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: Besuchen Sie Bahrain
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225851Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T103125Z
+    - ID: "5ddace6a-bfaa-421b-918a-43818c082ce3"
+      Hint: BannerDescription
+      Value: Experience the Kingdom of Bahrain and all it has to offer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9e6a53b1-0355-41fe-b62e-ecf0b942b14e"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="Explore Bahrain" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8E6BCC77-BC67-4396-B477-86791F64CA50}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\salmanalzarqawi
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="Explore" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: Visit Bahrain
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T053922Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T103125Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "afae9fdf-c3c6-4b20-af50-d6003f10b961"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="Explore" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: Romantic Getaways
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120540Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T103125Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "5ddace6a-bfaa-421b-918a-43818c082ce3"
+      Hint: BannerDescription
+      Value: Découvrez Bahreïn et tout ce qu'il a à offrir
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "25c2ae66-1f14-4301-8c56-024157fef5ba"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="Explorer Bahreïn" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8E6BCC77-BC67-4396-B477-86791F64CA50}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="explorer" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: Visiter Bahreïn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225851Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T103125Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "86668e6d-9b01-407e-addf-349a89aa6d65"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="Explore" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: Romantic Getaways
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120441Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T103125Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "5ddace6a-bfaa-421b-918a-43818c082ce3"
+      Hint: BannerDescription
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "73d1de82-815b-4a7b-a011-e75f5bc7bbe4"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="Более" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8E6BCC77-BC67-4396-B477-86791F64CA50}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="Узнавайте новое" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: Посетите Бахрейн
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225851Z

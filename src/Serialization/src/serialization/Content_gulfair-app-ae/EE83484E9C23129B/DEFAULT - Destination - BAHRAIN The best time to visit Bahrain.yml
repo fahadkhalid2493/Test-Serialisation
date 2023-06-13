@@ -1,0 +1,233 @@
+﻿---
+ID: "9b3ca5b2-fdd7-4014-bcdc-e2073e26cc1b"
+Parent: "5bdad594-72cd-4a34-9edc-00ad99f6e0ce"
+Template: "ce979884-2113-44a1-8258-9246c7218237"
+Path: "/sitecore/content/gulfair-app-ae/Data/Temperature Section Folder/Destination - Bahrain/DEFAULT - Destination - BAHRAIN The best time to visit Bahrain"
+SharedFields:
+- ID: "0be9b998-0984-4acf-967d-d7642b3606d5"
+  Hint: MobileImage
+  Value: |
+    <image width="773" height="293" alt="temp-chart.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/d7570b74bbe14bd583186343d170c68a?v=34009682" stylelabs-content-id="32924" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/32924/thumbnail" />
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "929f2ed1-bf75-4d05-a927-fb5dbf3eb06c"
+  Hint: DesktopImage
+  Value: |
+    <image width="773" height="293" alt="temp-chart.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/d7570b74bbe14bd583186343d170c68a?v=d2e80e62" stylelabs-content-id="32924" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/32924/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "f04c51c9-8c7e-4751-a8e6-ee7efee7ac1c"
+  Hint: BackgroundImage
+  Value: |
+    <image width="1440" height="493" alt="temperature-bg.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/c9fe89e249f24f7794846ed7ee60941e?v=ca0454f2" stylelabs-content-id="32916" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/32916/thumbnail" />
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Destination - BAHRAIN The best time to visit Bahrain-ar"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d284c11-ee21-4231-b61e-5d6ce28acc04"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum.</p>
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T164000Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "40118896-9925-4d14-9990-25b12d8c6013"
+      Hint: Heading
+      Value: أفضل وقت لزيارة البحرين
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0d51485-5389-4729-a3fc-c78631271195"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231223Z
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Destination - BAHRAIN The best time to visit Bahrain"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d284c11-ee21-4231-b61e-5d6ce28acc04"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T163959Z
+    - ID: "40118896-9925-4d14-9990-25b12d8c6013"
+      Hint: Heading
+      Value: The Best time to visit Bahrain
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ddbdd9f4-97d9-40b2-8e29-70836e223946"
+    - ID: "8ec06367-ae6a-46f2-a844-7e93ce80f4fa"
+      Hint: SecondDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231223Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Destination - BAHRAIN The best time to visit Bahrain"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d284c11-ee21-4231-b61e-5d6ce28acc04"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T163959Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "40118896-9925-4d14-9990-25b12d8c6013"
+      Hint: Heading
+      Value: The Best time to visit Bahrain
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a4945df-4d5d-42c8-bd1c-5f13d3afd5cc"
+    - ID: "8ec06367-ae6a-46f2-a844-7e93ce80f4fa"
+      Hint: SecondDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231223Z
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Destination - BAHRAIN The best time to visit Bahrain"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d284c11-ee21-4231-b61e-5d6ce28acc04"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T163959Z
+    - ID: "40118896-9925-4d14-9990-25b12d8c6013"
+      Hint: Heading
+      Value: The Best time to visit Bahrain
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4441b590-616b-4403-82fd-331a751a9648"
+    - ID: "8ec06367-ae6a-46f2-a844-7e93ce80f4fa"
+      Hint: SecondDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231223Z
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Destination - BAHRAIN The best time to visit Bahrain"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d284c11-ee21-4231-b61e-5d6ce28acc04"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T163959Z
+    - ID: "40118896-9925-4d14-9990-25b12d8c6013"
+      Hint: Heading
+      Value: The Best time to visit Bahrain
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dc0c32bd-ece4-473c-a125-849f1a73cc85"
+    - ID: "8ec06367-ae6a-46f2-a844-7e93ce80f4fa"
+      Hint: SecondDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231223Z

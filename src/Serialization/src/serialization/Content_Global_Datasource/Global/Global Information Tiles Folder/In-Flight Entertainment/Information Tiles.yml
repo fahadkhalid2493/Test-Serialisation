@@ -1,0 +1,158 @@
+﻿---
+ID: "2936607d-072c-4e55-82a3-674d6630dfde"
+Parent: "f7ba7fa8-c54c-45c1-bee5-cc012d43e77d"
+Template: "a7c55506-2488-4ad8-a08d-171221f27c5e"
+Path: "/sitecore/content/Global/Global Information Tiles Folder/In-Flight Entertainment/Information Tiles"
+SharedFields:
+- ID: "256e4d0c-680c-43b3-915d-f4fdd81f23d1"
+  Hint: Tiles
+  Value: |
+    {4EA921C4-B5F9-4354-A473-2C38524747F5}
+    {416645A8-DC4E-43EF-99DE-EFEAC11BBDB5}
+    {C0A3D28C-F185-43AE-96B0-326F1229B838}
+- ID: "3fe24831-2e59-44dc-b1be-730f59b9b2c9"
+  Hint: ItemsToShowInRow
+  Value: "{24C4F4B3-5AEE-46D2-A745-84DDB733B12C}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103331Z
+    - ID: "3535821b-fd22-490b-a8d6-1c32067bf062"
+      Hint: Description
+      Value: |
+        <h4>سافر مع ترفيه مليء بالمرح</h4>
+        <p>في طيران الخليج، نعلم أن تجربة طيران مريحة ومسلية يمكن أن تحدث فرقًا كبيرًا في رحلتك. لهذا السبب نوفر لمسافرينا تجربة ترفيهية استثنائية على متن الطائرة ستبقيك منشغلاً ومستمتعاً طوال رحلتك. من خلال مجموعة متنوعة من الخيارات، بما في ذلك أحدث الأفلام والبرامج التلفزيونية والألعاب والبرامج الخاصة للمسافرين الصغار، نضمن وجود شيء للجميع على متن الطائرة. لذا اجلس مسترخيا،واستمتع إلى أقصى حد من رحلتك مع الترفيه الذي لا مثيل له على متن طيران الخليج.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e1059da-276f-4aac-b7fd-a9e4c98fb0b8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230419T104538Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103331Z
+    - ID: "3535821b-fd22-490b-a8d6-1c32067bf062"
+      Hint: Description
+      Value: |
+        <h4>Fliegen Sie mit unterhaltsamer Unterhaltung</h4>
+        <p>Bei Gulf Air wissen wir, dass ein komfortables und unterhaltsames Flugerlebnis den Unterschied in Ihrer Reise ausmachen kann. Aus diesem Grund bieten wir unseren Passagieren ein au&szlig;ergew&ouml;hnliches Erlebnis im Flug, mit dem Sie w&auml;hrend Ihres gesamten Fluges engagiert und unterhalten werden. Mit einer Vielzahl von Optionen, darunter die neuesten Filme, Fernsehsendungen, Spiele und spezielle Programme f&uuml;r junge Reisende, stellen wir sicher, dass f&uuml;r jeden etwas an Bord dabei ist. Lehnen Sie sich also zur&uuml;ck, entspannen Sie sich und nutzen Sie Ihren Flug mit un&uuml;bertroffener Unterhaltung von Gulf Air.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb00279e-1ce5-411e-ad58-5325ab7d6eb1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230419T104653Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103331Z
+    - ID: "3535821b-fd22-490b-a8d6-1c32067bf062"
+      Hint: Description
+      Value: |
+        <h4>Fly with Fun-Filled Entertainment</h4>
+        <p>At Gulf Air, we know that a comfortable and entertaining flight experience can make all the difference in your journey. That's why we provide our passengers with an exceptional in-flight entertainment experience that will keep you engaged and entertained throughout your flight. With a wide variety of options, including the latest movies, TV shows, games, and special programming for young travelers, we ensure that there's something for everyone on board. So sit back, relax, and make the most of your flight with Gulf Air's unmatched in-flight entertainment.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f292687-0386-4677-a05b-84dd413e3d4f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230419T104433Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103331Z
+    - ID: "3535821b-fd22-490b-a8d6-1c32067bf062"
+      Hint: Description
+      Value: |
+        <h4>Volez avec des divertissements amusants</h4>
+        <p>Chez Gulf Air, nous savons qu'une exp&eacute;rience de vol confortable et divertissante peut faire toute la diff&eacute;rence dans votre voyage. C'est pourquoi nous offrons &agrave; nos passagers une exp&eacute;rience de divertissement en vol exceptionnelle qui vous tiendra engag&eacute; et diverti tout au long de votre vol. Avec une grande vari&eacute;t&eacute; d'options, y compris les derniers films, &eacute;missions de t&eacute;l&eacute;vision, jeux et programmation sp&eacute;ciale pour les jeunes voyageurs, nous nous assurons qu'il y a quelque chose pour tout le monde &agrave; bord. Alors asseyez-vous, d&eacute;tendez-vous et profitez de votre vol avec le divertissement en vol in&eacute;gal&eacute; de Gulf Air.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "34765a60-64ee-4e11-9ee5-d854708b4c28"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230419T104707Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103331Z
+    - ID: "3535821b-fd22-490b-a8d6-1c32067bf062"
+      Hint: Description
+      Value: |
+        <h4>Летать с веселым развлечением</h4>
+        <p>В Gulf Air мы знаем, что удобный и развлекательный опыт полета может иметь все значение в вашем путешествии. Вот почему мы предоставляем нашим пассажирам исключительный опыт развлечений в полете, который поможет вам задействовать и развлекать на протяжении всего рейса. Благодаря широкому разнообразию вариантов, включая последние фильмы, телешоу, игры и специальные программы для молодых путешественников, мы гарантируем, что на борту есть что -то для всех. Так что сядьте, расслабьтесь и максимально используйте свой рейс с помощью непревзойденных развлечений Gulf Air в полете.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "340374fe-1536-46ba-93a2-dc39a7a4f8e8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230419T113102Z

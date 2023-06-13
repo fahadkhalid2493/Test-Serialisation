@@ -1,0 +1,316 @@
+﻿---
+ID: "f58b6d3c-9e7e-4b7d-bfd8-c3b09b49d111"
+Parent: "012a569b-f8ba-4649-9401-2f119365789e"
+Template: "d4b40d40-4c30-4032-b7e6-2d877380909d"
+Path: /sitecore/content/Global/Global AppBanner/home/The Gulf Air APP
+SharedFields:
+- ID: "0b0c458d-e0fe-40c6-9367-5035448767bc"
+  Hint: ImageAndroid
+  Value: |
+    <image width="1547" height="504" alt="01-AND-playstore.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/3e79fc56c3784d0ca1d1d1ca0da1f813?v=1879e222" stylelabs-content-id="35437" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/35437/thumbnail" />
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "3859570e-2255-4d94-af57-b45eedc10ab6"
+  Hint: ImageIOS
+  Value: |
+    <image width="1547" height="504" alt="Appstore Image.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/efbdf9e4691a43b5bd4622a69806503a?v=cebad3e0" stylelabs-content-id="32552" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/32552/thumbnail" />
+- ID: "4f12814a-c5ba-4713-8aa8-6ace64a5ae5e"
+  Hint: QRCode
+  Value: |
+    <image width="990" height="1155" alt="download-app-qr-svg-2.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/bac57503fe684898be4bd087045e4b06?v=f1aa502e" stylelabs-content-id="48415" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48415/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: 
+    - ID: "14af9a10-79db-4a60-a204-cf8adcc50c78"
+      Hint: MobileImage
+      Value: |
+        <image width="325" height="214" alt="App-Banner-Image-Mobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/41f3127c45704a99973a4c2ac30513d5?v=99d5f31d" stylelabs-content-id="38547" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38547/thumbnail" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T162242Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "3fd8201f-65b7-4e1f-9271-2cfa50c4c0d4"
+      Hint: Heading
+      Value: تطبيق طيران الخليج للجوال
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "725740e5-46ab-4f21-8f30-e809d934d53b"
+      Hint: CTAIOS
+      Value: |
+        <link text="iOS" linktype="external" url="https://apps.apple.com/kw/app/gulf-air/id1442202907" anchor="" target="_blank" />
+    - ID: "750a232a-f9a8-4c4e-91d7-74b614ae400a"
+      Hint: SubText
+      Value: "<p>من خلال تطبيقنا على الجوال، أصبح السفر معنا أسهل بكثير!</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5d48f699-4cbb-4f0e-b7ff-a7451b73bb03"
+    - ID: "ae473652-45d2-48d6-a654-e4a5920326ab"
+      Hint: Image
+      Value: |
+        <image width="1920" height="400" alt="App-Banner-Image.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/84082101744e43f89bd5143aca75887f?v=c29ff94c" stylelabs-content-id="36627" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/36627/thumbnail" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bdbde9a7-7a20-4c70-bc6f-2b7530e999ce"
+      Hint: CTAAndroid
+      Value: |
+        <link text="ANDROID" linktype="external" url="https://play.google.com/store/apps/details?id=com.gulfair.android&amp;pli=1" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225854Z
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14af9a10-79db-4a60-a204-cf8adcc50c78"
+      Hint: MobileImage
+      Value: |
+        <image width="325" height="214" alt="App-Banner-Image-Mobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/41f3127c45704a99973a4c2ac30513d5?v=dad89167" stylelabs-content-id="38547" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38547/thumbnail" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T135832Z
+    - ID: "3fd8201f-65b7-4e1f-9271-2cfa50c4c0d4"
+      Hint: Heading
+      Value: "Die Gulf Air-APP"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "725740e5-46ab-4f21-8f30-e809d934d53b"
+      Hint: CTAIOS
+      Value: |
+        <link text="IOS" linktype="external" url="https://apps.apple.com/kw/app/gulf-air/id1442202907" anchor="" target="_blank" />
+    - ID: "750a232a-f9a8-4c4e-91d7-74b614ae400a"
+      Hint: SubText
+      Value: "<p>Mit unserer mobilen App haben wir das Reisen mit uns einfacher gemacht!</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff39aa9c-4b48-46b7-8065-f2e7475cc3a1"
+    - ID: "ae473652-45d2-48d6-a654-e4a5920326ab"
+      Hint: Image
+      Value: |
+        <image width="809" height="401" alt="app-banner.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/b27b48cd949042d082f73978703dbd80?v=b6476c2c" stylelabs-content-id="33299" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/33299/thumbnail" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bdbde9a7-7a20-4c70-bc6f-2b7530e999ce"
+      Hint: CTAAndroid
+      Value: |
+        <link text="ANDROID" linktype="external" url="https://play.google.com/store/apps/details?id=com.gulfair.android&amp;pli=1" anchor="" target="_blank" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T135832Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225854Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: 
+    - ID: "14af9a10-79db-4a60-a204-cf8adcc50c78"
+      Hint: MobileImage
+      Value: |
+        <image width="325" height="214" alt="App-Banner-Image-Mobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/41f3127c45704a99973a4c2ac30513d5?v=dad89167" stylelabs-content-id="38547" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38547/thumbnail" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T135832Z
+    - ID: "3fd8201f-65b7-4e1f-9271-2cfa50c4c0d4"
+      Hint: Heading
+      Value: The Gulf Air APP
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "725740e5-46ab-4f21-8f30-e809d934d53b"
+      Hint: CTAIOS
+      Value: |
+        <link text="iOS" linktype="external" url="https://apps.apple.com/kw/app/gulf-air/id1442202907" anchor="" target="_blank" />
+    - ID: "750a232a-f9a8-4c4e-91d7-74b614ae400a"
+      Hint: SubText
+      Value: "<p>With the Gulf Air App, we've made travelling with us easier!</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9cd1e5d2-96c7-4251-9a7c-ca7afc25b3df"
+    - ID: "ae473652-45d2-48d6-a654-e4a5920326ab"
+      Hint: Image
+      Value: |
+        <image width="809" height="401" alt="app-banner.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/b27b48cd949042d082f73978703dbd80?v=b6476c2c" stylelabs-content-id="33299" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/33299/thumbnail" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bdbde9a7-7a20-4c70-bc6f-2b7530e999ce"
+      Hint: CTAAndroid
+      Value: |
+        <link text="Android" linktype="external" url="https://play.google.com/store/apps/details?id=com.gulfair.android&amp;pli=1" anchor="" target="_blank" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T135832Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225854Z
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14af9a10-79db-4a60-a204-cf8adcc50c78"
+      Hint: MobileImage
+      Value: |
+        <image width="325" height="214" alt="App-Banner-Image-Mobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/41f3127c45704a99973a4c2ac30513d5?v=dad89167" stylelabs-content-id="38547" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38547/thumbnail" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T135832Z
+    - ID: "3fd8201f-65b7-4e1f-9271-2cfa50c4c0d4"
+      Hint: Heading
+      Value: L'application Gulf Air
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "725740e5-46ab-4f21-8f30-e809d934d53b"
+      Hint: CTAIOS
+      Value: |
+        <link text="IOS" linktype="external" url="https://apps.apple.com/kw/app/gulf-air/id1442202907" anchor="" target="_blank" />
+    - ID: "750a232a-f9a8-4c4e-91d7-74b614ae400a"
+      Hint: SubText
+      Value: "<p>Avec notre application mobile, nous vous faisons voyager plus facilement !</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "499e2440-0bd6-4a32-965b-d67728ce0a81"
+    - ID: "ae473652-45d2-48d6-a654-e4a5920326ab"
+      Hint: Image
+      Value: |
+        <image width="809" height="401" alt="app-banner.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/b27b48cd949042d082f73978703dbd80?v=b6476c2c" stylelabs-content-id="33299" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/33299/thumbnail" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bdbde9a7-7a20-4c70-bc6f-2b7530e999ce"
+      Hint: CTAAndroid
+      Value: |
+        <link text="ANDROID" linktype="external" url="https://play.google.com/store/apps/details?id=com.gulfair.android&amp;pli=1" anchor="" target="_blank" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T135832Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225854Z
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14af9a10-79db-4a60-a204-cf8adcc50c78"
+      Hint: MobileImage
+      Value: |
+        <image width="325" height="214" alt="App-Banner-Image-Mobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/41f3127c45704a99973a4c2ac30513d5?v=dad89167" stylelabs-content-id="38547" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38547/thumbnail" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T135832Z
+    - ID: "3fd8201f-65b7-4e1f-9271-2cfa50c4c0d4"
+      Hint: Heading
+      Value: Приложение Gulf Air
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "725740e5-46ab-4f21-8f30-e809d934d53b"
+      Hint: CTAIOS
+      Value: |
+        <link text="IOS" linktype="external" url="https://apps.apple.com/kw/app/gulf-air/id1442202907" anchor="" target="_blank" />
+    - ID: "750a232a-f9a8-4c4e-91d7-74b614ae400a"
+      Hint: SubText
+      Value: "<p>Благодаря нашему мобильному приложению путешествия с нами стали проще!</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b546400f-981b-4e1a-a788-2918d1113b7d"
+    - ID: "ae473652-45d2-48d6-a654-e4a5920326ab"
+      Hint: Image
+      Value: |
+        <image width="809" height="401" alt="app-banner.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/b27b48cd949042d082f73978703dbd80?v=b6476c2c" stylelabs-content-id="33299" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/33299/thumbnail" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bdbde9a7-7a20-4c70-bc6f-2b7530e999ce"
+      Hint: CTAAndroid
+      Value: |
+        <link text="ANDROID" linktype="external" url="https://play.google.com/store/apps/details?id=com.gulfair.android&amp;pli=1" anchor="" target="_blank" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T135832Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225854Z

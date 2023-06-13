@@ -1,0 +1,43 @@
+﻿---
+ID: "fde2f803-d912-4ee7-a58e-0589555b5e46"
+Parent: "b529b9d2-7dfc-4dc1-a70f-1939a02a1502"
+Template: "c4f0e5a0-41a4-4720-905f-4c0fc8003171"
+Path: /sitecore/content/Global/Global Cargo Contact Center Folder/Cargo Contact Center/Hanoi
+SharedFields:
+- ID: "3978628f-3184-4428-9a3c-d2e902a5e411"
+  Hint: ContactDetailsList
+  Value: |
+    {3E322A4C-C8C8-4947-A036-E11F629A103B}
+    {8BA38776-BD2E-411C-B7F9-93B6486D1FD4}
+- ID: "9c615311-1201-4a4b-be59-9d3dba8c3e70"
+  Hint: City
+  Value: "{804AE6C6-6B09-44C2-B966-5D8BBF4F6919}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230323T090132Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b9cea909-16f0-484f-820b-fba7df2ef3a4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nasia
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230518T142846Z
+    - ID: "f2a9f41f-7e90-46fd-918c-af3323a0cadd"
+      Hint: DialingCode
+      Value: 

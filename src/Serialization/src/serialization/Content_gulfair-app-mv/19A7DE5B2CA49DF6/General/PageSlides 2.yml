@@ -1,0 +1,55 @@
+﻿---
+ID: "25826d63-4519-4feb-816e-6f8ff1165ca7"
+Parent: "38c16d87-c334-4451-a6c0-e9b9fe173c5e"
+Template: "b826cdbe-7eae-4529-ad80-411aff117cfc"
+Path: "/sitecore/content/gulfair-app-mv/Data/Accordian With Page Slider Folder/agent-debit-memo-policy/Accordian With Page Slider Parent/General/PageSlides 2"
+SharedFields:
+- ID: "59e68bca-5651-48b6-9fde-90616ac9d243"
+  Hint: SlideItemList
+  Value: |
+    {8325558F-76A9-4729-B6D6-EF529A22622C}
+    {1DDC4392-4229-4174-881B-D9BFC0D927E4}
+    {F90376F1-222D-487C-BE87-54FB63E1B637}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230309T171453Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8b6ff4b-8b24-4610-933a-508f1dd84b01"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T171811Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230308T154906Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8213bf5e-55a6-4fb5-8fca-e35bf3f77067"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T162446Z

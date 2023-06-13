@@ -1,0 +1,269 @@
+﻿---
+ID: "5d4c7131-84eb-4868-9538-55d184d2bdb9"
+Parent: "f8af5881-1ba3-4209-a4cd-ef38f75a7f94"
+Template: "fd582026-66f8-4395-911a-c3cb6f40634d"
+Path: "/sitecore/content/gulfair-app-tr/Data/Things To Do Folder/Destination Bahrain/DEFAULT - BAHRAIN DETAIL - Things to do parent/DEFAULT - BAHRAIN DETAIL - Merchant-House-Bahrain"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "dbc01cbd-a304-4024-8103-5684cc1d8d37"
+  Hint: Thumbnail
+  Value: |
+    <image width="364" height="400" alt="Scuba-Diving.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/cbba29358bf04cf1b0db9be2b9b311fc?v=670cc18f" stylelabs-content-id="36447" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/36447/thumbnail" />
+- ID: "ffd0635b-490c-470f-a104-bdf5459a9885"
+  Hint: ImagesList
+  Value: "{89621C91-D2B3-4A1D-A8FF-DB8067FAD467}"
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - BAHRAIN DETAIL - Merchant-House-Bahrain"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: |
+        <link text="Find more" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T162515Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: |
+        {B7AF7188-A914-4956-94B6-E271902EF5EC}
+        {B11060D9-C175-46A0-A81C-7B0D650AF4B9}
+        {D2C3659A-5511-4502-9427-866A51BAD45B}
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: "Merchant-House-Bahrain"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a835b8f-6d4a-4dfd-9af0-689811aec3f3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000513Z
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - BAHRAIN DETAIL - Merchant-House-Bahrain"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: |
+        <link text="Find more" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T162515Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: |
+        {B7AF7188-A914-4956-94B6-E271902EF5EC}
+        {B11060D9-C175-46A0-A81C-7B0D650AF4B9}
+        {D2C3659A-5511-4502-9427-866A51BAD45B}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: "Merchant-House-Bahrain"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3ddf778-c416-4046-aea4-7ea8c22e8f95"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000513Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - BAHRAIN DETAIL - Merchant-House-Bahrain"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: |
+        <link text="Find more" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T162515Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: |
+        {B7AF7188-A914-4956-94B6-E271902EF5EC}
+        {B11060D9-C175-46A0-A81C-7B0D650AF4B9}
+        {D2C3659A-5511-4502-9427-866A51BAD45B}
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: "Merchant-House-Bahrain"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "53f4e584-4d26-4ff1-a623-bb16a8c46500"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000513Z
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - BAHRAIN DETAIL - Merchant-House-Bahrain"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: |
+        <link text="Find more" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T162515Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: |
+        {B7AF7188-A914-4956-94B6-E271902EF5EC}
+        {B11060D9-C175-46A0-A81C-7B0D650AF4B9}
+        {D2C3659A-5511-4502-9427-866A51BAD45B}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: "Merchant-House-Bahrain"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac3d74ad-c28a-4b7e-8faf-c8a912c5e78b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000513Z
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - BAHRAIN DETAIL - Merchant-House-Bahrain"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0326a173-c14c-4fb4-a65f-b25c0ffabda2"
+      Hint: CTA
+      Value: |
+        <link text="Find more" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T162515Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: |
+        {B7AF7188-A914-4956-94B6-E271902EF5EC}
+        {B11060D9-C175-46A0-A81C-7B0D650AF4B9}
+        {D2C3659A-5511-4502-9427-866A51BAD45B}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: "Merchant-House-Bahrain"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50867322-f484-4ed9-957e-8cc297178590"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000513Z

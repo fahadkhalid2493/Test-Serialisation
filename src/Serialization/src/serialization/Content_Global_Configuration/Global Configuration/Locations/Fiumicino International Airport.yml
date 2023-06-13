@@ -1,0 +1,178 @@
+﻿---
+ID: "dbe72f87-ecd1-4dcc-b343-90beb41d9f45"
+Parent: "2a609038-6fc2-41de-a46e-01e663ef60f7"
+Template: "0b5ef009-0c1f-4ac3-89b5-d0d1f3f860eb"
+Path: /sitecore/content/Global Configuration/Locations/Fiumicino International Airport
+SharedFields:
+- ID: "31250019-5060-40a9-ba51-294a37d456d9"
+  Hint: OnlineCheckInAvailable
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "be35fd21-18af-4d0d-a029-3bcac18564f9"
+  Hint: CityCode
+  Value: FCO
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: مطار روما فيومسينو الدولي
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: روما
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: إيطاليا
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb63197c-b387-4a28-b269-b430d4308624"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T162238Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Internationaler Flughafen Fiumicino
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Rom
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Italien
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "23de0d02-d17d-4a16-b539-879c0bec23cb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T165444Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Fiumicino International Airport
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Rome
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Italy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1cbad2c1-6e29-4d9b-bbf1-133e7daf47fc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T104023Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Aéroport international de Fimicino
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Rome
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Italie
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "10280d08-765c-4170-8179-f8147750a7dd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T161548Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Международный аэропорт Fiumicino
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Рим
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Италия
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e3ea7136-b88a-4a5b-91f8-b315b9dc9522"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T165904Z

@@ -1,0 +1,81 @@
+﻿---
+ID: "72cebd9e-87aa-4381-a076-dbe36e33649f"
+Parent: "d74198b9-b0fb-44d1-a62a-b5ca0610cce3"
+Template: "6279ee66-3d8f-4523-9bce-fd4dd69c1e01"
+Path: "/sitecore/content/gulfair-app-kw/Data/World Wide Call Center Folder/Contact Us/World Wide Call Center Parent"
+SharedFields:
+- ID: "ce7051ab-b22c-4809-9f85-fad4c3fb9b9c"
+  Hint: CountryCallCenterList
+  Value: |
+    {0102AA78-8EB3-4F59-A75F-326A014C6643}
+    {7F63CA5B-083A-41DE-BB0D-E4D8A77FE4D5}
+    {1DB1D0FA-9E55-4317-AA56-FDE6F39A1A9D}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0956a24a-4246-4d7f-8015-8d58760202d0"
+      Hint: LocationSelectionPromptText
+      Value: Select a location to see the the local phone number
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230302T124515Z
+    - ID: "3e3ddcca-eaa4-40fa-8ace-1a5ecaed96c8"
+      Hint: Title
+      Value: Worldwide Call Center
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "7e589c67-fb7b-4147-aa0b-e75e43557bf2"
+      Hint: Note
+      Value: |
+        <p>For other countries, contact our <a href="#">local offices</a></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a6d5f31-c53f-4e05-937c-6b5ca0ec9b3f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230303T111758Z
+    - ID: "ff7479b0-4e2c-4d06-b3e3-6c0486ac9f81"
+      Hint: SubText
+      Value: <p>Our World Wide Contact Center supports you in booking your trip or get general information about Gulf Air</p>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0956a24a-4246-4d7f-8015-8d58760202d0"
+      Hint: LocationSelectionPromptText
+      Value: Select a location to see the the local phone number
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230302T124515Z
+    - ID: "3e3ddcca-eaa4-40fa-8ace-1a5ecaed96c8"
+      Hint: Title
+      Value: Worldwide Call Center
+    - ID: "7e589c67-fb7b-4147-aa0b-e75e43557bf2"
+      Hint: Note
+      Value: |
+        <p>For other countries, contact our <a href="#">local offices</a></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e6044e94-5054-4308-bb95-0f79ef4cd6fb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230303T111753Z
+    - ID: "ff7479b0-4e2c-4d06-b3e3-6c0486ac9f81"
+      Hint: SubText
+      Value: <p>Our World Wide Contact Center supports you in booking your trip or get general information about Gulf Air</p>

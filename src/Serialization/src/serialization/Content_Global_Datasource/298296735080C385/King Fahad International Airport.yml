@@ -1,0 +1,411 @@
+﻿---
+ID: "b16bdf67-e670-49ba-bd52-5a86c9c0003d"
+Parent: "6de181f3-d153-4376-a7ea-63977f9985da"
+Template: "64fec9d9-d83e-40e2-81c8-bd6e6a654eb3"
+Path: "/sitecore/content/Global/Global Airport Info Section Folder/at-the-airport/info/AirportInfoSectionParent/King Fahad International Airport"
+SharedFields:
+- ID: "2ed07a2d-5ec4-4469-85bc-49746a7724cd"
+  Hint: Airport
+  Value: "{A20D07B6-71EB-4B21-9E91-B7A6E89A9638}"
+- ID: "3c09129a-e8b8-40d8-b82e-0392a2328f2a"
+  Hint: WebCheckin
+  Value: "{584449BA-3F3E-48A3-AFAA-00B0A5392C90}"
+- ID: "684f084f-cee6-461d-a4c9-e63c99a54d24"
+  Hint: CheckinTimeColor
+  Value: "{7C4FD76D-3B0F-42EA-A617-03C670A8A379}"
+- ID: "7d5ad0bc-c0a0-43ea-aa8a-c1146d311fc6"
+  Hint: CheckinCountersColor
+  Value: "{7C4FD76D-3B0F-42EA-A617-03C670A8A379}"
+- ID: "95b1e77c-f04a-4f75-bd0e-6beff504cda7"
+  Hint: WebCheckinColor
+  Value: "{3F16AFC2-00E8-4FFD-A242-49354F84EF7B}"
+- ID: "974f1505-990f-4931-91b1-9c7b708c5fc1"
+  Hint: PremiumCheckinServiceColor
+  Value: "{3F16AFC2-00E8-4FFD-A242-49354F84EF7B}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "cde96da4-693c-4270-8fde-fa9ff77e22db"
+  Hint: PremiumCheckinService
+  Value: "{9954376D-F506-4DF8-B914-9D356EC60BFD}"
+- ID: "df4dd1f7-ba31-4a06-bbf5-250f9a00dc23"
+  Hint: MapCTAColor
+  Value: "{8B58979B-FF89-4F09-9AF3-6A860E012049}"
+- ID: "f0d82689-dd4b-419e-8cbb-a57b16349fa3"
+  Hint: BeforeYouFlyCTAColor
+  Value: "{8B58979B-FF89-4F09-9AF3-6A860E012049}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="إعرض الخريطة" linktype="external" url="https://goo.gl/maps/mYVRHW7pG7fVAoH1A" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>
+        درجة رجال الأعمال: <strong>3006-3011</strong><br />
+        الدرجة السياحية: <strong>3006-3011</strong>
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T193359Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="زيارة الموقع" linktype="external" url="https://www.dammam-airport.com/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>الموقع</h3>
+        <p>يقع المطار على 31 كيلومترًا (19 ميلًا) شمال غرب وسط مدينة الدمام</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b41c166-1910-4f91-82f9-0b027d1183d1"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>تفاصيل المحطة</h3>
+        <p>المبنى 2 في مطار الملك فهد الدولي هو مجمع مثير للإعجاب وحديث يقدم خدمات ووسائل الراحة ذات المستوى العالمي. تحتوي المحطة على تصميم واسع ومتجدد الهواء يستحم في الضوء الطبيعي من الألواح الزجاجية الكبيرة التي تصطف على المبنى. هناك الكثير من وسائل الراحة والمرافق المتاحة ، مثل المتاجر المعفاة من الرسوم الجمركية والمطاعم والمقاهي ، بالإضافة إلى مركز أعمال مجهز بالكامل. توفر المحطة أيضًا للمسافرين وصولًا إلى خدمة الواي فاي ، وأكشاك إلكترونية ، وموارد أخرى للمساعدة في جعل رحلتهم أسهل. يكون الموظفون دائمًا على استعداد لمساعدة الركاب في أي طلبات قد تكون لديهم ، وهم مكرسون لضمان أن تكون إقامتهم مريحة قدر الإمكان.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T094143Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>قبل السفر</h3>
+        <p><strong>معلومات مهمة للمسافرين</strong>
+        <br />
+        يجب الوصول إلى مطار الملك فهد الدولي قبل 3 ساعات على الأقل من رحلتك. تذكر حمل وثائق سفر صالحة والتحقق من متطلبات التأشيرة. تحقق عبر الإنترنت أو في مكتب المطار قبل رحلتك.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>
+        في أقرب وقت ممكن: قبل <strong>4 ساعات</strong> من وقت المغادرة المحدودة<br />
+        الأحدث: <strong>60 دقيقة</strong> قبل وقت المغادرة المحدودة
+        </p>
+  - Version: 2
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="إعرض الخريطة" linktype="external" url="https://goo.gl/maps/mYVRHW7pG7fVAoH1A" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>
+        درجة رجال الأعمال: <strong>3006-3011</strong><br />
+        الدرجة السياحية: <strong>3006-3011</strong>
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T122111Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="زيارة الموقع" linktype="external" url="https://www.dammam-airport.com/" anchor="" target="_blank" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\EmanBurwais
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>الموقع</h3>
+        <p>يقع المطار على 31 كيلومترًا (19 ميلًا) شمال غرب وسط مدينة الدمام</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ddece782-fc23-4dfd-8a70-4bb08ff05d37"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>تفاصيل المحطة</h3>
+        <p>المبنى 2 في مطار الملك فهد الدولي هو مجمع مثير للإعجاب وحديث يقدم خدمات ووسائل الراحة ذات المستوى العالمي. تحتوي المحطة على تصميم واسع ومتجدد الهواء يستحم في الضوء الطبيعي من الألواح الزجاجية الكبيرة التي تصطف على المبنى. هناك الكثير من وسائل الراحة والمرافق المتاحة ، مثل المتاجر المعفاة من الرسوم الجمركية والمطاعم والمقاهي ، بالإضافة إلى مركز أعمال مجهز بالكامل. توفر المحطة أيضًا للمسافرين وصولًا إلى خدمة الواي فاي ، وأكشاك إلكترونية ، وموارد أخرى للمساعدة في جعل رحلتهم أسهل. يكون الموظفون دائمًا على استعداد لمساعدة الركاب في أي طلبات قد تكون لديهم ، وهم مكرسون لضمان أن تكون إقامتهم مريحة قدر الإمكان.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\EmanBurwais
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230607T122111Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T122120Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>قبل السفر</h3>
+        <p><strong>معلومات مهمة للمسافرين</strong>
+        <br />
+        يجب الوصول إلى مطار الملك فهد الدولي قبل 3 ساعات على الأقل من رحلتك. تذكر حمل وثائق سفر صالحة والتحقق من متطلبات التأشيرة. تحقق عبر الإنترنت أو في مكتب المطار قبل رحلتك.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>
+        أقرب موعد لإتمام إجراءات السفر:&nbsp;قبل&nbsp;<strong>4&nbsp;ساعات</strong>&nbsp;من وقت المغادرة المحدد<br />
+        اقصى موعد لإتمام إجراءات السفر:&nbsp;<strong>60 دقيقة</strong>&nbsp;قبل وقت المغادرة المحدد&nbsp;&nbsp;</p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Ansichts Karte" linktype="external" url="https://goo.gl/maps/mYVRHW7pG7fVAoH1A" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>3006-3011</strong><br />
+        Wirtschaft: <strong>3006-3011</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230401T230459Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Besuche die Website" linktype="external" url="https://www.dammam-airport.com/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Ort</h3>
+        <p>Der Flughafen liegt 31 Kilometer nordwestlich der Innenstadt von Dammam</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "25aa2841-ee57-45cb-b9e3-f161845e4a22"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminaldetails</h3>
+        <p>Terminal 2 am King Fahad International Airport ist ein beeindruckender und moderner Komplex, der erstklassige Dienstleistungen und Annehmlichkeiten bietet. Das Terminal hat ein ger&auml;umiges und luftiges Design, das in nat&uuml;rlichen Licht aus den gro&szlig;en Glasscheiben gebadet wird, die das Geb&auml;ude auskleiden. Es stehen viele Annehmlichkeiten und Einrichtungen zur Verf&uuml;gung, wie z. B. dienstfreie Gesch&auml;fte, Restaurants und Caf&eacute;s sowie ein voll ausgestattetes Gesch&auml;ftszentrum. Das Terminal bietet Reisenden auch Zugang zu WLAN, elektronischen Kiosken und anderen Ressourcen, um ihre Reise zu erleichtern. Das Personal ist immer zur Verf&uuml;gung, um den Passagieren bei Anfragen zu unterst&uuml;tzen, die sie m&ouml;glicherweise haben, und sie sind bestrebt, sicherzustellen, dass ihr Aufenthalt so angenehm wie m&ouml;glich ist.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T131321Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Bevor du fliegst</h3>
+        <p><strong>Wichtige Informationen f&uuml;r Passagiere</strong>
+        <br />
+        Kommen Sie mindestens 3 Stunden vor Ihrem Flug am King Fahad Internationaler Flughafen an. Denken Sie daran, g&uuml;ltige Reisedokumente zu f&uuml;hren und die Visumanforderungen zu &uuml;berpr&uuml;fen. Schauen Sie sich vor Ihrem Flug online oder am Flughafenschalter ein.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>früheste: <strong>4 Stunden</strong> vor geplanter Abreisezeit<br />
+        Letzte: <strong>60 Minuten</strong> vor geplanter Abreisezeit</p>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="View Map" linktype="external" url="https://goo.gl/maps/mYVRHW7pG7fVAoH1A" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>3006-3011</strong><br />
+        Economy: <strong>3006-3011</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T193359Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visit website" linktype="external" url="https://www.dammam-airport.com/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Location</h3>
+        <p>The airport is located 31 kilometres (19 miles) northwest of downtown Dammam</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9913d34b-b8d2-4b35-818e-81b5698fdae6"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminal Details</h3>
+        <p>Terminal 2 at King Fahad International Airport is an impressive and modern complex that offers world-class services and amenities. The terminal has a spacious and airy design that is bathed in natural light from the large glass panels that line the building. There are plenty of amenities and facilities available, such as duty-free shops, restaurants and cafes, as well as a fully-equipped business centre. The terminal also offers travellers access to Wi-Fi, electronic kiosks, and other resources to help make their journey easier. The staff are always on hand to assist passengers with any requests they might have, and they are dedicated to ensuring that their stay is as comfortable as possible.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T134452Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Before you Fly</h3>
+        <p><strong>Important information for passengers</strong>
+        <br />
+        Arrive at King Fahad International Airport at least 3 hours before your flight. Remember to carry valid travel documents and check visa requirements. Check in online or at the airport counter before your flight.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>Earliest: <strong>4 Hours</strong>&nbsp;before scheduled time of departure<br />
+        Latest: <strong>60 Minutes</strong> before scheduled time of departure</p>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Voir la carte" linktype="external" url="https://goo.gl/maps/mYVRHW7pG7fVAoH1A" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>3006-3011</strong><br />
+        Économie: <strong>3006-3011</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230401T230216Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visitez le site Web" linktype="external" url="https://www.dammam-airport.com/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Emplacement</h3>
+        <p>L'a&eacute;roport est situ&eacute; &agrave; 31 kilom&egrave;tres (19 miles) au nord-ouest du centre-ville de Dammam</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0873919b-bcec-42dc-922e-9e63afef7c38"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>D&eacute;tails du terminal</h3>
+        <p>Terminal 2 &agrave; l'a&eacute;roport international de King Fahad est un complexe impressionnant et moderne qui offre des services et des &eacute;quipements de classe mondiale. Le terminal a un design spacieux et a&eacute;r&eacute; qui est baign&eacute; de lumi&egrave;re naturelle des grands panneaux de verre qui tapissent le b&acirc;timent. Il existe de nombreuses commodit&eacute;s et installations disponibles, telles que des magasins de taxes, des restaurants et des caf&eacute;s, ainsi qu'un centre d'affaires enti&egrave;rement &eacute;quip&eacute;. Le terminal offre &eacute;galement aux voyageurs l'acc&egrave;s au Wi-Fi, aux kiosques &eacute;lectroniques et &agrave; d'autres ressources pour faciliter leur voyage. Le personnel est toujours sur place pour aider les passagers &agrave; toutes les demandes qu'ils pourraient avoir, et ils se consacrent &agrave; s'assurer que leur s&eacute;jour est aussi confortable que possible.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T125005Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Avant de voler</h3>
+        <p><strong>Informations importantes pour les passagers</strong>
+        <br />
+        Arrivez &agrave; Aéroport international King Fahad au moins 3 heures avant votre vol. N'oubliez pas de transporter des documents de voyage valides et de v&eacute;rifier les exigences de visa. Enregistrez-vous en ligne ou au comptoir de l'a&eacute;roport avant votre vol.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>précoce: <strong>4 heures</strong> avant l'heure de départ prévue<br />
+        Dernier: <strong>60 minutes</strong> avant l'heure de départ prévue</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Посмотреть карту" linktype="external" url="https://goo.gl/maps/mYVRHW7pG7fVAoH1A" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>3006-3011</strong><br />
+        Экономика: <strong>3006-3011</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T172251Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Посетите вебсайт" linktype="external" url="https://www.dammam-airport.com/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Место нахождения</h3>
+        <p>Аэропорт расположен в 31 километрах (19 миль) к северо -западу от центра Даммама</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e32c0d01-d1e2-463f-92f0-2d632e722414"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Терминальные детали</h3>
+        <p>Терминал 2 в международном аэропорту King Fahad-это впечатляющий и современный комплекс, который предлагает услуги и удобства мирового класса. Терминал имеет просторный и воздушный дизайн, который купается в естественном свете от больших стеклянных панелей, которые выстраивают здание. Существует множество удобств и удобств, таких как бесплатные магазины, рестораны и кафе, а также полностью оборудованный бизнес-центр. Терминал также предлагает путешественникам доступ к Wi-Fi, электронным киоскам и другим ресурсам, чтобы облегчить их путешествие. Сотрудники всегда готовы помочь пассажирам с любыми запросами, которые они могут иметь, и они стремятся обеспечить, чтобы их пребывание было настолько удобным, насколько это возможно.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T132250Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Перед полетом</h3>
+        <p><strong>Важная информация для пассажиров</strong>
+        <br />
+        Приезжайте в Международный аэропорт короля Фахада по крайней мере за 3 часа до вашего рейса. Не забудьте вести действительные туристические документы и проверить требования визы. Зарегистрируйтесь в Интернете или на стойке аэропорта перед рейсом.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>течение раннего: <strong>за 4 часа</strong> до запланированного срока вылета<br />
+        Последнее: <strong>за 60 минут</strong> до запланированного времени отъезда</p>

@@ -1,0 +1,416 @@
+﻿---
+ID: "6ad2a683-d317-48d4-bbc0-8d98606ad958"
+Parent: "6de181f3-d153-4376-a7ea-63977f9985da"
+Template: "64fec9d9-d83e-40e2-81c8-bd6e6a654eb3"
+Path: "/sitecore/content/Global/Global Airport Info Section Folder/at-the-airport/info/AirportInfoSectionParent/London Heathrow Airport"
+SharedFields:
+- ID: "2ed07a2d-5ec4-4469-85bc-49746a7724cd"
+  Hint: Airport
+  Value: "{76FF9B4D-A5B0-4825-BBBD-6A11247F01EB}"
+- ID: "3c09129a-e8b8-40d8-b82e-0392a2328f2a"
+  Hint: WebCheckin
+  Value: "{584449BA-3F3E-48A3-AFAA-00B0A5392C90}"
+- ID: "684f084f-cee6-461d-a4c9-e63c99a54d24"
+  Hint: CheckinTimeColor
+  Value: "{7C4FD76D-3B0F-42EA-A617-03C670A8A379}"
+- ID: "7d5ad0bc-c0a0-43ea-aa8a-c1146d311fc6"
+  Hint: CheckinCountersColor
+  Value: "{7C4FD76D-3B0F-42EA-A617-03C670A8A379}"
+- ID: "95b1e77c-f04a-4f75-bd0e-6beff504cda7"
+  Hint: WebCheckinColor
+  Value: "{3F16AFC2-00E8-4FFD-A242-49354F84EF7B}"
+- ID: "974f1505-990f-4931-91b1-9c7b708c5fc1"
+  Hint: PremiumCheckinServiceColor
+  Value: "{3F16AFC2-00E8-4FFD-A242-49354F84EF7B}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "cde96da4-693c-4270-8fde-fa9ff77e22db"
+  Hint: PremiumCheckinService
+  Value: "{9954376D-F506-4DF8-B914-9D356EC60BFD}"
+- ID: "df4dd1f7-ba31-4a06-bbf5-250f9a00dc23"
+  Hint: MapCTAColor
+  Value: "{8B58979B-FF89-4F09-9AF3-6A860E012049}"
+- ID: "f0d82689-dd4b-419e-8cbb-a57b16349fa3"
+  Hint: BeforeYouFlyCTAColor
+  Value: "{8B58979B-FF89-4F09-9AF3-6A860E012049}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="إعرض الخريطة" linktype="external" url="https://goo.gl/maps/D4N6NjrfiUMS38McA" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>
+        المميزة: <strong>منطقة C</strong><br />
+        الدرجة السياحية: <strong>المنطقة ج</strong>
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T193359Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="زيارة الموقع" linktype="external" url="https://www.heathrow.com/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>الموقع</h3>
+        <p>هيثرو هو 14 ميل (23 كم) غرب وسط لندن ، ويقع على بعد 3 ميل (4.8 كم) غرب هونسلو ، و 3 أميال جنوب هايز ، و 3 أميال شمال شرق ستينس-أبون-ثامس</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ce3d566c-8475-4ebb-8668-03335a21ef9a"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>تفاصيل المحطة</h3>
+        <p>محطة 4 في مطار لندن هيثرو هي منشأة حديثة ومريحة للركاب. لديها مجموعة واسعة من وسائل الراحة والخدمات ، مثل مجموعة واسعة من المتاجر والمطاعم ، وصالة ، ومنطقة تسجيل وصول حديثة وفعالة. وهي أيضًا المحطة الرئيسية لرحلات الجوية الخليجية. بالإضافة إلى ذلك ، تم تجهيز المحطه 4 بأحدث التقنيات ، بما في ذلك التحكم الآلي في جوازات السفر وقطرات الأمتعة ذات الخدمة الذاتية لتجربة سفر فعالة وخالية من الإجهاد.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T112450Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>قبل السفر</h3>
+        <p><strong>معلومات مهمة للمسافرين</strong>
+        <br />
+        يجب الوصول إلى مطار لندن هيثرو الدولي قبل 3 ساعات على الأقل من رحلتك. تذكر حمل وثائق سفر صالحة والتحقق من متطلبات التأشيرة. تحقق عبر الإنترنت أو في مكتب المطار قبل رحلتك.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>
+        في أقرب وقت ممكن: قبل <strong>4 ساعات</strong> من وقت المغادرة المحدودة<br />
+        الأحدث: <strong>60 دقيقة</strong> قبل وقت المغادرة المحدودة
+        </p>
+  - Version: 2
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="إعرض الخريطة" linktype="external" url="https://goo.gl/maps/D4N6NjrfiUMS38McA" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>
+        المميزة: <strong>منطقة C</strong><br />
+        الدرجة السياحية: <strong>المنطقة ج</strong>
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T122207Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="زيارة الموقع" linktype="external" url="https://www.heathrow.com/" anchor="" target="_blank" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\EmanBurwais
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>الموقع</h3>
+        <p>هيثرو هو 14 ميل (23 كم) غرب وسط لندن ، ويقع على بعد 3 ميل (4.8 كم) غرب هونسلو ، و 3 أميال جنوب هايز ، و 3 أميال شمال شرق ستينس-أبون-ثامس</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "12e54357-5bd6-4a66-8ffe-ba8d6740bab1"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>تفاصيل المحطة</h3>
+        <p>محطة 4 في مطار لندن هيثرو هي منشأة حديثة ومريحة للركاب. لديها مجموعة واسعة من وسائل الراحة والخدمات ، مثل مجموعة واسعة من المتاجر والمطاعم ، وصالة ، ومنطقة تسجيل وصول حديثة وفعالة. وهي أيضًا المحطة الرئيسية لرحلات الجوية الخليجية. بالإضافة إلى ذلك ، تم تجهيز المحطه 4 بأحدث التقنيات ، بما في ذلك التحكم الآلي في جوازات السفر وقطرات الأمتعة ذات الخدمة الذاتية لتجربة سفر فعالة وخالية من الإجهاد.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\EmanBurwais
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230607T122207Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T122216Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>قبل السفر</h3>
+        <p><strong>معلومات مهمة للمسافرين</strong>
+        <br />
+        يجب الوصول إلى مطار لندن هيثرو الدولي قبل 3 ساعات على الأقل من رحلتك. تذكر حمل وثائق سفر صالحة والتحقق من متطلبات التأشيرة. تحقق عبر الإنترنت أو في مكتب المطار قبل رحلتك.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>
+        أقرب موعد لإتمام إجراءات السفر:&nbsp;قبل&nbsp;<strong>4 ساعات</strong>&nbsp;من وقت المغادرة المحدد<br />
+        اقصى موعد لإتمام إجراءات السفر:&nbsp;<strong>60 دقيقة</strong>&nbsp;قبل وقت المغادرة المحدد&nbsp;&nbsp;</p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Ansichts Karte" linktype="external" url="https://goo.gl/maps/D4N6NjrfiUMS38McA" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>Zone C.</strong><br />
+        Wirtschaft: <strong>Zone C.</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230401T230459Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Besuche die Website" linktype="external" url="https://www.heathrow.com/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Ort</h3>
+        <p>Heathrow liegt 14 mi westlich des Zentral-Londons. Es liegt 3 mi 4,8 km westlich von Hounslow, 3 Meilen s&uuml;dlich von Hayes und 3 Meilen nord&ouml;stlich von Staines-upon-Thames</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "33c7f329-5cd5-40ee-ad74-00b1f358efcb"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminaldetails</h3>
+        <p>Terminal 4 am Flughafen London Heathrow ist eine moderne und bequeme Einrichtung f&uuml;r Passagiere. Es verf&uuml;gt &uuml;ber eine gro&szlig;e Auswahl an Annehmlichkeiten und Dienstleistungen, wie z. B. eine gro&szlig;e Auswahl an Gesch&auml;ften und Restaurants, eine Lounge und einen modernen und effizienten Check-in-Bereich. Es ist auch das Hauptterminal f&uuml;r Golf -Luftfl&uuml;ge. Dar&uuml;ber hinaus ist Terminal 4 mit der neuesten Technologie ausgestattet, einschlie&szlig;lich automatisierter Passkontrolle und Selbstbedienungsgep&auml;ck f&uuml;r ein effizientes und stressfreies Reiseerlebnis.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T131403Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Bevor du fliegst</h3>
+        <p><strong>Wichtige Informationen f&uuml;r Passagiere</strong>
+        <br />
+        Kommen Sie mindestens 3 Stunden vor Ihrem Flug am London Heathrow Airport an. Denken Sie daran, g&uuml;ltige Reisedokumente zu f&uuml;hren und die Visumanforderungen zu &uuml;berpr&uuml;fen. Schauen Sie sich vor Ihrem Flug online oder am Flughafenschalter ein.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>früheste: <strong>4 Stunden</strong> vor geplanter Abreisezeit<br />
+        Letzte: <strong>60 Minuten</strong> vor geplanter Abreisezeit</p>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="View Map" linktype="external" url="https://goo.gl/maps/D4N6NjrfiUMS38McA" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>Zone C</strong><br />
+        Economy: <strong>Zone C</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T193359Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visit website" linktype="external" url="https://www.heathrow.com/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Location</h3>
+        <p>Heathrow is 14 mi (23 km) west of central London, It is located 3 mi (4.8 km) west of Hounslow, 3 miles south of Hayes, and 3 miles north-east of Staines-upon-Thames</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e18e2dad-8f13-4182-b397-86c4d60bc676"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminal Details</h3>
+        <p>Terminal 4 at London Heathrow Airport is a modern and convenient facility for passengers. It has a wide range of amenities and services, such as a wide selection of shops and restaurants, a lounge, and a modern and efficient check-in area. It is also the main terminal for Gulf Air flights. In addition, Terminal 4 is equipped with the latest technology, including automated passport control and self-service baggage drops for an efficient and stress-free travel experience.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T134859Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Before you Fly</h3>
+        <p><strong>Important information for passengers</strong>
+        <br />
+        Arrive at London Heathrow Airport at least 3 hours before your flight. Remember to carry valid travel documents and check visa requirements. Check in online or at the airport counter before your flight.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>Earliest: <strong>4 Hours</strong>&nbsp;before scheduled time of departure<br />
+        Latest: <strong>60 Minutes</strong> before scheduled time of departure</p>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Voir la carte" linktype="external" url="https://goo.gl/maps/D4N6NjrfiUMS38McA" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>Zone C</strong><br />
+        Économie: <strong>zone C</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230401T230216Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visitez le site Web" linktype="external" url="https://www.heathrow.com/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Emplacement</h3>
+        <p>Heathrow est &agrave; 14 mi (23 km) &agrave; l'ouest du centre de Londres, il est situ&eacute; &agrave; 3 mi (4,8 km) &agrave; l'ouest de Hounslow, &agrave; 3 milles au sud de Hayes et &agrave; 3 milles au nord-est de Staines-upon-Thames</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9607f6c-dd71-43bc-a174-4032e648cf11"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>D&eacute;tails du terminal</h3>
+        <p>Le terminal 4 &agrave; l'a&eacute;roport de London Heathrow est une installation moderne et pratique pour les passagers. Il dispose d'un large &eacute;ventail d'&eacute;quipements et de services, comme une large s&eacute;lection de magasins et de restaurants, un salon et une zone d'enregistrement moderne et efficace. C'est &eacute;galement le principal terminal des vols a&eacute;riens du Gulf. De plus, Terminal 4 est &eacute;quip&eacute; des derni&egrave;res technologies, y compris le contr&ocirc;le automatis&eacute; des passeports et les baisses de bagages en libre-service pour une exp&eacute;rience de voyage efficace et sans stress.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T125042Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Avant de voler</h3>
+        <p><strong>Informations importantes pour les passagers</strong>
+        <br />
+        Arrivez &agrave; Aéroport de Londres Heathrow au moins 3 heures avant votre vol. N'oubliez pas de transporter des documents de voyage valides et de v&eacute;rifier les exigences de visa. Enregistrez-vous en ligne ou au comptoir de l'a&eacute;roport avant votre vol.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>précoce: <strong>4 heures</strong> avant l'heure de départ prévue<br />
+        Dernier: <strong>60 minutes</strong> avant l'heure de départ prévue</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Посмотреть карту" linktype="external" url="https://goo.gl/maps/D4N6NjrfiUMS38McA" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Сокол Золото: <strong>зона C</strong><br />
+        Экономика: <strong>зона C</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T172251Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Посетите вебсайт" linktype="external" url="https://www.heathrow.com/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Место нахождения</h3>
+        <p>Хитроу находится в 14 миль (23 км) к западу от Центрального Лондона, он расположен в 3 мили (4,8 км) к западу от Хаунслоу, в 3 милях к югу от Хейса и в 3 милях к северо-востоку от Стейнс-в-Темзе</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78dbe00d-5ca2-462f-b9fa-612b74a0f1e6"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Терминальные детали</h3>
+        <p>Терминал 4 в лондонском аэропорту Хитроу является современным и удобным объектом для пассажиров. Он имеет широкий спектр удобств и услуг, таких как широкий выбор магазинов и ресторанов, гостиная и современная и эффективная зона регистрации. Это также основной терминал для полетов залива. Кроме того, Terminal 4 оснащен новейшими технологиями, включая автоматизированное управление паспортом и капли багажа самообслуживания для эффективного и безразмерного опыта путешествий.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T132833Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Перед полетом</h3>
+        <p><strong>Важная информация для пассажиров</strong>
+        <br />
+        Приезжайте в Лондонский аэропорт Хитроу по крайней мере за 3 часа до вашего рейса. Не забудьте вести действительные туристические документы и проверить требования визы. Зарегистрируйтесь в Интернете или на стойке аэропорта перед рейсом.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>течение раннего: <strong>за 4 часа</strong> до запланированного срока вылета<br />
+        Последнее: <strong>за 60 минут</strong> до запланированного времени отъезда</p>

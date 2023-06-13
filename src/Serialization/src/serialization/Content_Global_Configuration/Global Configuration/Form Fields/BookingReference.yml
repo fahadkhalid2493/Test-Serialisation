@@ -1,0 +1,206 @@
+﻿---
+ID: "b41de51c-9a3b-42e5-8be7-a450d32c0f7d"
+Parent: "20966d1d-8845-4a20-8f3c-88f681ba0512"
+Template: "12142ef5-01dc-4fc3-a9fb-97af03e9a33d"
+Path: /sitecore/content/Global Configuration/Form Fields/BookingReference
+SharedFields:
+- ID: "a654c81a-13d0-4ad0-a1d5-e30d6a0ba987"
+  Hint: HelpIcon
+  Value: |
+    <image width="14" height="14" alt="HelpIcon.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/111f759e457c4c83b1fe076e43ba9ad8?v=09439708" stylelabs-content-id="37774" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/37774/thumbnail" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230116T105602Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "53b2cac8-026d-4db4-9ef0-a33e4a7fd26c"
+      Hint: Label
+      Value: رمز الحجز
+    - ID: "5843c54b-f2df-4d90-9b10-de0ce88156b5"
+      Hint: Placeholder
+      Value: Reference
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "61962b7c-a711-492e-ac77-3b01b52772e6"
+      Hint: Error
+      Value: Booking reference is required
+    - ID: "6c641a71-6a22-4f6c-ba07-1796368e6e37"
+      Hint: Required
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6af8adf6-37e0-4b47-95e9-ee2d25a81fb4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225550Z
+    - ID: "f76baf97-433b-4daf-a6f4-1cab4b96a8e5"
+      Hint: HelpText
+      Value: Enter your PNR here
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230116T105602Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "53b2cac8-026d-4db4-9ef0-a33e4a7fd26c"
+      Hint: Label
+      Value: Buchungsreferenz
+    - ID: "5843c54b-f2df-4d90-9b10-de0ce88156b5"
+      Hint: Placeholder
+      Value: Reference
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "61962b7c-a711-492e-ac77-3b01b52772e6"
+      Hint: Error
+      Value: Booking reference is required
+    - ID: "6c641a71-6a22-4f6c-ba07-1796368e6e37"
+      Hint: Required
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7efa77a7-fe3d-478a-a0d7-610e3ee1a883"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225550Z
+    - ID: "f76baf97-433b-4daf-a6f4-1cab4b96a8e5"
+      Hint: HelpText
+      Value: Enter your PNR here
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230116T105602Z
+    - ID: "53b2cac8-026d-4db4-9ef0-a33e4a7fd26c"
+      Hint: Label
+      Value: Booking Reference
+    - ID: "5843c54b-f2df-4d90-9b10-de0ce88156b5"
+      Hint: Placeholder
+      Value: Reference
+    - ID: "61962b7c-a711-492e-ac77-3b01b52772e6"
+      Hint: Error
+      Value: Booking reference is required
+    - ID: "6c641a71-6a22-4f6c-ba07-1796368e6e37"
+      Hint: Required
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "034b1a6d-f9b9-4770-80e9-1d869a890e5d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225550Z
+    - ID: "f76baf97-433b-4daf-a6f4-1cab4b96a8e5"
+      Hint: HelpText
+      Value: Enter your PNR here
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230116T105602Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "53b2cac8-026d-4db4-9ef0-a33e4a7fd26c"
+      Hint: Label
+      Value: Référence de réservation
+    - ID: "5843c54b-f2df-4d90-9b10-de0ce88156b5"
+      Hint: Placeholder
+      Value: Reference
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "61962b7c-a711-492e-ac77-3b01b52772e6"
+      Hint: Error
+      Value: Booking reference is required
+    - ID: "6c641a71-6a22-4f6c-ba07-1796368e6e37"
+      Hint: Required
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "06496f18-e24d-480e-9678-cf3a92c41b03"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225551Z
+    - ID: "f76baf97-433b-4daf-a6f4-1cab4b96a8e5"
+      Hint: HelpText
+      Value: Enter your PNR here
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230116T105602Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "53b2cac8-026d-4db4-9ef0-a33e4a7fd26c"
+      Hint: Label
+      Value: Код бронирования
+    - ID: "5843c54b-f2df-4d90-9b10-de0ce88156b5"
+      Hint: Placeholder
+      Value: Reference
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "61962b7c-a711-492e-ac77-3b01b52772e6"
+      Hint: Error
+      Value: Booking reference is required
+    - ID: "6c641a71-6a22-4f6c-ba07-1796368e6e37"
+      Hint: Required
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b14730d8-4fa7-4b6d-b127-14773c2930c1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225551Z
+    - ID: "f76baf97-433b-4daf-a6f4-1cab4b96a8e5"
+      Hint: HelpText
+      Value: Enter your PNR here

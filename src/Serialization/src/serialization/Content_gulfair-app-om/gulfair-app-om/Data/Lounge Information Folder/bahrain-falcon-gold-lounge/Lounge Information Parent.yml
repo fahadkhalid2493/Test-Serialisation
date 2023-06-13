@@ -1,0 +1,178 @@
+﻿---
+ID: "39c071bd-c5eb-47f1-8f33-de7eb4f0113f"
+Parent: "d9fd3306-41d9-465e-b772-97d100e9b832"
+Template: "d2fe7ac8-541e-4d3a-b223-a117a6bf0f6d"
+Path: "/sitecore/content/gulfair-app-om/Data/Lounge Information Folder/bahrain-falcon-gold-lounge/Lounge Information Parent"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: /~/icon/office/32x32/information.png
+- ID: "07280adc-96d2-46a7-8991-8c2881ea9d33"
+  Hint: Lounges
+  Value: |
+    {E26C1CF3-834E-443C-BF8B-A384DA82CF39}
+    {C59B31C1-BA58-45C7-9D32-C12816BF83BE}
+    {5FF14ACB-846E-46F2-B44D-79539D061FE0}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14c15f8c-19a1-44ae-90e1-836cfd84b551"
+      Hint: Heading
+      Value: Check out our lounges
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230130T123320Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e3566c3-ee8a-427c-b2e5-26f4884848c5"
+    - ID: "9ec98f11-646c-4098-90b3-d0c318f606bb"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\uzair
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230203T131300Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14c15f8c-19a1-44ae-90e1-836cfd84b551"
+      Hint: Heading
+      Value: Check out our lounges
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T103612Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "05032beb-7c57-4b41-9487-959eea23a772"
+    - ID: "9ec98f11-646c-4098-90b3-d0c318f606bb"
+      Hint: Description
+      Value: |
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum.</p>
+        
+        
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120904Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14c15f8c-19a1-44ae-90e1-836cfd84b551"
+      Hint: Heading
+      Value: Check out our lounges
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T103612Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4630e2d5-076f-4803-894c-737f85f73fbf"
+    - ID: "9ec98f11-646c-4098-90b3-d0c318f606bb"
+      Hint: Description
+      Value: |
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum.</p>
+        
+        
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\uzair
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230203T131220Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14c15f8c-19a1-44ae-90e1-836cfd84b551"
+      Hint: Heading
+      Value: Check out our lounges
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T103612Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ddb05be-543d-452d-832c-db4b30cdc957"
+    - ID: "9ec98f11-646c-4098-90b3-d0c318f606bb"
+      Hint: Description
+      Value: |
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum.</p>
+        
+        
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T121159Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14c15f8c-19a1-44ae-90e1-836cfd84b551"
+      Hint: Heading
+      Value: Check out our lounges
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T103612Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f89c20eb-c12b-4a15-8259-f15cd8f16fd1"
+    - ID: "9ec98f11-646c-4098-90b3-d0c318f606bb"
+      Hint: Description
+      Value: |
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum.</p>
+        
+        
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T121556Z

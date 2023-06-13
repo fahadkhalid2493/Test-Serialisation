@@ -1,0 +1,229 @@
+﻿---
+ID: "9665c402-4178-4bbf-b1ee-c933f5c3fa1b"
+Parent: "e993a2d1-637c-44de-89dc-bba3df089b52"
+Template: "e8640e7c-9466-4db5-9201-0091e27fc7ac"
+Path: /sitecore/content/Global/Global Track Your Cargo Folder/Track Your Cargo
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16d740b6-d43c-40bb-a17c-0abe3527803c"
+      Hint: TrackCTAURL
+      Value: "https://ebooking.champ.aero/webtracking/gf/tracking.asp"
+    - ID: "1ef811ef-7831-49a9-96ad-a731d81f52f7"
+      Hint: TrackFieldLabel
+      Value: AWB NUMBER
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230505T074752Z
+    - ID: "308e9629-525c-4297-946a-8d1f86e1ad6f"
+      Hint: TrackFieldPlaceholder
+      Value: 0000 0000
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{730AD6C8-616D-496F-A4A3-D276EBA8EDF9}"
+    - ID: "4953932e-5354-4ad7-bc0c-a2bb6db674ba"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b436758c-259e-48b9-9027-cc4e507747f9"
+    - ID: "9b7ba3dd-f099-4d3a-9a14-de7dd750b676"
+      Hint: TrackCTALabel
+      Value: Track your cargo
+    - ID: "afcab3f0-71ec-4063-8811-607f6e1aa2d2"
+      Hint: Heading
+      Value: Track your Cargo
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T074752Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16d740b6-d43c-40bb-a17c-0abe3527803c"
+      Hint: TrackCTAURL
+      Value: "https://ebooking.champ.aero/webtracking/gf/tracking.asp"
+    - ID: "1ef811ef-7831-49a9-96ad-a731d81f52f7"
+      Hint: TrackFieldLabel
+      Value: AWB NUMBER
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230505T074744Z
+    - ID: "308e9629-525c-4297-946a-8d1f86e1ad6f"
+      Hint: TrackFieldPlaceholder
+      Value: 0000 0000
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{730AD6C8-616D-496F-A4A3-D276EBA8EDF9}"
+    - ID: "4953932e-5354-4ad7-bc0c-a2bb6db674ba"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17f5c0a4-bd12-4dda-9eb1-73293ef383a6"
+    - ID: "9b7ba3dd-f099-4d3a-9a14-de7dd750b676"
+      Hint: TrackCTALabel
+      Value: Track your cargo
+    - ID: "afcab3f0-71ec-4063-8811-607f6e1aa2d2"
+      Hint: Heading
+      Value: Track your Cargo
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T074744Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16d740b6-d43c-40bb-a17c-0abe3527803c"
+      Hint: TrackCTAURL
+      Value: "https://ebooking.champ.aero/webtracking/gf/tracking.asp"
+    - ID: "1ef811ef-7831-49a9-96ad-a731d81f52f7"
+      Hint: TrackFieldLabel
+      Value: AWB NUMBER
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230321T132202Z
+    - ID: "308e9629-525c-4297-946a-8d1f86e1ad6f"
+      Hint: TrackFieldPlaceholder
+      Value: 0000 0000
+    - ID: "4953932e-5354-4ad7-bc0c-a2bb6db674ba"
+      Hint: SubText
+      Value: <p>Enter your AWB Number below and track your cargo.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b35434cb-77f8-47d4-9967-217802568d53"
+    - ID: "9b7ba3dd-f099-4d3a-9a14-de7dd750b676"
+      Hint: TrackCTALabel
+      Value: Track your cargo
+    - ID: "afcab3f0-71ec-4063-8811-607f6e1aa2d2"
+      Hint: Heading
+      Value: Track your Cargo
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T120906Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16d740b6-d43c-40bb-a17c-0abe3527803c"
+      Hint: TrackCTAURL
+      Value: "https://ebooking.champ.aero/webtracking/gf/tracking.asp"
+    - ID: "1ef811ef-7831-49a9-96ad-a731d81f52f7"
+      Hint: TrackFieldLabel
+      Value: AWB NUMBER
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230505T074747Z
+    - ID: "308e9629-525c-4297-946a-8d1f86e1ad6f"
+      Hint: TrackFieldPlaceholder
+      Value: 0000 0000
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{730AD6C8-616D-496F-A4A3-D276EBA8EDF9}"
+    - ID: "4953932e-5354-4ad7-bc0c-a2bb6db674ba"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "622374b1-e4e7-44f1-9dc0-fe9e8b261851"
+    - ID: "9b7ba3dd-f099-4d3a-9a14-de7dd750b676"
+      Hint: TrackCTALabel
+      Value: Track your cargo
+    - ID: "afcab3f0-71ec-4063-8811-607f6e1aa2d2"
+      Hint: Heading
+      Value: Track your Cargo
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T074747Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16d740b6-d43c-40bb-a17c-0abe3527803c"
+      Hint: TrackCTAURL
+      Value: "https://ebooking.champ.aero/webtracking/gf/tracking.asp"
+    - ID: "1ef811ef-7831-49a9-96ad-a731d81f52f7"
+      Hint: TrackFieldLabel
+      Value: AWB NUMBER
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230505T074749Z
+    - ID: "308e9629-525c-4297-946a-8d1f86e1ad6f"
+      Hint: TrackFieldPlaceholder
+      Value: 0000 0000
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{730AD6C8-616D-496F-A4A3-D276EBA8EDF9}"
+    - ID: "4953932e-5354-4ad7-bc0c-a2bb6db674ba"
+      Hint: SubText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa0bf60f-209d-41c7-8539-ef76c04f694e"
+    - ID: "9b7ba3dd-f099-4d3a-9a14-de7dd750b676"
+      Hint: TrackCTALabel
+      Value: Track your cargo
+    - ID: "afcab3f0-71ec-4063-8811-607f6e1aa2d2"
+      Hint: Heading
+      Value: Track your Cargo
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T074749Z

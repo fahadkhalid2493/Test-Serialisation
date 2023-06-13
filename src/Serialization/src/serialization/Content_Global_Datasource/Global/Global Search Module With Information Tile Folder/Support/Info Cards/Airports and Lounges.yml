@@ -1,0 +1,199 @@
+﻿---
+ID: "7e428be6-7d05-420b-9699-b2406a63497a"
+Parent: "7912d99f-c8f4-45c0-b93e-b98d0c58e08a"
+Template: "43777290-de6e-474c-a476-b659ebcf4cb1"
+Path: /sitecore/content/Global/Global Search Module With Information Tile Folder/Support/Info Cards/Airports and Lounges
+SharedFields:
+- ID: "2cc85e79-09b1-4098-a6bc-1c11d181008a"
+  Hint: LiveChatOptionWithCTA
+  Value: "{55004A9C-071B-45B2-9154-5EF5BA160143}"
+- ID: "40afc0c0-49bf-41f5-950a-9586c0504f4d"
+  Hint: Icon
+  Value: |
+    <image width="120" height="120" alt="icon-6.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/acd451d0cde54d01bee41cf0f19ceb79?v=5e69e7f8" stylelabs-content-id="46898" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/46898/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T172027Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: هل تخطط لرحلتك مع طيران الخليج؟ تحقق من صفحة معلومات المطار الخاصة بنا لمعرفة كل ما تحتاج لمعرفته حول مطارات الوصول و المغادرة وصالاتنا. اكتشف مكان وجود مكاتب تسجيل الوصول الخاصة بنا، واطلع على أوقات تسجيل الوصول لدينا، واحصل على الاتجاهات إلى المطار. سواء كنت مسافرًا متمرسًا أو تسافر معنا لأول مرة، فإن طيران الخليج هنا لجعل تجربتك في المطار سلسة ومريحة قدر الإمكان.
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: <p>هل تخطط لرحلتك مع طيران الخليج؟ تحقق من صفحة معلومات المطار الخاصة بنا لمعرفة كل ما تحتاج لمعرفته حول مطارات الوصول و المغادرة وصالاتنا. اكتشف مكان وجود مكاتب تسجيل الوصول الخاصة بنا، واطلع على أوقات تسجيل الوصول لدينا، واحصل على الاتجاهات إلى المطار. سواء كنت مسافرًا متمرسًا أو تسافر معنا لأول مرة، فإن طيران الخليج هنا لجعل تجربتك في المطار سلسة ومريحة قدر الإمكان.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1ab5f10f-e4b7-45d0-a512-8b3cccb5076a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: المطارات والصالات
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: المطارات والصالات
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T172101Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: "Planen Sie Ihre Reise mit Gulf Air? In unserer Flughafeninformationsseite finden Sie alles, was Sie über Ihre Abreise, Ihre Ankunftsflughäfen und unsere Lounges wissen müssen. Finden Sie heraus, wo sich unsere Check-in-Zähler befinden, sehen Sie sich unsere Check-in-Zeiten an und erhalten Sie einen Weg zum Flughafen. Egal, ob Sie ein erfahrener Reisender sind oder zum ersten Mal mit uns fliegen, Gulf Air ist hier, um Ihr Flughafenerlebnis so reibungslos und stressfrei wie möglich zu gestalten."
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: "<p>Planen Sie Ihre Reise mit Gulf Air? In unserer Flughafeninformationsseite finden Sie alles, was Sie &uuml;ber Ihre Abreise, Ihre Ankunftsflugh&auml;fen und unsere Lounges wissen m&uuml;ssen. Finden Sie heraus, wo sich unsere Check-in-Z&auml;hler befinden, sehen Sie sich unsere Check-in-Zeiten an und erhalten Sie einen Weg zum Flughafen. Egal, ob Sie ein erfahrener Reisender sind oder zum ersten Mal mit uns fliegen, Gulf Air ist hier, um Ihr Flughafenerlebnis so reibungslos und stressfrei wie m&ouml;glich zu gestalten.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7638118d-c01e-4f75-8424-85a0be4a5f9d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Flughäfen und Lounges
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Flughäfen und Lounges
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T171151Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: "Planning your trip with Gulf Air? Check out our Airport Information page for everything you need to know about your departure, arrival airports and our lounges. Find out where our check-in counters are located, view our check-in times, and get directions to the airport. Whether you're a seasoned traveler or flying with us for the first time, Gulf Air is here to make your airport experience as smooth and stress-free as possible."
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: "<p>Planning your trip with Gulf Air? Check out our Airport Information page for everything you need to know about your departure, arrival airports and our lounges. Find out where our check-in counters are located, view our check-in times, and get directions to the airport. Whether you're a seasoned traveler or flying with us for the first time, Gulf Air is here to make your airport experience as smooth and stress-free as possible.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "15a9310b-0182-4756-9e6d-87e4c38cc8a2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Airports & Lounges
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Airports & Lounges
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T172045Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: "Vous planifiez votre voyage avec Gulf Air? Consultez notre page d'informations sur l'aéroport pour tout ce que vous devez savoir sur votre départ, vos aéroports d'arrivée et nos salons. Découvrez où se trouvent nos compteurs d'enregistrement, consultez nos heures d'enregistrement et obtenez des itinéraires vers l'aéroport. Que vous soyez un voyageur chevronné ou que vous volez avec nous pour la première fois, Gulf Air est là pour rendre votre expérience d'aéroport aussi fluide et sans stress que possible."
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: "<p>Vous planifiez votre voyage avec Gulf Air? Consultez notre page d'informations sur l'aéroport pour tout ce que vous devez savoir sur votre départ, vos aéroports d'arrivée et nos salons. Découvrez où se trouvent nos compteurs d'enregistrement, consultez nos heures d'enregistrement et obtenez des itinéraires vers l'aéroport. Que vous soyez un voyageur chevronné ou que vous volez avec nous pour la première fois, Gulf Air est là pour rendre votre expérience d'aéroport aussi fluide et sans stress que possible.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3772a88f-d1ad-4522-b39d-1db68e45f42f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Aéroports et salons
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Aéroports et salons
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T172118Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: "Планируете поездку с Gulf Air? Ознакомьтесь с информацией о нашей странице в аэропорту, чтобы узнать все, что вам нужно знать о вашем отъезде, аэропортах прибытия и наших залах. Узнайте, где находятся наши счетчики регистрации, просмотреть время регистрации и получить указания в аэропорт. Независимо от того, являетесь ли вы опытным путешественником или летите с нами впервые, Gulf Air здесь, чтобы ваш аэропорт был как можно более гладким и без стресса."
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: "<p>Планируете поездку с Gulf Air? Ознакомьтесь с информацией о нашей странице в аэропорту, чтобы узнать все, что вам нужно знать о вашем отъезде, аэропортах прибытия и наших залах. Узнайте, где находятся наши счетчики регистрации, просмотреть время регистрации и получить указания в аэропорт. Независимо от того, являетесь ли вы опытным путешественником или летите с нами впервые, Gulf Air здесь, чтобы ваш аэропорт был как можно более гладким и без стресса.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff10db1e-1c6d-497c-b820-1a58762d5eec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Аэропорты и залы
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Аэропорты и залы
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z

@@ -1,0 +1,201 @@
+﻿---
+ID: "05791080-b09c-4278-8155-104ae536f125"
+Parent: "8deeda64-a948-4d0d-94cf-d44690f4ae64"
+Template: "c057a658-4a90-4a0e-9c94-aab0e82442f9"
+Path: /sitecore/content/Global/Global CTA Banner V2 Folder/booking/Falcon Gold lounges
+SharedFields:
+- ID: "28a80a04-5b1d-46a2-9ed9-12be41fcc0e7"
+  Hint: Image
+  Value: |
+    <image width="1000" height="494" alt="banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/414c876a7f25439d8191c91e597496ce?v=73dd7622" stylelabs-content-id="42230" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/42230/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: <p>تجربة طيران الخليج ليست محصورة في السماء</p>
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: <p>استمتع بمستويات الراحة والخدمة التي لا تضاهى في قاعات الصقر الذهبي، التي تجمع بين التصاميم العصرية والضيافة العربية الأصيلة. كن على تواصل مع أفراد عائلتك أو موظفي مكتبك، أو انعم بالاسترخاء واستمتع بوسائل الراحة من الدرجة الأولى، والتي تشمل دخول مركز الأعمال المزود بكافة التجهيزات وتناول أشهى الأطعمة وألذ المشروبات، إلى جانب تشكيلة كبيرة من المُرطبات وخيارات الترفيه.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230314T190028Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link text="عرض صالاتنا" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fc53672c-0448-42dd-8e71-9e5291d698d3"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: قاعات الصقر الذهبي
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225859Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: "<p>Das Gulf Air-Erlebnis ist nicht auf den Himmel beschränkt</p>"
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: "<p>Genießen Sie unvergleichlichen Komfort und Service in den Falcon Gold Lounges, in denen sich zeitgemäßes Design und arabische Gastfreundschaft verbinden. Setzen Sie sich wieder mit ihrem Zuhause oder dem Büro in Verbindung, oder entspannen Sie einfach und genießen Sie die erstklassigen Einrichtungen, einschließlich Zugang zum voll ausgestatteten Business-Center, Gourmet-Speisen und -Getränken sowie einer breiten Auswahl von Erfrischungs- und Entertainment-Optionen.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230314T185941Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link text="Sehen Sie sich unsere Lounges an" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "47daa854-14af-4135-9bbe-02292dc1f0da"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Falcon Gold Lounge
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225859Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: <p>The Gulf Air experience is not confined to the sky</p>
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: <p>Enjoy unparalleled comfort and service in the Falcon Gold Lounges, where contemporary designs meet Arabic hospitality. Reconnect with home or the office, or simply relax and enjoy the first class amenities including fully equipped business centre access, gourmet food and beverages, and a wide selection of refreshments and entertainment options</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230314T185651Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link text="View our lounges" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dd95646f-ca2b-4cf5-b2bb-9c37edbb0d1c"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Falcon Gold lounges
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225859Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: <p>L'expérience Gulf Air ne se limite pas au ciel</p>
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: "<p>Profitez du confort et du service incomparable des Lounges Falcon Gold, dans lesquels le design contemporain rencontre le sens de l’hospitalité arabe. Reconnectez-vous avec la maison ou le bureau, ou relaxez-vous simplement et profitez des aménagements de première classe. Vous aurez un accès au centre business totalement équipé, à de la nourriture et des boissons gastronomiques, et à une large sélection de rafraîchissements et d’options de divertissement.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230314T185956Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link text="Voir nos salons" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "305b1334-b1d3-4b20-99bb-1eb42320c90b"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Salon FalconGold
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225859Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: <p>Опыт Gulf Air не ограничивается небом</p>
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: "<p>Получите удовольствие от непревзойденного уровня комфорта и качества обслуживания в залах ожидания Falcon Gold, где современный дизайн сочетается с арабским гостеприимством. Свяжитесь с семьей или персоналом на работе, или просто расслабьтесь и наслаждайтесь прекрасными условиями в зоне отдыха первого класса, в том числе доступом к полностью оснащенному бизнес-центру, изысканной еде и напиткам, а также широкому выбору закусок и вариантов развлечения</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230314T190015Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link text="Посмотреть наши салоны" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b52d08c-1b47-4e12-bbf4-f1d61b85084f"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Зал ожидания FalconGold
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225859Z

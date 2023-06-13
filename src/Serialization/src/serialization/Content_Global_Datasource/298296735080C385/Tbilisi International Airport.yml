@@ -1,0 +1,415 @@
+﻿---
+ID: "154be8de-5a13-478e-88ad-fb721969661a"
+Parent: "6de181f3-d153-4376-a7ea-63977f9985da"
+Template: "64fec9d9-d83e-40e2-81c8-bd6e6a654eb3"
+Path: "/sitecore/content/Global/Global Airport Info Section Folder/at-the-airport/info/AirportInfoSectionParent/Tbilisi International Airport"
+SharedFields:
+- ID: "2ed07a2d-5ec4-4469-85bc-49746a7724cd"
+  Hint: Airport
+  Value: "{A746436F-A71E-4216-AD1B-FBB5798C2BE3}"
+- ID: "3c09129a-e8b8-40d8-b82e-0392a2328f2a"
+  Hint: WebCheckin
+  Value: "{584449BA-3F3E-48A3-AFAA-00B0A5392C90}"
+- ID: "684f084f-cee6-461d-a4c9-e63c99a54d24"
+  Hint: CheckinTimeColor
+  Value: "{7C4FD76D-3B0F-42EA-A617-03C670A8A379}"
+- ID: "7d5ad0bc-c0a0-43ea-aa8a-c1146d311fc6"
+  Hint: CheckinCountersColor
+  Value: "{7C4FD76D-3B0F-42EA-A617-03C670A8A379}"
+- ID: "95b1e77c-f04a-4f75-bd0e-6beff504cda7"
+  Hint: WebCheckinColor
+  Value: "{3F16AFC2-00E8-4FFD-A242-49354F84EF7B}"
+- ID: "974f1505-990f-4931-91b1-9c7b708c5fc1"
+  Hint: PremiumCheckinServiceColor
+  Value: "{3F16AFC2-00E8-4FFD-A242-49354F84EF7B}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "df4dd1f7-ba31-4a06-bbf5-250f9a00dc23"
+  Hint: MapCTAColor
+  Value: "{8B58979B-FF89-4F09-9AF3-6A860E012049}"
+- ID: "f0d82689-dd4b-419e-8cbb-a57b16349fa3"
+  Hint: BeforeYouFlyCTAColor
+  Value: "{8B58979B-FF89-4F09-9AF3-6A860E012049}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="إعرض الخريطة" linktype="external" url="https://goo.gl/maps/uciBcEiL8F3k9K4p7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>
+        المميزة: <strong>غير محدد</strong><br />
+        الدرجة السياحية: <strong>ن/أ</strong>
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T193359Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="زيارة الموقع" linktype="external" url="https://www.tbilisiairport.com/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>الموقع</h3>
+        <p>يقع مطار تبليسي&nbsp; الدولي على بعد 17 كم (11 ميل) جنوب شرق العاصمه تبليسي.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1136a958-df3b-49ee-9448-6f92a01b0c7e"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>تفاصيل المحطة</h3>
+        <p>مطار تبليسي الدولي&nbsp; هو مركز رئيسي للمسافرين الدوليين ويعمل كبوابة لجورجيا. تقع في منطقة جنوب القوقاز ، على بعد 18 كم فقط من وسط مدينة تبليسي. يقدم المطار مجموعة واسعة من الوجهات الدولية ، مع أكثر من 20 شركة طيران تعمل من طرفيها. تم تجهيز المطار جيدًا للمسافرين ، مع مجموعة واسعة من وسائل الراحة ، بما في ذلك فندق في الموقع ومركز تسوق ومجموعة متنوعة من المطاعم والمقاهي. تتمتع تبليسي بتاريخ طويل من السلامة والأمن ، مما يضمن أن يتمتع الركاب بتجربة مريحة وخالية من الإجهاد. وبشكل عام ، يعد مطار تبليسي الدولي خيارًا ممتازًا للمسافرين الذين يبحثون عن تجربة مطار فعالة وموثوقة.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T114401Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>قبل السفر</h3>
+        <p><strong>معلومات مهمة للمسافرين</strong>
+        <br />
+        يجب الوصول إلى مطار تبليسي الدولي قبل 3 ساعات على الأقل من رحلتك. تذكر حمل وثائق سفر صالحة والتحقق من متطلبات التأشيرة. تحقق عبر الإنترنت أو في مكتب المطار قبل رحلتك.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>
+        في أقرب وقت ممكن: قبل <strong>3 ساعات</strong> من وقت المغادرة المحدودة<br />
+        الأحدث: <strong>60 دقيقة</strong> قبل وقت المغادرة المحدودة
+        </p>
+  - Version: 2
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="إعرض الخريطة" linktype="external" url="https://goo.gl/maps/uciBcEiL8F3k9K4p7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>
+        المميزة: <strong>غير محدد</strong><br />
+        الدرجة السياحية: <strong>ن/أ</strong>
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T123034Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="زيارة الموقع" linktype="external" url="https://www.tbilisiairport.com/" anchor="" target="_blank" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\EmanBurwais
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>الموقع</h3>
+        <p>يقع مطار تبليسي&nbsp; الدولي على بعد 17 كم (11 ميل) جنوب شرق العاصمه تبليسي.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d4e1bdf-3c4f-4015-8639-2379247077e0"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>تفاصيل المحطة</h3>
+        <p>مطار تبليسي الدولي&nbsp; هو مركز رئيسي للمسافرين الدوليين ويعمل كبوابة لجورجيا. تقع في منطقة جنوب القوقاز ، على بعد 18 كم فقط من وسط مدينة تبليسي. يقدم المطار مجموعة واسعة من الوجهات الدولية ، مع أكثر من 20 شركة طيران تعمل من طرفيها. تم تجهيز المطار جيدًا للمسافرين ، مع مجموعة واسعة من وسائل الراحة ، بما في ذلك فندق في الموقع ومركز تسوق ومجموعة متنوعة من المطاعم والمقاهي. تتمتع تبليسي بتاريخ طويل من السلامة والأمن ، مما يضمن أن يتمتع الركاب بتجربة مريحة وخالية من الإجهاد. وبشكل عام ، يعد مطار تبليسي الدولي خيارًا ممتازًا للمسافرين الذين يبحثون عن تجربة مطار فعالة وموثوقة.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\EmanBurwais
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230607T123034Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T123100Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>قبل السفر</h3>
+        <p><strong>معلومات مهمة للمسافرين</strong>
+        <br />
+        يجب الوصول إلى مطار تبليسي الدولي قبل 3 ساعات على الأقل من رحلتك. تذكر حمل وثائق سفر صالحة والتحقق من متطلبات التأشيرة. تحقق عبر الإنترنت أو في مكتب المطار قبل رحلتك.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p dir="RTL" style="text-align: right;"><span style="line-height: 107%; color: #131313;">أقرب موعد لإتمام إجراءات السفر:&nbsp;قبل</span><span dir="LTR" style="line-height: 107%; color: #131313;"></span><strong style="text-align: start;"><span>3&nbsp;</span></strong><strong><span style="line-height: 107%; color: #131313;">ساعات</span></strong><span dir="LTR" style="line-height: 107%; color: #131313;"><span style="text-align: start;"></span><span style="line-height: 107%; color: #131313;">من وقت المغادرة المحدد</span></span><span dir="LTR" style="line-height: 107%; color: #131313;"><br style="text-align: start;" />
+        </span><span style="line-height: 107%; color: #131313;"><span style="text-align: start;">اقصى موعد لإتمام إجراءات السفر</span><span dir="LTR" style="line-height: 107%; color: #131313;">:&nbsp;</span><strong style="text-align: start;"><span>60 </span></strong></span><strong><span style="line-height: 107%; color: #131313;">دقيقة</span></strong><span dir="LTR" style="line-height: 107%; color: #131313;"><span style="text-align: start;"></span><span style="line-height: 107%; color: #131313;">قبل وقت المغادرة المحدد</span><span dir="LTR" style="line-height: 107%; color: #131313;">&nbsp;</span></span></p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Ansichts Karte" linktype="external" url="https://goo.gl/maps/uciBcEiL8F3k9K4p7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>n/a</strong><br />
+        Wirtschaft: <strong>n/a</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230401T230459Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Besuche die Website" linktype="external" url="https://www.tbilisiairport.com/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Ort</h3>
+        <p>Der internationale Flughafen Tiflisi befindet sich 17 km s&uuml;d&ouml;stlich der Hauptstadt Tiflis.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7631227-dedf-4376-aa36-0ac10380495d"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminaldetails</h3>
+        <p>Der internationale Flughafen Tiflisi (TBS) ist ein wichtiger Hub für internationale Reisende und dient als Tor nach Georgia. Es befindet sich in der Region Südkaukasus, nur 18 km vom Stadtzentrum von Tiflis entfernt. Der Flughafen bietet eine große Auswahl an internationalen Zielen, wobei mehr als 20 Fluggesellschaften außerhalb seiner beiden Terminals operieren. Der Flughafen ist für Reisende gut ausgestattet, mit einer großen Auswahl an Annehmlichkeiten, darunter ein Hotel vor Ort, ein Einkaufszentrum und eine Vielzahl von Restaurants und Cafés. TBS hat eine lange Geschichte von Sicherheit und Sicherheit, um sicherzustellen, dass Passagiere ein komfortables und stressfreies Erlebnis haben. Insgesamt ist der internationale Flughafen Tiflisi eine ausgezeichnete Wahl für Reisende, die ein effizientes und zuverlässiges Flughafenerlebnis suchen.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T131647Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Bevor du fliegst</h3>
+        <p><strong>Wichtige Informationen f&uuml;r Passagiere</strong>
+        <br />
+        Kommen Sie mindestens 3 Stunden vor Ihrem Flug am Internationaler Flughafen Tiflisi an. Denken Sie daran, g&uuml;ltige Reisedokumente zu f&uuml;hren und die Visumanforderungen zu &uuml;berpr&uuml;fen. Schauen Sie sich vor Ihrem Flug online oder am Flughafenschalter ein.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>früheste: <strong>3 Stunden</strong> vor geplanter Abreisezeit<br />
+        Letzte: <strong>60 Minuten</strong> vor geplanter Abreisezeit</p>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="View Map" linktype="external" url="https://goo.gl/maps/uciBcEiL8F3k9K4p7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>N/A</strong><br />
+        Economy: <strong>N/A</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T193359Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visit website" linktype="external" url="https://www.tbilisiairport.com/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Location</h3>
+        <p>Tbilisi International Airport located 17 km (11 mi) southeast of capital Tbilisi.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9f90aa16-e5d1-48a3-84e7-327622a29389"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminal Details</h3>
+        <p>Tbilisi International Airport (TBS) is a major hub for international travellers and serves as the gateway to Georgia. It is located in the South Caucasus region, just 18 km from the city centre of Tbilisi. The airport offers a wide selection of international destinations. The airport is well-equipped for travellers, with a wide selection of amenities, including an on-site hotel, a shopping mall, and a variety of restaurants and cafes. TBS has a long history of safety and security, ensuring that passengers have a comfortable and stress-free experience. All in all, Tbilisi International Airport is an excellent choice for travellers seeking an efficient and reliable airport experience.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T143224Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Before you Fly</h3>
+        <p><strong>Important information for passengers</strong>
+        <br />
+        Arrive at Tbilisi International Airport at least 3 hours before your flight. Remember to carry valid travel documents and check visa requirements. Check in online or at the airport counter before your flight.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>Earliest: <strong>3 Hours</strong> before scheduled time of departure<br />
+        Latest: <strong>60 Minutes</strong> before scheduled time of departure</p>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Voir la carte" linktype="external" url="https://goo.gl/maps/uciBcEiL8F3k9K4p7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>N / A</strong><br />
+        Économie: <strong>N / A</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230401T230216Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visitez le site Web" linktype="external" url="https://www.tbilisiairport.com/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Emplacement</h3>
+        <p>L'a&eacute;roport international de Tbilissi situ&eacute; &agrave; 17 km (11 mi) au sud-est de la capitale Tbilissi.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7c6ad890-7c96-4e5d-9a26-e3b2e9ef8494"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>D&eacute;tails du terminal</h3>
+        <p>L'aéroport international de Tbilissi (TBS) est un centre majeur pour les voyageurs internationaux et sert de passerelle vers la Géorgie. Il est situé dans la région du Caucase du Sud, à seulement 18 km du centre-ville de Tbilissi. L'aéroport propose une large sélection de destinations internationales, avec plus de 20 compagnies aériennes opérant à partir de ses deux terminaux. L'aéroport est bien équipé pour les voyageurs, avec une large sélection d'équipements, y compris un hôtel sur place, un centre commercial et une variété de restaurants et de cafés. TBS a une longue histoire de sécurité et de sécurité, garantissant que les passagers ont une expérience confortable et sans stress. Dans l'ensemble, l'aéroport international de Tbilissi est un excellent choix pour les voyageurs à la recherche d'une expérience d'aéroport efficace et fiable.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T130442Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Avant de voler</h3>
+        <p><strong>Informations importantes pour les passagers</strong>
+        <br />
+        Arrivez &agrave; Aéroport international de Tbilissi au moins 3 heures avant votre vol. N'oubliez pas de transporter des documents de voyage valides et de v&eacute;rifier les exigences de visa. Enregistrez-vous en ligne ou au comptoir de l'a&eacute;roport avant votre vol.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>précoce: <strong>3 heures</strong> avant l'heure de départ prévue<br />
+        Dernier: <strong>60 minutes</strong> avant l'heure de départ prévue</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Посмотреть карту" linktype="external" url="https://goo.gl/maps/uciBcEiL8F3k9K4p7" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Сокол Золото: <strong>N/A</strong><br />
+        Экономика: <strong>N/A</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T172251Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Посетите вебсайт" linktype="external" url="https://www.tbilisiairport.com/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Место нахождения</h3>
+        <p>Международный аэропорт Тбилиси расположен 17 км (11 миль) к юго -востоку от столицы Тбилиси.</p>
+        <div id="gtx-trans" style="position: absolute; left: -8px; top: 22.4062px;">
+        <div class="gtx-trans-icon">&nbsp;</div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39d7442e-4834-4ad4-824b-36510db0aaf4"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Терминальные детали</h3>
+        <p>Международный аэропорт Тбилиси (TBS) является основным центром международных путешественников и служит воротами в Грузию. Он расположен в южном регионе Кавказа, всего в 18 км от центра города Тбилиси. Аэропорт предлагает широкий выбор международных направлений: более 20 авиакомпаний, работающих из двух терминалов. Аэропорт хорошо оборудован для путешественников, с широким выбором удобств, включая отель на месте, торговый центр и множество ресторанов и кафе. У TBS долгая история безопасности и безопасности, гарантируя, что пассажиры имеют удобный и беззаботный опыт. В целом, международный аэропорт Tbilisi является отличным выбором для путешественников, ищущих эффективное и надежное опыт аэропорта.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T133124Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Перед полетом</h3>
+        <p><strong>Важная информация для пассажиров</strong>
+        <br />
+        Приезжайте в Тбилиси международный аэропорт по крайней мере за 3 часа до вашего рейса. Не забудьте вести действительные туристические документы и проверить требования визы. Зарегистрируйтесь в Интернете или на стойке аэропорта перед рейсом.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>течение раннего: <strong>за 3 часа</strong> до запланированного отъезда<br />
+        Последнее: <strong>за 60 минут</strong> до запланированного времени отъезда</p>

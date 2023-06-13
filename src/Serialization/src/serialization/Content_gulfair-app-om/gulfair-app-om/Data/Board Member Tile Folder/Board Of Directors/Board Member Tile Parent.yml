@@ -1,0 +1,67 @@
+﻿---
+ID: "8de86db1-c2c1-45c9-99f6-064e05c50b33"
+Parent: "a577f069-ef2c-437d-98a2-49f0012fa3f5"
+Template: "cf4b50a3-8660-4dc4-8c3f-ad57b80c69cd"
+Path: "/sitecore/content/gulfair-app-om/Data/Board Member Tile Folder/Board Of Directors/Board Member Tile Parent"
+SharedFields:
+- ID: "8deba75d-d7e7-4dd7-bd7e-67f57b4367f2"
+  Hint: MemberTiles
+  Value: |
+    {8BEB8A86-B1D5-4640-B739-4AE1DFF997C3}
+    {96EB5CF8-5E05-4B25-97D6-5DF93EB571DA}
+    {E7BCD687-1537-4008-82B4-283319A2CE9C}
+    {9C3EC4C3-A1DB-44BB-88CE-40B7F2F2A82F}
+    {C01971EB-B799-4622-BB0E-9EBEFC3C0F68}
+    {75865EE3-85F4-40BA-9718-A6721300E437}
+    {8B7CC4D9-A035-4036-962D-EDFD1D0DAF86}
+    {278650F8-2883-4FD8-ADAE-7F6DEC605209}
+    {07600E2C-8634-487F-A33A-58C3618D751F}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19017306-8bcd-460f-9f47-0f37ff5ca720"
+      Hint: ModalHeading
+      Value: Board of Directors
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T112104Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "58a8b996-cd36-4707-af91-040b9bbc15a0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230316T125319Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19017306-8bcd-460f-9f47-0f37ff5ca720"
+      Hint: ModalHeading
+      Value: Board of Directors
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T112104Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "733e4e0a-3483-4b99-aa86-a3ba65a98590"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230306T132433Z

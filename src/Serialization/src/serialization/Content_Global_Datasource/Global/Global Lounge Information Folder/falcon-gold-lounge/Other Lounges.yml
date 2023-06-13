@@ -1,0 +1,202 @@
+﻿---
+ID: "7f4f5cf0-35d7-446a-9a4a-93ac05b275f6"
+Parent: "83694f0e-a0e6-4f22-b3a3-bbcc3d325d3f"
+Template: "d2fe7ac8-541e-4d3a-b223-a117a6bf0f6d"
+Path: "/sitecore/content/Global/Global Lounge Information Folder/falcon-gold-lounge/Other Lounges"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Software/32x32/component_green.png
+- ID: "07280adc-96d2-46a7-8991-8c2881ea9d33"
+  Hint: Lounges
+  Value: |
+    {F95D0E73-9B1B-41C6-9392-256F976BFD01}
+    {7B8C46E1-B701-411C-90BC-8E3ED34C0276}
+    {668B2D13-1A25-4EC5-A514-0C735D8D56D7}
+    {24736C29-A9B7-4A48-80E9-67129DBFE07F}
+    {1F1BE4B6-92C8-4C07-B4CB-238F0E8F4257}
+    {1EB96A36-BEAD-4953-A5E6-619446A3C33F}
+    {CA6E75B9-744A-4771-B36C-A2BFF34CB346}
+    {CA1B0337-FE49-43E1-80EB-F1303EF8AF41}
+    {F69686FB-35B5-405D-8AAC-EA40C8549E7C}
+    {446E85FA-EB7B-4ADE-B1F8-30409B99BE0B}
+    {0BF692E2-D424-45F3-9B68-53C739467CF4}
+    {264E38B5-7D86-4F4C-859A-48912A099BBF}
+    {4E21D5FC-8939-4B31-98CA-8EBFE67E4AC1}
+    {429C95C1-2451-40AA-B1F7-EC5B55619482}
+    {81E1056C-028F-4E2F-843E-1F2BA2E1A477}
+    {6C17A13D-9AC3-4FE2-B201-4D1DD3E4C8D5}
+    {4019E4EF-E394-4E7B-9C5D-628B5B5D88F8}
+    {141C2221-E195-46BE-8993-1A853F18DCAA}
+    {FD5C809E-CF05-4656-B05A-C21FA51069AF}
+    {DF1FAE20-5E29-449F-BB3E-3A3E1E09B033}
+    {9911A513-7031-4928-B587-C5A149ABD575}
+    {8F987603-36E0-4C77-8BF5-4AF312C26D7A}
+    {A63C55D1-8800-47A4-AD75-DB94D0BD58AE}
+    {587BBDC3-3E3D-4B95-8B48-243EBDA9D85B}
+    {D1E8E2E7-434A-4D39-8BF3-D01C1CB24213}
+    {6C2506BB-857E-434E-8D4C-15FCE9F238DD}
+    {862F925C-0EAA-4309-9C2C-7B5F1647EC0C}
+    {A364DB48-8B41-4A87-A2C4-1342931CECA6}
+    {E36989CF-B688-4A1A-A502-4FE1E496FBFE}
+    {FE051DF1-B8F2-44CC-9EEF-1DB924349EED}
+    {5A3E6D52-EFBF-45BA-ABF4-E8722F0DC90D}
+    {79CFB054-ED4E-468F-8900-29CAED7399AF}
+    {9ACFD0FF-B786-4960-9742-89EF99861E8C}
+    {FC5DE87F-D6BB-430D-A871-F49EEC15E18F}
+    {A7178202-8C2D-4001-A217-317EB026850F}
+    {F3856716-D5FA-43CC-AB49-F67421BB3689}
+    {FA2C3CF5-D5D8-45F6-8520-FDF6F973B25A}
+    {696E1F43-CE50-466F-BD9B-AE5B7D914897}
+    {DAF5F93D-7927-4247-B375-8523BB4B9CF0}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14c15f8c-19a1-44ae-90e1-836cfd84b551"
+      Hint: Heading
+      Value: قاعات اخرى
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T103612Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e2fea1f-4edb-4214-84a3-3a039c452ef0"
+    - ID: "9ec98f11-646c-4098-90b3-d0c318f606bb"
+      Hint: Description
+      Value: "<p>أما بالنسبة للمسافرين على الفئة فالكون جولد إلى وجهات لا توجد بها قاعات طيران الخليج المخصصة فيمكنهم استخدام القاعات المدرجة أدناه:</p>"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T063100Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14c15f8c-19a1-44ae-90e1-836cfd84b551"
+      Hint: Heading
+      Value: Andere Lounges
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T103612Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c338c32-e68b-4637-b2a0-9cc44e2b0106"
+    - ID: "9ec98f11-646c-4098-90b3-d0c318f606bb"
+      Hint: Description
+      Value: "<p>Falcon Gold Passagiere, die zu Zielen reisen, an denen spezielle Gulf Air Lounges nicht zur Verf&uuml;gung stehen, k&ouml;nnen die unten aufgef&uuml;hrten Lounges nutzen:</p>"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T133140Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14c15f8c-19a1-44ae-90e1-836cfd84b551"
+      Hint: Heading
+      Value: Other Lounges
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T103612Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba951b6c-9f4c-4670-8a07-71673afdfc72"
+    - ID: "9ec98f11-646c-4098-90b3-d0c318f606bb"
+      Hint: Description
+      Value: "<p>Falcon Gold passengers, Black, Gold and Silver Falconflyer card holders&nbsp; travelling to destinations where dedicated Gulf Air lounges are not available can use the lounges listed below:</p>"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T161410Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14c15f8c-19a1-44ae-90e1-836cfd84b551"
+      Hint: Heading
+      Value: Réception
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T103612Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ad60f4f8-cd6c-44c3-b17c-4d68eb6665ff"
+    - ID: "9ec98f11-646c-4098-90b3-d0c318f606bb"
+      Hint: Description
+      Value: "<p>Les passagers Falcon Gold voyageant vers des destinations dans lesquelles aucun salon Gulf Air d&eacute;di&eacute; n'est disponible peuvent acc&eacute;der aux salons &eacute;num&eacute;r&eacute;s ci-dessous :</p>"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T133121Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14c15f8c-19a1-44ae-90e1-836cfd84b551"
+      Hint: Heading
+      Value: Стойка администратора
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T103612Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a3c1708-56bb-44bc-9f57-ff1fe8720da7"
+    - ID: "9ec98f11-646c-4098-90b3-d0c318f606bb"
+      Hint: Description
+      Value: "<p>Пассажиры бизнес-класса Falcon Gold, путешествующие в пункты назначения, где нет специальных залов ожидания авиакомпании Gulf Air, могут пользоваться залами ожидания, перечисленными ниже:</p>"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T133157Z

@@ -1,0 +1,76 @@
+﻿---
+ID: "8ed264bc-7abb-47af-9f32-ec1d235b424f"
+Parent: "61fedebf-1b8f-44d8-94b3-dfd2eb0bfaa3"
+Template: "84db1eae-eba4-4615-b8b2-c9cac4b20b0c"
+Path: "/sitecore/content/gulfair-app-fr/Data/Generic Slider Folder/GenericSlider-test/Generic Slider1"
+SharedFields:
+- ID: "196e67f4-48ae-4eb9-a2d2-4f9015388787"
+  Hint: CTAType1
+  Value: "{8039FA17-22AA-4B5D-BCB8-53CA4809B6BB}"
+- ID: "20165fc1-1223-4a95-86da-56f6abc403b9"
+  Hint: BackgroundImage
+  Value: |
+    <image width="1100" height="573" alt="destination-guide-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/de640fbec8424501841e73d4db1d5cf7?v=ee0c765e" stylelabs-content-id="34347" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/34347/thumbnail" />
+- ID: "29c44401-eb17-4e51-b623-e02f93f41e55"
+  Hint: EnablePopupOnCTA
+  Value: "{0C8B99CF-B2EF-4CE7-BC2E-013174FAFE44}"
+- ID: "66f006ca-494f-4dbf-8dd2-7f90b41f6d92"
+  Hint: CTAColor2
+  Value: "{98E5F3B6-B60F-44DC-95BA-5BE2B27FFE6F}"
+- ID: "921a38b7-3074-48ab-88c5-4462833c962a"
+  Hint: CTAType2
+  Value: "{B3C4407E-7461-4B34-B944-D581BA981A27}"
+- ID: "a6d7f2d1-162a-424e-baf8-9c8857e04f7f"
+  Hint: TextColor
+  Value: "{F4B4A40B-428A-48B8-907D-F1598EBADC7A}"
+- ID: "b8aca052-d05d-4167-a90f-a6c01f734f8c"
+  Hint: CTAColor1
+  Value: "{F64FADCC-6FB4-46AA-A947-751B7BF0A024}"
+- ID: "d469291b-511e-449c-af1b-7f74acc6e24e"
+  Hint: OverlayColor
+  Value: "{F64FADCC-6FB4-46AA-A947-751B7BF0A024}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "210fa888-949d-477f-9a0a-788e2e769a02"
+      Hint: PopupSubTitle
+      Value: SOME DESCRIPTION
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230411T055847Z
+    - ID: "28f890ff-bd6f-466f-92f3-47a640dccb40"
+      Hint: CTA1
+      Value: |
+        <link text="Learn Moreeeeeeeeeeeeeee" linktype="external" url="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/26895cc0d4ad42f0912afe945a4a1ed3?v=4c2a704f" anchor="" target="" />
+    - ID: "3322c517-a3fc-44ab-b9d7-0c35eec8ba23"
+      Hint: PopupTitle
+      Value: popup from CTA 1
+    - ID: "3732c4c2-d948-48f5-94a5-b0788fa796c8"
+      Hint: Heading
+      Value: testest 2 t 1
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "756786c4-0b3e-4e8c-834b-66b02251eb22"
+      Hint: SubText
+      Value: tetst 2 st&nbsp;
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8e9f51f-377a-4a19-9793-84073bf5a2d5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c3ed5100-8c3c-4eb2-8b32-e8639637d106"
+      Hint: Description
+      Value: here is the desctrptipn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233045Z

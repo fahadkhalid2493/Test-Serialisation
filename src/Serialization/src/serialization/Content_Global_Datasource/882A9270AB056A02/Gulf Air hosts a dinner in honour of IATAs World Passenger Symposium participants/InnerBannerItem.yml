@@ -1,0 +1,55 @@
+﻿---
+ID: "1abec90e-1c7a-43ff-82dd-c42c227702b0"
+Parent: "f7187f0f-4583-462a-a460-b4d0cb9214ba"
+Template: "1e823605-a717-4255-974c-7917397cd6c9"
+Path: /sitecore/content/Global/Global Inner Banner Folder/Press Release Detail/Gulf Air hosts a dinner in honour of IATAs World Passenger Symposium participants/InnerBannerItem
+SharedFields:
+- ID: "66d06ec3-a13a-4601-b7d9-1ba74aed310c"
+  Hint: BackgroundImage
+  Value: |
+    <image width="1080" height="720" alt="Gulf Air hosts a dinner in honour of IATA’s World Passenger Symposium participants.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/6b10633451b14a6c9217e67e7a6c6564?v=28c4e3e0" stylelabs-content-id="45802" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/45802/thumbnail" />
+- ID: "7bf12b50-a496-445f-aa2b-2be4d15c48ce"
+  Hint: MobileImage
+  Value: |
+    <image width="375" height="536" alt="Gulf Air hosts a dinner in honour of IATA’s World Passenger Symposium participants.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/7b6f7ca70f4a4b899e34c2c36e62175b?v=6d65c2e2" stylelabs-content-id="45802" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/45802/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "a6d7f2d1-162a-424e-baf8-9c8857e04f7f"
+  Hint: TextColor
+  Value: "{89330C54-4FC1-4573-913A-BC08CCDEBD5B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230505T160336Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Press Detail
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "07448fdb-d10e-4f91-af2d-907f5cee1729"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225923Z

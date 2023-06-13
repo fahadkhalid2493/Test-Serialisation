@@ -1,0 +1,52 @@
+﻿---
+ID: "5e330233-ad85-46e5-8138-cc3cd5d1c06b"
+Parent: "db392991-d679-4fc9-b763-ee99374fa5ae"
+Template: "1e823605-a717-4255-974c-7917397cd6c9"
+Path: /sitecore/content/Global/Global Inner Banner Folder/Press Release Detail/Gulf Air Acting Chief Executive Officer brings the airlines latest award home/InnerBannerItem
+SharedFields:
+- ID: "66d06ec3-a13a-4601-b7d9-1ba74aed310c"
+  Hint: BackgroundImage
+  Value: |
+    <image width="1600" height="1200" alt="Gulf Air Acting Chief Executive Officer brings the airline’s latest award home.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/f6a6f9f74f3b4b66a597f2461dea36b7?v=bdb0e11f" stylelabs-content-id="48049" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48049/thumbnail" />
+- ID: "7bf12b50-a496-445f-aa2b-2be4d15c48ce"
+  Hint: MobileImage
+  Value: |
+    <image width="375" height="536" alt="Gulf Air Acting Chief Executive Officer brings the airline’s latest award home.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/059b09a2ab024758ba514fbcb8646755?v=ee4a8587" stylelabs-content-id="48049" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48049/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "a6d7f2d1-162a-424e-baf8-9c8857e04f7f"
+  Hint: TextColor
+  Value: "{89330C54-4FC1-4573-913A-BC08CCDEBD5B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230505T160336Z
+    - ID: "26fd8c8c-3efd-4457-8b6f-5382bea22da0"
+      Hint: Heading
+      Value: Press Detail
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9f2e82cf-54be-425c-8cad-0b74492ec864"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225923Z

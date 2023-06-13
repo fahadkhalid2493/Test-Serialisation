@@ -1,0 +1,88 @@
+﻿---
+ID: "54a7f889-15b7-4506-98c2-2e514c3eff30"
+Parent: "1274bd6d-65d0-48a8-ae0d-0284516d1e20"
+Template: "bc69f06f-474e-4576-8441-fe5f2842d34b"
+Path: "/sitecore/content/gulfair-app-fr/Data/Status And Claim Banner Folder/Delayed Baggage Status"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230309T110734Z
+    - ID: "4d96e5ed-c58f-4abe-abe6-1cfbe70b4dc2"
+      Hint: SecondColumnCTA
+      Value: |
+        <link text="تحميل النموذج" linktype="external" url="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/450cf6b83f4240108748acfd8b5369cc?v=a862b07c" anchor="" target="" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahad
+    - ID: "531b5136-791d-4adc-9260-907407ead3d2"
+      Hint: FirstColumnCTA
+      Value: |
+        <link text="تحقق من حالة" linktype="external" url="https://wtrweb.worldtracer.aero/WorldTracerWeb/pax.do?airlineCode=GF" anchor="" target="_blank" />
+    - ID: "5b3fc44e-0005-4dcf-b257-0484a8be774a"
+      Hint: FirstColumnDescription
+      Value: لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايم,كيواس نوستريد لوريم ايبسوم دولار سيت أميت ,كونسيكتيتورلوريم ايبسوم دولار سيت أميت ,كونسيكتيتور
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahad
+    - ID: "719ce6e9-cfa4-40ae-810d-436c2017f683"
+      Hint: FirstColumnTitle
+      Value: حالة الأمتعة
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d135e94-0a97-479b-9e6d-ad8f12b1a029"
+    - ID: "b0e451df-1cdb-473d-b841-5730786d5eb1"
+      Hint: SecondColumnTitle
+      Value: المطالبة بالأمتعة
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d0431118-d5f8-4f6a-b0a8-9a5ea14949d5"
+      Hint: SecondColumnDescription
+      Value: لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايم,كيواس نوستريد لوريم ايبسوم دولار سيت أميت.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230419T103212Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230309T103334Z
+    - ID: "4d96e5ed-c58f-4abe-abe6-1cfbe70b4dc2"
+      Hint: SecondColumnCTA
+      Value: |
+        <link text="Download form" linktype="external" url="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/450cf6b83f4240108748acfd8b5369cc?v=a862b07c" anchor="" target="_blank" />
+    - ID: "531b5136-791d-4adc-9260-907407ead3d2"
+      Hint: FirstColumnCTA
+      Value: |
+        <link text="Check status" linktype="external" url="https://wtrweb.worldtracer.aero/WorldTracerWeb/pax.do?airlineCode=GF" anchor="" target="_blank" />
+    - ID: "5b3fc44e-0005-4dcf-b257-0484a8be774a"
+      Hint: FirstColumnDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum.
+    - ID: "719ce6e9-cfa4-40ae-810d-436c2017f683"
+      Hint: FirstColumnTitle
+      Value: Delayed Baggage Status
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e34837fe-42c7-4ef1-86fb-eb97cb08dd99"
+    - ID: "b0e451df-1cdb-473d-b841-5730786d5eb1"
+      Hint: SecondColumnTitle
+      Value: Baggage Claims
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\uzair
+    - ID: "d0431118-d5f8-4f6a-b0a8-9a5ea14949d5"
+      Hint: SecondColumnDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230426T073549Z

@@ -1,0 +1,241 @@
+﻿---
+ID: "154792a7-4997-49b1-bde1-013ff1761762"
+Parent: "fa8b77c2-1c61-4e65-b1de-82bfc3a21af0"
+Template: "87a661e2-cd9b-4565-8f7f-0bf761d8d21d"
+Path: "/sitecore/content/gulfair-app-cy/Data/Other Offer Folder/flight deals/Default - Flight Deals - Other Offers/Default - Flight Deals - Other Offers - Singapore2"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "474ecfc6-6a37-45e0-9e8f-aa8e5469391b"
+  Hint: Currency
+  Value: USD
+- ID: "900a9c16-789f-4d7e-841b-ad0fb54b9b61"
+  Hint: Image
+  Value: |
+    <image width="350" height="350" alt="Eiffel Tower.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/94ae2da1bd6a4722befae0f4fe8dd978?v=4c581653" stylelabs-content-id="36157" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/36157/thumbnail" />
+- ID: "a07b527e-ac0f-41ec-b87e-8fa27419c2e2"
+  Hint: Tags
+  Value: |
+    {FB429821-BD27-4531-A5E0-46DB6C81E1C2}
+    {F713CAE8-2881-4E00-A009-926092B6906F}
+    {676D47C0-B108-494C-955E-CC4E3BF05321}
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "e53b6e45-8ef8-4fbb-81f2-c01a97731740"
+  Hint: Price
+  Value: 1,050
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Flight Deals - Other Offers - Singapore2"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T154717Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a20eb49-ec93-4717-a229-d8168d8c409e"
+    - ID: "b78c1f8b-a351-486a-b3a6-b0274ad30930"
+      Hint: SubHeading
+      Value: Economy From
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232136Z
+    - ID: "fbc3e599-d50a-431d-8ede-762dc51d29dd"
+      Hint: Heading
+      Value: Singapore 2
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Flight Deals - Other Offers - Singapore2"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T154717Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c88bdaf-2e36-4554-a8f2-0b92a3058939"
+    - ID: "a1bc82d7-1eb3-4fa0-b920-e16b99016181"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/" anchor="" target="" />
+    - ID: "b78c1f8b-a351-486a-b3a6-b0274ad30930"
+      Hint: SubHeading
+      Value: abc
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232136Z
+    - ID: "fbc3e599-d50a-431d-8ede-762dc51d29dd"
+      Hint: Heading
+      Value: Singapore 2
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Flight Deals - Other Offers - Singapore2"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T154717Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c54b485-025a-42cd-858c-c44032d749cd"
+    - ID: "a1bc82d7-1eb3-4fa0-b920-e16b99016181"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/" anchor="" target="" />
+    - ID: "b78c1f8b-a351-486a-b3a6-b0274ad30930"
+      Hint: SubHeading
+      Value: abc
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232136Z
+    - ID: "fbc3e599-d50a-431d-8ede-762dc51d29dd"
+      Hint: Heading
+      Value: Singapore 2
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Flight Deals - Other Offers - Singapore2"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T154717Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3058ac9-9553-47e2-99bf-2b96190181e7"
+    - ID: "a1bc82d7-1eb3-4fa0-b920-e16b99016181"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/" anchor="" target="" />
+    - ID: "b78c1f8b-a351-486a-b3a6-b0274ad30930"
+      Hint: SubHeading
+      Value: abc
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232136Z
+    - ID: "fbc3e599-d50a-431d-8ede-762dc51d29dd"
+      Hint: Heading
+      Value: Singapore 2
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Default - Flight Deals - Other Offers - Singapore2"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T154717Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3003b942-7b16-4df4-a368-3a95df462245"
+    - ID: "a1bc82d7-1eb3-4fa0-b920-e16b99016181"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/" anchor="" target="" />
+    - ID: "b78c1f8b-a351-486a-b3a6-b0274ad30930"
+      Hint: SubHeading
+      Value: abc
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T232136Z
+    - ID: "fbc3e599-d50a-431d-8ede-762dc51d29dd"
+      Hint: Heading
+      Value: Singapore 2

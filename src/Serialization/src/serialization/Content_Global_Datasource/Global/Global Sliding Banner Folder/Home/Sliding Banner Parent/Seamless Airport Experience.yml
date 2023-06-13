@@ -1,0 +1,230 @@
+﻿---
+ID: "56d98b4f-d515-4f7a-9dbf-cd0bbc70eb38"
+Parent: "04d5357e-e069-4ede-89a3-8c7b3dc6075c"
+Template: "51338d8b-3f81-4c25-bfcc-026dc5d8325a"
+Path: /sitecore/content/Global/Global Sliding Banner Folder/Home/Sliding Banner Parent/Seamless Airport Experience
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "3cd43bcc-74d1-4d07-a914-60e99cf5e1f8"
+  Hint: MobileImage
+  Value: |
+    <image width="600" height="320" alt="New-website-images-SEAMLESS-AIRPORT.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/91981ab0498b42d987e03aa935f4afcb?v=35a36c75" stylelabs-content-id="47965" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/47965/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 87
+- ID: "ee5e2182-29c4-4a5d-902d-c03e075518c8"
+  Hint: Image
+  Value: |
+    <image width="600" height="760" alt="New-website-images-SEAMLESS-AIRPORT.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/4be2aec3cb424667b53c033b3655fdfd?v=ee6778da" stylelabs-content-id="47965" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/47965/thumbnail" />
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T175413Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "57659734-76ac-4ea9-af3c-c4efe0c87993"
+      Hint: Description
+      Value: |
+        <p>مرحبًا بكم في مبنى المسافرين الجديد في مطار البحرين الدولي، أن التكنولوجيا المتقدمة والنهج الموجه نحو الراحة، تضع مطار البحرين الدولي على خريطة الطيران العالمية جنبًا إلى جنب مع المطارات الذكية الرائدة في العالم</p>
+        <p>لقد تم تصميمه لتعزيز الكفاءة والأمن مع تلبية توقعات المسافرين المتزايدة لتجربة سفر أكثر سلاسة. ان التطور التكنولوجي يعمل على تبسيط بعض العمليات والإجراءات التي تستغرق وقتًا طويلاً ، مما يمنح المسافرين مزيدًا من التحكم في رحلاتهم</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d4d632a-a8ca-4bf5-be0c-8b81a8373598"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d398b9a3-8451-4621-82cd-eafc68b09b16"
+      Hint: Title
+      Value: تـجربة مطار سلسة
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T175412Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "57659734-76ac-4ea9-af3c-c4efe0c87993"
+      Hint: Description
+      Value: |
+        <p>Willkommen zum neuen Passagierterminal am Bahrain International Airport, der mit seiner fortgeschrittenen Technologie und einer Herangehensweise, bei der der Komfort im Mittelpunkt steht, den Bahrain International Airport zu den f&uuml;hrenden intelligenten Flugh&auml;fen der Welt aufschlie&szlig;en l&auml;sst.</p>
+        <p>Es wurde so gestaltet, dass Effizienz und Sicherheit verbessert werden konnten, w&auml;hrend gleichzeitig auch die wachsenden Erwartungen der Passagiere hinsichtlich eines noch nahtloseren Erlebnisses am Flughafen erf&uuml;llt werden. Fortschritte im Bereich der Automatisierung beschleunigen einige der zeitaufwendigsten Prozesse und Vorg&auml;nge, was Passagieren zu mehr Kontrolle &uuml;ber ihre Reisen verhilft.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d6c7547-f902-46b7-836a-ca6ebd231b08"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d398b9a3-8451-4621-82cd-eafc68b09b16"
+      Hint: Title
+      Value: Nahtloses Flughafenerlebnis
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T175412Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "57659734-76ac-4ea9-af3c-c4efe0c87993"
+      Hint: Description
+      Value: |
+        <p>Welcome to Bahrain International Airport&rsquo;s new Passenger Terminal, with its advanced technology and convenience-oriented approach, putting Bahrain International Airport on the global aviation map alongside the world&rsquo;s leading smart airports.</p>
+        <p>It was designed to enhance efficiency and security while meeting passengers&rsquo; growing expectations for a more seamless airport experience. Advancements in automation streamline some of the most time-consuming processes and procedures, giving passengers more control over their journeys.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c3189998-7a40-49b6-b682-00b0ff238a67"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d398b9a3-8451-4621-82cd-eafc68b09b16"
+      Hint: Title
+      Value: Seamless Airport Experience
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T175412Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "57659734-76ac-4ea9-af3c-c4efe0c87993"
+      Hint: Description
+      Value: |
+        <p>Bienvenu dans le nouveau terminal de passagers de l'A&eacute;roport International de Bahre&iuml;n, avec sa technologie avanc&eacute;e et son approche orient&eacute;e confort, pla&ccedil;ant l'A&eacute;roport International de Bahre&iuml;n au niveau mondial &agrave; c&ocirc;t&eacute; des premiers a&eacute;roports intelligents au monde.</p>
+        <p>Il a &eacute;t&eacute; con&ccedil;u pour am&eacute;liorer l'efficacit&eacute; et la s&eacute;curit&eacute; tout en r&eacute;pondant aux attentes croissantes des passagers pour une exp&eacute;rience a&eacute;roportuaire plus harmonieuse. Des progr&egrave;s en automatisation simplifient certains des processus et proc&eacute;dures les plus chronophages, permettant aux passagers de mieux contr&ocirc;ler leurs voyages.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "844192d0-18f5-47d8-bf98-934711201128"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d398b9a3-8451-4621-82cd-eafc68b09b16"
+      Hint: Title
+      Value: Expérience fluide à l'aéroport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T175412Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "57659734-76ac-4ea9-af3c-c4efe0c87993"
+      Hint: Description
+      Value: |
+        <p>Добро пожаловать в новый пассажирский терминал Международного аэропорта Бахрейна с его передовыми технологиями и ориентированным на удобство подходом, благодаря которым Международный аэропорт Бахрейна занял место на мировой карте авиации наряду с ведущими интеллектуальными аэропортами мира.</p>
+        <p>Он был разработан для повышения эффективности и безопасности, отвечая растущим ожиданиям пассажиров в отношении более удобного обслуживания в аэропорту. Достижения в области автоматизации упрощают некоторые из наиболее трудоемких процессов и процедур, предоставляя пассажирам больший контроль над поездками.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd9ef26d-58f9-43e5-960e-398a714121fd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d398b9a3-8451-4621-82cd-eafc68b09b16"
+      Hint: Title
+      Value: Безупречный опыт работы в аэропорту
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z

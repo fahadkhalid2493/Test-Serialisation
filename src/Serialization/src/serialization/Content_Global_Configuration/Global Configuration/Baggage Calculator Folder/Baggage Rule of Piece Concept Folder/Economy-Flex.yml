@@ -1,0 +1,242 @@
+﻿---
+ID: "fdaa6350-afd1-4deb-8ad2-68d6628716a3"
+Parent: "f0623f96-6033-49ed-a765-cdbecc154887"
+Template: "9f386e1b-2d16-45cf-a152-e85ae827c035"
+Path: "/sitecore/content/Global Configuration/Baggage Calculator Folder/Baggage Rule of Piece Concept Folder/Economy-Flex"
+SharedFields:
+- ID: "54184ab6-ae2b-40f4-b0a2-344fc4434aac"
+  Hint: FareType
+  Value: "{16F3169B-DD02-49FC-A008-FAD1B47EA18B}"
+- ID: "7633eb7d-d661-4dfb-a96c-ea369af6595c"
+  Hint: PerBagWeightInKG
+  Value: 23
+- ID: "967e426b-5c9f-4c54-8a01-db4a648b8dba"
+  Hint: CabinClass
+  Value: "{72C30D2A-70A0-41D3-B440-022994B6811C}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "bc7b43db-6a94-4da3-83c5-bc78a170fcd2"
+  Hint: NumberOfBags
+  Value: 2
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230328T085437Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "58cc3ad3-be1a-49d7-baf5-b3917e58e9c4"
+      Hint: CabinBaggageInfo
+      Value: |
+        <ul>
+            <li>حقيبة واحدة بوزن 6 كج</li>
+            <li>الحد الأقصى للمقاسات 45 x 40 x 30 cm</li>
+        </ul>
+        <br />
+        <p class="font-bold card-footer card-footer-item">يسمح بحمل المتعلقات الشخصية مثل جهاز الحاسب الآلي المحمول وحقيبة اليد ومظلة وكتب القراءة</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3f060f3d-4881-48e2-bb71-13478af58584"
+    - ID: "9b9d7a50-d941-4d67-9f66-dc88d0655ba7"
+      Hint: CheckInBaggageInfo
+      Value: |
+        <ul>
+            <li>حقيبتان بوزن 23 للواحدة</li>
+        </ul>
+        <br />
+        <p class="font-bold card-footer card-footer-item">ادفع للأمتعة الإضافية الخاصة بك عبر الإنترنت ووفر ما يصل إلى 30٪ من الأسعار المتاحة في المطار</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230510T153435Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T080229Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{CE5A9C84-B796-475A-B914-1C439E18B43C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "58cc3ad3-be1a-49d7-baf5-b3917e58e9c4"
+      Hint: CabinBaggageInfo
+      Value: |
+        <ul>
+            <li>  1 Tasche und eine Aktentasche bis 6 kg    </li>
+            <li> maximale Abmessung 45 x 40 x 30 cm      </li>
+        </ul>
+        <br />
+        <p class="font-bold card-footer card-footer-item"> Zus&auml;tzliche Gegenst&auml;nde wie Laptop, Geldb&ouml;rse, Regenschirm, B&uuml;cher usw. k&ouml;nnen zugelassen werden   </p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "55a0f02e-33e9-47ba-8e03-71725c81f74a"
+    - ID: "9b9d7a50-d941-4d67-9f66-dc88d0655ba7"
+      Hint: CheckInBaggageInfo
+      Value: |
+        <ul>
+            <li> 2 Taschen bis zu je 23 kg   </li>
+        </ul>
+        <br />
+        <p class="font-bold card-footer card-footer-item"> Bezahlen Sie Ihr Zugangsgep&auml;ck online und sparen Sie bis zu 30 % auf die verf&uuml;gbaren Tarife am Flughafen  </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230511T080336Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230328T085437Z
+    - ID: "58cc3ad3-be1a-49d7-baf5-b3917e58e9c4"
+      Hint: CabinBaggageInfo
+      Value: |
+        <ul>
+            <li>1 bag and one briefcase up to 6 kg</li>
+            <li>maximum dimension 45 x 40 x 30 cm</li>
+        </ul>
+        <br />
+        <p class="font-bold card-footer card-footer-item"> Additional items such as a laptop, purse, umbrella, books etc. may be permitted.  </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f877e0bf-1c39-458d-b5a3-0829c10b4c8f"
+    - ID: "9b9d7a50-d941-4d67-9f66-dc88d0655ba7"
+      Hint: CheckInBaggageInfo
+      Value: |
+        <ul>
+            <li>2 Bags up to 23kg each</li>
+        </ul>
+        <br />
+        <p class="font-bold card-footer card-footer-item"> Pay for your access baggage online and save up to 30% off the available rates at the airport  </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaidzaheer
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230605T104527Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230510T155754Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{CE5A9C84-B796-475A-B914-1C439E18B43C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "58cc3ad3-be1a-49d7-baf5-b3917e58e9c4"
+      Hint: CabinBaggageInfo
+      Value: |
+        <ul>
+            <li>1 sac et une mallette jusqu'&agrave; 6 kg </li>
+            <li>dimension maximale 45 x 40 x 30 cm </li>
+        </ul>
+        <br />
+        <p class="font-bold card-footer card-footer-item"> Des articles suppl&eacute;mentaires tels qu'un ordinateur portable, un sac &agrave; main, un parapluie, des livres, etc. peuvent &ecirc;tre autoris&eacute;s </p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "84d7b9dd-4eaa-419b-9ba0-c7feb2d3ce1a"
+    - ID: "9b9d7a50-d941-4d67-9f66-dc88d0655ba7"
+      Hint: CheckInBaggageInfo
+      Value: |
+        <ul>
+            <li>2 sacs jusqu'&agrave; 23 kg chacun </li>
+        </ul>
+        <br />
+        <p class="font-bold card-footer card-footer-item"> Payez votre acc&egrave;s bagages en ligne et &eacute;conomisez jusqu'&agrave; 30% sur les tarifs disponibles &agrave; l'a&eacute;roport </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230510T155911Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T082319Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{CE5A9C84-B796-475A-B914-1C439E18B43C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "58cc3ad3-be1a-49d7-baf5-b3917e58e9c4"
+      Hint: CabinBaggageInfo
+      Value: |
+        <ul>
+            <li> 1 сумка и один портфель до 6 кг      </li>
+            <li> максимальный размер 45 х 40 х 30 см    </li>
+        </ul>
+        <br />
+        <p class="font-bold card-footer card-footer-item"> Могут быть разрешены дополнительные предметы, такие как ноутбук, кошелек, зонт, книги и т. д.     </p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2207a4ba-ffb9-4a78-9014-5c7a6414e912"
+    - ID: "9b9d7a50-d941-4d67-9f66-dc88d0655ba7"
+      Hint: CheckInBaggageInfo
+      Value: |
+        <ul>
+            <li> 2 сумки до 23 кг каждая      </li>
+        </ul>
+        <br />
+        <p class="font-bold card-footer card-footer-item"> Оплатите доступ к багажу онлайн и сэкономьте до 30% от доступных тарифов в аэропорту.    </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230511T082429Z

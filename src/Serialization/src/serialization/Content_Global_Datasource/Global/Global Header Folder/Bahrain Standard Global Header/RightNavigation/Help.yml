@@ -1,0 +1,345 @@
+﻿---
+ID: "bf15407a-1b9e-453c-b601-fdc057b775d9"
+Parent: "676d6dbd-6aa7-4831-b5fc-809f35253f79"
+Template: "f009daee-e849-4b5f-bf19-3d8a4c130cfe"
+Path: /sitecore/content/Global/Global Header Folder/Bahrain Standard Global Header/RightNavigation/Help
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{442819BB-7F40-4254-ACE9-6890BBA50F83}"
+- ID: "16a198cc-3904-4364-bd38-2a7c4a6fd01b"
+  Hint: BannerImage
+  Value: |
+    <image width="401" height="180" alt="header-2.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/df3799f85fb44b6ba8a52275887d0209?v=8110056f" stylelabs-content-id="36984" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/36984/thumbnail" />
+- ID: "a493a74f-560d-4c91-a6ff-3793ecdfc4cc"
+  Hint: LinkList
+  Value: |
+    {78CD08A8-6BBC-4EBD-89E3-8EE778921E19}
+    {E7F7C970-ABFD-46F0-AA5B-51CB83318961}
+    {038CA57E-3F4C-4354-973D-2B233D99F160}
+    {C1D9FEA2-7B8A-4EF4-B373-5C69FAC87D04}
+    {F1F35080-DF5E-485B-8CB5-A82E522A6AAB}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230113T144643Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "24df5fd8-a2f9-432d-a084-1fce0d4aafa3"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="/" anchor="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="Help" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: Romantic Getaways
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230123T092938Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T103125Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4c7b2fc8-8e70-4c0e-8a36-6315d3fcedb1"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="المساعدة" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: Romantic Getaways
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225850Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T103125Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bcafe713-8cb6-4826-9b44-2cf17faeaf33"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="Help" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: Romantic Getaways
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120626Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T103125Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d092c123-d743-47d4-9fc4-5adc80d41fd0"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="Hilfe" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: Romantic Getaways
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225850Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T103125Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ab37e47b-967a-47fc-ab0f-8bd57da26d1a"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="Help" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: Romantic Getaways
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225850Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T103125Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6bdc881-fac2-46e4-94c3-75e40b6918cc"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="Help" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: Romantic Getaways
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120545Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T103125Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "92d6c4b6-be60-41f6-8162-381ef4e3b7e3"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="aide" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: Romantic Getaways
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225850Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T103125Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e177808a-368c-4123-a5f9-3ad45ece3112"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="Help" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: Romantic Getaways
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120445Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T103125Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fed40e12-cdaa-45ff-a7d3-173bebfc84ef"
+    - ID: "981db7d2-efd3-4317-8287-8975eb926601"
+      Hint: BannerCTA
+      Value: |
+        <link text="Welcome aboard" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "ca4c1ce8-7a32-4e79-b360-a0047578470b"
+      Hint: Link
+      Value: |
+        <link text="Помощь" linktype="javascript" url="javascript:" anchor="" />
+    - ID: "cf92abf9-76ad-430f-ba54-08d0fc98c4de"
+      Hint: BannerTitle
+      Value: Romantic Getaways
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225850Z

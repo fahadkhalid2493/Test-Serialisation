@@ -1,0 +1,328 @@
+﻿---
+ID: "2fd8d34c-7677-4d50-9bf4-98772a5fa404"
+Parent: "d40abd0f-f9aa-4926-8e00-037211333d84"
+Template: "76d13208-2c73-49a9-af1e-79208db38858"
+Path: "/sitecore/content/gulfair-app-ma/Data/Pre Flight Checklist Folder/Home/DEFAULT - HOME - EN - Pre-flight check list"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "2355bac2-561e-4933-a0f1-ba256e7691c7"
+  Hint: DownloadIcon
+  Value: |
+    <image width="16" height="16" alt="download.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/451d74d69cf7474389c18b6cdb1a2282?v=fe3f021b" stylelabs-content-id="35209" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/35209/thumbnail" />
+- ID: "80643454-c297-43c0-879d-afcbb84b8fb0"
+  Hint: VideoURL
+  Value: "https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/26895cc0d4ad42f0912afe945a4a1ed3?v=4c2a704f"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba91779f-6042-42ab-9da5-a154af39c2b0"
+  Hint: Image
+  Value: |
+    <image width="550" height="295" alt="pre-flight-check-list.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/f4cfda4cee7f4559b104082bcec3a5a4?v=10e342f3" stylelabs-content-id="35004" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/35004/thumbnail" />
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - AR - Pre-flight check list"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T180142Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "78dc507b-29d7-489b-afe9-ebcca83a7652"
+      Hint: Heading
+      Value: قائمة مراجعة ما قبل الرحلة
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "45d33ba6-c5d1-4a13-ad0a-56be9e4b5912"
+    - ID: "959641fe-d5a4-448c-8fd2-c6a51d07b621"
+      Hint: DownloadCTA
+      Value: |
+        <link text="Download" linktype="external" url="/" anchor="" target="" />
+    - ID: "95af772a-7c0e-4680-81fe-4819b1a5d31b"
+      Hint: DisableShare
+      Value: 1
+    - ID: "a757cca2-7404-44e7-813d-70cb7969d961"
+      Hint: PopUpSubTitle
+      Value: "Pre-flight checklist"
+    - ID: "b38c6cd3-efc9-4b69-b935-366c6b0d8112"
+      Hint: PopUpTitle
+      Value: "Pre-flight checklist"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c607e38f-8fb4-4c60-b251-5d5a65683fce"
+      Hint: SubText
+      Value: |
+        <ul>
+            <li><span style="background-color: #ffffff; color: #444444;">تحقق من متطلبات التأشيرة</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">احصل على تأمين السفر</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">احجز إقامتك</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">قم بتعبئة الأدوية الأساسية</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">تحقق من وزن الأمتعة الخاص بك وتحقق</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">تأكد من نقل المطار الخاص بك</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">تأكد من شحن بطاريات الأجهزة الالكترونية</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">اكمل إجراءات الرحلة مبكراً عن طريق الانترنت</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">حمل جواز سفرك وجميع مستندات السفر</span></li>
+        </ul>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234912Z
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Pre-flight check list"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T180141Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "78dc507b-29d7-489b-afe9-ebcca83a7652"
+      Hint: Heading
+      Value: Checkliste vor dem Flug
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "180f202a-2d8b-4aed-b1aa-93151048b36f"
+    - ID: "959641fe-d5a4-448c-8fd2-c6a51d07b621"
+      Hint: DownloadCTA
+      Value: |
+        <link text="Download" linktype="media" target="" id="{72DD6394-005E-5A99-BD61-92A10F019FFD}" />
+    - ID: "a757cca2-7404-44e7-813d-70cb7969d961"
+      Hint: PopUpSubTitle
+      Value: "Pre-flight checklist"
+    - ID: "b38c6cd3-efc9-4b69-b935-366c6b0d8112"
+      Hint: PopUpTitle
+      Value: "Pre-flight checklist"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c607e38f-8fb4-4c60-b251-5d5a65683fce"
+      Hint: SubText
+      Value: |
+        <ul>
+            <li><span style="background-color: #ffffff; color: #444444;">&Uuml;berpr&uuml;fen Sie die Anforderungen des Visums</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Holen Sie sich Reiseversicherung</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Buchen Sie Ihren Aufenthalt</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Packen Sie Ihre wesentlichen Medikamente ein</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">&Uuml;berpr&uuml;fen Sie Ihr Handgep&auml;ck und das &uuml;berpr&uuml;fte Gep&auml;ckgewicht</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Best&auml;tigen Sie Ihren Flughafentransfer</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Stellen Sie sicher, dass Sie Ihre Elektronik berechnet haben</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Online einchecken</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Packen Sie Ihren Reisepass und alle Reisedokumente ein</span></li>
+        </ul>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234912Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Pre-flight check list"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T180141Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "78dc507b-29d7-489b-afe9-ebcca83a7652"
+      Hint: Heading
+      Value: "Pre-flight checklist"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bb742de8-1605-44bd-9491-2053e017fbe9"
+    - ID: "959641fe-d5a4-448c-8fd2-c6a51d07b621"
+      Hint: DownloadCTA
+      Value: |
+        <link text="Download" linktype="media" target="" id="{72DD6394-005E-5A99-BD61-92A10F019FFD}" />
+    - ID: "a757cca2-7404-44e7-813d-70cb7969d961"
+      Hint: PopUpSubTitle
+      Value: "Pre-flight checklist"
+    - ID: "b38c6cd3-efc9-4b69-b935-366c6b0d8112"
+      Hint: PopUpTitle
+      Value: "Pre-flight checklist"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c607e38f-8fb4-4c60-b251-5d5a65683fce"
+      Hint: SubText
+      Value: |
+        <ul>
+            <li><span style="background-color: #ffffff; color: #444444;">Check for visa requirements</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Get travel insurance</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Book your stay</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Pack your essential medications</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Check your carry-on and checked luggage weight</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Confirm your airport transfer</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Make sure you&rsquo;ve charged your electronics</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Check-in online</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Pack your passport and all travel documents</span></li>
+        </ul>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234912Z
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Pre-flight check list"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T180141Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "78dc507b-29d7-489b-afe9-ebcca83a7652"
+      Hint: Heading
+      Value: "Liste de contrôle pré-vol"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d091ce4d-b73d-40ed-82b1-50f003d2f648"
+    - ID: "959641fe-d5a4-448c-8fd2-c6a51d07b621"
+      Hint: DownloadCTA
+      Value: |
+        <link text="Download" linktype="media" target="" id="{72DD6394-005E-5A99-BD61-92A10F019FFD}" />
+    - ID: "a757cca2-7404-44e7-813d-70cb7969d961"
+      Hint: PopUpSubTitle
+      Value: "Pre-flight checklist"
+    - ID: "b38c6cd3-efc9-4b69-b935-366c6b0d8112"
+      Hint: PopUpTitle
+      Value: "Pre-flight checklist"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c607e38f-8fb4-4c60-b251-5d5a65683fce"
+      Hint: SubText
+      Value: |
+        <ul>
+            <li><span style="background-color: #ffffff; color: #444444;">V&eacute;rifiez les exigences de visa</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Obtenir une assurance voyage</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">R&eacute;servez votre s&eacute;jour</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Emballez vos m&eacute;dicaments essentiels</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">V&eacute;rifiez votre bagage &agrave; main et v&eacute;rifie le poids des bagages</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Confirmez votre transfert d'a&eacute;roport</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Assurez-vous que vous avez factur&eacute; votre &eacute;lectronique</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Enregistrement en ligne</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Emballez votre passeport et tous les documents de voyage</span></li>
+        </ul>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234912Z
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Pre-flight check list"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T180141Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "78dc507b-29d7-489b-afe9-ebcca83a7652"
+      Hint: Heading
+      Value: Контрольный список перед полетом
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "945ddfd4-35f5-4d1f-ad02-f25778f776dd"
+    - ID: "959641fe-d5a4-448c-8fd2-c6a51d07b621"
+      Hint: DownloadCTA
+      Value: |
+        <link text="Download" linktype="media" target="" id="{72DD6394-005E-5A99-BD61-92A10F019FFD}" />
+    - ID: "a757cca2-7404-44e7-813d-70cb7969d961"
+      Hint: PopUpSubTitle
+      Value: "Pre-flight checklist"
+    - ID: "b38c6cd3-efc9-4b69-b935-366c6b0d8112"
+      Hint: PopUpTitle
+      Value: "Pre-flight checklist"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c607e38f-8fb4-4c60-b251-5d5a65683fce"
+      Hint: SubText
+      Value: |
+        <ul>
+            <li><span style="background-color: #ffffff; color: #444444;">Проверьте требования визы</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Получите страхование путешествий</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Забронируйте свое пребывание</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Упакуйте свои основные лекарства</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Проверьте ручную кладку и проверенный вес багажа</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Подтвердите передачу вашего аэропорта</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Убедитесь, что вы зарядили свою электронику</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Регистрация онлайн</span></li>
+            <li><span style="background-color: #ffffff; color: #444444;">Упаковать свой паспорт и все туристические документы</span></li>
+        </ul>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234912Z

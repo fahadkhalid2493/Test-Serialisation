@@ -1,0 +1,178 @@
+﻿---
+ID: "d6951241-5c45-4f76-be81-588778cace25"
+Parent: "2a609038-6fc2-41de-a46e-01e663ef60f7"
+Template: "0b5ef009-0c1f-4ac3-89b5-d0d1f3f860eb"
+Path: /sitecore/content/Global Configuration/Locations/Moscow Domodedovo Mikhail Lomonosov Airport
+SharedFields:
+- ID: "31250019-5060-40a9-ba51-294a37d456d9"
+  Hint: OnlineCheckInAvailable
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "be35fd21-18af-4d0d-a029-3bcac18564f9"
+  Hint: CityCode
+  Value: DME
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: مطار دوموديدوفو الدولي
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: موسكو
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: روسيا
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "07dd7c05-c704-4515-978f-07845a92df93"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T152755Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Moskau Domodedovo Mikhail Lomonosov Flughafen
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Moskau
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Russland
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0fb53d57-5f70-48d7-a041-b7be4a76c6fc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T152732Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Moscow Domodedovo Mikhail Lomonosov Airport
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Moscow
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Russia
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da69750b-e131-40bd-8fed-6c6deebc03bd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T104139Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Aéroport de Moscou Domodedovo Mikhail Lomonosov
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Moscou
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Russie
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e007a71-1e4a-486b-a327-7f9f09f5e8cc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T152742Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0be0a0df-36f8-411e-8a69-dced7648a0b2"
+      Hint: Airport
+      Value: Московский аэропорт Domodedovo Mikhail Lomonosov
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T131207Z
+    - ID: "40b45636-2b0c-433b-9009-c419741bccae"
+      Hint: City
+      Value: Москва
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "851585ed-a518-4cea-8478-b710ce7eaebd"
+      Hint: Country
+      Value: Россия
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "974a13ab-d380-4c22-8f92-980dc9fef7d6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T152724Z

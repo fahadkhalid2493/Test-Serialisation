@@ -1,0 +1,234 @@
+﻿---
+ID: "8a6bfb98-35b0-49fa-8c57-a37a181c0f9d"
+Parent: "7608b7ab-78be-4a3e-9da1-c8bf62f678e1"
+Template: "5056476a-9666-4b85-9f25-751ef0026bfa"
+Path: "/sitecore/content/gulfair-app-ae/Data/Travel Alert Folder/Home/DEFAULT - HOME - EN - Travel Alert Parent 1"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "7221ba8e-269d-4a2c-bd56-4407ab404469"
+  Hint: TravelAlertSlideList
+  Value: |
+    {A28BA7C9-3913-4E14-987B-0051857A563F}
+    {30E39AB2-9622-44EF-A941-1902C56A22FE}
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - AR - Travel Alert Parent 1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T163643Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6eacae89-f962-4522-adfb-bf3112066377"
+      Hint: AlertIcon
+      Value: |
+        <image width="18" height="16" alt="alert-icon.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/c00a68f918be4cca8817e06b1ba5cce0?v=a1f9925f" stylelabs-content-id="35771" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/35771/thumbnail" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa216f84-c759-46e3-a5ab-369c327995d3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bb66c286-cc40-4f4c-8ffe-7db3d85ca237"
+      Hint: Title
+      Value: "Travel Updates:"
+    - ID: "c2631077-4e3e-4624-8eeb-1d3b20c90ed9"
+      Hint: CloseMessage
+      Value: <p>You can still access alerts from the help menu</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231226Z
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Travel Alert Parent 1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T163643Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "6eacae89-f962-4522-adfb-bf3112066377"
+      Hint: AlertIcon
+      Value: |
+        <image width="18" height="16" alt="alert-icon.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/c00a68f918be4cca8817e06b1ba5cce0?v=376afe4b" stylelabs-content-id="35771" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/35771/thumbnail" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a9b27d80-3f4d-4b61-981e-e1fda7688c80"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bb66c286-cc40-4f4c-8ffe-7db3d85ca237"
+      Hint: Title
+      Value: "Travel Updates:"
+    - ID: "c2631077-4e3e-4624-8eeb-1d3b20c90ed9"
+      Hint: CloseMessage
+      Value: <p>You can still access alerts from the help menu</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231226Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Travel Alert Parent 1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T163643Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "6eacae89-f962-4522-adfb-bf3112066377"
+      Hint: AlertIcon
+      Value: |
+        <image width="18" height="16" alt="alert-icon.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/c00a68f918be4cca8817e06b1ba5cce0?v=376afe4b" stylelabs-content-id="35771" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/35771/thumbnail" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9c0c0c80-8241-4948-aa4e-2b5c8d791950"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bb66c286-cc40-4f4c-8ffe-7db3d85ca237"
+      Hint: Title
+      Value: "Travel Updates:"
+    - ID: "c2631077-4e3e-4624-8eeb-1d3b20c90ed9"
+      Hint: CloseMessage
+      Value: <p>You can still access alerts from the help menu</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231226Z
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Travel Alert Parent 1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T163643Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "6eacae89-f962-4522-adfb-bf3112066377"
+      Hint: AlertIcon
+      Value: |
+        <image width="18" height="16" alt="alert-icon.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/c00a68f918be4cca8817e06b1ba5cce0?v=376afe4b" stylelabs-content-id="35771" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/35771/thumbnail" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "696a39ee-523b-4db8-91ee-3d6be70c340e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bb66c286-cc40-4f4c-8ffe-7db3d85ca237"
+      Hint: Title
+      Value: "Travel Updates:"
+    - ID: "c2631077-4e3e-4624-8eeb-1d3b20c90ed9"
+      Hint: CloseMessage
+      Value: <p>You can still access alerts from the help menu</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231226Z
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - EN - Travel Alert Parent 1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T163643Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "6eacae89-f962-4522-adfb-bf3112066377"
+      Hint: AlertIcon
+      Value: |
+        <image width="18" height="16" alt="alert-icon.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/c00a68f918be4cca8817e06b1ba5cce0?v=376afe4b" stylelabs-content-id="35771" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/35771/thumbnail" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f6cd2f4-3802-45f4-84a0-600082037e4b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bb66c286-cc40-4f4c-8ffe-7db3d85ca237"
+      Hint: Title
+      Value: "Travel Updates:"
+    - ID: "c2631077-4e3e-4624-8eeb-1d3b20c90ed9"
+      Hint: CloseMessage
+      Value: <p>You can still access alerts from the help menu</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231226Z

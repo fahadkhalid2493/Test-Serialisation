@@ -1,0 +1,255 @@
+﻿---
+ID: "e553ce61-5870-4667-81b8-06b33a2e259a"
+Parent: "b8dc965a-678d-46bd-9448-27d6697e3aad"
+Template: "fe4db3f6-bb00-4fcb-b389-998cc4b6f381"
+Path: "/sitecore/content/gulfair-app-in/Data/Discover Destination Fast Fact Folder/Destination - Paris/DestinationFact"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Destination - PARIS DestinationFact-ar"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230118T163740Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5529c133-db29-443a-b269-dbde5542b4f7"
+      Hint: SubHeading
+      Value: نسخة الدعم
+    - ID: "5a4e573e-3305-424f-9125-cbdba6fb9fa5"
+      Hint: Heading
+      Value: اكتشف باريس
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f946c6f9-66db-4617-a23e-61e8b919eff6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "bf1dd3c4-080b-476d-b924-6174b7fe4cc6"
+      Hint: FactHeading
+      Value: حقائق سريعة
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T114937Z
+    - ID: "f160350d-dc39-4722-a3fe-a6758effa575"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet، consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan، id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi يؤدي إلى cursus neque. Duis Donec Gravida AC Tellus quis proin معرف المواطن. Amet، ornare a et vitae، malesuada sagittis quam Suspendisse. Amet nulla vestibulum odio et. Quis morbi nibh leo vulputate porttitor cursus vel facilisi. خميرة Augue nisl ، pellentesque maecenas facilisis laoreet turpis aliquam. Erat pulvinar aliquam rhoncus أعطال. Aliquet ultrices nunc، nibh ut arcu eget. بلانديت ليو كريمينسيم إيبسوم جوستو دونيك.</p>
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: DestinationFact
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230118T163740Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5529c133-db29-443a-b269-dbde5542b4f7"
+      Hint: SubHeading
+      Value: Support copy
+    - ID: "5a4e573e-3305-424f-9125-cbdba6fb9fa5"
+      Hint: Heading
+      Value: Discover Paris
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "47657140-bb4b-4e33-9e16-42ef3bfc1d3a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "bf1dd3c4-080b-476d-b924-6174b7fe4cc6"
+      Hint: FactHeading
+      Value: Fast facts
+    - ID: "d44e4871-dcce-4b1d-8a1e-28db7ff3184c"
+      Hint: CTA
+      Value: |
+        <link text="Add to Favourites" linktype="external" url="/" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T114936Z
+    - ID: "f160350d-dc39-4722-a3fe-a6758effa575"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque. Duis donec gravida ac tellus quis proin habitant id. Amet, ornare a et vitae, malesuada sagittis quam suspendisse. Amet nulla vestibulum odio et. Quis morbi nibh leo vulputate porttitor cursus vel facilisi. Augue nisl fermentum, pellentesque maecenas facilisis laoreet turpis aliquam. Erat pulvinar aliquam rhoncus cras. Aliquet ultrices nunc, nibh ut arcu eget. Blandit leo dignissim ipsum justo donec.</p>
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: DestinationFact
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230118T163740Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5529c133-db29-443a-b269-dbde5542b4f7"
+      Hint: SubHeading
+      Value: Support copy
+    - ID: "5a4e573e-3305-424f-9125-cbdba6fb9fa5"
+      Hint: Heading
+      Value: Discover Paris
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ea0ab61-8893-4e03-9db5-f0b38702ff16"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "bf1dd3c4-080b-476d-b924-6174b7fe4cc6"
+      Hint: FactHeading
+      Value: Fast facts
+    - ID: "d44e4871-dcce-4b1d-8a1e-28db7ff3184c"
+      Hint: CTA
+      Value: |
+        <link text="Add to Favourites" linktype="external" url="/" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230313T083638Z
+    - ID: "f160350d-dc39-4722-a3fe-a6758effa575"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque. Duis donec gravida ac tellus quis proin habitant id. Amet, ornare a et vitae, malesuada sagittis quam suspendisse. Amet nulla vestibulum odio et. Quis morbi nibh leo vulputate porttitor cursus vel facilisi. Augue nisl fermentum, pellentesque maecenas facilisis laoreet turpis aliquam. Erat pulvinar aliquam rhoncus cras. Aliquet ultrices nunc, nibh ut arcu eget. Blandit leo dignissim ipsum justo donec.</p>
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: DestinationFact
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230118T163740Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5529c133-db29-443a-b269-dbde5542b4f7"
+      Hint: SubHeading
+      Value: Support copy
+    - ID: "5a4e573e-3305-424f-9125-cbdba6fb9fa5"
+      Hint: Heading
+      Value: Discover Paris
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fbe0ab67-b7e1-415b-b0eb-4da1b331414e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "bf1dd3c4-080b-476d-b924-6174b7fe4cc6"
+      Hint: FactHeading
+      Value: Fast facts
+    - ID: "d44e4871-dcce-4b1d-8a1e-28db7ff3184c"
+      Hint: CTA
+      Value: |
+        <link text="Add to Favourites" linktype="external" url="/" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T114936Z
+    - ID: "f160350d-dc39-4722-a3fe-a6758effa575"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque. Duis donec gravida ac tellus quis proin habitant id. Amet, ornare a et vitae, malesuada sagittis quam suspendisse. Amet nulla vestibulum odio et. Quis morbi nibh leo vulputate porttitor cursus vel facilisi. Augue nisl fermentum, pellentesque maecenas facilisis laoreet turpis aliquam. Erat pulvinar aliquam rhoncus cras. Aliquet ultrices nunc, nibh ut arcu eget. Blandit leo dignissim ipsum justo donec.</p>
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: DestinationFact
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230118T163740Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5529c133-db29-443a-b269-dbde5542b4f7"
+      Hint: SubHeading
+      Value: Support copy
+    - ID: "5a4e573e-3305-424f-9125-cbdba6fb9fa5"
+      Hint: Heading
+      Value: Discover Paris
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d4d9e12-0e11-4e22-b012-45ea95d0defc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "bf1dd3c4-080b-476d-b924-6174b7fe4cc6"
+      Hint: FactHeading
+      Value: Fast facts
+    - ID: "d44e4871-dcce-4b1d-8a1e-28db7ff3184c"
+      Hint: CTA
+      Value: |
+        <link text="Add to Favourites" linktype="external" url="/" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T114936Z
+    - ID: "f160350d-dc39-4722-a3fe-a6758effa575"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem. Sed facilisi risus a sed cursus neque. Duis donec gravida ac tellus quis proin habitant id. Amet, ornare a et vitae, malesuada sagittis quam suspendisse. Amet nulla vestibulum odio et. Quis morbi nibh leo vulputate porttitor cursus vel facilisi. Augue nisl fermentum, pellentesque maecenas facilisis laoreet turpis aliquam. Erat pulvinar aliquam rhoncus cras. Aliquet ultrices nunc, nibh ut arcu eget. Blandit leo dignissim ipsum justo donec.</p>

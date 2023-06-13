@@ -1,0 +1,219 @@
+﻿---
+ID: "dc21d156-144c-4a03-b3a5-b9ff7f3d4f7d"
+Parent: "35243185-2261-4ca4-8cde-72e2da036e4a"
+Template: "736ac33e-e829-4dd1-9cc1-665d00630c3e"
+Path: "/sitecore/content/gulfair-app-om/Data/Plane Specs Slider Folder/Plane Specs Slider Parent/A350"
+SharedFields:
+- ID: "0222c215-f05a-4cdb-8ab7-c6e792b30668"
+  Hint: CTABannerImageMobile
+  Value: |
+    <image width="305" height="214" alt="Boeing787-9CabinMobile.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/e29d2d5e2ef542b99800c58ed5bb8e51?v=18a50f13" stylelabs-content-id="40955" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/40955/thumbnail" />
+- ID: "828fe380-0548-4b9f-be2f-a44edec31d4a"
+  Hint: AirPlaneImageMobile
+  Value: |
+    <image width="345" height="78" alt="OurFleetInnerBannerBoeing787-9SlideMobile.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/9fd585e760a74830b1cbb9623e2d7a11?v=0c3d4e5a" stylelabs-content-id="40956" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/40956/thumbnail" />
+- ID: "b0ff799c-58b1-45fa-be79-11f44b0c5a87"
+  Hint: AirPlaneImage
+  Value: |
+    <image width="1075" height="244" alt="OurFleetInnerBannerBoeing787-9SlideDesktop.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/f62e38b6c26844bead11fbd57fbe5ee2?v=adea1b37" stylelabs-content-id="41036" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41036/thumbnail" />
+- ID: "db0060d8-9160-4037-a332-c952b272e647"
+  Hint: CTABannerImage
+  Value: |
+    <image width="1080" height="250" alt="Boeing787-9CabinDesktop.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/93e81930bec74a798a1e4864a88b8506?v=d159b983" stylelabs-content-id="40959" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/40959/thumbnail" />
+- ID: "f21e85fb-68be-464c-a9d3-bb2b36984424"
+  Hint: SeatingImage
+  Value: |
+    <image width="1080" height="224" alt="Boeing787-9SeatingConfig.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/28f64be266c140f5882196115313265e?v=50848729" stylelabs-content-id="41021" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41021/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Cabin Experience
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>A350 Dreamliner</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cda00bdb-b1fc-4bf3-aece-0b2c19eba7a5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: A350 Dreamliner
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link text="Learn More" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235256Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Cabin Experience
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>A350 Dreamliner</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ab9684b1-5e89-42b7-aa10-506b45a174da"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: A350 Dreamliner
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link text="Learn More" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235256Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Cabin Experience
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>A350 Dreamliner</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a7939bf2-e374-4438-b55a-12f524a9feb6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: A350 Dreamliner
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link text="Learn More" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235256Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Cabin Experience
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>A350 Dreamliner</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd12ec04-3be3-4f53-a4a4-ce46634d3064"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: A350 Dreamliner
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link text="Learn More" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235256Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Cabin Experience
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>A350 Dreamliner</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d431e242-a147-4100-a33d-46f2d1ce9812"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: A350 Dreamliner
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link text="Learn More" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235256Z

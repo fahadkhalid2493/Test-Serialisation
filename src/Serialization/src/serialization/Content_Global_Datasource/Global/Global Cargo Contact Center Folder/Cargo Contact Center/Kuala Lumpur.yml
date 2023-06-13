@@ -1,0 +1,49 @@
+﻿---
+ID: "7a2ca2d5-8771-4f2d-aa3b-58c4956afb72"
+Parent: "b529b9d2-7dfc-4dc1-a70f-1939a02a1502"
+Template: "c4f0e5a0-41a4-4720-905f-4c0fc8003171"
+Path: /sitecore/content/Global/Global Cargo Contact Center Folder/Cargo Contact Center/Kuala Lumpur
+SharedFields:
+- ID: "3978628f-3184-4428-9a3c-d2e902a5e411"
+  Hint: ContactDetailsList
+  Value: |
+    {42BC3991-9624-4ACC-8185-3D352E5F4368}
+    {43D50A74-1429-4C15-9776-21EEEFE142D8}
+    {3E736625-C154-45E7-8894-0C2D01D172BC}
+    {DEF86365-EF60-426E-8792-DAF74E04204E}
+    {DD60A019-7D04-4D0F-8768-A1069D255875}
+- ID: "9c615311-1201-4a4b-be59-9d3dba8c3e70"
+  Hint: City
+  Value: "{EAC9FE00-1006-464D-8A9B-B1DBAD2CB2FC}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230519T115806Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "540e75c0-abcf-46f0-a6e1-b2dfc0665f0f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T120103Z

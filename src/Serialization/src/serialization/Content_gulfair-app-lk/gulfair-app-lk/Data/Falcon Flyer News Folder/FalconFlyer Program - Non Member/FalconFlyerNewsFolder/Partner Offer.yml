@@ -1,0 +1,195 @@
+﻿---
+ID: "0fba217a-6729-487b-a819-3efa42ba5dd5"
+Parent: "bdb20ed7-21b3-48cf-94da-b66e0f52d0a9"
+Template: "6e26270c-7ced-4652-ab7b-566f2ac9e41f"
+Path: "/sitecore/content/gulfair-app-lk/Data/Falcon Flyer News Folder/FalconFlyer Program - Non Member/FalconFlyerNewsFolder/Partner Offer"
+SharedFields:
+- ID: "b92f071d-1def-46b6-a749-46efddbd6693"
+  Hint: CTAColor
+  Value: "{F64FADCC-6FB4-46AA-A947-751B7BF0A024}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "c1bb3e97-ab5a-421a-9678-19e1cd31bd8e"
+  Hint: Image
+  Value: |
+    <image width="366" height="321" alt="PlanFront.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/5078b01a0e1d4e948db440baf494f8be?v=8be6eb6d" stylelabs-content-id="37150" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/37150/thumbnail" />
+- ID: "f768fd8c-ee29-421c-8929-b5c21ac10c7b"
+  Hint: CTAType
+  Value: "{9E29A28B-7ED9-41A5-BE7D-66A986A44CC3}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4c09ef-8fae-43a9-ad1c-445a40ee2114"
+      Hint: CTA
+      Value: |
+        <link text="View all offers" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T131257Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: Partner offer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "32401fcf-8e60-4bf0-ae70-58028555ea63"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234721Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4c09ef-8fae-43a9-ad1c-445a40ee2114"
+      Hint: CTA
+      Value: |
+        <link text="View all offers" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T131257Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: Partner Offer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2623b2dd-cb15-4972-a636-89ba9da3ce4e"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.</span>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234720Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4c09ef-8fae-43a9-ad1c-445a40ee2114"
+      Hint: CTA
+      Value: |
+        <link text="View all offers" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T131257Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: Partner offer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d692a4e-e28c-4214-81ef-0f9309cd1bde"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234720Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4c09ef-8fae-43a9-ad1c-445a40ee2114"
+      Hint: CTA
+      Value: |
+        <link text="View all offers" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T131257Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: Partner Offer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3252d8db-1020-46d2-8750-9cf1562aaf81"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.</span>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234721Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4c09ef-8fae-43a9-ad1c-445a40ee2114"
+      Hint: CTA
+      Value: |
+        <link text="View all offers" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{88C1D19E-C243-5666-9EA7-E9721D6F2FF6}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T131257Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: Partner Offer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b7b5f75-9146-405f-83b4-931ed69727fc"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.</span>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234721Z

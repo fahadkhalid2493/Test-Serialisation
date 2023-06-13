@@ -1,0 +1,474 @@
+﻿---
+ID: "a59a8058-f82f-475e-bc89-c058e3dcfb51"
+Parent: "c311fb14-968a-4465-95d6-e6fa5846ff01"
+Template: "64fec9d9-d83e-40e2-81c8-bd6e6a654eb3"
+Path: "/sitecore/content/gulfair-app-ph/Data/AirportInfoSectionFolder/at the airport - info/AirportInfoSectionParent/Bahrain"
+SharedFields:
+- ID: "2ed07a2d-5ec4-4469-85bc-49746a7724cd"
+  Hint: Airport
+  Value: "{CD6382D4-6AA8-4A59-80BC-097772BDEDFC}"
+- ID: "3c09129a-e8b8-40d8-b82e-0392a2328f2a"
+  Hint: WebCheckin
+  Value: "{584449BA-3F3E-48A3-AFAA-00B0A5392C90}"
+- ID: "684f084f-cee6-461d-a4c9-e63c99a54d24"
+  Hint: CheckinTimeColor
+  Value: "{7C4FD76D-3B0F-42EA-A617-03C670A8A379}"
+- ID: "7d5ad0bc-c0a0-43ea-aa8a-c1146d311fc6"
+  Hint: CheckinCountersColor
+  Value: "{7C4FD76D-3B0F-42EA-A617-03C670A8A379}"
+- ID: "95b1e77c-f04a-4f75-bd0e-6beff504cda7"
+  Hint: WebCheckinColor
+  Value: "{AA7CCFBF-2B5C-4F85-970E-DCBC25B6923C}"
+- ID: "974f1505-990f-4931-91b1-9c7b708c5fc1"
+  Hint: PremiumCheckinServiceColor
+  Value: "{AA7CCFBF-2B5C-4F85-970E-DCBC25B6923C}"
+- ID: "cde96da4-693c-4270-8fde-fa9ff77e22db"
+  Hint: PremiumCheckinService
+  Value: "{9338EFBE-D596-4B42-BDDC-721E26CD1C34}"
+- ID: "df4dd1f7-ba31-4a06-bbf5-250f9a00dc23"
+  Hint: MapCTAColor
+  Value: "{55CE5A8D-B17E-4E50-84AA-032A47418992}"
+- ID: "f0d82689-dd4b-419e-8cbb-a57b16349fa3"
+  Hint: BeforeYouFlyCTAColor
+  Value: "{F64FADCC-6FB4-46AA-A947-751B7BF0A024}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="View Map" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <h4>Check-in Counters</h4>
+        <table>
+            <tbody>
+                <tr>
+                    <td>Falcon Gold:</td>
+                    <td><strong>Zone F</strong></td>
+                </tr>
+                <tr>
+                    <td>Economy:</td>
+                    <td><strong>Zone E</strong></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T075856Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visit Website" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Location</h3>
+        <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46659da9-a09e-43ed-8c6a-236ca10f8905"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminal Details</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T105538Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Before you fly</h3>
+        <h4>
+        Important information for passengers</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <h4>Check-in Time</h4>
+        <table>
+            <tbody>
+                <tr>
+                    <td>Earliest:</td>
+                    <td><strong>3 hours&nbsp;</strong>before scheduled time of departure<br />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Latest:</td>
+                    <td><strong><strong>30 minutes&nbsp;</strong></strong>before scheduled time of departure</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="View Map" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <h4>Check-in Counters</h4>
+        <table>
+            <tbody>
+                <tr>
+                    <td>Falcon Gold:</td>
+                    <td><strong>Zone F</strong></td>
+                </tr>
+                <tr>
+                    <td>Economy:</td>
+                    <td><strong>Zone E</strong></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T075856Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visit Website" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Location</h3>
+        <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "879d89d1-eedc-4e84-a376-99318253d749"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminal Details</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T105538Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Before you fly</h3>
+        <h4>
+        Important information for passengers</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <h4>Check-in Time</h4>
+        <table>
+            <tbody>
+                <tr>
+                    <td>Earliest:</td>
+                    <td><strong>3 hours&nbsp;</strong>before scheduled time of departure<br />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Latest:</td>
+                    <td><strong><strong>30 minutes&nbsp;</strong></strong>before scheduled time of departure</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="View Map" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <h4>Check-in Counters</h4>
+        <table>
+            <tbody>
+                <tr>
+                    <td>Falcon Gold:</td>
+                    <td><strong>Zone F</strong></td>
+                </tr>
+                <tr>
+                    <td>Economy:</td>
+                    <td><strong>Zone E</strong></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T075856Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visit Website" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Location</h3>
+        <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a27a8a8a-309b-4a99-9e6d-75c22a537a39"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminal Details</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\uzair
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230515T080840Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Before you fly</h3>
+        <h4>
+        Important information for passengers</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <h4>Check-in Time</h4>
+        <table>
+            <tbody>
+                <tr>
+                    <td>Earliest:</td>
+                    <td><strong>3 hours&nbsp;</strong>before scheduled time of departure<br />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Latest:</td>
+                    <td><strong><strong>30 minutes&nbsp;</strong></strong>before scheduled time of departure</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="View Map" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <h4>Check-in Counters</h4>
+        <table>
+            <tbody>
+                <tr>
+                    <td>Falcon Gold:</td>
+                    <td><strong>Zone F</strong></td>
+                </tr>
+                <tr>
+                    <td>Economy:</td>
+                    <td><strong>Zone E</strong></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T075856Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visit Website" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Location</h3>
+        <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04e3fb99-e9e8-4f9a-8357-0dc166cb84df"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminal Details</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T105538Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Before you fly</h3>
+        <h4>
+        Important information for passengers</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <h4>Check-in Time</h4>
+        <table>
+            <tbody>
+                <tr>
+                    <td>Earliest:</td>
+                    <td><strong>3 hours&nbsp;</strong>before scheduled time of departure<br />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Latest:</td>
+                    <td><strong><strong>30 minutes&nbsp;</strong></strong>before scheduled time of departure</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="View Map" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <h4>Check-in Counters</h4>
+        <table>
+            <tbody>
+                <tr>
+                    <td>Falcon Gold:</td>
+                    <td><strong>Zone F</strong></td>
+                </tr>
+                <tr>
+                    <td>Economy:</td>
+                    <td><strong>Zone E</strong></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T075856Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visit Website" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Location</h3>
+        <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e47d6dff-8e49-4a9c-b305-6d8b1c7e2285"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminal Details</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T105538Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Before you fly</h3>
+        <h4>
+        Important information for passengers</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum. Eu mauris.</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <h4>Check-in Time</h4>
+        <table>
+            <tbody>
+                <tr>
+                    <td>Earliest:</td>
+                    <td><strong>3 hours&nbsp;</strong>before scheduled time of departure<br />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Latest:</td>
+                    <td><strong><strong>30 minutes&nbsp;</strong></strong>before scheduled time of departure</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />

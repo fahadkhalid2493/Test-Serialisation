@@ -1,0 +1,66 @@
+﻿---
+ID: "424bf4ba-24fc-4e97-9c33-cf570f972a85"
+Parent: "0f4d8adc-0721-4916-807d-6d6817e70d95"
+Template: "07f50330-c962-5e98-ae02-814183b76ea0"
+Path: "/sitecore/content/gulfair-app-sg/home/transparency/Falconflyer Program Terms and Conditions"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 4300
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{D28EFE3B-F987-41F3-9CD3-186C986735B9}"
+          p:after="r[@uid='{78BCE695-62F3-465D-9ACF-B6E971121264}']"
+          s:ds="{FCF1051B-14C7-4F6E-B680-5B71F511A9F8}"
+          s:id="{2FAE24EB-118B-467A-A793-A565ECF56816}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{3E28180A-DB28-402F-A4E7-D344586C0A69}"
+          p:after="r[@uid='{D28EFE3B-F987-41F3-9CD3-186C986735B9}']"
+          s:ds="{6CA2E1A6-C606-4DA1-92DA-577CE4732D28}"
+          s:id="{891FD600-9656-4656-9751-252A6DCB1D21}"
+          s:par="BackgroundColor=%7B89330C54-4FC1-4573-913A-BC08CCDEBD5B%7D&amp;WithMargin"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230611T135431Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sayedhusain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sayedhusain
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Gulf Air | Falconflyer Program Terms and Conditions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e55c919-ef71-4a6d-b0dc-15a647b3f8b9"
+    - ID: "af522f9b-8382-4201-b440-31784a3c09a6"
+      Hint: OpenGraphTitle
+      Value: Gulf Air | Falconflyer Program Terms and Conditions
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sayedhusain
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T135636Z

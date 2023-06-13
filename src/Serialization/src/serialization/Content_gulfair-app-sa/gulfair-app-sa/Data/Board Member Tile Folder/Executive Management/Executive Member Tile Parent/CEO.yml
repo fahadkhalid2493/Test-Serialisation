@@ -1,0 +1,84 @@
+﻿---
+ID: "6b453b94-1df9-41ef-a189-e3e23954bbca"
+Parent: "09bbeda6-f8ae-4bc6-9280-1d27d5d7b971"
+Template: "85256177-2a1f-4c0a-aa9a-5be6fe1a6a5e"
+Path: "/sitecore/content/gulfair-app-sa/Data/Board Member Tile Folder/Executive Management/Executive Member Tile Parent/CEO"
+SharedFields:
+- ID: "2f096e0d-0b0d-4325-ae6c-935b0e3c36a0"
+  Hint: Image
+  Value: |
+    <image width="360" height="360" alt="ExecutiveManagementCEO.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/100abd88135f457b9c7702873709b628?v=b23f6d5a" stylelabs-content-id="41225" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41225/thumbnail" />
+- ID: "5c14700c-7ddf-422d-b966-89284344d659"
+  Hint: MobileImage
+  Value: |
+    <image width="323" height="240" alt="ExecutiveManagementCEOMobile.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/fe6f9754bfa94769b32df7fdbf971b1c?v=6fbeba10" stylelabs-content-id="41224" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41224/thumbnail" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T112821Z
+    - ID: "4f6e4313-acdf-4bda-aeec-fffa89d10d3b"
+      Hint: Description
+      Value: "<p>Bahraini Captain Waleed Abdulhameed Al Alawi joined Gulf Air as the Deputy CEO in 2017 bringing with him over thirty-seven years of experience in various aviation related positions. In addition to his extensive flying qualifications, Captain Waleed Abdulhameed Al Alawi holds an MBA in Aviation Management from City University of London.</p>"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "6a9d6310-c758-4f5e-abb8-5c6057f03094"
+      Hint: Title
+      Value: Captain Waleed Abdulhameed Al Alawi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d392e4d9-e0a0-42c5-9a47-498a12797c9d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bdae5df6-d478-45c2-a785-e667936246d8"
+      Hint: ModalDescription
+      Value: "<p>Bahraini Captain Waleed Abdulhameed Al Alawi joined Gulf Air as the Deputy CEO in 2017 bringing with him over thirty-seven years of experience in various aviation related positions. In addition to his extensive flying qualifications, Captain Waleed Abdulhameed Al Alawi holds an MBA in Aviation Management from City University of London.</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000049Z
+    - ID: "f7eda7a2-1552-402f-9d58-18b1c414877f"
+      Hint: SubText
+      Value: Chief Executive Officer
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T112821Z
+    - ID: "4f6e4313-acdf-4bda-aeec-fffa89d10d3b"
+      Hint: Description
+      Value: "<p>Bahraini Captain Waleed Abdulhameed Al Alawi joined Gulf Air as the Deputy CEO in 2017 bringing with him over thirty-seven years of experience in various aviation related positions. In addition to his extensive flying qualifications, Captain Waleed Abdulhameed Al Alawi holds an MBA in Aviation Management from City University of London.</p>"
+    - ID: "6a9d6310-c758-4f5e-abb8-5c6057f03094"
+      Hint: Title
+      Value: Captain Waleed Abdulhameed Al Alawi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "090d79c7-8cf8-4566-b565-a469a391fc7b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bdae5df6-d478-45c2-a785-e667936246d8"
+      Hint: ModalDescription
+      Value: "<p>Bahraini Captain Waleed Abdulhameed Al Alawi joined Gulf Air as the Deputy CEO in 2017 bringing with him over thirty-seven years of experience in various aviation related positions. In addition to his extensive flying qualifications, Captain Waleed Abdulhameed Al Alawi holds an MBA in Aviation Management from City University of London.</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000049Z
+    - ID: "f7eda7a2-1552-402f-9d58-18b1c414877f"
+      Hint: SubText
+      Value: Chief Executive Officer

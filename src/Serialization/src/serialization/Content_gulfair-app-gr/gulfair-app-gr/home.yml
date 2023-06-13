@@ -1,0 +1,458 @@
+﻿---
+ID: "0ba97645-b394-446f-ae3b-35ca45c1ecd4"
+Parent: "432857f2-0088-4628-bda4-c714d6b7fc23"
+Template: "07f50330-c962-5e98-ae02-814183b76ea0"
+Path: "/sitecore/content/gulfair-app-gr/home"
+SharedFields:
+- ID: "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9"
+  Hint: __Subitems Sorting
+  Value: 
+- ID: "8a28f9ba-4d8e-40b0-aa02-ad860eae34d0"
+  Hint: OpenGraphType
+  Value: Test OpenGraph type
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "d26a428b-8f37-4ae7-bd6c-1126664c4031"
+  Hint: AvailableLanguages
+  Value: |
+    {CD5CB5D8-99FB-4035-8CF6-AA38E676E608}
+    {AE2B1160-AEC8-400B-92BF-E4F2378F29C8}
+    {02F070DE-00A8-4308-B198-7109FADE321B}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{78BCE695-62F3-465D-9ACF-B6E971121264}">
+          <p:d />
+        </r>
+        <r
+          uid="{4FB3D02C-6A30-4680-8216-DF4467A655FC}"
+          p:after="p[@uid='{C5230912-8E1E-5C64-A62F-715DB2F535BF}']"
+          s:ds="{B0A66BEE-84AD-4CD7-AAD7-28B09C497755}"
+          s:id="{70537B94-19D7-42BE-ACD5-DFC8CFD5577E}"
+          s:par=""
+          s:ph="jss-header"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{B147D088-F5E8-4338-AAA8-413DEC4A92E4}">
+          <p:d />
+        </r>
+        <r
+          uid="{52A60935-8991-442A-9E5F-943020CA5338}"
+          p:after="r[@uid='{100FB120-1AE6-4890-BFDA-8F82803D8C38}']"
+          s:ds="{6C227E65-D28F-483C-972A-1C0A807DD03F}"
+          s:id="{51D689E0-21D9-438F-B9D8-BF993B91ADE5}"
+          s:par=""
+          s:ph="/jss-main/jss-ga-form-{9ac9cd4f-d3c4-4d5e-a7e0-01959a41d02f}-0"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{755798DB-58A9-4625-8FD2-C87DEE8250BD}"
+          p:after="r[@uid='{52A60935-8991-442A-9E5F-943020CA5338}']"
+          s:ds=""
+          s:id="{BF795065-4A6A-4243-81CD-C26863DCCBFE}"
+          s:par=""
+          s:ph="/jss-inner-banner/jss-ga-travel-alert-{1C109683-84B0-4D26-B5EA-57A1BD8757A2}-0"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{9967576E-0A46-49EC-8841-7302E2546305}"
+          p:after="r[@uid='{755798DB-58A9-4625-8FD2-C87DEE8250BD}']"
+          s:ds="{C5AA386A-DD70-4729-8AFB-795E5A9858CC}"
+          s:id="{AC4F086B-047C-490C-B585-099CE5498028}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{E01862EE-D575-4CF3-82B8-8C235CD08EBB}"
+          p:after="r[@uid='{9967576E-0A46-49EC-8841-7302E2546305}']"
+          s:ds="{B214E0B2-9FCD-437B-85EC-8F9237716A5F}"
+          s:id="{F8B8637F-25FA-4DE2-86EB-1AF509E97B62}"
+          s:par="BackgroundColor=%7b3F16AFC2-00E8-4FFD-A242-49354F84EF7B%7d&amp;WithMargin=%7b9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7d&amp;CacheClearingBehavior=Clear+on+publish&amp;CTAColor=%7bF4B4A40B-428A-48B8-907D-F1598EBADC7A%7d&amp;CTAType=%7b9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7d"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{3A985C17-E076-4D8A-B8AB-A7B5617D706E}"
+          p:after="r[@uid='{E01862EE-D575-4CF3-82B8-8C235CD08EBB}']"
+          s:ds="{D68F6BF1-78F3-42F6-A729-31C9B8F88586}"
+          s:id="{F6BD1EB0-93FB-4B49-9F22-C27D41072748}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{E68D392C-E154-43EC-8D7E-9060EB33E829}"
+          p:after="r[@uid='{3A985C17-E076-4D8A-B8AB-A7B5617D706E}']"
+          s:ds="{0B985E3F-A92A-49D2-A062-03069B8E80B9}"
+          s:id="{2B1FAC2A-1F12-4F6F-9075-107985A3C17E}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{B083DC96-97DB-4F7A-9B1C-04D650AB8598}"
+          p:after="r[@uid='{E68D392C-E154-43EC-8D7E-9060EB33E829}']"
+          s:ds="{486E2C63-15CB-4F39-B89F-4C42C425883A}"
+          s:id="{3F2269AF-6404-4A58-A97A-A2DB3CC13E2F}"
+          s:par="MainCTAColor=%7B89330C54-4FC1-4573-913A-BC08CCDEBD5B%7D&amp;MainCTAType=%7BB3C4407E-7461-4B34-B944-D581BA981A27%7D&amp;TileCTAOneType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;TileCTAOneColor=%7B55CE5A8D-B17E-4E50-84AA-032A47418992%7D&amp;TileCTATwoType=%7BB3C4407E-7461-4B34-B944-D581BA981A27%7D&amp;TileCTATwoColor=%7BF4B4A40B-428A-48B8-907D-F1598EBADC7A%7D&amp;MainCTAOneColor&amp;MainCTAOneType&amp;MainCTATwoColor=%7B89330C54-4FC1-4573-913A-BC08CCDEBD5B%7D&amp;MainCTATwoType=%7BB3C4407E-7461-4B34-B944-D581BA981A27%7D"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{D6AD5481-4F08-4891-AB8A-40FAD4BDF4D1}"
+          p:after="r[@uid='{B083DC96-97DB-4F7A-9B1C-04D650AB8598}']"
+          s:ds="{04D5357E-E069-4EDE-89A3-8C7B3DC6075C}"
+          s:id="{8DE99D5C-A739-4701-B4A2-60D181B9B255}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{953FDA52-DD7F-4EBE-BD9E-60D3BE07C49E}"
+          p:after="r[@uid='{D6AD5481-4F08-4891-AB8A-40FAD4BDF4D1}']"
+          s:ds="{AE30DFF5-DB22-47E1-902E-334EE97600D4}"
+          s:id="{8220B730-9924-4329-9A79-51C30E10B5C9}"
+          s:par="BackgroundColor=%7b7C4FD76D-3B0F-42EA-A617-03C670A8A379%7d&amp;CTAType1=%7b9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7d&amp;CTAColor1=%7bF64FADCC-6FB4-46AA-A947-751B7BF0A024%7d&amp;CTAType2=%7bB3C4407E-7461-4B34-B944-D581BA981A27%7d&amp;CTAColor2=%7bF64FADCC-6FB4-46AA-A947-751B7BF0A024%7d&amp;CacheClearingBehavior=Clear+on+publish&amp;CTAColor=%7b89330C54-4FC1-4573-913A-BC08CCDEBD5B%7d&amp;CTAType=%7b9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7d"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{CFEF2E02-434C-4FB6-BBF2-286D0130CAA5}"
+          p:after="r[@uid='{953FDA52-DD7F-4EBE-BD9E-60D3BE07C49E}']"
+          s:ds="{A22FC726-081C-409F-BC6C-89653C42451A}"
+          s:id="{1D122DBA-C2EA-4FF4-9E8A-FFB1C92BEA8C}"
+          s:par="BackgroundColor=%7b3F16AFC2-00E8-4FFD-A242-49354F84EF7B%7d&amp;WithMargin=%7b9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7d&amp;CacheClearingBehavior=Clear+on+publish&amp;CTAColor=%7bF4B4A40B-428A-48B8-907D-F1598EBADC7A%7d&amp;CTAType=%7b9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7d"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{4A7A624F-52CE-45C6-B223-40144738A4F0}"
+          p:after="r[@uid='{CFEF2E02-434C-4FB6-BBF2-286D0130CAA5}']"
+          s:ds="{D38F27B2-5CD2-45EA-8A07-C1517673D66D}"
+          s:id="{73527BBC-1FFD-4253-86D9-AEE11AB9E23E}"
+          s:par="CTAType=%7bB3C4407E-7461-4B34-B944-D581BA981A27%7d&amp;CTAColor=%7bF4B4A40B-428A-48B8-907D-F1598EBADC7A%7d&amp;NewsCTAType=%7b8039FA17-22AA-4B5D-BCB8-53CA4809B6BB%7d&amp;NewsCTAColor=%7bF4B4A40B-428A-48B8-907D-F1598EBADC7A%7d&amp;CacheClearingBehavior=Clear+on+publish"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{221CEB8D-0237-4CB2-B14B-09F16A7A2069}"
+          p:after="r[@uid='{4A7A624F-52CE-45C6-B223-40144738A4F0}']"
+          s:ds="{F58B6D3C-9E7E-4B7D-BFD8-C3B09B49D111}"
+          s:id="{9A3517B1-9AA7-4E6E-BCF4-302FD1277940}"
+          s:par="BackgroundColor=%7b7C4FD76D-3B0F-42EA-A617-03C670A8A379%7d&amp;Icon=test-icon&amp;IconPosition=left&amp;CacheClearingBehavior=Clear+on+publish"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{9AC9CD4F-D3C4-4D5E-A7E0-01959A41D02F}"
+          p:after="r[@uid='{221CEB8D-0237-4CB2-B14B-09F16A7A2069}']"
+          s:ds="{320DACB6-80B4-45C7-8D9A-F28994497297}"
+          s:id="{5F2E61BD-3BF6-43CF-B188-2BC4BAD88363}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{D2797398-E247-4338-B6F8-74968B3F8638}"
+          p:after="r[@uid='{9AC9CD4F-D3C4-4D5E-A7E0-01959A41D02F}']"
+          s:ds="{6C227E65-D28F-483C-972A-1C0A807DD03F}"
+          s:id="{51D689E0-21D9-438F-B9D8-BF993B91ADE5}"
+          s:par=""
+          s:ph="/jss-footer/jss-ga-form-{100fb120-1ae6-4890-bfda-8f82803d8c38}-0"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{1C109683-84B0-4D26-B5EA-57A1BD8757A2}"
+          p:after="r[@uid='{D2797398-E247-4338-B6F8-74968B3F8638}']"
+          s:ds="{80690CB6-2670-476E-AE0F-66CEEF14AA14}"
+          s:id="{431496F4-2E93-4A97-92FB-3A7D44CC714C}"
+          s:pt=""
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF4B4A40B-428A-48B8-907D-F1598EBADC7A%7D"
+          s:ph="jss-inner-banner"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{48BC78A2-78BE-49A8-8D75-0837F3A891D7}"
+          s:ph="/jss-header/jss-ga-header-bookingpanel-{4FB3D02C-6A30-4680-8216-DF4467A655FC}-0" />
+        <r
+          uid="{EE4EF20B-4B93-4C2C-8209-601838664617}"
+          p:after="*[1=2]"
+          s:ds="{AF836860-16F2-4492-A8A2-8E0539A9A39D}"
+          s:id="{50DDD230-526D-453C-A9DC-F8BD0937CCAB}"
+          s:par="CacheClearingBehavior=Clear+on+publish&amp;CTAColor=%7bF64FADCC-6FB4-46AA-A947-751B7BF0A024%7d&amp;CTAType=%7b9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7d"
+          s:ph="/jss-inner-banner/jss-ga-bookingpanel-{1C109683-84B0-4D26-B5EA-57A1BD8757A2}-0"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T151343Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: حجز رحلات الطيران إلى وجهاتك المفضلة. قم باختيار الباقة التي تناسب احتياجاتك و مقعدك المفضل و شراء الأمتعة الإضافية على موقعنا
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: طيران الخليج | حجز الرحلات و باقات العطلات و قم بإدارة الحجز
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d751447-eb8c-4411-ad5b-990607a2b871"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: طيران الخليج | حجز الرحلات و باقات العطلات و قم بإدارة الحجز
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: طيران الخليج | حجز الرحلات و باقات العطلات و قم بإدارة الحجز
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T164917Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230103T194805Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Suchen und buchen Sie Flüge zu Ihren Lieblingszielen. Wählen Sie die Tarifmarke, die Ihren Bedürfnissen am besten entspricht, wählen Sie Ihren Sitzplatz und kaufen Sie Übergepäck online
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Gulf Air | Buchen Sie Flüge, Pauschalreisen und verwalten Sie Ihre Buchung
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e02c167-56e3-4276-b863-d285b101a7c5"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Gulf Air | Buchen Sie Flüge, Pauschalreisen und verwalten Sie Ihre Buchung
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Gulf Air | Buchen Sie Flüge, Pauschalreisen und verwalten Sie Ihre Buchung
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T164917Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221215T064116Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Search and book flights to your favorite destinations. Choose the fare brand the best suits your needs, select your seat and buy excess baggage online
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "426e3668-35e2-4eaf-a58d-9f02bf5179de"
+      Hint: TwitterDescription
+      Value: Gulfair. The best Airline 
+    - ID: "521378a5-75f3-4399-a2f6-c904901d56d2"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image width="350" height="350" alt="1280banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/f9cf520803344fa1b8864bd49256d061?v=658b6091" stylelabs-content-id="33008" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/33008/thumbnail" />
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Gulf Air | Book Flights, Holiday Packages and Manage your booking
+    - ID: "8167430c-a175-41dd-ba52-1a6e5ea0f18a"
+      Hint: TwitterTitle
+      Value: Gulfair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a53a78d1-80e0-4d72-ae82-01062791e2a8"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Gulf Air | Book Flights, Holiday Packages and Manage your booking
+    - ID: "9df46aca-441a-48cf-a5d5-e7b8478452f7"
+      Hint: TwitterImage
+      Value: |
+        <image width="350" height="350" alt="1280banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/f9cf520803344fa1b8864bd49256d061?v=053c8203" stylelabs-content-id="33008" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/33008/thumbnail" />
+    - ID: "af522f9b-8382-4201-b440-31784a3c09a6"
+      Hint: OpenGraphTitle
+      Value: Gulfair OpenGraph
+    - ID: "b9df5c0a-3fd4-4632-8ee0-565b821413b2"
+      Hint: OpenGraphDescription
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sayedhusain
+    - ID: "bdd3769b-c37b-4dd5-8ee1-8fee28d6fcd0"
+      Hint: TwitterSite
+      Value: Gulfair.test.com
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Gulf Air | Book Flights, Holiday Packages and Manage your booking
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T165953Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230612T145613Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Search and book flights to your favorite destinations. Choose the fare brand the best suits your needs, select your seat and buy excess baggage online
+    - ID: "426e3668-35e2-4eaf-a58d-9f02bf5179de"
+      Hint: TwitterDescription
+      Value: Gulfair. The best Airline 
+    - ID: "521378a5-75f3-4399-a2f6-c904901d56d2"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image width="350" height="350" alt="1280banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/f9cf520803344fa1b8864bd49256d061?v=658b6091" stylelabs-content-id="33008" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/33008/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ghazijawad
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Gulf Air | Book Flights, Holiday Packages and Manage your booking
+    - ID: "8167430c-a175-41dd-ba52-1a6e5ea0f18a"
+      Hint: TwitterTitle
+      Value: Gulfair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e677e38d-d3a4-4372-b894-6c81eb06b13f"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Gulf Air | Book Flights, Holiday Packages and Manage your booking
+    - ID: "9df46aca-441a-48cf-a5d5-e7b8478452f7"
+      Hint: TwitterImage
+      Value: |
+        <image width="350" height="350" alt="1280banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/f9cf520803344fa1b8864bd49256d061?v=053c8203" stylelabs-content-id="33008" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/33008/thumbnail" />
+    - ID: "af522f9b-8382-4201-b440-31784a3c09a6"
+      Hint: OpenGraphTitle
+      Value: Gulfair OpenGraph
+    - ID: "b9df5c0a-3fd4-4632-8ee0-565b821413b2"
+      Hint: OpenGraphDescription
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "bdd3769b-c37b-4dd5-8ee1-8fee28d6fcd0"
+      Hint: TwitterSite
+      Value: Gulfair.test.com
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Gulf Air | Book Flights, Holiday Packages and Manage your booking
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230612T145613Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230612T145619Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T123542Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Recherchez et réservez des vols vers vos destinations préférées. Choisissez la marque tarifaire qui correspond le mieux à vos besoins, sélectionnez votre siège et achetez en ligne les excédents de bagages
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Gulf Air | Réservez des vols, des forfaits vacances et gérez votre réservation
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f43645f-0705-48b5-841e-dbd7b275340e"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Gulf Air | Réservez des vols, des forfaits vacances et gérez votre réservation
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Gulf Air | Réservez des vols, des forfaits vacances et gérez votre réservation
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T164917Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T181511Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Ищите и бронируйте авиабилеты в ваши любимые направления. Выберите марку тарифа, которая наилучшим образом соответствует вашим потребностям, выберите место и оплатите сверхнормативный багаж онлайн.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Gulf Air | Бронируйте авиабилеты, праздничные пакеты и управляйте бронированием
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b8e67f9-95dd-4dc1-8be8-876f4af2f443"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Gulf Air | Бронируйте авиабилеты, праздничные пакеты и управляйте бронированием
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Gulf Air | Бронируйте авиабилеты, праздничные пакеты и управляйте бронированием
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T164917Z

@@ -1,0 +1,207 @@
+﻿---
+ID: "846d5db3-5fa2-4fa4-839e-7c52d4aaad0b"
+Parent: "caf10c8c-f8da-4e57-9bda-cee5ce5a6932"
+Template: "fd582026-66f8-4395-911a-c3cb6f40634d"
+Path: "/sitecore/content/Global/Global ThingsToDoFolder/bahrain-experience/Things to do in Bahrain/National Museum"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "dbc01cbd-a304-4024-8103-5684cc1d8d37"
+  Hint: Thumbnail
+  Value: |
+    <image width="364" height="400" alt="bahrain-national-museum-external-view.webp" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/99ee985025f8409e8015ff155adefa4b?v=5ef19c40" stylelabs-content-id="48667" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48667/thumbnail" />
+- ID: "ffd0635b-490c-470f-a104-bdf5459a9885"
+  Hint: ImagesList
+  Value: |
+    {B4DD45EE-61E6-4245-8697-44E33EACAC33}
+    {28AA686E-B0FF-4DB7-A2A6-639C5C644F5F}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T213110Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0CC46D4F-89CC-4CE6-A336-926E8DD68E56}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\husain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\husain
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: يعد متحف البحرين الوطني إنجازا متقدما لجهود مملكة البحرين المستمرة للحفاظ على تراث وتاريخ الأمة. وقد بدأت هذه الجهود في عام 1957 عندما تم اكتشاف القطع الأثرية الأولى خلال البعثة الاستكشافية الدنماركية التي أقيمت في هداية الخليفية في المحرق. تم بناء متحف البحرين الوطني في موقع مركزي بين المنامة والمحرق ، ويضم تسعة قاعات رئيسية ويصنف التراث المتراكم لمملكة البحرين في ستة أقسام مختلفة. سيتم أخذ الزوار في رحلة لمدة 4000 سنة مع مرور الوقت لأنها تمر من خلال قاعات المتحف. تشمل أبرز الأشياء التحف الرائعة من قاعة دلمون القديمة في الفترة الإسلامية والمخطوطات الأصلية والحرف اليدوية التقليدية وتلال المدافن والمعارض التي توضح الحياة اليومية في البحرين.
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: متحف البحرين الوطني
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b8fcf24-3bbf-478e-b8fc-bfdd88e8ac4c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230218Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T213221Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0CC46D4F-89CC-4CE6-A336-926E8DD68E56}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\husain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\husain
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: "Das Nationalmuseum von Bahrain ist die Kr&ouml;nung der laufenden Bem&uuml;hungen des K&ouml;nigreichs Bahrain, das Erbe und die Geschichte des Landes zu bewahren. Das an einem zentralen Ort zwischen Manama und Muharraq erbaute Bahrain National Museum beherbergt neun Haupts&auml;le und unterteilt das gesammelte Erbe des K&ouml;nigreichs Bahrain in sechs verschiedene Abschnitte. Beim Gang durch die Museumss&auml;le werden die Besucher auf eine 4.000-j&auml;hrige Zeitreise mitgenommen."
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Nationalmuseum von Bahrain
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ae27c42-6747-4f90-931c-6ef39bc1f603"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230218Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230523T155113Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0CC46D4F-89CC-4CE6-A336-926E8DD68E56}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\maria
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\maria
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: |
+        Visit the National Museum of Bahrain, famous for its unique archaeological artefacts from the tombs of Dilmun (UNESCO World Heritage Site) that have survived the millennia.&nbsp;<br />
+        Thanks to its ideal island location, Bahrain was already a thriving port city over 5,000 years ago. The advanced civilisation of the Dilmun at that time even stretched its trade network as far as China.<br />
+        <div>&nbsp;</div>
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Bahrain National Museum
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "864c6feb-ce1c-4f1a-a5fa-8b450246fabf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230218Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T213448Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0CC46D4F-89CC-4CE6-A336-926E8DD68E56}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\husain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\husain
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: Le Mus&eacute;e national de Bahre&iuml;n est le couronnement des efforts continus du Royaume de Bahre&iuml;n pour pr&eacute;server le patrimoine et l'histoire de la nation. Construit sur un emplacement central entre Manama et Muharraq, le Mus&eacute;e national de Bahre&iuml;n abrite neuf salles principales et classe le patrimoine accumul&eacute; du Royaume de Bahre&iuml;n en six sections diff&eacute;rentes. Les visiteurs feront un voyage de 4 000 ans dans le temps en traversant les salles du mus&eacute;e.
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Musée national de Bahreïn
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a61ab642-636a-4830-bf40-19525359fb62"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230218Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T213538Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0CC46D4F-89CC-4CE6-A336-926E8DD68E56}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\husain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\husain
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: "Национальный музей Бахрейна является венцом постоянных усилий Королевства Бахрейн по сохранению национального наследия и истории. Построенный в центре между Манамой и Мухарраком, Национальный музей Бахрейна состоит из девяти основных залов и делит накопленное наследие Королевства Бахрейн на шесть различных разделов. Посетители отправятся в 4000-летнее путешествие во времени, проходя по залам музея."
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Национальный музей Бахрейна
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec16128d-0fa1-486a-8343-3f14bdd9735a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230218Z

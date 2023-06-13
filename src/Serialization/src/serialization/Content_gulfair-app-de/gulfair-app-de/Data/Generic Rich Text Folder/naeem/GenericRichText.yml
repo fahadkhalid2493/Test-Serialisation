@@ -1,0 +1,56 @@
+﻿---
+ID: "151c48c6-afb0-4e98-a3d4-3fc4baf01e76"
+Parent: "ebf50ef8-ff34-465c-b349-6baa6acc10f2"
+Template: "6fe5d11d-722f-4a7e-9d7d-e8f8a6834737"
+Path: "/sitecore/content/gulfair-app-de/Data/Generic Rich Text Folder/naeem/GenericRichText"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230331T185706Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h1>Heading 1</h1>
+        <h2>Heading 2</h2>
+        <hr />
+        <h3>Heading 3</h3>
+        <h4>Heading 4</h4>
+        <h5>Heading 5</h5>
+        <h6>Heading 6</h6>
+        <h1><strong>Heading 1 BOLD</strong></h1>
+        <h2><strong>Heading 2 BOLD</strong></h2>
+        <hr />
+        <h3><strong>Heading 3 BOLD</strong></h3>
+        <h4><strong>Heading 4 BOLD</strong></h4>
+        <h5><strong>Heading 5 BOLD</strong></h5>
+        <h6><strong>Heading 6 BOLD</strong></h6>
+        <p>Paragraph</p>
+        <p><strong>Paragraph BOLD</strong></p>
+        <p class="text-md">Paragraph with class="text-md"</p>
+        <p class="text-md"><strong>Paragraph BOLD with class="text-md"</strong></p>
+        <p class="text-xl">Paragraph with class="text-xl"</p>
+        <p class="text-xl"><strong>Paragraph BOLD with class="text-xl"</strong></p>
+        <span>Span</span>
+        <span><strong>Span BOLD</strong></span>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d77ad322-aa80-4b5d-a16f-005dd8d0686e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230331T191430Z

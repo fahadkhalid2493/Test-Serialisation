@@ -1,0 +1,253 @@
+﻿---
+ID: "d221b22e-8e98-43e9-963f-ee3928dd3179"
+Parent: "173e8908-7c58-4bad-ab17-6621fb5a559f"
+Template: "183e3d21-b170-43ab-ab6f-5a2cf0ed9d3e"
+Path: "/sitecore/content/Global/Global CTA Banner Folder/In-Flight Entertainment/Gulf Air Cabin Experience"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Gulf Air Cabin Experience
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: الراحة والرفاهية في الطيران السماء
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T141247Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="975" height="471" alt="luxury-and-comfort-in-the-sky.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/53e6a63e3de74f3496c083d2baed3c8a?v=32e88911" stylelabs-content-id="47896" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/47896/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b35e77c-9bcd-4793-9edf-0fa8e9a2ac56"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225859Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: |
+        <p>سافر بأناقة مع وسائل الراحة الاستثنائية في المقصورة من طيران الخليج. مقاعدنا الواسعة وخيارات تناول الطعام اللذيذة ووسائل الترفيه على متن الطائرة ستجعل رحلتك مريحة وممتعة.</p>
+        <p>اكتشف تجربة المقصورة على موقعنا الإلكتروني واحجز رحلتك القادمة مع طيران الخليج اليوم.</p>
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Gulf Air Cabin Experience
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: Luxus und Komfort am Himmel
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" target="" text="Learn more" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T141247Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="975" height="471" alt="luxury-and-comfort-in-the-sky.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/53e6a63e3de74f3496c083d2baed3c8a?v=b4638c5b" stylelabs-content-id="47896" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/47896/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5dfed0ff-3a4a-4407-b278-60d091d58a5c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225859Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: |
+        <p>Fliegen Sie mit Stil mit den au&szlig;ergew&ouml;hnlichen Kabinenausstattung von Gulf Air. Unsere ger&auml;umigen Sitzgelegenheiten, k&ouml;stliche Essm&ouml;glichkeiten und Unterhaltungsm&ouml;glichkeiten bei der Flucht machen Ihre Reise bequem und angenehm.</p>
+        <p>Entdecken Sie unsere Kabinenerfahrung auf unserer Website und buchen Sie noch heute Ihren n&auml;chsten Flug mit Gulf Air.</p>
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Gulf Air Cabin Experience
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: Luxury and Comfort in the Sky
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T141247Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="975" height="471" alt="luxury-and-comfort-in-the-sky.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/53e6a63e3de74f3496c083d2baed3c8a?v=a8773551" stylelabs-content-id="47896" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/47896/thumbnail" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0dc2c7d0-60ba-450c-bf13-17f5f811968c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225859Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: |
+        <p>Fly in style with Gulf Air's exceptional cabin amenities. Our spacious seating, delectable dining options, and in-flight entertainment will make your journey comfortable and enjoyable.</p>
+        <p>Discover our cabin experience on our website and book your next flight with Gulf Air today.</p>
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Gulf Air Cabin Experience
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: Luxe et confort dans le ciel
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T141247Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="975" height="471" alt="luxury-and-comfort-in-the-sky.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/53e6a63e3de74f3496c083d2baed3c8a?v=81b48154" stylelabs-content-id="47896" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/47896/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9923aea-663c-41f6-bacf-c30a299c783a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225859Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: |
+        <p>Volez avec style avec les &eacute;quipements de cabine exceptionnels de Gulf Air. Nos si&egrave;ges spacieux, nos d&eacute;licieuses options de restauration et nos divertissements en vol rendront votre voyage confortable et agr&eacute;able.</p>
+        <p>D&eacute;couvrez notre exp&eacute;rience de cabine sur notre site Web et r&eacute;servez votre prochain vol avec Gulf Air aujourd'hui.</p>
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Gulf Air Cabin Experience
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d6ac38a-babd-4946-8441-ecf9bb070f2f"
+      Hint: Heading
+      Value: Роскошь и комфорт в небе
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "22bb6175-de26-413c-8dad-d2ec60c95d23"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" target="" text="Learn more" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T141247Z
+    - ID: "26bc4e07-e42a-4c3d-bbce-bc4707df7e76"
+      Hint: MobileImage
+      Value: |
+        <image width="975" height="471" alt="luxury-and-comfort-in-the-sky.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/53e6a63e3de74f3496c083d2baed3c8a?v=c237d6c3" stylelabs-content-id="47896" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/47896/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9c109cc-0be5-44d1-8c4e-ce56a4eec50a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225859Z
+    - ID: "f2d3c29c-a03b-4350-acc1-f2082d268cb7"
+      Hint: SubText
+      Value: |
+        <p>Летать в стиле с исключительными удобствами кабины Gulf Air. Наши просторные места, восхитительные рестораны и развлечения в полете сделают ваше путешествие удобным и приятным.</p>
+        <p>Откройте для себя наш опыт в салоне на нашем веб -сайте и забронируйте свой следующий рейс с Gulf Air сегодня.</p>

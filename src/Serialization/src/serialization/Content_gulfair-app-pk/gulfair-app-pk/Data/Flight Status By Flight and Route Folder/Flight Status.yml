@@ -1,0 +1,41 @@
+﻿---
+ID: "f11582e6-f54d-4756-b342-29f3fce443f9"
+Parent: "94c4663d-58d7-4ae0-b61e-699f5931df37"
+Template: "7ea6a558-d163-4b02-b290-83cdaf8ec29d"
+Path: "/sitecore/content/gulfair-app-pk/Data/Flight Status By Flight and Route Folder/Flight Status"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230316T072837Z
+    - ID: "301e2022-cf91-45a9-a266-656e6db60c23"
+      Hint: Title
+      Value: Check Your Flight Status
+    - ID: "6505a57d-a5f3-4f97-b522-996233133ada"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "68b44d6e-8db9-42fc-a7d7-1a117964d04f"
+      Hint: SectionHeading
+      Value: Stay Updated
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a24b7bd-8fa0-405f-8a76-c842bec605b4"
+    - ID: "b084e566-64b0-4d7e-a01d-1b73f6f09d02"
+      Hint: Note
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "b5025816-3877-4dd6-aff5-b16413586095"
+      Hint: SectionSubText
+      Value: Get flight updates sent directly to your phone or inbox
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230511T104032Z
+    - ID: "ff7ed842-135c-43a9-b6c9-59d488ae36fc"
+      Hint: URL
+      Value: "https://ttracker.flightview.com/FVWebContent/?v=2.0&tag=/CustomerSetup/GulfAir/Custom"

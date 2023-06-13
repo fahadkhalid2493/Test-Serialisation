@@ -1,0 +1,427 @@
+﻿---
+ID: "19eaffa5-f18f-435d-88c7-fb3b41664398"
+Parent: "a9fb19cf-84c5-4af0-ae79-4824e269c3d4"
+Template: "736ac33e-e829-4dd1-9cc1-665d00630c3e"
+Path: /sitecore/content/Global/Global Plane Specs Slider Folder/Plane Specs Slider Parent/Airbus A321neo
+SharedFields:
+- ID: "0222c215-f05a-4cdb-8ab7-c6e792b30668"
+  Hint: CTABannerImageMobile
+  Value: |
+    <image width="305" height="214" alt="promo-mobile-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/817fee2b8a7146f7b38e3ad02f68284d?v=97c6b820" stylelabs-content-id="43989" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/43989/thumbnail" />
+- ID: "828fe380-0548-4b9f-be2f-a44edec31d4a"
+  Hint: AirPlaneImageMobile
+  Value: |
+    <image width="932" height="288" alt="A321-neo.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/58c775f0ff87467292c42311f32c7c67?v=7e2eafd7" stylelabs-content-id="48363" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48363/thumbnail" />
+- ID: "b0ff799c-58b1-45fa-be79-11f44b0c5a87"
+  Hint: AirPlaneImage
+  Value: |
+    <image width="932" height="288" alt="A321-neo.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/58c775f0ff87467292c42311f32c7c67?v=186411d9" stylelabs-content-id="48363" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48363/thumbnail" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "db0060d8-9160-4037-a332-c952b272e647"
+  Hint: CTABannerImage
+  Value: |
+    <image width="716" height="250" alt="promo-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/e11a81a0f96640d2ae5838ed2b296d6f?v=167c580d" stylelabs-content-id="43991" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/43991/thumbnail" />
+- ID: "f21e85fb-68be-464c-a9d3-bb2b36984424"
+  Hint: SeatingImage
+  Value: |
+    <image width="1700" height="453" alt="LOPA a321neo" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/LOPA-A321neo?v=08820b6a" stylelabs-content-id="58696" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/58696/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: مقصورة الصقر الذهبي
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: تجربة المقصورة
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>عدد المقاعد</strong></p>
+        <ul>
+            <li>16</li>
+        </ul>
+        <p><strong>مساحة المقعد</strong></p>
+        <ul>
+            <li>63&rdquo;</li>
+        </ul>
+        <p><strong>الميزات والخدمات</strong></p>
+        <ul>
+            <li>مقعد سرير مسطح</li>
+            <li>شاشة ترفيه مقاس 17 بوصة مع جهاز تحكم بشاشة لمس</li>
+            <li>شاشة خصوصية</li>
+            <li>مسند رأس سداسي الاتجاه قابل للضبط</li>
+            <li>خدمة ترتيب وتجهيز المقعد للرحلات الطويلة (عند الطلب)</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: مقصورة الدرجة الاقتصادية
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>عدد المقاعد</strong></p>
+        <ul>
+            <li>150</li>
+        </ul>
+        <p><strong>مساحة المقعد</strong></p>
+        <ul>
+            <li>31-32&rdquo;</li>
+        </ul>
+        <p><strong>الميزات والخدمات</strong></p>
+        <ul>
+            <li>إمالة للمقعد لمسافة 5-6 بوصات</li>
+            <li>شاشة ترفيه مقاس 11.6 بوصة مع جهاز تحكم بشاشة لمس</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>إيرباص إيه321 نيو</h4>
+        <p>توفر طائرة طيران الخليج الفاخرة إيرباص A321neo أقصى درجات الراحة والراحة. توفر مقاعد&nbsp; الصقرالذهبي المسطحة أعلى مستويات الراحة، مما يسمح للركاب بالاسترخاء والاستمتاع برحلتهم. مع مساحة الساقين السخية، ومسند الرأس القابل للتعديل والدعم القطني لاسفل الظهر ، وأوضاع الاستلقاء المتعددة، يوفر المقعد مستويات لا تصدق من الراحة والدعم. يمكنك أيضًا الاستمتاع بأحدث الميزات التكنولوجية، بما في ذلك الشاشات المدمجة مع الوصول إلى مجموعة مختارة من الأفلام والألعاب والموسيقى، بالإضافة إلى منفذ USB لشحن جهازك والوصول إلى المحتوى الصوتي. سواء كنت مسافرًا للعمل أو المتعة، فمن المؤكد أنك ستكون راضٍ عن وسائل الراحة في طيران الخليج A321neo. لذا احجز تذكرتك الآن، واستمتع بأفضل ما في السفر الجوي.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ea59d853-6c24-43a2-967d-912f84234870"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: إيرباص إيه321 نيو
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="تفاصيل  اكثر" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230215Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: Falcon Gold Cabin
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Kabinenerfahrung
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>Anzahl Sitzpl&auml;tze</strong></p>
+        <ul>
+            <li>16</li>
+        </ul>
+        <p><strong>Sitzplatz</strong></p>
+        <ul>
+            <li>63&rdquo;</li>
+        </ul>
+        <p><strong>Funktionen und Dienste</strong></p>
+        <ul>
+            <li>Flachbettsitze</li>
+            <li>17-Zoll-Unterhaltungsbildschirm mit Touchscreen-Controller</li>
+            <li>Sichtblende</li>
+            <li>6-fach verstellbare Kopfst&uuml;tze</li>
+            <li>Wohlf&uuml;hlservice f&uuml;r &Uuml;bernachtfl&uuml;ge (auf Anfrage</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: Wirtschaftskabine
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>Anzahl Sitzpl&auml;tze</strong></p>
+        <ul>
+            <li>150</li>
+        </ul>
+        <p><strong>Sitzplatz</strong></p>
+        <ul>
+            <li>31-32&rdquo;</li>
+        </ul>
+        <p><strong>Funktionen und Dienste</strong></p>
+        <ul>
+            <li>12,7 bis 15,2 cm Neigung der R&uuml;ckenlehne</li>
+            <li>11,6-Zoll-Unterhaltungsbildschirm mit Touchscreen-Controller</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>Airbus A321neo</h4>
+        <p>Der luxuri&ouml;se Golf Airbus A321neo bietet den ultimativen Komfort und Bequemlichkeit. Die Falcon -Gold -Pritschensitze bieten den h&ouml;chsten Komfort und Bequemlichkeitsgrad und erm&ouml;glichen es den Passagieren, sich zu entspannen und ihren Flug zu genie&szlig;en. Mit seiner gro&szlig;z&uuml;gigen Beinfreiheit, der verstellbaren Kopfst&uuml;tze und der Lendenwirbels&auml;ule sowie mehreren R&uuml;ckenpositionen bietet der Sitz ein unglaubliches Ma&szlig; an Komfort und Unterst&uuml;tzung. Sie k&ouml;nnen auch die neuesten technologischen Funktionen genie&szlig;en, einschlie&szlig;lich integrierter Bildschirme mit Zugriff auf eine Auswahl an Filmen, Spielen und Musik sowie einen USB-Anschluss zum Laden Ihres Ger&auml;ts und zum Zugriff auf Audioinhalte. Egal, ob Sie f&uuml;r Gesch&auml;ft oder Vergn&uuml;gen reisen, Sie werden sicher mit dem Komfort, Bequemlichkeit und Annehmlichkeiten der Golf Air A321neo zufrieden sind. Buchen Sie jetzt Ihr Ticket und genie&szlig;en Sie das ultimative Flugreisen.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1da246ef-9267-44fa-83e9-419d32d8e2de"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: Airbus A321neo
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="Erfahren Sie mehr" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230215Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: Falcon Gold Cabin
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Cabin experience
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>Number of Seats</strong></p>
+        <ul>
+            <li>16</li>
+        </ul>
+        <p><strong>Seat Pitch</strong></p>
+        <ul>
+            <li>63&rdquo;</li>
+        </ul>
+        <p><strong>Features &amp; Services</strong></p>
+        <ul>
+            <li>Flatbed seat</li>
+            <li>17&rdquo; entertainment screen with a touchscreen controller</li>
+            <li>Privacy screen</li>
+            <li>6-way adjustable headrest</li>
+            <li>Turndown services for overnight flights (upon request)</li>
+        </ul>
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: Economy Cabin
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>Number of Seats</strong></p>
+        <ul>
+            <li>150</li>
+        </ul>
+        <p><strong>Seat Pitch</strong></p>
+        <ul>
+            <li>31-32&rdquo;</li>
+        </ul>
+        <p><strong>Features &amp; Services</strong></p>
+        <ul>
+            <li>5-6&rdquo; seat recline</li>
+            <li>11.6&rdquo; entertainment screen with a touchscreen controller</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>Airbus A321neo</h4>
+        <p>The luxurious Gulf Air Airbus A321neo provides the ultimate in comfort and convenience. The Falcon Gold flatbed seats provide the highest levels of comfort and convenience, allowing passengers to relax and enjoy their flight. With its generous legroom, adjustable headrest and lumbar support, and multiple recline positions, the seat provides incredible levels of comfort and support. You can also enjoy the latest in technology features, including built-in screens with access to a selection of movies, games, and music, as well as a USB port to charge your device and access audio content. Whether you're travelling for business or pleasure, you're sure to be satisfied with the comfort, convenience, and amenities of the Gulf Air A321neo. So book your ticket now, and enjoy the ultimate in air travel.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0fb780a-0823-4b07-839c-45d6b25dd0d9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: Airbus A321neo
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="Learn more" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T124331Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: Cabine en or Falcon
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Expérience de cabine
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>Nombre de places</strong></p>
+        <ul>
+            <li>16</li>
+        </ul>
+        <p><strong>Tangage de si&egrave;ge</strong></p>
+        <ul>
+            <li>63&rdquo;</li>
+        </ul>
+        <p><strong>Fonctionnalit&eacute;s et services</strong></p>
+        <ul>
+            <li>Si&egrave;ge-lit inclinable</li>
+            <li>&Eacute;cran de divertissement de 17" avec commande tactile</li>
+            <li>Paravent</li>
+            <li>Appui-t&ecirc;te r&eacute;glable sur 6 positions</li>
+            <li>Service de pr&eacute;paration pour la nuit pour des vols de nuit (sur demande)</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: Cabine économique
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>Nombre de places</strong></p>
+        <ul>
+            <li>150</li>
+        </ul>
+        <p><strong>Tangage de si&egrave;ge</strong></p>
+        <ul>
+            <li>31-32&rdquo;</li>
+        </ul>
+        <p><strong>Fonctionnalit&eacute;s et services</strong></p>
+        <ul>
+            <li>Inclinaison du si&egrave;ge de 12-15&deg;</li>
+            <li>&Eacute;cran de divertissement de 11,6" avec commande tactile</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>Airbus A321neo</h4>
+        <p>Le luxueux Airbus A321neo de Gulf Air offre le nec plus ultra en mati&egrave;re de confort et de commodit&eacute;. Les si&egrave;ges &agrave; plat Falcon Gold offrent les plus hauts niveaux de confort et de commodit&eacute;, permettant aux passagers de se d&eacute;tendre et de profiter de leur vol. Avec son espace g&eacute;n&eacute;reux pour les jambes, son appui-t&ecirc;te et son soutien lombaire r&eacute;glables et ses multiples positions d'inclinaison, le si&egrave;ge offre des niveaux incroyables de confort et de soutien. Vous pouvez &eacute;galement profiter des derni&egrave;res fonctionnalit&eacute;s technologiques, notamment des &eacute;crans int&eacute;gr&eacute;s avec acc&egrave;s &agrave; une s&eacute;lection de films, de jeux et de musique, ainsi qu'un port USB pour charger votre appareil et acc&eacute;der au contenu audio. Que vous voyagiez pour affaires ou pour le plaisir, vous serez assur&eacute;ment satisfait du confort, de la commodit&eacute; et des commodit&eacute;s de l'A321neo de Gulf Air. Alors r&eacute;servez votre billet maintenant et profitez du nec plus ultra en mati&egrave;re de voyage a&eacute;rien.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc244ddd-d1b2-4597-82e2-9ed62b481ee3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: Airbus A321neo
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="Apprendre encore plus" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230215Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: Сокол Золотой Хижина
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Опыт кабины
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>Количество мест</strong></p>
+        <ul>
+            <li>16</li>
+        </ul>
+        <p><strong>Сиденья</strong></p>
+        <ul>
+            <li>63&rdquo;</li>
+        </ul>
+        <p><strong>Функции и услуги</strong></p>
+        <ul>
+            <li>Горизонтальное сиденье с плоской кроватью</li>
+            <li>17-дюймовый экран для развлечений с сенсорным контроллером</li>
+            <li>Экран конфиденциальности</li>
+            <li>Подголовник, регулируемый на 6 позиций</li>
+            <li>Подготовка постели ко сну для ночных рейсов (по запросу)</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: Экономическая каюта
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>Количество мест</strong></p>
+        <ul>
+            <li>150</li>
+        </ul>
+        <p><strong>Сиденья</strong></p>
+        <ul>
+            <li>31-32&rdquo;</li>
+        </ul>
+        <p><strong>Функции и услуги</strong></p>
+        <ul>
+            <li>5-6-дюймовое откидное сиденье</li>
+            <li>11,6-дюймовый экран для развлечений с сенсорным контроллером</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: |
+        <h4>Airbus A321neo</h4>
+        <p>Роскошный&nbsp; &nbsp;Airbus A321NEO обеспечивает максимальный комфорт и удобство. Формированные сиденья Falcon Gold обеспечивают самые высокие уровни комфорта и удобства, что позволяет пассажирам расслабиться и наслаждаться своим полет. Благодаря щедрому состоянию для ног, регулируемой подголовной и поясничной поддержке и множественными положениями откидника сиденье обеспечивает невероятные уровни комфорта и поддержки. Вы также можете насладиться новейшими технологическими функциями, в том числе встроенные экраны с доступом к выбору фильмов, игр и музыки, а также порт USB для зарядки вашего устройства и доступа к аудио контенту. Независимо от того, путешествуете ли вы для бизнеса или удовольствия, вы обязательно будете удовлетворены комфортом, удобством и удобствами Gulf Air A321NEO. Так что забронируйте свой билет сейчас и наслаждайтесь окончательным в авиаперелетах.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c827423-39c7-4548-ad43-84762b7c40d7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: Airbus A321neo
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="Узнать больше" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230215Z

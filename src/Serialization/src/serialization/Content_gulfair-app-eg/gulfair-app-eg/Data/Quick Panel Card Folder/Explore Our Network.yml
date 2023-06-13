@@ -1,0 +1,165 @@
+﻿---
+ID: "7c1bfac3-807e-4902-a927-f59133a112ca"
+Parent: "8638e71a-2815-4253-9e52-92bf90ba2b9d"
+Template: "47ed2d01-5223-4099-b239-215c95403756"
+Path: "/sitecore/content/gulfair-app-eg/Data/Quick Panel Card Folder/Explore Our Network"
+SharedFields:
+- ID: "097c5cd0-4515-43d8-aa57-e5c5ce63a6c1"
+  Hint: LastNameField
+  Value: "{D9C3373B-7138-449E-BABA-3CCF0D66FDC7}"
+- ID: "49b36590-ddd7-4be0-81b0-56ecc625b024"
+  Hint: BookingReferenceField
+  Value: "{27F07553-5103-4663-B266-17F0274093A1}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230206T145644Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "6501e363-ba99-4c31-b6b7-892cf97e358c"
+      Hint: Heading
+      Value: Explore Our Network
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2aee9130-42d7-459a-803d-6b498e8b3edb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\uzair
+    - ID: "d39f8563-355d-413f-bedb-a935817da71d"
+      Hint: Deeplink
+      Value: |
+        <link text="Submit" linktype="external" url="https://consumer.stage.plusgrade.com/offer/vb1u9p5rGF/pnr" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230206T145748Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230206T115545Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "6501e363-ba99-4c31-b6b7-892cf97e358c"
+      Hint: Heading
+      Value: Explore Our Network
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "308fcf3d-5511-4e3d-8875-9243e364f4f1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d39f8563-355d-413f-bedb-a935817da71d"
+      Hint: Deeplink
+      Value: |
+        <link text="Submit" linktype="external" url="https://consumer.stage.plusgrade.com/offer/vb1u9p5rGF/pnr" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120909Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230206T115545Z
+    - ID: "6501e363-ba99-4c31-b6b7-892cf97e358c"
+      Hint: Heading
+      Value: Explore Our Network
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e48c273-e54d-473d-896c-bc2283bd4b4f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d39f8563-355d-413f-bedb-a935817da71d"
+      Hint: Deeplink
+      Value: |
+        <link text="Submit" linktype="external" url="https://consumer.stage.plusgrade.com/offer/vb1u9p5rGF/pnr" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230208T072517Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230206T115545Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "6501e363-ba99-4c31-b6b7-892cf97e358c"
+      Hint: Heading
+      Value: Explore Our Network
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4fc9aae-ba24-460d-984f-1e414863eae4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d39f8563-355d-413f-bedb-a935817da71d"
+      Hint: Deeplink
+      Value: |
+        <link text="Submit" linktype="external" url="https://consumer.stage.plusgrade.com/offer/vb1u9p5rGF/pnr" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T121206Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230206T115545Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "6501e363-ba99-4c31-b6b7-892cf97e358c"
+      Hint: Heading
+      Value: Explore Our Network
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "80e2847f-ff13-4005-a08c-81a5f367c552"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d39f8563-355d-413f-bedb-a935817da71d"
+      Hint: Deeplink
+      Value: |
+        <link text="Submit" linktype="external" url="https://consumer.stage.plusgrade.com/offer/vb1u9p5rGF/pnr" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T121602Z

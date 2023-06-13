@@ -1,0 +1,460 @@
+﻿---
+ID: "dead91a1-0106-4917-afa8-fda028e99b00"
+Parent: "d61b22a0-6a5c-4b5f-b5a4-a81f8da5a410"
+Template: "f2695307-b5c9-4960-ac05-33fe710e032a"
+Path: "/sitecore/content/Global/Global Frequently Asked Questions Folder/Baggage/Baggage - Parent/Online Payment And Refund"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T173930Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "592933e6-af4f-4a53-a2c0-1db63dcbda6c"
+    - ID: "9db57e03-2068-4fae-8676-d97ec7d6dd32"
+      Hint: Heading
+      Value: الدفع الالكتروني و الاسترداد
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T180427Z
+    - ID: "f8e1179b-050a-4ac2-95d9-5627803a19ae"
+      Hint: Description
+      Value: |
+        <ul>
+            <li>كيف يمكنني دفع ثمن تذكرتي ؟<br />
+            <br />
+            يمكن شراء التذاكر على gulfair.com أو تطبيق جوال طيران الخليج. يمكن الدفع باستخدام بطاقة ائتمان أو خصم صالحة. الدفع ببطاقة الخصم ينطبق فقط على البطاقات المصرفية الصادرة من البحرين مع شعاري GCCNET و Benefit. يتم قبول بطاقات الائتمان الدولية الرئيسية.</li>
+            <li>ما هي بطاقات الائتمان أو الخصم التي يمكنني استخدامها للحجز عبر الإنترنت ؟<br />
+            <br />
+            يتم قبول American Express و Diners Club و MasterCard و Visa و Visa Electron و UATP على gulfair.com وتطبيق الهاتف المحمول Gulf Air.<br />
+            لا ينطبق دفع بطاقة الخصم إلا على البطاقات المصرفية الصادرة من البحرين والتي تحمل شعار GCCNET و Benefit.</li>
+            <li>هل من الآمن استخدام بطاقتي الائتمانية عندما أقوم بالدفع عبر الإنترنت ؟<br />
+            <br />
+            جميع المدفوعات التي يتم دفعها من خلال gulfair.com آمنة باستخدام تشفير نظام أمان مقبول دوليًا (SLL). وتستخدم طيران الخليج أيضًا الأمن الرقمي عن طريق Entrust، مع المعاملات التي تم التحقق منها بواسطة Visa و Master Secure Code (3-D Secure) لمنع المعالجة غير المصرح بها وغير القانونية للبيانات الشخصية. بوابة الدفع على gulfair.com متوافقة أيضًا مع PCI DSS.</li>
+            <li>لماذا أعيد توجيهي إلى موقع ويب آخر عند دفع ثمن تذكرتي عبر الإنترنت ؟<br />
+            <br />
+            تتطلب جميع المعاملات على gulfair.com التحقق من صحة بطاقة الائتمان عن طريق إدخال رقم التعريف الشخصي الخاص بك. تتم عملية المصادقة على صفحة متصفح مختلفة يوفرها البنك الذي تتعامل معه لمزيد من الأمان. بمجرد التحقق من صحة البطاقة، سيتم إعادتك تلقائيًا إلى gulfair.com وتلقي تأكيد الشراء وخط سير الرحلة.</li>
+            <li>لماذا تم رفض بطاقتي الائتمانية ؟<br />
+            <br />
+            تعني معاملة بطاقة الائتمان المرفوضة أن شيئًا ما حدث خطأ ولا يمكن إكمال الشراء أثناء عملية الدفع. هناك عدة أسباب، بما في ذلك عدم كفاية الأموال، أو المعلومات المدخلة بشكل غير صحيح، أو النشاط غير العادي.<br />
+            لمواصلة الحجز، استخدم بطاقة مختلفة أو اتصل بمصدر بطاقتك. يمكنك إرسال تفاصيلك هنا لمزيد من المساعدة في الحجز.</li>
+            <li>أي رسوم خدمة أو أي رسوم بطاقة ائتمان للحجوزات عبر الإنترنت ؟<br />
+            <br />
+            لا يتم تطبيق رسوم إضافية على الحجزعبر الإنترنت</li>
+            <li>نقرت على زر &laquo;الكتاب الآن&raquo; ولم يحدث شيء. هل تم تأكيد رحلتي ؟<br />
+            <br />
+            إذا كنت تعتقد أن المعاملة قد تمت ولكن الاتصال معطل ولم تحصل على بريد إلكتروني تأكيد، فيرجى إرسال التفاصيل هنا وسنزودك بتفاصيل الحجز الخاصة بك. يرجى التأكد من تزويدنا بتفاصيل كافية لتخصيص حجزك.</li>
+            <li>لماذا الحجز من خلال مركز الاتصال العالمي أغلى من gulfair.com?<br />
+            <br />
+            يتم تطبيق رسوم خدمة قدرها 10 دنانير بحرينية (أو ما يعادلها في التيار المختار) لكل تذكرة على جميع الحجوزات الصادرة عن مركز الاتصال العالمي لدينا. لا توجد رسوم خدمة عند الحجز gulfair.com.</li>
+            <li>هل يجب أن أدفع ثمن تذكرتي في نفس الوقت الذي أحجزها فيه ؟<br />
+            <br />
+            يمكنك حجز تذكرتك لفترة قصيرة، وقت ؛ ومع ذلك، يجب الدفع في غضون 24 ساعة من وقت الحجز من خلال بوابة Manage My Booking. تنطبق هذه الخدمة فقط على تذاكر Economy Smart و Economy Flex و Falcon Gold Flex و Economy Flex للرحلات التي تغادر بعد 7 أيام من تاريخ الحجز. السعر غير مضمون حتى يتم الانتهاء من الدفع.</li>
+            <li>لقد تم تحصيل رسوم على رحلة ولكني لم أتلق أي تذكرة. لماذا ؟<br />
+            <br />
+            يرجى إرسال تفاصيلك هنا وسنزودك بتفاصيل الحجز الخاصة بك. يرجى التأكد من تزويدنا بتفاصيل كافية مثل الاسم الأول للراكب والاسم الأخير وتفاصيل الرحلة وآخر 4 أرقام من بطاقة الائتمان لتخصيص حجزك.</li>
+            <li>أين يمكنني الحصول على فاتورة لتذاكري المحجوزة ؟<br />
+            <br />
+            البريد الإلكتروني الذي تتلقاه منا وقت الحجز هو فاتورة.</li>
+            <li>كيف يمكنني تلقي بريد إلكتروني مكرر للتأكيد ؟<br />
+            <br />
+            قم بزيارة بوابة Manage My Booking على gulfair.com لطباعة أو مشاركة تفاصيل مسار الرحلة الخاصة بك.</li>
+        </ul>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T173930Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a363ed35-7ee7-4684-aa12-3d5230ddfbc8"
+    - ID: "9db57e03-2068-4fae-8676-d97ec7d6dd32"
+      Hint: Heading
+      Value: "Online -Zahlung und Rückerstattung"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T122744Z
+    - ID: "f8e1179b-050a-4ac2-95d9-5627803a19ae"
+      Hint: Description
+      Value: |
+        <ul>
+            <li style="margin: 10px 0;">Wie kann ich mein Ticket bezahlen? <br />
+            <br />
+            Tickets k&ouml;nnen auf Gulfair.com oder der Gulf Air Mobile App gekauft werden. Die Zahlung kann unter Verwendung einer g&uuml;ltigen Kredit- oder Debitkarte erfolgen. Die Zahlung per Debitkarte gilt nur f&uuml;r Bahrain-ausgestellte Bankkarten mit den GCCNET- und Benefit-Logos. Internationale wichtige internationale Kreditkarten werden akzeptiert.</li>
+            <li style="margin: 10px 0;">Welche Kredit- oder Debitkarten kann ich verwenden, um online zu buchen?<br />
+            <br />
+            American Express, Diners Club, MasterCard, Visa, Visa Electron und UATP werden auf Gulfair.com und der Gulf Air Mobile App akzeptiert.
+            Die Debitkartenzahlung gilt nur f&uuml;r Bahrain-ausgestellte Bankkarten mit dem GCCNET- und Benefit-Logo.</li>
+            <li style="margin: 10px 0;">Ist es sicher, meine Kreditkarte zu verwenden, wenn ich eine Online -Zahlung mache? <br />
+            <br />
+            Alle &uuml;ber Gulfair.com geleisteten Zahlungen sind mit einer international anerkannten Verschl&uuml;sselung des Sicherheitssystems (SLL) sicher. Und Gulf Air nutzt auch die digitale Sicherheit nachvertrauen, wobei Transaktionen durch Visa und Master Secure Code (3-D Secure) &uuml;berpr&uuml;ft werden, um nicht autorisierte und rechtswidrige Verarbeitung personenbezogener Daten zu verhindern. Das Zahlungsgateway auf gulfair.com ist auch PCI DSS -konform.</li>
+            <li style="margin: 10px 0;">Warum werde ich auf eine andere Website umgeleitet, wenn ich online f&uuml;r mein Ticket bezahle?<br />
+            <br />
+            Alle Transaktionen auf gulfair.com erfordern eine Kreditkartenvalidierung, indem Sie Ihre PIN eingeben. Der Authentifizierungsprozess erfolgt auf einer anderen Browser -Seite, die von Ihrer Bank f&uuml;r mehr Sicherheit bereitgestellt wird. Sobald die Karte validiert wurde, werden Sie automatisch auf gulfair.com zur&uuml;ckgef&uuml;hrt und erhalten eine Kaufbest&auml;tigung und eine Buchungsroute.</li>
+            <li style="margin: 10px 0;">Warum wurde meine Kreditkarte abgelehnt?<br />
+            <br />
+            Eine abgelehnte Kreditkartentransaktion bedeutet, dass etwas schief gelaufen ist und der Kauf w&auml;hrend des Zahlungsprozesses nicht abgeschlossen werden konnte. Es gibt mehrere Gr&uuml;nde, darunter unzureichende Mittel, f&auml;lschlicherweise eingegebene Informationen oder ungew&ouml;hnliche Aktivit&auml;ten.
+            Verwenden Sie eine andere Karte, um mit Ihrer Buchung fortzufahren, oder wenden Sie sich an Ihren Kartenausweis. Sie k&ouml;nnen Ihre Daten hier einreichen, um weitere Unterst&uuml;tzung bei Ihrer Buchung zu erhalten. </li>
+            <li style="margin: 10px 0;">Alle Servicegeb&uuml;hren oder Kreditkartengeb&uuml;hren f&uuml;r Online -Buchungen?<br />
+            <br />
+            F&uuml;r Online -Buchungen auf Gulfair.com oder der Gulf Air Mobile App werden keine zus&auml;tzlichen Geb&uuml;hren angewendet.</li>
+            <li style="margin: 10px 0;">Ich habe auf die Schaltfl&auml;che ""Jetzt Buch"" geklickt, und es ist nichts passiert. Ist mein Flug best&auml;tigt?<br />
+            <br />
+            Wenn Sie der Ansicht sind, dass die Transaktion stattgefunden hat, die Verbindung jedoch unterbrochen wurde und Sie keine Best&auml;tigungs -E -Mail erhalten haben, senden Sie bitte die Details hier, und wir werden Ihnen Ihre Buchungsdetails zur Verf&uuml;gung stellen. Bitte stellen Sie uns sicher, dass wir gen&uuml;gend Details zur Verf&uuml;gung stellen, um Ihre Buchung zuzuweisen. </li>
+            <li style="margin: 10px 0;">Warum ist die Buchung durch das weltweite Kontaktzentrum teurer als gulfair.com?<br />
+            <br />
+            Eine Servicegeb&uuml;hr von 10 Bahrain -Dinar (Bhd oder gleichwertig in Ihrer ausgew&auml;hlten W&auml;hrung) pro Ticket gilt f&uuml;r alle Buchungen, die von unserem weltweiten Kontaktzentrum ausgestellt wurden. Bei der Buchung auf gulfair.com gibt es keine Servicegeb&uuml;hr.</li>
+            <li style="margin: 10px 0;">Muss ich gleichzeitig f&uuml;r mein Ticket bezahlen?<br />
+            <br />
+            Sie k&ouml;nnen Ihr Ticket f&uuml;r kurze Zeit reservieren. Die Zahlung muss jedoch innerhalb von 24 Stunden nach der Buchung &uuml;ber das Buchtportal verwalten. Dieser Service gilt nur f&uuml;r Economy Smart, Economy Flex, Falcon Gold Flex und Economy Flex -Tickets f&uuml;r Fl&uuml;ge, die nach 7 Tagen ab dem Buchungsdatum abreisen. Der Preis wird erst nach Abschluss Ihrer Zahlung garantiert.</li>
+            <li style="margin: 10px 0;">Ich wurde wegen eines Fluges berechnet, habe aber kein Ticket erhalten. Warum?<br />
+            <br />
+            Bitte senden Sie hier Ihre Daten und wir werden Ihnen Ihre Buchungsdetails zur Verf&uuml;gung stellen. Bitte stellen Sie uns sicher, dass Sie gen&uuml;gend Details, wie z. B. den Vornamen des Passagiers, den Nachnamen, die Flugdaten und die letzten 4 Ziffern der Kreditkarte, um Ihre Buchung zuzuweisen. </li>
+            <li style="margin: 10px 0;">Wo kann ich eine Rechnung f&uuml;r meine gebuchten Tickets erhalten?<br />
+            <br />
+            Die E -Mail, die Sie zum Zeitpunkt der Buchung von uns erhalten, ist eine Rechnung.</li>
+            <li style="margin: 10px 0;">Wie kann ich eine doppelte Best&auml;tigungs -E -Mail erhalten?<br />
+            <br />
+            Besuchen Sie das Buchungsportal auf Gulfair.com, um Ihre Reiseroutendetails zu drucken oder zu teilen.</li>
+            <li style="margin: 10px 0;">Wie kann ich eine R&uuml;ckerstattung f&uuml;r mein Ticket beanspruchen?<br />
+            <br />
+            In Bezug auf die Bedingungen Ihres Tickets k&ouml;nnen Sie eine R&uuml;ckerstattung berechtigt. Bitte besuchen Sie die Seite ""R&uuml;ckerstattungsrichtlinie"" oder wenden Sie sich an Gulf Air Worldwide Contact Center, um weitere Informationen zu erhalten. </li>
+            <li style="margin: 10px 0;">Was mache ich, wenn mir f&uuml;r meine Buchung berechnet wurde, aber mein elektronisches Ticket nicht erhalten habe?<br />
+            <br />
+            Um Ihre Buchung zuzuweisen und Ihr elektronisches Ticket abzurufen, wenden Sie sich an Gulf Air Web Support. Sie m&uuml;ssen Ihren Vornamen, Ihren Nachnamen, Ihre Flugdaten und die letzten 4 Ziffern der Kreditkarte angeben, die zur Zahlung der Zahlung verwendet werden. </li>
+            <li style="margin: 10px 0;">Der Preis, den ich angegeben habe und der Preis, den die Bank mir berechnet hat, ist anders. Warum das?<br />
+            <br />
+            Einige Banken wenden zus&auml;tzliche Geb&uuml;hren an, wenn sie eine Transaktion in einer anderen W&auml;hrung als W&auml;hrung bezahlt, in der die Karte ausgestellt wird. Wenden Sie sich an Ihren Kartenanbieter oder Ihre Bank, um weitere Informationen und Unterst&uuml;tzung zu erhalten.</li>
+            <li style="margin: 10px 0;">Kann ein relatives Kauf eines Tickets f&uuml;r mich auch wenn sie nicht mit mir reisen?<br />
+            <br />
+            Ja, ein Verwandter kann ein Ticket f&uuml;r Sie kaufen. Kontaktieren Sie uns &uuml;ber unser Online -Formular f&uuml;r weitere Informationen. </li>
+            <li style="margin: 10px 0;">Muss ich meine Karte beim Check-in anzeigen?<br />
+            <br />
+            M&ouml;glicherweise werden Sie gebeten, die f&uuml;r die Zahlung verwendete Karte am Check-in-Schalter vorzustellen. Wenn der Karteninhaber nicht der Passagier ist, beh&auml;lt sich Gulf Air das Recht vor, den Karteninhaber oder Passagier f&uuml;r zus&auml;tzliche Dokumentation zu beantragen, einschlie&szlig;lich einer Kopie der Karte, des Nachweises der Identifizierung und einer autorisierten Unterschrift. Wenden Sie sich an must.rid.risk@gulfair.com, um weitere Informationen zu erhalten.</li>
+        </ul>
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T173930Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "329de7f1-544c-4447-8694-42e904ea6c71"
+    - ID: "9db57e03-2068-4fae-8676-d97ec7d6dd32"
+      Hint: Heading
+      Value: Online Payment & Refund
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T133909Z
+    - ID: "f8e1179b-050a-4ac2-95d9-5627803a19ae"
+      Hint: Description
+      Value: |
+        <ul>
+            <li style="margin: 10px 0;">How can I pay for my ticket? <br />
+            <br />
+            Tickets can be purchased on gulfair.com or the Gulf Air mobile app. Payment can be made by using a valid credit or debit card. Payment by debit card only applies to Bahrain-issued bank cards with the GCCNET and Benefit logos. International major international credit cards are accepted.</li>
+            <li style="margin: 10px 0;">Which Credit or Debit cards can I use to book online?<br />
+            <br />
+            American Express, Diners Club, MasterCard, Visa, Visa Electron, and UATP are accepted on gulfair.com and the Gulf Air mobile app.
+            Debit card payment only applies to Bahrain-issued bank cards with the GCCNET and Benefit logo.</li>
+            <li style="margin: 10px 0;">Is it safe to use my credit card when I make an online payment?<br />
+            <br />
+            All payments made through gulfair.com are safe using an internationally accepted security system (SLL) encryption. And Gulf Air also uses Digital Security by Entrust, with transactions verified by Visa and Master Secure Code (3-D Secure) to prevent unauthorised and unlawful processing of personal data. The payment gateway on gulfair.com is also PCI DSS compliant.</li>
+            <li style="margin: 10px 0;">Why am I redirected to another website when paying for my ticket online?<br />
+            <br />
+            All transactions on gulfair.com require credit card validation by entering your PIN. The authentication process is carried out on a different browser page provided by your bank for greater security. Once the card has been validated, you will automatically be routed back to gulfair.com and receive a purchase confirmation and booking itinerary.</li>
+            <li style="margin: 10px 0;">Why has my credit card been declined?<br />
+            <br />
+            A declined credit card transaction means that something went wrong and the purchase couldn't be completed during the payment process. There are several reasons, including insufficient funds, incorrectly entered information, or unusual activity.
+            To continue with your booking, use a different card or contact your card issuer. You can submit your details here for further assistance with your booking. </li>
+            <li style="margin: 10px 0;">Any service fees or any credit card fees for online bookings?<br />
+            <br />
+            No additional fees are applied for online bookings on gulfair.com or the Gulf Air mobile app.</li>
+            <li style="margin: 10px 0;">I clicked the ""book now"" button, and nothing happened. Is my flight confirmed?<br />
+            <br />
+            If you believe that the transaction has taken place, but the connection was broken, and you did not get a confirmation email, please submit the details here, and we will provide you with your booking details. Please make sure to provide us with enough details to allocate your booking. </li>
+            <li style="margin: 10px 0;">Why is booking through the Worldwide Contact Centre more expensive than gulfair.com?<br />
+            <br />
+            A service fee of 10 Bahrain Dinars (BHD or equivalent in your selected currency) per ticket is applicable on all bookings issued by our Worldwide Contact Centre. There is no service fee when booking on gulfair.com.</li>
+            <li style="margin: 10px 0;">Do I have to pay for my ticket at the same time I book it?<br />
+            <br />
+            You can reserve your ticket for a short time; however, payment must be made within 24 hours of booking through the Manage My Booking portal. This service only applies to Economy Smart, Economy Flex, Falcon Gold Flex, and Economy Flex tickets for flights that depart after 7 days from the booking date. The price is not guaranteed until your payment is finalised.</li>
+            <li style="margin: 10px 0;">I have been charged for a flight but have not received a ticket. Why?<br />
+            <br />
+            Please submit your details here, and we will provide you with your booking details. Please make sure to provide us with enough details, such as the passenger's first name, last name, flight details, and last 4 digits of the credit card, to allocate your booking. </li>
+            <li style="margin: 10px 0;">Where can I obtain an invoice for my booked tickets?<br />
+            <br />
+            The email you receive from us at the time of booking is an invoice.</li>
+            <li style="margin: 10px 0;">How can I receive a duplicate confirmation email?<br />
+            <br />
+            Visit the Manage My Booking portal on gulfair.com to print or share your itinerary details.</li>
+            <li style="margin: 10px 0;">How can I claim a refund for my ticket?<br />
+            <br />
+            Concerning the terms and conditions of your ticket, you may be eligible for a refund. Please visit the Refund Policy page or contact Gulf Air Worldwide Contact Centre for more details. </li>
+            <li style="margin: 10px 0;">What do I do if I have been charged for my booking but have not received my electronic ticket?<br />
+            <br />
+            To allocate your booking and retrieve your electronic ticket, contact Gulf Air Web Support. You will need to provide your first name, last name, flight details, and the last 4 digits of the credit card used to make the payment. </li>
+            <li style="margin: 10px 0;">The price I was quoted and the price the bank charged me is different. Why is that?<br />
+            <br />
+            Some banks apply extra charges when paying for a transaction in a different currency to the currency in which the card is issued. Contact your card provider or bank for more details and assistance.</li>
+            <li style="margin: 10px 0;">Can a relative purchase a ticket for me even if they are not travelling with me?<br />
+            <br />
+            Yes, a relative can purchase a ticket for you. Contact us through our online form for more details. </li>
+            <li style="margin: 10px 0;">Do I need to show my card at check-in?<br />
+            <br />
+            You may be asked to present the card used for payment at the check-in counter. If the cardholder is not the passenger, Gulf Air reserves the right to request the cardholder or passenger for additional documentation, including a copy of the card, proof of identification, and an authorised signature. Contact fraud.risk@gulfair.com for more details.</li>
+        </ul>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T173930Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "83ccb61e-10ee-4ffb-acda-87671da5a6bc"
+    - ID: "9db57e03-2068-4fae-8676-d97ec7d6dd32"
+      Hint: Heading
+      Value: Paiement et remboursement en ligne
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T123137Z
+    - ID: "f8e1179b-050a-4ac2-95d9-5627803a19ae"
+      Hint: Description
+      Value: |
+        <ul>
+            <li style="margin: 10px 0;">Comment puis-je payer mon billet? <br />
+            <br />
+            Les billets peuvent &ecirc;tre achet&eacute;s sur Gulfair.com ou sur l'application Gulf Air Mobile. Le paiement peut &ecirc;tre effectu&eacute; en utilisant une carte de cr&eacute;dit ou de d&eacute;bit valide. Le paiement par carte de d&eacute;bit s'applique uniquement aux cartes bancaires &eacute;mises par Bahre&iuml;n avec le GCCNET et les logos de prestations. Les cartes de cr&eacute;dit internationales internationales internationales sont accept&eacute;es.</li>
+            <li style="margin: 10px 0;">Quelles cartes de cr&eacute;dit ou de d&eacute;bit puis-je utiliser pour r&eacute;server en ligne?<br />
+            <br />
+            American Express, Diners Club, MasterCard, Visa, Visa Electron et UATP sont accept&eacute;s sur Gulfair.com et l'application Gulf Air Mobile.
+            Le paiement de la carte de d&eacute;bit s'applique uniquement aux cartes bancaires &eacute;mises par Bahre&iuml;n avec le logo GCCNET et Benefit.</li>
+            <li style="margin: 10px 0;">Est-il s&ucirc;r d'utiliser ma carte de cr&eacute;dit lorsque je fais un paiement en ligne? <br />
+            <br />
+            Tous les paiements effectu&eacute;s via Gulfair.com sont s&ucirc;rs &agrave; l'aide d'un chiffrement du syst&egrave;me de s&eacute;curit&eacute; accept&eacute; internationalement (SLL). Et Gulf Air utilise &eacute;galement la s&eacute;curit&eacute; num&eacute;rique par configuration, avec des transactions v&eacute;rifi&eacute;es par Visa et Master Secure Code (3D Secure) pour emp&ecirc;cher le traitement non autoris&eacute; et ill&eacute;gal des donn&eacute;es personnelles. La passerelle de paiement sur Gulfair.com est &eacute;galement conforme &agrave; la PCI DSS.</li>
+            <li style="margin: 10px 0;">Pourquoi suis-je redirig&eacute; vers un autre site Web en payant mon billet en ligne?<br />
+            <br />
+            Toutes les transactions sur Gulfair.com n&eacute;cessitent une validation des cartes de cr&eacute;dit en entrant votre PIN. Le processus d'authentification est effectu&eacute; sur une page de navigateur diff&eacute;rente fournie par votre banque pour une plus grande s&eacute;curit&eacute;. Une fois la carte valid&eacute;e, vous serez automatiquement rendu sur Gulfair.com et recevrez un itin&eacute;raire de confirmation et de r&eacute;servation d'achat.</li>
+            <li style="margin: 10px 0;">Pourquoi ma carte de cr&eacute;dit a-t-elle &eacute;t&eacute; refus&eacute;e?<br />
+            <br />
+            Une transaction de carte de cr&eacute;dit en baisse signifie que quelque chose a mal tourn&eacute; et que l'achat n'a pas pu &ecirc;tre achev&eacute; pendant le processus de paiement. Il y a plusieurs raisons, notamment des fonds insuffisants, des informations incorrectement saisies ou une activit&eacute; inhabituelle.
+            Pour continuer votre r&eacute;servation, utilisez une autre carte ou contactez votre &eacute;metteur de carte. Vous pouvez soumettre vos coordonn&eacute;es ici pour plus d'aide dans votre r&eacute;servation.</li>
+            <li style="margin: 10px 0;">Des frais de service ou des frais de carte de cr&eacute;dit pour les r&eacute;servations en ligne?<br />
+            <br />
+            Aucun frais suppl&eacute;mentaire n'est appliqu&eacute; pour les r&eacute;servations en ligne sur Gulfair.com ou l'application Gulf Air Mobile.</li>
+            <li style="margin: 10px 0;">J'ai cliqu&eacute; sur le bouton ""r&eacute;server maintenant"", et rien ne s'est pass&eacute;. Mon vol est-il confirm&eacute;?<br />
+            <br />
+            Si vous pensez que la transaction a eu lieu, mais que la connexion a &eacute;t&eacute; rompue et que vous n'avez pas re&ccedil;u d'e-mail de confirmation, veuillez soumettre les d&eacute;tails ici et nous vous fournirons vos d&eacute;tails de r&eacute;servation. Veuillez vous assurer de nous fournir suffisamment de d&eacute;tails pour allouer votre r&eacute;servation. </li>
+            <li style="margin: 10px 0;">Pourquoi la r&eacute;servation dans le centre de contact mondial est-elle plus ch&egrave;re que Gulfair.com?<br />
+            <br />
+            Des frais de service de 10 dinars de Bahre&iuml;n (BHD ou &eacute;quivalent dans votre devise s&eacute;lectionn&eacute;s) par billet sont applicables sur toutes les r&eacute;servations &eacute;mises par notre centre de contact mondial. Il n'y a pas de frais de service lors de la r&eacute;servation sur Gulfair.com.</li>
+            <li style="margin: 10px 0;">Dois-je payer mon billet en m&ecirc;me temps que je le r&eacute;serve?<br />
+            <br />
+            Vous pouvez r&eacute;server votre billet pendant une courte p&eacute;riode; Cependant, le paiement doit &ecirc;tre effectu&eacute; dans les 24 heures suivant la r&eacute;servation via le portail G&eacute;rer mon r&eacute;servation. Ce service ne s'applique qu'aux billets &eacute;conomiques intelligents, flexibles &eacute;conomiques, flex flexion et flexion &eacute;conomique pour les vols qui partent apr&egrave;s 7 jours &agrave; compter de la date de r&eacute;servation. Le prix n'est pas garanti jusqu'&agrave; ce que votre paiement soit finalis&eacute;.</li>
+            <li style="margin: 10px 0;">J'ai &eacute;t&eacute; inculp&eacute; pour un vol mais je n'ai pas re&ccedil;u de billet. Pourquoi?<br />
+            <br />
+            Veuillez soumettre vos coordonn&eacute;es ici et nous vous fournirons vos d&eacute;tails de r&eacute;servation. Veuillez vous assurer de nous fournir suffisamment de d&eacute;tails, tels que le pr&eacute;nom du passager, le nom de famille, les d&eacute;tails du vol et les 4 derniers chiffres de la carte de cr&eacute;dit, pour allouer votre r&eacute;servation. </li>
+            <li style="margin: 10px 0;">O&ugrave; puis-je obtenir une facture pour mes billets r&eacute;serv&eacute;s?<br />
+            <br />
+            L'e-mail que vous recevez de nous au moment de la r&eacute;servation est une facture.</li>
+            <li style="margin: 10px 0;">Comment puis-je recevoir un e-mail de confirmation en double?<br />
+            <br />
+            Visitez le portail G&eacute;rer mon r&eacute;servation sur Gulfair.com pour imprimer ou partager vos d&eacute;tails d'itin&eacute;raire.</li>
+            <li style="margin: 10px 0;">Comment puis-je r&eacute;clamer un remboursement de mon billet?<br />
+            <br />
+            Concernant les termes et conditions de votre billet, vous pouvez &ecirc;tre admissible &agrave; un remboursement. Veuillez visiter la page de politique de remboursement ou contacter Gulf Air Worldwide Contact Center pour plus de d&eacute;tails. </li>
+            <li style="margin: 10px 0;">Que dois-je faire si j'ai &eacute;t&eacute; factur&eacute; pour ma r&eacute;servation mais que je n'ai pas re&ccedil;u mon billet &eacute;lectronique?<br />
+            <br />
+            Pour allouer votre r&eacute;servation et r&eacute;cup&eacute;rer votre billet &eacute;lectronique, contactez Gulf Air Web Soutien. Vous devrez fournir votre pr&eacute;nom, votre nom de famille, vos d&eacute;tails de vol et les 4 derniers chiffres de la carte de cr&eacute;dit utilis&eacute;s pour effectuer le paiement. </li>
+            <li style="margin: 10px 0;">Le prix qui m'a &eacute;t&eacute; indiqu&eacute; et le prix que la banque m'a factur&eacute; est diff&eacute;rent. Pourquoi donc?<br />
+            <br />
+            Certaines banques appliquent des frais suppl&eacute;mentaires lors de la paiement d'une transaction dans une devise diff&eacute;rente &agrave; la monnaie dans laquelle la carte est &eacute;mise. Contactez votre fournisseur de cartes ou votre banque pour plus de d&eacute;tails et d'assistance.</li>
+            <li style="margin: 10px 0;">Un relatif peut-il acheter un billet pour moi m&ecirc;me s'ils ne voyagent pas avec moi?<br />
+            <br />
+            Oui, un parent peut acheter un billet pour vous. Contactez-nous via notre formulaire en ligne pour plus de d&eacute;tails. </li>
+            <li style="margin: 10px 0;">Dois-je afficher ma carte lors de l'enregistrement?<br />
+            <br />
+            Il peut &ecirc;tre demand&eacute; de pr&eacute;senter la carte utilis&eacute;e pour le paiement au comptoir d'enregistrement. Si le titulaire de la carte n'est pas le passager, Gulf Air se r&eacute;serve le droit de demander le titulaire de la carte ou le passager pour une documentation suppl&eacute;mentaire, y compris une copie de la carte, une preuve d'identification et une signature autoris&eacute;e. Contactez Fraud.risk@gulfair.com pour plus de d&eacute;tails.</li>
+        </ul>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T173930Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5712f568-a593-498b-a91f-711f46a86eeb"
+    - ID: "9db57e03-2068-4fae-8676-d97ec7d6dd32"
+      Hint: Heading
+      Value: "Онлайн -платеж и возмещение"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230505T124157Z
+    - ID: "f8e1179b-050a-4ac2-95d9-5627803a19ae"
+      Hint: Description
+      Value: |
+        <ul>
+            <li style="margin: 10px 0;">Как я могу заплатить за билет? <br />
+            <br />
+            Билеты можно приобрести на Gulfair.com или в приложении Gulf Air Mobile. Оплата может быть произведена с помощью действующей кредитной или дебетовой карты. Оплата с помощью дебетовой карты распространяется только на банковские карты, выпущенные Бахрейном, с логотипами GCCNET и пособий. Международные крупные международные кредитные карты принимаются.</li>
+            <li style="margin: 10px 0;">Какие кредитные или дебетовые карты я могу использовать для бронирования онлайн?<br />
+            <br />
+            American Express, Diners Club, Mastercard, Visa, Visa Electron и UATP принимаются на Gulfair.com и в приложении Gulf Air Mobile.
+            Оплата дебетовой карты распространяется только на банковские карты, выпущенные Бахрейном, с логотипом GCCNet и Benefit.</li>
+            <li style="margin: 10px 0;">Безопасно ли использовать мою кредитную карту, когда я произвожу онлайн -платеж? <br />
+            <br />
+            Все платежи, произведенные через Gulfair.com, безопасны, используя всемирно известную шифрование системы безопасности (SLL). И Gulf Air также использует цифровую безопасность путем доверия, с транзакциями, проверенными Visa и Master Secure Code (3-D Secure), чтобы предотвратить несанкционированную и незаконную обработку персональных данных. Платежный шлюз на Gulfair.com также соответствует PCI DSS.</li>
+            <li style="margin: 10px 0;">Почему я перенаправлен на другой веб -сайт при оплате билета в Интернете?<br />
+            <br />
+            Все транзакции на Gulfair.com требуют проверки кредитной карты, введя свой PIN -код. Процесс аутентификации проводится на другой странице браузера, предоставленной вашим банком для большей безопасности. После того, как карта будет подтверждена, вы автоматически будете направлены обратно на Gulfair.com и получите подтверждение покупки и бронирование маршрута.</li>
+            <li style="margin: 10px 0;">Почему моя кредитная карта была отклонена?<br />
+            <br />
+            Отказанная транзакция по кредитной карте означает, что что -то пошло не так, и покупка не может быть завершена в процессе оплаты. Есть несколько причин, в том числе недостаточное количество средств, неправильно введенная информация или необычная деятельность.
+            Чтобы продолжить заказ, используйте другую карту или свяжитесь с эмитентом вашей карты. Вы можете отправить свои данные здесь для получения дополнительной помощи с вашим бронированием.</li>
+            <li style="margin: 10px 0;">Любые сборы за обслуживание или плата за кредитные карты за онлайн -бронирование?<br />
+            <br />
+            Для онлайн -бронирования на Gulfair.com или в приложении Gulf Air Mobile не применяется никаких дополнительных сборов.</li>
+            <li style="margin: 10px 0;">Я нажал кнопку &laquo;Книга сейчас&raquo;, и ничего не произошло. Мой рейс подтвержден?<br />
+            <br />
+            Если вы считаете, что транзакция состоялась, но соединение было нарушено, и вы не получили подтверждение, пожалуйста, отправьте подробности здесь, и мы предоставим вам ваши данные бронирования. Пожалуйста, не забудьте предоставить нам достаточно деталей, чтобы распределить ваше бронирование. </li>
+            <li style="margin: 10px 0;">Почему бронирование через мировой контактный центр дороже, чем Gulfair.com?<br />
+            <br />
+            Плата за обслуживание 10 динаров Bahrain (BHD или эквивалент в выбранной вашей валюте) за билет применяется на всех бронированиях, выпущенных нашим всемирным контактным центром. При бронировании на Gulfair.com нет платы за обслуживание.</li>
+            <li style="margin: 10px 0;">Должен ли я платить за свой билет в то же время, когда я его бронирует?<br />
+            <br />
+            Вы можете зарезервировать свой билет на короткое время; Тем не менее, оплата должна быть произведена в течение 24 часов после бронирования через управление моим порталом бронирования. Этот сервис распространяется только на экономику Smart, Economy Flex, Falcon Gold Flex и Economy Flex Bilts для рейсов, которые уходят через 7 дней с даты бронирования. Цена не гарантируется до завершения вашего платежа.</li>
+            <li style="margin: 10px 0;">Мне было предъявлено обвинение за рейс, но я не получил билет. Почему?<br />
+            <br />
+            Пожалуйста, отправьте свои данные здесь, и мы предоставим вам данные о вашем бронировании. Пожалуйста, обязательно предоставьте нам достаточно деталей, таких как имя пассажира, фамилия, данные о рейсе и последние 4 цифры кредитной карты, чтобы выделить ваше бронирование.</li>
+            <li style="margin: 10px 0;">Где я могу получить счет для моих забронированных билетов?<br />
+            <br />
+            Электронное письмо, которое вы получаете от нас во время бронирования, является счетом.</li>
+            <li style="margin: 10px 0;">Как я могу получить дубликатное подтверждение по электронной почте?<br />
+            <br />
+            Посетите управление моим порталом бронирования на Gulfair.com, чтобы распечатать или поделиться подробностями маршрута.</li>
+            <li style="margin: 10px 0;">Как я могу получить возмещение за свой билет?<br />
+            <br />
+            Что касается условий вашего билета, вы можете иметь право на возврат средств. Пожалуйста, посетите страницу политики возмещения или свяжитесь с Gulf Air Worldwide Contact Center для получения более подробной информации. </li>
+            <li style="margin: 10px 0;">Что мне делать, если бы мне взимали плату за бронирование, но не получили свой электронный билет?<br />
+            <br />
+            Чтобы выделить ваше бронирование и получить свой электронный билет, свяжитесь с поддержкой Gulf Air Web. Вам нужно будет предоставить свое имя, фамилию, данные о полете и последние 4 цифры кредитной карты, используемых для оплаты. </li>
+            <li style="margin: 10px 0;">Цена, которую я был указан, и цена, которую банк взимал меня, отличается. Почему это?<br />
+            <br />
+            Некоторые банки применяют дополнительные сборы при оплате транзакции в другой валюте в валюту, в которой выдается карта. Свяжитесь с поставщиком карт или банком для получения более подробной информации и помощи.</li>
+            <li style="margin: 10px 0;">Может ли относительный купить билет для меня, даже если они не путешествуют со мной?<br />
+            <br />
+            Да, родственник может приобрести для вас билет. Свяжитесь с нами через нашу онлайн -форму для получения более подробной информации. </li>
+            <li style="margin: 10px 0;">Нужно ли показать свою карту при регистрации?<br />
+            <br />
+            Вас могут попросить представить карту, используемую для оплаты на счетчике регистрации. Если владелец карты не является пассажиром, Gulf Air оставляет за собой право запросить владельца или пассажира карты для дополнительной документации, включая копию карты, доказательство идентификации и уполномоченную подпись. Свяжитесь с мошенничеством. Risk@gulfair.com для получения более подробной информации.</li>
+        </ul>

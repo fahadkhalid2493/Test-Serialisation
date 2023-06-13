@@ -1,0 +1,91 @@
+﻿---
+ID: "77ab2a36-f22c-45bd-8534-8d77c515bc2c"
+Parent: "c9cdb7b8-9164-4651-a997-da42e40e9b12"
+Template: "567d1326-6a58-458f-aebf-ffc95d3e060b"
+Path: "/sitecore/content/gulfair-app-ru/home/transparency/privacy-policy"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 3900
+- ID: "d26a428b-8f37-4ae7-bd6c-1126664c4031"
+  Hint: AvailableLanguages
+  Value: "{AE2B1160-AEC8-400B-92BF-E4F2378F29C8}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{9AA488C2-821E-4126-A006-F1B88926B9C0}"
+          p:after="r[@uid='{78BCE695-62F3-465D-9ACF-B6E971121264}']"
+          s:ds="{E5AE6F4A-1E78-4F97-9ACB-332D1412B1CA}"
+          s:id="{2FAE24EB-118B-467A-A793-A565ECF56816}"
+          s:par="CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D&amp;CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D"
+          s:ph="jss-inner-banner"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{7CDFDC92-7879-4055-9901-2435D589CEF3}"
+          p:after="r[@uid='{9AA488C2-821E-4126-A006-F1B88926B9C0}']"
+          s:ds="{63C7D3DB-4F38-4675-B55A-17B0E5387FC8}"
+          s:id="{15B3A93E-34D1-4FF1-8928-43C668FB49D1}"
+          s:par="BackgroundColor=%7B89330C54-4FC1-4573-913A-BC08CCDEBD5B%7D"
+          s:ph="jss-sidebar"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{A7AD8284-B38E-4F46-9B41-27EDE9990E53}"
+          p:after="r[@uid='{7CDFDC92-7879-4055-9901-2435D589CEF3}']"
+          s:ds="{504801F9-78FC-4130-8B1D-6DA7C1176970}"
+          s:id="{90A8554B-16EB-4ACB-BECC-22B8597C791F}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BAA7CCFBF-2B5C-4F85-970E-DCBC25B6923C%7D"
+          s:ph="jss-content"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{7EFD866A-E47D-4BF5-8D43-09CC36A79D28}"
+          p:after="r[@uid='{A7AD8284-B38E-4F46-9B41-27EDE9990E53}']"
+          s:ds=""
+          s:id="{E97F53AF-76A2-4475-A5E5-1A464AC473BE}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="jss-content"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "190a95d1-7b31-4014-868b-bc41dee10413"
+      Hint: pageTitle
+      Value: Privacy Policy
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T130159Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Privacy Policy
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "daa7bf83-51bb-4111-af10-151549c85047"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Privacy Policy
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Privacy Policy
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T124709Z

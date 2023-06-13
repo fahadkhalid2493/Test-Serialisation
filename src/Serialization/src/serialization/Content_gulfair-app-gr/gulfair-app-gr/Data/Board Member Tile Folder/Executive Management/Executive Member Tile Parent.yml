@@ -1,0 +1,62 @@
+﻿---
+ID: "36bf49db-701c-4d99-92d6-69513a4aed67"
+Parent: "443ed2c3-9725-4b53-8cfb-0fcffc84f12c"
+Template: "cf4b50a3-8660-4dc4-8c3f-ad57b80c69cd"
+Path: "/sitecore/content/gulfair-app-gr/Data/Board Member Tile Folder/Executive Management/Executive Member Tile Parent"
+SharedFields:
+- ID: "8deba75d-d7e7-4dd7-bd7e-67f57b4367f2"
+  Hint: MemberTiles
+  Value: |
+    {9A450EEF-0F19-45AB-BB51-D7FEDED64A43}
+    {F1486485-1AFC-4F1C-91E4-3569AE23F6F1}
+    {F57DE483-222E-44C4-9792-D7DD7486E5AD}
+    {11EEDF6D-BCA1-4584-B52A-7FF58628A2E1}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19017306-8bcd-460f-9f47-0f37ff5ca720"
+      Hint: ModalHeading
+      Value: Executive Management
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T112104Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a018fa16-a27f-4114-9612-8794c8acb6f4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230316T125319Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19017306-8bcd-460f-9f47-0f37ff5ca720"
+      Hint: ModalHeading
+      Value: Executive Management
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T112104Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5bf181fe-822e-43df-9beb-8652896f1854"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230306T134609Z

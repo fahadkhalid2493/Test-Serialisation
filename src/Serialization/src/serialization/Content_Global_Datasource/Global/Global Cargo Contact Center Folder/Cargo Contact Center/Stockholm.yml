@@ -1,0 +1,44 @@
+﻿---
+ID: "e4f193b8-8557-49c2-9146-42098efc7c6d"
+Parent: "b529b9d2-7dfc-4dc1-a70f-1939a02a1502"
+Template: "c4f0e5a0-41a4-4720-905f-4c0fc8003171"
+Path: /sitecore/content/Global/Global Cargo Contact Center Folder/Cargo Contact Center/Stockholm
+SharedFields:
+- ID: "3978628f-3184-4428-9a3c-d2e902a5e411"
+  Hint: ContactDetailsList
+  Value: |
+    {614EB327-AA5D-4CB0-9CA3-E7E6AD958B14}
+    {382118AF-9475-416B-B93A-DFC9DB0BA4DB}
+    {6AAA5023-AFD5-4D3E-B0D7-BD2B2E56DAB7}
+- ID: "9c615311-1201-4a4b-be59-9d3dba8c3e70"
+  Hint: City
+  Value: "{93721F3C-1A07-4BAD-90EA-C9FB3C174454}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230323T090132Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6980de8b-0803-4426-bee5-1672abddd2f2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nasia
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230518T132149Z
+    - ID: "f2a9f41f-7e90-46fd-918c-af3323a0cadd"
+      Hint: DialingCode
+      Value: 

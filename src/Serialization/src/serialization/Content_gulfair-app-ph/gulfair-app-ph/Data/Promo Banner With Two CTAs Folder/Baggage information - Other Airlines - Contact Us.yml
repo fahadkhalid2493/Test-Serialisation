@@ -1,0 +1,90 @@
+﻿---
+ID: "ed401000-463e-49ab-8e72-bda926ae162a"
+Parent: "ecafd48b-45de-4b5c-8a1e-ae3a26d064c7"
+Template: "bf0ef994-52a6-4190-a1b7-fad4cd3934a3"
+Path: "/sitecore/content/gulfair-app-ph/Data/Promo Banner With Two CTAs Folder/Baggage information - Other Airlines - Contact Us"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04b049be-b460-41cc-99cc-2cca1446e6f5"
+      Hint: CTAOne
+      Value: |
+        <link text="Visit our worldwide contact center" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230309T120422Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "67754908-aaf7-4b84-aaf7-433e74c2051b"
+    - ID: "ad95240f-c21a-4092-8967-c9df8e90f47e"
+      Hint: SubTextTwo
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "c6ebb471-3f26-44a0-9e1e-6a4a673c6d72"
+      Hint: CTATwo
+      Value: |
+        <link text="Gulf Air offices" anchor="{F95FC9BF-030E-4709-84A9-32DE77AD3AEA}" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "d4a949ef-28f7-4aff-8da4-60f93e14d9ce"
+      Hint: Heading
+      Value: Contact Us
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230417T082409Z
+    - ID: "ef5f5cea-b53f-4731-ac19-eb6034541bcb"
+      Hint: SubTextOne
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem.
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04b049be-b460-41cc-99cc-2cca1446e6f5"
+      Hint: CTAOne
+      Value: |
+        <link text="Visit our worldwide contact center" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230309T120422Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e61563e-70d1-4625-8ce7-5b2547d79165"
+    - ID: "ad95240f-c21a-4092-8967-c9df8e90f47e"
+      Hint: SubTextTwo
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "c6ebb471-3f26-44a0-9e1e-6a4a673c6d72"
+      Hint: CTATwo
+      Value: |
+        <link text="Gulf Air offices" anchor="" linktype="internal" class="" title="" target="" querystring="#{F95FC9BF-030E-4709-84A9-32DE77AD3AEA}" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "d4a949ef-28f7-4aff-8da4-60f93e14d9ce"
+      Hint: Heading
+      Value: Contact Us
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230419T113545Z
+    - ID: "ef5f5cea-b53f-4731-ac19-eb6034541bcb"
+      Hint: SubTextOne
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales porttitor a in in quis iaculis. Accumsan, id felis metus tincidunt adipiscing consectetur congue lorem.

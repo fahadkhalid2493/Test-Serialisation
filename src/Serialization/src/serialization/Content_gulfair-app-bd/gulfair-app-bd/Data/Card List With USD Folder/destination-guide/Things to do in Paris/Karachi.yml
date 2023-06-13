@@ -1,0 +1,233 @@
+﻿---
+ID: "bc2fd89f-4655-4517-a06d-c93d57d0922a"
+Parent: "0960ec9f-ed5c-40b9-bcae-2d8a2262a0b6"
+Template: "ecd1605a-08d2-4e31-8ddd-cb4ec0ffe08c"
+Path: "/sitecore/content/gulfair-app-bd/Data/Card List With USD Folder/destination-guide/Things to do in Paris/Karachi"
+SharedFields:
+- ID: "196e67f4-48ae-4eb9-a2d2-4f9015388787"
+  Hint: CTAType1
+  Value: "{9E29A28B-7ED9-41A5-BE7D-66A986A44CC3}"
+- ID: "66f006ca-494f-4dbf-8dd2-7f90b41f6d92"
+  Hint: CTAColor2
+  Value: "{F4B4A40B-428A-48B8-907D-F1598EBADC7A}"
+- ID: "921a38b7-3074-48ab-88c5-4462833c962a"
+  Hint: CTAType2
+  Value: "{9E29A28B-7ED9-41A5-BE7D-66A986A44CC3}"
+- ID: "9bc32c3b-2988-4a9d-8a52-12952f7ab329"
+  Hint: Image
+  Value: |
+    <image width="364" height="172" alt="MicrosoftTeams-image.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/a6de2274adff46cf8f2362bcda7894c7?v=f891d584" stylelabs-content-id="34731" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/34731/thumbnail" />
+- ID: "b8aca052-d05d-4167-a90f-a6c01f734f8c"
+  Hint: CTAColor1
+  Value: "{F64FADCC-6FB4-46AA-A947-751B7BF0A024}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230213T142900Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "6ccf0d23-4fc3-4a12-b3cf-d81b06d0d87b"
+      Hint: Price
+      Value: 1,050
+    - ID: "7457e5f2-7934-48e8-a0b8-58a106ca01d6"
+      Hint: CTADiscover
+      Value: |
+        <link text="Discover" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fffb2da0-1f9f-4caf-a2b4-197cc2b9d299"
+    - ID: "9b434b1c-2818-4ffc-a44e-dad8eb9667d0"
+      Hint: CTABookNow
+      Value: |
+        <link text="Book flight" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "a0ccbc48-ceb0-4f22-8639-b3ab7a02a635"
+      Hint: SubHeading
+      Value: Economy From
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231657Z
+    - ID: "ff7f8654-284a-49bd-8a1a-a99f106b77fa"
+      Hint: Currency
+      Value: GBP
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230213T142727Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "6ccf0d23-4fc3-4a12-b3cf-d81b06d0d87b"
+      Hint: Price
+      Value: 1,050
+    - ID: "7457e5f2-7934-48e8-a0b8-58a106ca01d6"
+      Hint: CTADiscover
+      Value: |
+        <link text="Discover" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "68478fc9-48c2-4640-977c-e1f600edea5b"
+    - ID: "9b434b1c-2818-4ffc-a44e-dad8eb9667d0"
+      Hint: CTABookNow
+      Value: |
+        <link text="Book flight" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "a0ccbc48-ceb0-4f22-8639-b3ab7a02a635"
+      Hint: SubHeading
+      Value: Economy From
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231657Z
+    - ID: "ff7f8654-284a-49bd-8a1a-a99f106b77fa"
+      Hint: Currency
+      Value: GBP
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230213T142727Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "6ccf0d23-4fc3-4a12-b3cf-d81b06d0d87b"
+      Hint: Price
+      Value: 1,050
+    - ID: "7457e5f2-7934-48e8-a0b8-58a106ca01d6"
+      Hint: CTADiscover
+      Value: |
+        <link text="Discover" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2dd73c93-2d22-4f93-9a6c-4f9a7e27fddd"
+    - ID: "9b434b1c-2818-4ffc-a44e-dad8eb9667d0"
+      Hint: CTABookNow
+      Value: |
+        <link text="Book flight" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "a0ccbc48-ceb0-4f22-8639-b3ab7a02a635"
+      Hint: SubHeading
+      Value: Economy From
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231657Z
+    - ID: "ff7f8654-284a-49bd-8a1a-a99f106b77fa"
+      Hint: Currency
+      Value: GBP
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230213T142727Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "6ccf0d23-4fc3-4a12-b3cf-d81b06d0d87b"
+      Hint: Price
+      Value: 1,050
+    - ID: "7457e5f2-7934-48e8-a0b8-58a106ca01d6"
+      Hint: CTADiscover
+      Value: |
+        <link text="Discover" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50a817c4-758e-4125-9aea-0e2c43aacb7e"
+    - ID: "9b434b1c-2818-4ffc-a44e-dad8eb9667d0"
+      Hint: CTABookNow
+      Value: |
+        <link text="Book flight" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "a0ccbc48-ceb0-4f22-8639-b3ab7a02a635"
+      Hint: SubHeading
+      Value: Economy From
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231657Z
+    - ID: "ff7f8654-284a-49bd-8a1a-a99f106b77fa"
+      Hint: Currency
+      Value: GBP
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230213T142727Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "6ccf0d23-4fc3-4a12-b3cf-d81b06d0d87b"
+      Hint: Price
+      Value: 1,050
+    - ID: "7457e5f2-7934-48e8-a0b8-58a106ca01d6"
+      Hint: CTADiscover
+      Value: |
+        <link text="Discover" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "716e6751-fd34-4a25-a9d3-cb3dbb539ec3"
+    - ID: "9b434b1c-2818-4ffc-a44e-dad8eb9667d0"
+      Hint: CTABookNow
+      Value: |
+        <link text="Book flight" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "a0ccbc48-ceb0-4f22-8639-b3ab7a02a635"
+      Hint: SubHeading
+      Value: Economy From
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T231657Z
+    - ID: "ff7f8654-284a-49bd-8a1a-a99f106b77fa"
+      Hint: Currency
+      Value: GBP

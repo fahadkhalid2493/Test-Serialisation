@@ -1,0 +1,158 @@
+﻿---
+ID: "778d1afc-f6d0-4dc3-b3d1-233dcb4fbb3a"
+Parent: "72824f33-88c4-4e55-aa2b-4a2057865f12"
+Template: "499bcfb3-6247-4ed2-9404-4b221bcd0edc"
+Path: "/sitecore/content/gulfair-app-fr/Data/FollowUsFolder/contactus/Follow Gulf Air/Facebook"
+SharedFields:
+- ID: "e52a4a21-bb29-4c89-86ee-6b87755d6b88"
+  Hint: Icon
+  Value: |
+    <image width="31" height="30" alt="social-facebook.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/1dadeeedbbe445e0b7250fbe774999fe?v=3c7a27aa" stylelabs-content-id="39646" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39646/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "220c5df4-eb0c-48d1-b54e-b73dd750e442"
+      Hint: Heading
+      Value: Facebook
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230329T082032Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8296779b-8a21-4a81-9405-a91a32f70d90"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "527e4f35-8b14-4408-9de6-50de183bd78d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233042Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "220c5df4-eb0c-48d1-b54e-b73dd750e442"
+      Hint: Heading
+      Value: Facebook
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230220T112957Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8296779b-8a21-4a81-9405-a91a32f70d90"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de9a83f4-6542-4c74-bd27-0b389ee504b2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233042Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "220c5df4-eb0c-48d1-b54e-b73dd750e442"
+      Hint: Heading
+      Value: Facebook
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230220T112957Z
+    - ID: "8296779b-8a21-4a81-9405-a91a32f70d90"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fe5e233b-54f8-4675-b0c7-aad3d85d08a6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233042Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "220c5df4-eb0c-48d1-b54e-b73dd750e442"
+      Hint: Heading
+      Value: Facebook
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230220T112957Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8296779b-8a21-4a81-9405-a91a32f70d90"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d70fcb7c-6c73-460e-8b75-01ed1bda0837"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233042Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "220c5df4-eb0c-48d1-b54e-b73dd750e442"
+      Hint: Heading
+      Value: Facebook
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230220T112957Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8296779b-8a21-4a81-9405-a91a32f70d90"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b726ac5-3c7c-4f31-8d2f-cff9c5271006"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233042Z

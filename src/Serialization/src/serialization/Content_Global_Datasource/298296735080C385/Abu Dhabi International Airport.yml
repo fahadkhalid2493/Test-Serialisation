@@ -1,0 +1,424 @@
+﻿---
+ID: "94b4af51-feb1-4ce0-854a-99c86f896e08"
+Parent: "6de181f3-d153-4376-a7ea-63977f9985da"
+Template: "64fec9d9-d83e-40e2-81c8-bd6e6a654eb3"
+Path: "/sitecore/content/Global/Global Airport Info Section Folder/at-the-airport/info/AirportInfoSectionParent/Abu Dhabi International Airport"
+SharedFields:
+- ID: "2ed07a2d-5ec4-4469-85bc-49746a7724cd"
+  Hint: Airport
+  Value: "{2FF6AC3B-A129-4B2A-89F9-03474B8C5EF3}"
+- ID: "3c09129a-e8b8-40d8-b82e-0392a2328f2a"
+  Hint: WebCheckin
+  Value: "{584449BA-3F3E-48A3-AFAA-00B0A5392C90}"
+- ID: "684f084f-cee6-461d-a4c9-e63c99a54d24"
+  Hint: CheckinTimeColor
+  Value: "{7C4FD76D-3B0F-42EA-A617-03C670A8A379}"
+- ID: "7d5ad0bc-c0a0-43ea-aa8a-c1146d311fc6"
+  Hint: CheckinCountersColor
+  Value: "{7C4FD76D-3B0F-42EA-A617-03C670A8A379}"
+- ID: "95b1e77c-f04a-4f75-bd0e-6beff504cda7"
+  Hint: WebCheckinColor
+  Value: "{3F16AFC2-00E8-4FFD-A242-49354F84EF7B}"
+- ID: "974f1505-990f-4931-91b1-9c7b708c5fc1"
+  Hint: PremiumCheckinServiceColor
+  Value: "{3F16AFC2-00E8-4FFD-A242-49354F84EF7B}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "cde96da4-693c-4270-8fde-fa9ff77e22db"
+  Hint: PremiumCheckinService
+  Value: "{9954376D-F506-4DF8-B914-9D356EC60BFD}"
+- ID: "df4dd1f7-ba31-4a06-bbf5-250f9a00dc23"
+  Hint: MapCTAColor
+  Value: "{8B58979B-FF89-4F09-9AF3-6A860E012049}"
+- ID: "f0d82689-dd4b-419e-8cbb-a57b16349fa3"
+  Hint: BeforeYouFlyCTAColor
+  Value: "{8B58979B-FF89-4F09-9AF3-6A860E012049}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="إعرض الخريطة" linktype="external" url="https://goo.gl/maps/zS4JXhDZgYGNoegF6" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>درجة رجال الأعمال: <strong>Terminal 3</strong><br />
+        الدرجة السياحية: <strong>المحطة 3</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T193359Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="زيارة الموقع" linktype="external" url="https://www.abudhabiairport.ae/en" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>الموقع</h3>
+        <p>المطار ، يقع على بعد 16.5 ميلًا بحريًا (30.6 كم ؛ 19.0 ميل) شرق مدينة أبو ظبي</p>
+        <div id="gtx-trans" style="position: absolute; left: 1079px; top: 22.4062px;">
+        <div class="gtx-trans-icon">&nbsp;</div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c0774cf-3426-4c50-9190-b7283227ff4b"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>تفاصيل المحطة</h3>
+        <p>المحطة 3 من مطار أبو ظبي الدولي هي محطة حديثة وفعالة توفر للمسافرين تجربة رائعة. إنه يتميز بجميع أحدث وسائل الراحة والتكنولوجيا ، بما في ذلك مجموعة واسعة من المتاجر والمطاعم والصالات. هناك منطقة مخصصة للأطفال للأطفال ، ومركز طبي ، وغرفة صلاة كبيرة ، مما يجعلها خيارًا رائعًا لأولئك الذين يحتاجون إلى استراحة من صخب رحلاتهم. تحتوي المحطة على الكثير من منافذ الطاقة و خدمه الواي فاي&nbsp; السريع والكثير من مناطق الجلوس ، مما يجعلها مكانًا مريحًا للاسترخاء وانتظار رحلتك. بفضل تصميمه الفسيح والحديث ، يعد المحطة 3 من مطار أبو ظبي الدولي هو الخيار الأمثل لرحلتك القادمة.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230426T134052Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>قبل السفر</h3>
+        <p><strong>معلومات مهمة للمسافرين</strong>
+        <br />
+        يجب الوصول إلى مطار أبو ظبي الدولي قبل 3 ساعات على الأقل من رحلتك. تذكر حمل وثائق سفر صالحة والتحقق من متطلبات التأشيرة. تحقق عبر الإنترنت أو في مكتب المطار قبل رحلتك.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>في أقرب وقت ممكن: قبل <strong>60 دقيقة</strong> من وقت المغادرة المحدودة<br />
+        الأحدث: <strong>60 دقيقة</strong> قبل وقت المغادرة المحدودة</p>
+  - Version: 2
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="إعرض الخريطة" linktype="external" url="https://goo.gl/maps/zS4JXhDZgYGNoegF6" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>درجة رجال الأعمال: <strong>Terminal 3</strong><br />
+        الدرجة السياحية: <strong>المحطة 3</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T115912Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="زيارة الموقع" linktype="external" url="https://www.abudhabiairport.ae/en" anchor="" target="_blank" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\EmanBurwais
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>الموقع</h3>
+        <p>المطار ، يقع على بعد 16.5 ميلًا بحريًا (30.6 كم ؛ 19.0 ميل) شرق مدينة أبو ظبي</p>
+        <div id="gtx-trans" style="position: absolute; left: 1079px; top: 22.4062px;">
+        <div class="gtx-trans-icon">&nbsp;</div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "456481c8-b8f2-4851-8fdd-5e1fbb476317"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>تفاصيل المحطة</h3>
+        <p>المحطة 3 من مطار أبو ظبي الدولي هي محطة حديثة وفعالة توفر للمسافرين تجربة رائعة. إنه يتميز بجميع أحدث وسائل الراحة والتكنولوجيا ، بما في ذلك مجموعة واسعة من المتاجر والمطاعم والصالات. هناك منطقة مخصصة للأطفال للأطفال ، ومركز طبي ، وغرفة صلاة كبيرة ، مما يجعلها خيارًا رائعًا لأولئك الذين يحتاجون إلى استراحة من صخب رحلاتهم. تحتوي المحطة على الكثير من منافذ الطاقة و خدمه الواي فاي&nbsp; السريع والكثير من مناطق الجلوس ، مما يجعلها مكانًا مريحًا للاسترخاء وانتظار رحلتك. بفضل تصميمه الفسيح والحديث ، يعد المحطة 3 من مطار أبو ظبي الدولي هو الخيار الأمثل لرحلتك القادمة.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\EmanBurwais
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230607T115912Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T120728Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>قبل السفر</h3>
+        <p><strong>معلومات مهمة للمسافرين</strong>
+        <br />
+        يجب الوصول إلى مطار أبو ظبي الدولي قبل 3 ساعات على الأقل من رحلتك. تذكر حمل وثائق سفر صالحة والتحقق من متطلبات التأشيرة. تحقق عبر الإنترنت أو في مكتب المطار قبل رحلتك.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p dir="RTL" style="text-align: right;"><span style="line-height: 107%;"></span><span style="line-height: 107%;">أقرب موعد لإتمام إجراءات السفر: قبل&nbsp;</span><strong><span style="line-height: 107%;">180</span></strong><strong><span dir="LTR" style="line-height: 107%;"> </span></strong><strong><span style="line-height: 107%;">دقيقة</span></strong><span style="line-height: 107%;">&nbsp;من وقت المغادرة المحدد<br />
+        </span><span style="line-height: 107%;">اقصى موعد لإتمام إجراءات السفر<span dir="LTR" style="line-height: 107%;">:&nbsp;</span><strong>60 </strong></span><strong><span style="line-height: 107%;">دقيقة</span></strong><span style="line-height: 107%;">&nbsp;قبل وقت المغادرة المحدد</span></p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Ansichts Karte" linktype="external" url="https://goo.gl/maps/zS4JXhDZgYGNoegF6" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>Terminal 3</strong><br />
+        Wirtschaft: <strong>Terminal 3</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230401T230459Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Besuche die Website" linktype="external" url="https://www.abudhabiairport.ae/en" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Ort</h3>
+        <p>Der Flughafen, 16,5 Seemeilen (30,6 km; 19,0 mi) &ouml;stlich von Abu Dhabi City</p>
+        <div id="gtx-trans" style="position: absolute; left: -38px; top: 66.4062px;">
+        <div class="gtx-trans-icon">&nbsp;</div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c13c997f-dfc9-4595-8f7b-475c671eeaba"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminaldetails</h3>
+        <p>Terminal 3 vom internationalen Flughafen Abu Dhabi ist ein modernes und effizientes Terminal, das Reisenden eine hervorragende Erfahrung bietet. Es verf&uuml;gt &uuml;ber die neuesten Annehmlichkeiten und Technologien, einschlie&szlig;lich einer Vielzahl von Gesch&auml;ften, Restaurants und Lounges. Es gibt einen engagierten Kinderspielbereich, ein medizinisches Zentrum und einen gro&szlig;en Gebetsraum, das es zu einer gro&szlig;artigen Option f&uuml;r diejenigen macht, die eine Pause von der Hektik ihrer Reisen ben&ouml;tigen. Das Terminal verf&uuml;gt &uuml;ber viele Power-Outlets, schnelles WLAN und viele Sitzbereiche, was es zu einem bequemen Ort macht, um sich zu entspannen und auf Ihren Flug zu warten. Mit seinem ger&auml;umigen und modernen Design ist Terminal 3 vom internationalen Flughafen Abu Dhabi die perfekte Wahl f&uuml;r Ihre n&auml;chste Reise.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T130814Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Bevor du fliegst</h3>
+        <p><strong>Wichtige Informationen f&uuml;r Passagiere</strong>
+        <br />
+        Kommen Sie mindestens 3 Stunden vor Ihrem Flug am ABU DHABI Internationaler Flughafen an. Denken Sie daran, g&uuml;ltige Reisedokumente zu f&uuml;hren und die Visumanforderungen zu &uuml;berpr&uuml;fen. Schauen Sie sich vor Ihrem Flug online oder am Flughafenschalter ein.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>früheste: <strong>60 Minuten</strong> vor geplanter Abreisezeit<br />
+        Letzte: <strong>60 Minuten</strong> vor geplanter Abreisezeit</p>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="View Map" linktype="external" url="https://goo.gl/maps/zS4JXhDZgYGNoegF6" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>Terminal 3</strong><br />
+        Economy: <strong>Terminal 3</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T193359Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visit website" linktype="external" url="https://www.abudhabiairport.ae/en" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Location</h3>
+        <p>The airport, located 16.5 nautical miles (30.6 km; 19.0 mi) east of Abu Dhabi city</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a5d1547-7172-45fc-aa92-64974102f3d0"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Terminal Details</h3>
+        <p>Terminal 3 of Abu Dhabi International Airport is a modern and efficient terminal that provides travellers with an outstanding experience. It features all the latest amenities and technology, including a wide range of shops, restaurants, and lounges. There is a dedicated children&rsquo;s play area, a medical centre, and a large prayer room, making it a great option for those who need a break from the hustle and bustle of their travels. The terminal has plenty of power outlets, fast Wi-Fi, and plenty of seating areas, making it a comfortable place to relax and wait for your flight. With its spacious and modern design, Terminal 3 of Abu Dhabi International Airport is the perfect choice for your next trip.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T063858Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Before you Fly</h3>
+        <p><strong>Important information for passengers</strong>
+        <br />
+        Arrive at Abu Dhabi International Airport at least 3 hours before your flight. Remember to carry valid travel documents and check visa requirements. Check in online or at the airport counter before your flight.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>Earliest: <strong>60 Minutes</strong> before scheduled time of departure<br />
+        Latest: <strong>60 Minutes</strong> before scheduled time of departure</p>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Voir la carte" linktype="external" url="https://goo.gl/maps/zS4JXhDZgYGNoegF6" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Falcon Gold: <strong>Terminal 3</strong><br />
+        &Eacute;conomie: <strong>terminal 3</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230401T230216Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Visitez le site Web" linktype="external" url="https://www.abudhabiairport.ae/en" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Emplacement</h3>
+        <p>L'a&eacute;roport, situ&eacute; &agrave; 16,5 milles marins (30,6 km; 19,0 mi) &agrave; l'est d'Abu Dhabi City</p>
+        <div id="gtx-trans" style="position: absolute; left: -45px; top: 66.4062px;">
+        <div class="gtx-trans-icon">&nbsp;</div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5d357310-f6ac-409e-8d65-71755bf536f8"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>D&eacute;tails du terminal</h3>
+        <p>Le terminal 3 de l'a&eacute;roport international d'Abu Dhabi est un terminal moderne et efficace qui offre aux voyageurs une exp&eacute;rience exceptionnelle. Il propose toutes les derni&egrave;res commodit&eacute;s et technologies, y compris un large &eacute;ventail de magasins, de restaurants et de salons. Il y a une aire de jeux pour enfants d&eacute;di&eacute;e, un centre m&eacute;dical et une grande salle de pri&egrave;re, ce qui en fait une excellente option pour ceux qui ont besoin d'une pause dans l'agitation de leurs voyages. Le terminal a de nombreuses prises de courant, Wi-Fi rapide et de nombreux si&egrave;ges, ce qui en fait un endroit confortable pour se d&eacute;tendre et attendre votre vol. Avec son design spacieux et moderne, le terminal 3 de l'a&eacute;roport international d'Abu Dhabi est le choix parfait pour votre prochain voyage.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T124031Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Avant de voler</h3>
+        <p><strong>Informations importantes pour les passagers</strong>
+        <br />
+        Arrivez &agrave; Aéroport d'Abu Dhabi Internation au moins 3 heures avant votre vol. N'oubliez pas de transporter des documents de voyage valides et de v&eacute;rifier les exigences de visa. Enregistrez-vous en ligne ou au comptoir de l'a&eacute;roport avant votre vol.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>pr&eacute;coce: <strong>60 minutes</strong> avant l'heure de d&eacute;part pr&eacute;vue<br />
+        Dernier: <strong>60 minutes</strong> avant l'heure de d&eacute;part pr&eacute;vue</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a225772-0dce-441b-b4b4-fb85d1793c8c"
+      Hint: MapCTA
+      Value: |
+        <link text="Посмотреть карту" linktype="external" url="https://goo.gl/maps/zS4JXhDZgYGNoegF6" anchor="" target="_blank" />
+    - ID: "17fb3e7d-d056-4899-983d-3d09d9fab7ab"
+      Hint: CheckinCounters
+      Value: |
+        <p>Сокол Золото: <strong>терминал 3</strong><br />
+        Экономика: <strong>терминал 3</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230317T172251Z
+    - ID: "2b217204-5ffd-4304-93f1-eb54d96152e0"
+      Hint: BeforeYouFlyCTA
+      Value: |
+        <link text="Посетите вебсайт" linktype="external" url="https://www.abudhabiairport.ae/en" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "87b31165-b638-47fa-aa3c-1cef0477f499"
+      Hint: Location
+      Value: |
+        <h3>Место нахождения</h3>
+        <p>Аэропорт, расположенный 16,5 морских миль (30,6 км; 19,0 миль) к востоку от города Абу -Даби</p>
+        <div id="gtx-trans" style="position: absolute; left: -19px; top: 22.4062px;">
+        <div class="gtx-trans-icon">&nbsp;</div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74d01a8e-c365-4396-bf06-33eba17a3d88"
+    - ID: "8ede2eac-ec28-45b2-a05d-52ccfa069370"
+      Hint: TerminalDetails
+      Value: |
+        <h3>Терминальные детали</h3>
+        <p>Терминал 3 международного аэропорта Абу -Даби - современный и эффективный терминал, который предоставляет путешественникам выдающийся опыт. Он включает в себя все новейшие удобства и технологии, в том числе широкий спектр магазинов, ресторанов и залов. Существует специальная детская игровая площадка, медицинский центр и большая молитвенная комната, которая делает ее отличным вариантом для тех, кому нужно отдохнуть от суеты их путешествий. В терминале есть много розетки, быстрый Wi-Fi и множество мест для сидения, что делает его удобным местом для отдыха и ждать вашего полета. С его просторным и современным дизайном терминал 3 международного аэропорта Абу -Даби является идеальным выбором для вашей следующей поездки.
+        </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T131819Z
+    - ID: "dc6d0c16-c69a-460d-89f1-6f2a298a898d"
+      Hint: BeforeYouFly
+      Value: |
+        <h3>Перед полетом</h3>
+        <p><strong>Важная информация для пассажиров</strong>
+        <br />
+        Приезжайте в Международный аэропорт Абу -Даби по крайней мере за 3 часа до вашего рейса. Не забудьте вести действительные туристические документы и проверить требования визы. Зарегистрируйтесь в Интернете или на стойке аэропорта перед рейсом.&nbsp;</p>
+    - ID: "e5dfe233-7a52-4ac3-a489-c886e6328ed2"
+      Hint: CheckinTime
+      Value: |
+        <p>течение раннего: <strong>за 60 минут</strong> до запланированного срока вылета<br />
+        Последнее: <strong>за 60 минут</strong> до запланированного времени отъезда</p>

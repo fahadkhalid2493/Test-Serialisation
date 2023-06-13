@@ -1,0 +1,85 @@
+﻿---
+ID: "44322342-7060-42e8-a746-636c3c4f4457"
+Parent: "59fdaf2c-abe3-4555-a0fa-a140e81fc645"
+Template: "d4b40d40-4c30-4032-b7e6-2d877380909d"
+Path: "/sitecore/content/Global/Global AppBanner/test-uzair"
+SharedFields:
+- ID: "3859570e-2255-4d94-af57-b45eedc10ab6"
+  Hint: ImageIOS
+  Value: |
+    <image width="1100" height="358" alt="appstore.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/2c07c05dbb3442ecb213a79e3aec5fdd?v=348c42ea" stylelabs-content-id="32570" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/32570/thumbnail" />
+- ID: "4f12814a-c5ba-4713-8aa8-6ace64a5ae5e"
+  Hint: QRCode
+  Value: |
+    <image width="990" height="1155" alt="download-app-qr-svg.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/0816f50ac4284364a90be356d45a3752?v=665a2e63" stylelabs-content-id="48406" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48406/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230531T063400Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzairbashir
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzairbashir
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3a3ae684-4a6b-4120-afc3-aa0fb8e3e76b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225854Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230309T081736Z
+    - ID: "3fd8201f-65b7-4e1f-9271-2cfa50c4c0d4"
+      Hint: Heading
+      Value: Dolorum dolor qui su
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "725740e5-46ab-4f21-8f30-e809d934d53b"
+      Hint: CTAIOS
+      Value: |
+        <link id="{B05E7FC6-5740-4A97-BC5A-17109CD2828E}" querystring="" target="" text="test-baggage" anchor="" url="/gulfair-app/home/help/baggage/baggage-information" title="" class="" linktype="internal" />
+    - ID: "750a232a-f9a8-4c4e-91d7-74b614ae400a"
+      Hint: SubText
+      Value: test
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1233b44e-12ac-4fbd-b60f-0ba22b31f291"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bdbde9a7-7a20-4c70-bc6f-2b7530e999ce"
+      Hint: CTAAndroid
+      Value: |
+        <link linktype="internal" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225854Z

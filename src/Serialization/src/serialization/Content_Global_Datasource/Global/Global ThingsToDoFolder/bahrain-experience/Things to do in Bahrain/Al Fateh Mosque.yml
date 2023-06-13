@@ -1,0 +1,202 @@
+﻿---
+ID: "6fe07048-99e9-44d6-be78-6f408c878fcd"
+Parent: "caf10c8c-f8da-4e57-9bda-cee5ce5a6932"
+Template: "fd582026-66f8-4395-911a-c3cb6f40634d"
+Path: "/sitecore/content/Global/Global ThingsToDoFolder/bahrain-experience/Things to do in Bahrain/Al Fateh Mosque"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "dbc01cbd-a304-4024-8103-5684cc1d8d37"
+  Hint: Thumbnail
+  Value: |
+    <image width="364" height="400" alt="fateh-mouque.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/33f3ea7d0a8f4cb9a11bea1fef2d39a7?v=f7395a15" stylelabs-content-id="50263" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/50263/thumbnail" />
+- ID: "ffd0635b-490c-470f-a104-bdf5459a9885"
+  Hint: ImagesList
+  Value: "{C8B0A37D-25E9-49F8-A0EB-B1F0F2266898}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T211637Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0CC46D4F-89CC-4CE6-A336-926E8DD68E56}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\husain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\husain
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: يعتبر مسجد الفاتح أكبر مكان للعبادة فى البحرين وهو أحد أكبر المساجد فى العالم .تم بناؤه تحت رعاية الشيخ الراحل الشيخ عيسي بن سلمان آل خليفة فى عام 1987 و سمى بعد ذلك احمد الفاتح .مع حوائطه الجميلة المزينة بالخط الكوفي وكذلك يستوعب المسجد 7000 مصلي وهو متوج بأكبر قبة زجاجية فى العالم.
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: مسجد الفاتح
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b411ec23-c3d5-4a2f-9c73-e6776113fb87"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T211314Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0CC46D4F-89CC-4CE6-A336-926E8DD68E56}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\husain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\husain
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: "Die gro&szlig;e Al-Fateh-Moschee ist Bahrains gr&ouml;&szlig;te Kultst&auml;tte und eine der gr&ouml;&szlig;ten Moscheen der Welt. Es wurde 1987 unter der Schirmherrschaft des verstorbenen Scheichs Isa bin Salman Al Khalifa erbaut und nach Ahmed Al Fateh benannt. Die W&auml;nde der Moschee sind wundersch&ouml;n mit Kufi-Kalligraphie verziert, sie bietet Platz f&uuml;r bis zu 7.000 Gl&auml;ubige und wird von einer gro&szlig;en Glasfaserkuppel gekr&ouml;nt."
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: "Al-Fateh-Moschee"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "121cb296-07ba-4757-b756-c9ddd30121ed"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T204911Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0CC46D4F-89CC-4CE6-A336-926E8DD68E56}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\husain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\husain
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: The grand Al Fateh Mosque is Bahrain&rsquo;s largest place of worship, and is one of the largest mosques in the world. It was built under the patronage of the late Sheikh Isa bin Salman Al Khalifa in 1987 and was named after Ahmed Al Fateh. With its walls beautifully ornamented with Kuﬁc calligraphy, the mosque accommodates up to 7,000 worshippers and is crowned with a large ﬁberglass dome.
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Al Fateh Mosque
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c3e6733e-9a9b-4088-8833-d39f9d19d4d9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T211450Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0CC46D4F-89CC-4CE6-A336-926E8DD68E56}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\husain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\husain
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: La grande mosqu&eacute;e Al Fateh est le plus grand lieu de culte de Bahre&iuml;n et l'une des plus grandes mosqu&eacute;es du monde. Il a &eacute;t&eacute; construit sous le patronage de feu Cheikh Isa bin Salman Al Khalifa en 1987 et porte le nom d'Ahmed Al Fateh. Avec ses murs magnifiquement orn&eacute;s de calligraphie coufique, la mosqu&eacute;e peut accueillir jusqu'&agrave; 7 000 fid&egrave;les et est couronn&eacute;e d'un grand d&ocirc;me en ﬁbre de verre.
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: Mosquée Al Fateh
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8619ec2-e3bb-4ea3-a8d5-69a60a5517a8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230218Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T211540Z
+    - ID: "34e6fce4-6bb5-4ff2-97ee-60de07c0b4d6"
+      Hint: Categories
+      Value: "{0CC46D4F-89CC-4CE6-A336-926E8DD68E56}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\husain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\husain
+    - ID: "616ee9fc-5a6d-4428-b8ea-378e9a9457cd"
+      Hint: SubText
+      Value: "Великая мечеть Аль-Фатех является крупнейшим местом отправления культа в Бахрейне и одной из самых больших мечетей в мире. Он был построен под покровительством покойного шейха Исы бин Салмана Аль Халифы в 1987 году и назван в честь Ахмеда Аль Фатеха. Со стенами, красиво украшенными куфической каллиграфией, мечеть вмещает до 7000 верующих и увенчана большим куполом из стекловолокна."
+    - ID: "6586485f-5b9a-422b-974e-1818e438cdf6"
+      Hint: Heading
+      Value: "Мечеть Аль-Фатех"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bb94cc76-7cfe-4e87-b0b9-7a63d79370b1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230218Z

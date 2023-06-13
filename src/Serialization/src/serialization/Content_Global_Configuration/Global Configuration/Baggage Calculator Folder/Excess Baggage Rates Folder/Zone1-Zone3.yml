@@ -1,0 +1,232 @@
+﻿---
+ID: "6fea4ae9-501d-4a39-9ae0-d750149a3747"
+Parent: "dd25906c-1c35-4a13-a9c0-aa5fd5ccfe46"
+Template: "07a294a2-6d9f-449e-9120-378f2d6e6606"
+Path: "/sitecore/content/Global Configuration/Baggage Calculator Folder/Excess Baggage Rates Folder/Zone1-Zone3"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "bc439980-c8fc-4910-9049-994ed3a441d5"
+  Hint: Origin
+  Value: "{9837E584-2CEE-414B-9E01-CF326CA70A03}"
+- ID: "e30e272d-8bde-466f-92e2-5e01f543549c"
+  Hint: Destination
+  Value: "{50932709-59FC-4284-850D-56B60762C787}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03eb86d6-74d2-4363-b14e-cabea7139341"
+      Hint: EconomyChargesCallCenter
+      Value: 140
+    - ID: "0737b04e-2bb9-484d-9ef0-0f5163b6a3e3"
+      Hint: FalconChargesCallCenter
+      Value: 200
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230403T070357Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "64affcb7-2bf7-4ebd-a2ec-ef9d99984641"
+      Hint: EconomyChargesAirport
+      Value: 165
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "82860dc4-93aa-4fc1-9274-ed9d282c3ef1"
+    - ID: "97f3b7d2-6b2a-4b75-bcc9-ff816ea28986"
+      Hint: FalconChargesWebsite
+      Value: 180
+    - ID: "a0c1bb39-657c-4499-b599-3bea90a6a529"
+      Hint: EconomyChargesWebsite
+      Value: 130
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230426T071437Z
+    - ID: "e7f01471-8166-451a-a97d-34239f131cb2"
+      Hint: FalconChargesAirport
+      Value: 240
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03eb86d6-74d2-4363-b14e-cabea7139341"
+      Hint: EconomyChargesCallCenter
+      Value: 140
+    - ID: "0737b04e-2bb9-484d-9ef0-0f5163b6a3e3"
+      Hint: FalconChargesCallCenter
+      Value: 200
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230601T130437Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilal
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilal
+    - ID: "64affcb7-2bf7-4ebd-a2ec-ef9d99984641"
+      Hint: EconomyChargesAirport
+      Value: 165
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "967d8736-8f53-49ae-b41e-ba6617cfd7ac"
+    - ID: "97f3b7d2-6b2a-4b75-bcc9-ff816ea28986"
+      Hint: FalconChargesWebsite
+      Value: 180
+    - ID: "a0c1bb39-657c-4499-b599-3bea90a6a529"
+      Hint: EconomyChargesWebsite
+      Value: 130
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilal
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230601T130532Z
+    - ID: "e7f01471-8166-451a-a97d-34239f131cb2"
+      Hint: FalconChargesAirport
+      Value: 240
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03eb86d6-74d2-4363-b14e-cabea7139341"
+      Hint: EconomyChargesCallCenter
+      Value: 140
+    - ID: "0737b04e-2bb9-484d-9ef0-0f5163b6a3e3"
+      Hint: FalconChargesCallCenter
+      Value: 200
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230403T070357Z
+    - ID: "64affcb7-2bf7-4ebd-a2ec-ef9d99984641"
+      Hint: EconomyChargesAirport
+      Value: 165
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8949441-b652-4d30-82e7-6649efa2b63e"
+    - ID: "97f3b7d2-6b2a-4b75-bcc9-ff816ea28986"
+      Hint: FalconChargesWebsite
+      Value: 180
+    - ID: "a0c1bb39-657c-4499-b599-3bea90a6a529"
+      Hint: EconomyChargesWebsite
+      Value: 130
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230403T070759Z
+    - ID: "e7f01471-8166-451a-a97d-34239f131cb2"
+      Hint: FalconChargesAirport
+      Value: 240
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03eb86d6-74d2-4363-b14e-cabea7139341"
+      Hint: EconomyChargesCallCenter
+      Value: 140
+    - ID: "0737b04e-2bb9-484d-9ef0-0f5163b6a3e3"
+      Hint: FalconChargesCallCenter
+      Value: 200
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230601T130413Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilal
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilal
+    - ID: "64affcb7-2bf7-4ebd-a2ec-ef9d99984641"
+      Hint: EconomyChargesAirport
+      Value: 165
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3e328c8-c081-447b-bd48-28df9a0dce79"
+    - ID: "97f3b7d2-6b2a-4b75-bcc9-ff816ea28986"
+      Hint: FalconChargesWebsite
+      Value: 180
+    - ID: "a0c1bb39-657c-4499-b599-3bea90a6a529"
+      Hint: EconomyChargesWebsite
+      Value: 130
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilal
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230601T130431Z
+    - ID: "e7f01471-8166-451a-a97d-34239f131cb2"
+      Hint: FalconChargesAirport
+      Value: 240
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03eb86d6-74d2-4363-b14e-cabea7139341"
+      Hint: EconomyChargesCallCenter
+      Value: 140
+    - ID: "0737b04e-2bb9-484d-9ef0-0f5163b6a3e3"
+      Hint: FalconChargesCallCenter
+      Value: 200
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230601T130538Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilal
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilal
+    - ID: "64affcb7-2bf7-4ebd-a2ec-ef9d99984641"
+      Hint: EconomyChargesAirport
+      Value: 165
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0808ed75-abaf-4c0f-9f09-06052cebb9ef"
+    - ID: "97f3b7d2-6b2a-4b75-bcc9-ff816ea28986"
+      Hint: FalconChargesWebsite
+      Value: 180
+    - ID: "a0c1bb39-657c-4499-b599-3bea90a6a529"
+      Hint: EconomyChargesWebsite
+      Value: 130
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilal
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230601T130554Z
+    - ID: "e7f01471-8166-451a-a97d-34239f131cb2"
+      Hint: FalconChargesAirport
+      Value: 240

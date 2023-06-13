@@ -1,0 +1,193 @@
+﻿---
+ID: "5424de26-8364-425a-b171-9694494f4cad"
+Parent: "cc9383d8-5531-4cb6-aacc-9ea3f0434f2e"
+Template: "c057a658-4a90-4a0e-9c94-aab0e82442f9"
+Path: "/sitecore/content/Global/Global CTA Banner V2 Folder/prepaid-lounge-access/Bahrain Falcon gold lounges - Falcon gold lounges"
+SharedFields:
+- ID: "28a80a04-5b1d-46a2-9ed9-12be41fcc0e7"
+  Hint: Image
+  Value: |
+    <image width="1000" height="494" alt="DSC03028.JPG" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/8954c47efdae4669a85b17d31e6ea528?v=5721d6e4" stylelabs-content-id="58163" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/58163/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: <p><strong>تؤمن هذه القاعات لركابنا المميزين الراحة والخصوصية وخدمة منفردة لا مثيل لها في أجواء فخمة بالفعل.</strong></p>
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: "<p>لا تقتصر تجربة طيران الخليج على السماء - إنها تبدأ على الأرض، في قاعات فالكون جولد المخصصة، والمتاحة في الوجهات الرئيسية على شبكتنا.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T122130Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link text="اكتشف المزيد" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cbf9c9a8-1cec-4574-8373-1a8f05847538"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: قاعات الصقر الذهبي لطيران الخليج
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225859Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: "<p><strong>Diese Lounges verw&ouml;hnen Premium-G&auml;ste mit Komfort, Privatsph&auml;re und unvergleichlichem pers&ouml;nlichen Service in einem wahrhaft luxuri&ouml;sen Ambiente.</strong></p>"
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: "<p>Das Gulf Air Erlebnis ist nicht auf den Flug beschränkt - es beginnt schon am Boden, in unseren speziellen Falcon Gold Lounges, die an bedeutenden Zielen unseres Netzwerks zur Verfügung stehen.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T121439Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link text="Entdecken Sie Moé" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fa33e5f0-bc8d-4a87-8d64-c299c76e5292"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Falcon Gold Lounge
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225859Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: <p><strong>These lounges provide premium passengers with comfort, privacy and unmatched individual service in truly luxurious settings</strong></p>
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: "<p>The Gulf Air experience is not confined to the sky - it begins on the ground, in our dedicated Falcon Gold lounges, available in major destinations on our network</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T121439Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link text="Discover More" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1630db89-6f11-4e79-9157-ddd866346292"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Gulf Air Falcon Gold lounges
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T115904Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: <p><strong>Ces salons offrent &agrave; nos passagers de classes premium un confort, une intimit&eacute; et un service personnalis&eacute; sans &eacute;quivalent, dans un cadre vraiment luxueux.</strong></p>
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: "<p>Les services Gulf Air ne se limitent pas à votre vol - ils commencent au sol, dans nos salons dédiés Falcon Gold, disponibles dans les principales destinations de notre réseau.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T121439Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link text="Découvrez Moé" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a15640d-45ef-47a3-8e60-a85ddd9c515e"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Salon FalconGold
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225859Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: "<p><strong>В этих залах ожидания пассажиров премиум-класса ожидает комфорт, уединение и ни с чем не сравнимое индивидуальное обслуживание в элегантной обстановке.</strong></p>"
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: <p>Гостеприимство авиакомпании Gulf Air не ограничивается радушным приемом на борту. К вашим услугам также специальные залы ожидания Falcon Gold , которые предлагаются в основных пунктах назначения нашей сети сообщений</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T121439Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link text="Откройте для себя Мо" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81dfb30c-6d63-4393-88f1-e890bad30f7f"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Зал Ожидания FalconGold
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225859Z

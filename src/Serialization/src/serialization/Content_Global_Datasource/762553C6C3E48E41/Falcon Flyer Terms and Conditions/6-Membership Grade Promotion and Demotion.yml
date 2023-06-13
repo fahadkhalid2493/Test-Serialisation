@@ -1,0 +1,49 @@
+﻿---
+ID: "29114638-62d1-4fbb-bdc1-ebe07b245253"
+Parent: "31eacd34-875c-4814-b1a6-fbcfc231effe"
+Template: "5ccfccdf-b51d-47cc-8200-acd509f076d9"
+Path: "/sitecore/content/Global/Global Accordian With Page Slider Folder/Falcon Flyer Terms and Conditions/Falcon Flyer Terms and Conditions/6-Membership Grade Promotion and Demotion"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230612T075210Z
+    - ID: "2623820d-1b17-4be5-a84b-e5201ac08f85"
+      Hint: Description
+      Value: |
+        <ol>
+            <li><span style="color: #212529;">As soon as a Member's Account shows a cumulative Loyalty Point total equal to or over the number required for Silver, Gold&nbsp;or Black membership (earned during the previous 12 months or less&nbsp;for Silver &amp; Gold and&nbsp;24 months for Black ), the Member will immediately be promoted to the relevant level and a new Card will be issued. New Silver membership status is then valid for one year,&nbsp;Gold and Black&nbsp;membership status is valid for two years.</span></li>
+            <li><span style="color: #212529;">Prior to the expiry date for all Cards, the cumulative Loyalty Points earned will be compared with the level required to maintain membership at the same level. If sufficient Loyalty Points have been earned at the time of renewal over the previous 12 months for Silver and 24 months for Gold and Black, the Member's Card will be renewed at the same level.&nbsp; Silver membership will be valid for 12 months,&nbsp;Black and Gold membership&nbsp;will be valid for&nbsp;24 months from the date of renewal.</span></li>
+            <li><span style="color: #212529;">If the required level of Loyalty Points has not been maintained, the Member's Card will be renewed at the relevant (lower) level. If no Loyalty Points have been earned over the previous 12 months for Silver,&nbsp;24 months for Gold and Black, Gulf Air reserves the right not to renew the Member's Card.</span></li>
+        </ol>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ghazijawad
+    - ID: "5a4499d3-dbd1-4db1-8ba8-6f08064b02fc"
+      Hint: Heading
+      Value: 6. Membership Grade Promotion and Demotion
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a0603b3-8a6e-49b4-b7d9-0a66abc00f6f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230612T075241Z

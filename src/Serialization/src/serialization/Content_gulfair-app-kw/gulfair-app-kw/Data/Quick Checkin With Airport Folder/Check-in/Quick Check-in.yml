@@ -1,0 +1,268 @@
+﻿---
+ID: "43a11f10-de1c-40ae-bf54-fd7db0dc2193"
+Parent: "46f29a4f-adbd-433e-bd65-a7d386d48e5b"
+Template: "843780df-01c6-4315-b613-9b91eb94fa61"
+Path: "/sitecore/content/gulfair-app-kw/Data/Quick Checkin With Airport Folder/Check-in/Quick Check-in"
+SharedFields:
+- ID: "3a4efbde-a76f-4c70-9bdd-272f7d1cdfa8"
+  Hint: Airports
+  Value: |
+    {CD6382D4-6AA8-4A59-80BC-097772BDEDFC}
+    {02930019-C905-4288-A054-376FB371090F}
+    {6651AB1D-CCD5-49B5-A232-2684AF4C5FD9}
+    {2FF6AC3B-A129-4B2A-89F9-03474B8C5EF3}
+    {A20D07B6-71EB-4B21-9E91-B7A6E89A9638}
+- ID: "95f56ab7-4d4d-4d6f-b700-c5da35c89276"
+  Hint: BookingReferenceField
+  Value: "{27F07553-5103-4663-B266-17F0274093A1}"
+- ID: "fd91921e-48ae-4b00-8f32-d3c26a5b2fc4"
+  Hint: LastNameField
+  Value: "{D9C3373B-7138-449E-BABA-3CCF0D66FDC7}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: |
+        <link text="Submit" linktype="external" url="https://dx.ci13.cert.aws.sabre.com/dx/GFCI/#/check-in/deep-link?deepLink=true&amp;locale=en-US&amp;recordLocator={booking_reference}&amp;lastName={last_name}" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230130T082445Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "64895d87-1b9a-4edd-9346-db0948aaf0f6"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: "Check-in online"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c89e724-1e4b-4fa2-9326-0f24cfa9d2ed"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230511T103134Z
+  - Version: 2
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: |
+        <link text="Submit" linktype="external" url="https://dx.ci13.cert.aws.sabre.com/dx/GFCI/#/check-in/deep-link?deepLink=true&amp;locale=en-US&amp;recordLocator={booking_reference}&amp;lastName={last_name}" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103303Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "64895d87-1b9a-4edd-9346-db0948aaf0f6"
+      Hint: SubText
+      Value: 
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: "Check-in online"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4c5648c-22fa-4b8e-9103-abb1a0730b29"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103303Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230511T103126Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: |
+        <link text="Submit" linktype="external" url="https://dx.ci13.cert.aws.sabre.com/dx/GFCI/#/check-in/deep-link?deepLink=true&amp;locale=en-US&amp;recordLocator={booking_reference}&amp;lastName={last_name}" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: "Check-in online"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1908525e-3bcb-42b2-a921-c245b78f6062"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103314Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230511T103105Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: |
+        <link text="Submit" linktype="external" url="https://dx.ci13.cert.aws.sabre.com/dx/GFCI/#/check-in/deep-link?deepLink=true&amp;locale=en-US&amp;recordLocator={booking_reference}&amp;lastName={last_name}" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230130T082445Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "64895d87-1b9a-4edd-9346-db0948aaf0f6"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: "Check-in online"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "daaf42d9-7bc2-4e3f-9057-cd72b979685e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230511T103048Z
+  - Version: 2
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: |
+        <link text="Submit" linktype="external" url="https://dx.ci13.cert.aws.sabre.com/dx/GFCI/#/check-in/deep-link?deepLink=true&amp;locale=en-US&amp;recordLocator={booking_reference}&amp;lastName={last_name}" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "64895d87-1b9a-4edd-9346-db0948aaf0f6"
+      Hint: SubText
+      Value: 
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: "Check-in online"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a7327dfc-47d8-40ba-9386-3c039cdb349d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103314Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230511T103035Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: |
+        <link text="Submit" linktype="external" url="https://dx.ci13.cert.aws.sabre.com/dx/GFCI/#/check-in/deep-link?deepLink=true&amp;locale=en-US&amp;recordLocator={booking_reference}&amp;lastName={last_name}" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: "Check-in online"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d34c3256-439f-4242-9734-c7d207c5f42a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103314Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230511T103113Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: |
+        <link text="Submit" linktype="external" url="https://dx.ci13.cert.aws.sabre.com/dx/GFCI/#/check-in/deep-link?deepLink=true&amp;locale=en-US&amp;recordLocator={booking_reference}&amp;lastName={last_name}" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230223T103314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: "Check-in online"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0bbc2151-b3b6-4f4e-9e98-65521d8c9515"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230223T103314Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230511T103120Z

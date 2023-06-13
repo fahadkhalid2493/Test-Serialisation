@@ -1,0 +1,176 @@
+﻿---
+ID: "ca352de5-fcaf-4ad0-bd6d-c2971cdca32f"
+Parent: "20966d1d-8845-4a20-8f3c-88f681ba0512"
+Template: "684e368f-1ca6-4ac2-83c6-7da41e5c44e1"
+Path: /sitecore/content/Global Configuration/Form Fields/TripType
+SharedFields:
+- ID: "5c417257-9ed6-4332-b8b2-f62f694f0b88"
+  Hint: List
+  Value: |
+    {FD98B8A0-6D3E-48A7-9DCD-802CBD8E723F}
+    {FDED15D9-4BBC-4496-92F7-E28C6CD6BE97}
+    {B3E444FE-CD4E-431B-B50E-F7D4DD95FBDE}
+    {B9ABB235-A9B6-48F9-ACA4-C8E786B03093}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230125T074614Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "53b2cac8-026d-4db4-9ef0-a33e4a7fd26c"
+      Hint: Label
+      Value: نوع الرحلة
+    - ID: "5843c54b-f2df-4d90-9b10-de0ce88156b5"
+      Hint: Placeholder
+      Value: نوع الرحلة
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "61962b7c-a711-492e-ac77-3b01b52772e6"
+      Hint: Error
+      Value: Trip Type is required
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc51c7a0-d7c2-4f73-acda-7cacc2296230"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230510T161759Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230125T074614Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "53b2cac8-026d-4db4-9ef0-a33e4a7fd26c"
+      Hint: Label
+      Value: Reisetyp
+    - ID: "5843c54b-f2df-4d90-9b10-de0ce88156b5"
+      Hint: Placeholder
+      Value: Reisetyp
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "61962b7c-a711-492e-ac77-3b01b52772e6"
+      Hint: Error
+      Value: Trip Type is required
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4ae4bb81-bdac-4cf9-8888-fa5ef3c5873a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230510T161812Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230125T074614Z
+    - ID: "53b2cac8-026d-4db4-9ef0-a33e4a7fd26c"
+      Hint: Label
+      Value: Trip type
+    - ID: "5843c54b-f2df-4d90-9b10-de0ce88156b5"
+      Hint: Placeholder
+      Value: Trip type
+    - ID: "61962b7c-a711-492e-ac77-3b01b52772e6"
+      Hint: Error
+      Value: Trip type is required
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7cda7026-5922-4f9d-a8ad-95b297319eee"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hassanfarooq
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T065310Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230125T074614Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "53b2cac8-026d-4db4-9ef0-a33e4a7fd26c"
+      Hint: Label
+      Value: Type de voyage
+    - ID: "5843c54b-f2df-4d90-9b10-de0ce88156b5"
+      Hint: Placeholder
+      Value: Type de voyage
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "61962b7c-a711-492e-ac77-3b01b52772e6"
+      Hint: Error
+      Value: Trip Type is required
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9ae0604-b49e-48b1-8e6e-39cb0262ebd6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230510T161805Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230125T074614Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "53b2cac8-026d-4db4-9ef0-a33e4a7fd26c"
+      Hint: Label
+      Value: Тип поездки
+    - ID: "5843c54b-f2df-4d90-9b10-de0ce88156b5"
+      Hint: Placeholder
+      Value: Тип поездки
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "61962b7c-a711-492e-ac77-3b01b52772e6"
+      Hint: Error
+      Value: Trip Type is required
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a42c348-a135-412f-9511-d9d14fab0715"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230510T161818Z

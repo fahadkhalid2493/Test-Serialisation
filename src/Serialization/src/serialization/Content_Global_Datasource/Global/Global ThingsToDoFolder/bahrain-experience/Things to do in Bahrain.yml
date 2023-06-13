@@ -1,0 +1,224 @@
+﻿---
+ID: "caf10c8c-f8da-4e57-9bda-cee5ce5a6932"
+Parent: "d8684026-5c56-4a36-94f5-575beba929d1"
+Template: "ff0447f1-ddb1-41dc-89a2-b4174a3a7c92"
+Path: "/sitecore/content/Global/Global ThingsToDoFolder/bahrain-experience/Things to do in Bahrain"
+SharedFields:
+- ID: "10f11400-3f7b-4698-a908-641581943ca0"
+  Hint: CategoryList
+  Value: |
+    {0CEECB5E-DA6F-4DAC-98B5-A2EAE6363092}
+    {0CC46D4F-89CC-4CE6-A336-926E8DD68E56}
+    {0EE02A29-029E-4B36-A4A0-5431FD38323C}
+    {07986B14-9588-4CE3-AD0E-49B325F18E4F}
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "cf87633a-8130-4e08-9a9b-15d407446b03"
+  Hint: TileList
+  Value: |
+    {B23E55E5-0EE8-401D-A4BA-05B2D74137FE}
+    {846D5DB3-5FA2-4FA4-839E-7C52D4AAAD0B}
+    {BBD0EA67-2A9C-4712-8ECE-F1D99419B3A8}
+    {8083313C-445F-415C-9CE8-2FFAC3BD0684}
+    {ACC594EF-7CAF-4B0B-932F-B06697C91515}
+    {6FE07048-99E9-44D6-BE78-6F408C878FCD}
+    {5B29D948-3782-4DC4-9E96-40CF1AB15493}
+    {5F6E2B6A-3694-47BF-AF7A-ED7919AF9100}
+    {03543AAF-B3D8-49E0-B03C-DE0CE9280D0D}
+    {979464E0-8625-48A1-B9C2-9C97B7EF2AA3}
+    {EF022864-0962-4916-92C7-A163DA399C67}
+    {EBE995E2-2FF4-4395-8DBE-EC876E6B9389}
+    {6F2F4649-5615-42D2-8D1A-F3FACF807060}
+    {340604F2-DB27-4DE2-A373-9D6978B52A21}
+    {B4A6F550-CAF9-4B5F-BE78-D745180CDC3A}
+    {10FC8817-7668-4008-A03C-02279887680A}
+    {8CB58BE2-EC90-44C0-9FB5-F76DBC0C8D7F}
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - BAHRAIN DETAIL - Things to do parent"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T155951Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "57d63904-9096-47bc-85cb-93507a7e702f"
+      Hint: Heading
+      Value: أشياء للقيام بها في البحرين
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a21e99df-0a47-44bf-b00f-bf62605fc545"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T094037Z
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - BAHRAIN DETAIL - Things to do parent"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T155951Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "57d63904-9096-47bc-85cb-93507a7e702f"
+      Hint: Heading
+      Value: Überlegt, in Bahrain zu tun
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f3a378e-3977-468f-b833-5fe96cbaf79e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T110212Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T155951Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "57d63904-9096-47bc-85cb-93507a7e702f"
+      Hint: Heading
+      Value: Things to do in Bahrain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd93dc9b-89e7-43fe-a156-0ea198bebd72"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sayedhusain
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T090418Z
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - BAHRAIN DETAIL - Things to do parent"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T155951Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "57d63904-9096-47bc-85cb-93507a7e702f"
+      Hint: Heading
+      Value: Pense à faire à Bahreïn
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f008b4b2-dd70-4f77-9e9f-e3b7752c64c5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\husain
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T235803Z
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - BAHRAIN DETAIL - Things to do parent"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T155951Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "57d63904-9096-47bc-85cb-93507a7e702f"
+      Hint: Heading
+      Value: Думает сделать в Бахрейне
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b0be6a1-53a4-4e64-b60d-a0786c8c8d93"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sayedhusain
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T082319Z

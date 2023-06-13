@@ -1,0 +1,243 @@
+﻿---
+ID: "c6bfd2ab-8780-4a8b-a52d-e1741a446752"
+Parent: "f55068a3-2fd8-49c3-ac46-ac22e486c3d2"
+Template: "ccf252a7-d3e3-401a-95e5-b42bdf2c187a"
+Path: "/sitecore/content/gulfair-app-in/Data/Two Column Section Folder/HEalth and safety/TwoColumnSectionParent/Air Quality"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "709d2fac-25a4-45d5-8dc5-23703849e530"
+  Hint: Image
+  Value: |
+    <image width="640" height="329" alt="Generic Image.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/f6cd8e64fc3b4942a6d00be84c39cf3c?v=01636cc0" stylelabs-content-id="38258" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38258/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Air Quality
+    - ID: "0f3b38f7-9d77-4092-908e-1d07c0fe6a7c"
+      Hint: CTA2
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: |
+        <h4>Lorem ipsum dolor</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "7730c784-a54b-4dc1-9d92-dbdee9308d87"
+      Hint: SubHeading
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "581f9331-b29b-446f-9d93-3328591dc197"
+    - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
+      Hint: CTA1
+      Value: |
+        <link text="Learn More" linktype="external" url="/" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234117Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Air Quality
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: |
+        <h4>Lorem ipsum dolor</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc2688e7-caf5-4689-b315-2ee2ecbd54b7"
+    - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
+      Hint: CTA1
+      Value: |
+        <link text="Learn More" linktype="external" url="/" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234117Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Air Quality
+    - ID: "0f3b38f7-9d77-4092-908e-1d07c0fe6a7c"
+      Hint: CTA2
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: |
+        <h4>Lorem ipsum dolor</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "7730c784-a54b-4dc1-9d92-dbdee9308d87"
+      Hint: SubHeading
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1675d781-4281-40a7-8f35-24f8696329db"
+    - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
+      Hint: CTA1
+      Value: |
+        <link text="Learn More" linktype="external" url="/" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234117Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Air Quality
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: |
+        <h4>Lorem ipsum dolor</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b24a5f90-03c6-4138-80fe-86c7cdcf0faf"
+    - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
+      Hint: CTA1
+      Value: |
+        <link text="Learn More" linktype="external" url="/" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234117Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Air Quality
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: |
+        <h4>Lorem ipsum dolor</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230120T180829Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd321c3e-33db-457d-a8ac-1f8c15a8be07"
+    - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
+      Hint: CTA1
+      Value: |
+        <link text="Learn More" linktype="external" url="/" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234117Z

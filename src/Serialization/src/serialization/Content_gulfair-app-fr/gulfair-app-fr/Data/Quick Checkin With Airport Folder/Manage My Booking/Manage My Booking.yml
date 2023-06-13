@@ -1,0 +1,174 @@
+﻿---
+ID: "f633fd21-6115-41d9-aca4-2cfd77da94c1"
+Parent: "993c6742-4186-43ea-a763-cc749d62a16d"
+Template: "843780df-01c6-4315-b613-9b91eb94fa61"
+Path: "/sitecore/content/gulfair-app-fr/Data/Quick Checkin With Airport Folder/Manage My Booking/Manage My Booking"
+SharedFields:
+- ID: "95f56ab7-4d4d-4d6f-b700-c5da35c89276"
+  Hint: BookingReferenceField
+  Value: "{27F07553-5103-4663-B266-17F0274093A1}"
+- ID: "fd91921e-48ae-4b00-8f32-d3c26a5b2fc4"
+  Hint: LastNameField
+  Value: "{D9C3373B-7138-449E-BABA-3CCF0D66FDC7}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: Submit
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230130T122718Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "64895d87-1b9a-4edd-9346-db0948aaf0f6"
+      Hint: SubText
+      Value: Enter your passenger details to continue
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: Headline
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "123503de-14d5-4a6f-8709-0bb67841b2bf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230130T122820Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: Submit
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230130T082445Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: Explore our network
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0aae824-077d-4680-b3be-e782621cbf18"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120909Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: Submit
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230130T082445Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "64895d87-1b9a-4edd-9346-db0948aaf0f6"
+      Hint: SubText
+      Value: 
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: Explore our network
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77dbe24b-8fd8-4363-a9f7-fe612c82248b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230201T121503Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: Submit
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230130T082445Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: Explore our network
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "16911b15-8404-4096-86b8-db026f0c9a85"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T121206Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b566ab1-039a-44f5-a9e6-75b70f6226de"
+      Hint: Deeplink
+      Value: Submit
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230130T082445Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "795b613f-0fc7-4b2e-9b99-f50aa334efa5"
+      Hint: Heading
+      Value: Explore our network
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "60e382f8-ed17-4d6c-a5a0-1e3f8852f606"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T121602Z

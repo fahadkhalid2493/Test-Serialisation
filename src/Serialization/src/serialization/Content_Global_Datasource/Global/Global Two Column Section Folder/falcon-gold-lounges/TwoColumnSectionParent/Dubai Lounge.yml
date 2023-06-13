@@ -1,0 +1,189 @@
+﻿---
+ID: "693b5968-5bcc-4377-bf65-7aa99a060fb1"
+Parent: "84440c67-1ca1-4697-81c4-a27b8554e7cf"
+Template: "ccf252a7-d3e3-401a-95e5-b42bdf2c187a"
+Path: "/sitecore/content/Global/Global Two Column Section Folder/falcon-gold-lounges/TwoColumnSectionParent/Dubai Lounge"
+SharedFields:
+- ID: "709d2fac-25a4-45d5-8dc5-23703849e530"
+  Hint: Image
+  Value: |
+    <image width="922" height="664" alt="DXB Dubai Lounge" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/ef91890c1e884b9ea34b1ed051a1f415?v=8b18ef3e" stylelabs-content-id="50085" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/50085/thumbnail" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: قاعة الصقر الذهبي في دبي
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: |
+        <p>تقع قاعتنا المتميزة في مطار دبي الدولي في مبنى المسافرين رقم 1 في الطابق العلوي من السوق الحرة. تجمع مساحتنا الحميمة بين مزيج من مناطق الجلوس المريحة والدافئة.</p>
+        <p>قبل الصعود إلى الطائرة، استمتع بوجبة خفيفة من البوفيه الذي يقدم وجبات ساخنة أو من مطعم الوجبات الخفيفة الباردة والتي تضم مجموعة كبيرة من المشروبات الكحولية وغير الكحولية.</p>
+        <p>تضم القاعة عددًا من المرافق، وهي محطة مناسبة لجميع احتياجاتك. كما توجد منطقة عمل هادئة وغرفة تخزين وغرف للصلاة ومنطقة للتدخين.</p>
+        <p>استرخ في الصالة قبل رحلتك، فالصالة مفتوحة من الساعة 0500 حتى منتصف الليل يوميًا</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230310T162241Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "87dc7c5c-c48c-403c-b9b2-f230067b903c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230220Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Dubai Lounge
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: |
+        <p>Unsere Premium-Lounge am Dubai International Airport im Terminal 1 befindet sich auf der oberen Ebene des Duty-Free-Bereichs. Unser intimer Raum bietet eine Mischung aus gem&uuml;tlichen und komfortablen Sitzbereichen.</p>
+        <p>Genie&szlig;en Sie vor dem Einsteigen eine leichte Mahlzeit von unserem warmen Selbstbedienungsbuffet oder der Bar mit kalten Snacks, erg&auml;nzt durch eine gro&szlig;e Auswahl an alkoholischen und alkoholfreien Getr&auml;nken.</p>
+        <p>Die Lounge verf&uuml;gt &uuml;ber zahlreiche Annehmlichkeiten und ist ein idealer Ort f&uuml;r alle Ihre Bed&uuml;rfnisse. Es gibt einen ruhigen Arbeitsplatzbereich, einen Lagerraum, Gebetsr&auml;ume und einen Raucherbereich.</p>
+        <p>Entspannen Sie sich vor Ihrem Flug in unserer Lounge. Die Lounge ist t&auml;glich von 05:00 Uhr bis Mitternacht ge&ouml;ffnet.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230310T161958Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "72686a12-6b5d-40a4-b298-141e3130e7a3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230220Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Dubai Lounge
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: |
+        <p>Our premium lounge at Dubai International Airport  in Terminal 1 is located on the upper level of the Duty Free. Our intimate space combines a mix of cosy and comfortable seating areas.</p>
+        <p>Prior to boarding, enjoy a light meal from our self-service hot buffet or cold snack bar complimented by a wide range of alcoholic and non-alcoholic beverages.</p>
+        <p>Boasting a number of facilities, the lounge is a convenient stop for all your needs. There is a quiet workstation area, storage room, prayer rooms and smoking area.</p>
+        <p>Relax at our lounge before your flight. The lounge is open from 0500 to midnight daily.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230310T161813Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94975bca-fbab-4df9-97b1-c93346c12035"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230220Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Salon à Dubaï
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: |
+        <p>Notre salon premium &agrave; l&rsquo;A&eacute;roport International de Duba&iuml; au Terminal 1 se situe au niveau sup&eacute;rieur du Duty Free. Notre espace intime combine un m&eacute;lange d&rsquo;espaces assis cosy et confortables</p>
+        <p>Avant d&rsquo;embarquer, savourez un repas l&eacute;ger de notre buffet chaud libre-service ou d&rsquo;une collation froide avec un large choix de boissons avec ou sans alcool.</p>
+        <p>Gr&acirc;ce &agrave; un grand nombre d&rsquo;installations, le salon est un arr&ecirc;t pratique pour r&eacute;pondre &agrave; tous vos besoins. Il se compose d&rsquo;un espace de travail calme, d&rsquo;une pi&egrave;ce de stockage, de salles de pri&egrave;re et d&rsquo;un espace fumeur.</p>
+        <p>D&eacute;tendez-vous dans notre salon avec votre vol. Le salon est ouvert de 5h00 &agrave; minuit tous les jours.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230310T162107Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8ef065e5-dd24-410b-a057-7a1b63d6f910"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230220Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009b7f0e-d357-4c6a-8d21-36c174518aa5"
+      Hint: Heading
+      Value: Зал ожидания в Дубае
+    - ID: "24a462c2-e6ff-407a-b39e-0fb69abec6fc"
+      Hint: SubText
+      Value: |
+        <p>Наш зал ожидания премиум-класса в Международном аэропорту Дубая в Терминале 1 расположен на верхнем уровне зала Duty Free. В нашем уютном помещении сочетаются уютные и комфортабельные зоны отдыха.</p>
+        <p>Перед тем, как подняться на борт, насладитесь легкой едой из нашего горячего буфета самообслуживания или холодных закусок, дополненных широким ассортиментом алкогольных и безалкогольных напитков.</p>
+        <p>Зал ожидания с удобствами является удобным местом для всех ваших потребностей. В отеле есть зона для спокойной работы, камера хранения, молитвенные комнаты и место для курения.</p>
+        <p>Перед вылетом отдохните в нашем зале ожидания. Зал ожидания открыт ежедневно с 05:00 до полуночи.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230310T162148Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "696964eb-0d8d-49dc-89bf-458d4bbf0029"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230220Z

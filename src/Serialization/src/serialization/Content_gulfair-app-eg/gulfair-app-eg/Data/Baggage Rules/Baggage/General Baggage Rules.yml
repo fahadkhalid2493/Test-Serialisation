@@ -1,0 +1,76 @@
+﻿---
+ID: "caa26ff5-2579-4148-895b-5326847bc727"
+Parent: "2f26abb6-22e4-41e1-a87c-51d7af1e31dd"
+Template: "2eae1a73-ba48-4f90-add2-e995a4d19cf5"
+Path: "/sitecore/content/gulfair-app-eg/Data/Baggage Rules/Baggage/General Baggage Rules"
+SharedFields:
+- ID: "b18bf9e0-8851-43ad-864d-e4b1bd315cef"
+  Hint: Icons
+  Value: |
+    {6ADCFDCE-0D68-438A-8A0A-4C4509E1A2BC}
+    {7409F3D3-33FF-40A2-BB30-C1E586D936AD}
+    {D2F18631-41DF-415B-B71B-B280C47F11E3}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05e1911f-b78b-4cd7-b888-21d5c33ca4ae"
+      Hint: SecondColumnTitle
+      Value: Not Allowed
+    - ID: "06bf497b-bb70-49ae-8372-7ac35d7257bc"
+      Hint: SecondColumnSubText
+      Value: |
+        <p>Lorem ipsum dolor sit amet</p>
+        <br />
+        <ul>
+            <li style="text-align: left;"><span>Irregular shaped baggage<br />
+            </span></li>
+            <li style="text-align: left;"><span>Blanket/fabric wrapped baggage</span></li>
+            <li style="text-align: left;"><span>Baggage without a flat surface (ball shaped)</span></li>
+            <li style="text-align: left;"><span>Matted woven/plastic baggage</span></li>
+            <li style="text-align: left;"><span>Bags with long, loose straps</span></li>
+        </ul>
+    - ID: "1ba5944c-3c6d-436c-b6ff-f42f612c1cf9"
+      Hint: Title
+      Value: General Baggage Rules
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T110051Z
+    - ID: "41992c2c-e507-42cb-8633-c727337317d2"
+      Hint: SubText
+      Value: <p>Your baggage allowance will depend on your ticket fare family, Falconflyer membership and final destination.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93a2906d-2dbb-4901-b1ee-47014c3ff8f5"
+    - ID: "a3a6db1d-1ce8-4436-b624-4174a659a4db"
+      Hint: Rules
+      Value: |
+        <ul>
+            <li style="margin-top:10px;"> Any item of baggage exceeding 158cm and less than 215cm shall be considered as &lsquo;Over Size&rsquo; baggage and must be charged as an extra piece of baggage.</li>
+            <li style="margin-top:10px;"> Boxes, suitcases, briefcases, bags, cardboard boxes, pre-packed electrical goods (except TVs) are acceptable for carriage; as long as they do not exceed the aforesaid dimensions. </li>
+            <li style="margin-top:10px;">Boxes, suitcases, cardboard boxes etc. can be wrapped in the plastic wrap provided at Airport wrapping facilities. </li>
+            <li style="margin-top:10px;"> TVs, with a maximum of 50 inches, in a pre-packed condition may be accepted as checked-in luggage. TVs larger than 50 inches should be shipped through cargo.</li>
+            <li style="margin-top:10px;"> All baggage over 23kgs must carry a Heavy Tag, with the actual weight clearly marked on the tag. The maximum weight of any single item of baggage must not exceed 32kgs. Any baggage heavier than 32kgs must be repacked and its weight reduced before acceptance (exceptions include mobility aids). Cabin baggage should be weighed and a cabin baggage label attached. </li>
+        </ul>
+    - ID: "af9959b9-e78a-4712-8242-696013b6a6b3"
+      Hint: FirstColumnSubText
+      Value: Lorem ipsum dolor sit amet
+    - ID: "b7740e27-4d6c-474a-a1c5-5d59e8841dce"
+      Hint: FirstColumnTitle
+      Value: Maximum Dimensions
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T140235Z

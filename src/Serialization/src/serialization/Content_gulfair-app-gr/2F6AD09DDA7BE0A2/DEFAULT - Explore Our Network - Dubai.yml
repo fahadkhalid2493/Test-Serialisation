@@ -1,0 +1,231 @@
+﻿---
+ID: "735962f3-505b-4ea6-8f99-1f17f41f65b3"
+Parent: "afdd3bab-8484-4d86-975c-67a86337bfe7"
+Template: "2c4c3d3f-2eed-43cf-b374-187a86eb8468"
+Path: "/sitecore/content/gulfair-app-gr/Data/Explore Our Network Folder/DEFAULT - Explore Our Network - Destination - Parent/DEFAULT - Explore Our Network - Dubai"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "7c4c8817-9955-4c41-b3ff-a6b1905f8de9"
+  Hint: TripType
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "a69d8ce3-df5a-4f7d-bad3-36c44bfefde9"
+  Hint: Image
+  Value: |
+    <image width="492" height="310" alt="card-event-img3.c871697c.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/4c24e50a0dc6460d9845f7d4f0dabde8?v=fd3b2c3c" stylelabs-content-id="33330" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/33330/thumbnail" />
+- ID: "abd372a6-e0e8-4e49-aa1a-3fdc3fe20eba"
+  Hint: Region
+  Value: "{1477C6C9-197B-4BA0-9F53-693AEB799AD4}"
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Explore Our Network - Dubai"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T085037Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f17646e7-9e8d-41d5-b654-ca9fbb82a49d"
+    - ID: "90736e96-26e8-4288-a818-5030da33b9e9"
+      Hint: SubText
+      Value: Economy From
+    - ID: "a7746a11-c6b2-42ed-bf0f-e4c80ad88fe8"
+      Hint: Price
+      Value: 950
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233802Z
+    - ID: "e28bb780-b2be-4658-800f-e119703baf5d"
+      Hint: Currency
+      Value: USD
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Explore Our Network - Dubai"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T085037Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "05d2ebf8-659c-4d6d-946b-10ac87a78767"
+    - ID: "90736e96-26e8-4288-a818-5030da33b9e9"
+      Hint: SubText
+      Value: Economy From
+    - ID: "a7746a11-c6b2-42ed-bf0f-e4c80ad88fe8"
+      Hint: Price
+      Value: 950
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233802Z
+    - ID: "e28bb780-b2be-4658-800f-e119703baf5d"
+      Hint: Currency
+      Value: USD
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Explore Our Network - Dubai"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T085037Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e1801832-800b-4130-af15-3cfa7202685b"
+    - ID: "90736e96-26e8-4288-a818-5030da33b9e9"
+      Hint: SubText
+      Value: Economy From
+    - ID: "a7746a11-c6b2-42ed-bf0f-e4c80ad88fe8"
+      Hint: Price
+      Value: 950
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233802Z
+    - ID: "e28bb780-b2be-4658-800f-e119703baf5d"
+      Hint: Currency
+      Value: USD
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Explore Our Network - Dubai"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T085037Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f7db05d-51e3-4fe6-ab41-d922d5978c06"
+    - ID: "90736e96-26e8-4288-a818-5030da33b9e9"
+      Hint: SubText
+      Value: Economy From
+    - ID: "a7746a11-c6b2-42ed-bf0f-e4c80ad88fe8"
+      Hint: Price
+      Value: 950
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233802Z
+    - ID: "e28bb780-b2be-4658-800f-e119703baf5d"
+      Hint: Currency
+      Value: USD
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - Explore Our Network - Dubai"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T085037Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "31ee17ed-98be-4bd2-8833-14b405af1bfe"
+    - ID: "90736e96-26e8-4288-a818-5030da33b9e9"
+      Hint: SubText
+      Value: Economy From
+    - ID: "a7746a11-c6b2-42ed-bf0f-e4c80ad88fe8"
+      Hint: Price
+      Value: 950
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T233802Z
+    - ID: "e28bb780-b2be-4658-800f-e119703baf5d"
+      Hint: Currency
+      Value: USD

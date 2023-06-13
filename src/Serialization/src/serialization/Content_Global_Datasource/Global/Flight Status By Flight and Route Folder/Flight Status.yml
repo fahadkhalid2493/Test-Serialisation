@@ -1,0 +1,241 @@
+﻿---
+ID: "3f7f3e6d-ab10-4b65-ab26-3c7bf05c4913"
+Parent: "a4bf6943-17b3-4f2d-84ce-d8433facc0bb"
+Template: "7ea6a558-d163-4b02-b290-83cdaf8ec29d"
+Path: /sitecore/content/Global/Flight Status By Flight and Route Folder/Flight Status
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230505T102040Z
+    - ID: "301e2022-cf91-45a9-a266-656e6db60c23"
+      Hint: Title
+      Value:  تحقق من حالة رحلتك 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{CE5A9C84-B796-475A-B914-1C439E18B43C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "6505a57d-a5f3-4f97-b522-996233133ada"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "68b44d6e-8db9-42fc-a7d7-1a117964d04f"
+      Hint: SectionHeading
+      Value:  ابق على اطلاع 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dc43d0f4-b86f-4613-9f92-3a841e98a235"
+    - ID: "b084e566-64b0-4d7e-a01d-1b73f6f09d02"
+      Hint: Note
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "b5025816-3877-4dd6-aff5-b16413586095"
+      Hint: SectionSubText
+      Value: احصل على تحديثات الرحلة المرسلة مباشرة إلى هاتفك أو الايميل الخاص بك.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T104344Z
+    - ID: "ff7ed842-135c-43a9-b6c9-59d488ae36fc"
+      Hint: URL
+      Value: "https://tracker.flightview.com/FVWebContent/?v=2.0&tag=/CustomerSetup/GulfAir/Custom"
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230505T102026Z
+    - ID: "301e2022-cf91-45a9-a266-656e6db60c23"
+      Hint: Title
+      Value: Überprüfen Sie Ihren Flugstatus
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{CE5A9C84-B796-475A-B914-1C439E18B43C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "6505a57d-a5f3-4f97-b522-996233133ada"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "68b44d6e-8db9-42fc-a7d7-1a117964d04f"
+      Hint: SectionHeading
+      Value: Bleib aktualisiert
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "86c2ed54-cfbf-4833-87ea-f2f23dd8bfb6"
+    - ID: "b084e566-64b0-4d7e-a01d-1b73f6f09d02"
+      Hint: Note
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "b5025816-3877-4dd6-aff5-b16413586095"
+      Hint: SectionSubText
+      Value: Holen Sie sich Flugaktualisierungen direkt an Ihr Telefon oder Posteingang.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T104329Z
+    - ID: "ff7ed842-135c-43a9-b6c9-59d488ae36fc"
+      Hint: URL
+      Value: "https://tracker.flightview.com/FVWebContent/?v=2.0&tag=/CustomerSetup/GulfAir/Custom"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230316T072837Z
+    - ID: "301e2022-cf91-45a9-a266-656e6db60c23"
+      Hint: Title
+      Value: Check Your Flight Status
+    - ID: "6505a57d-a5f3-4f97-b522-996233133ada"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "68b44d6e-8db9-42fc-a7d7-1a117964d04f"
+      Hint: SectionHeading
+      Value: Stay Updated
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "15bed9a3-f587-4f62-908e-f6322cfa53e5"
+    - ID: "b084e566-64b0-4d7e-a01d-1b73f6f09d02"
+      Hint: Note
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "b5025816-3877-4dd6-aff5-b16413586095"
+      Hint: SectionSubText
+      Value: Get flight updates sent directly to your phone or inbox
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T104321Z
+    - ID: "ff7ed842-135c-43a9-b6c9-59d488ae36fc"
+      Hint: URL
+      Value: "https://tracker.flightview.com/FVWebContent/?v=2.0&tag=/CustomerSetup/GulfAir/Custom"
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230505T102032Z
+    - ID: "301e2022-cf91-45a9-a266-656e6db60c23"
+      Hint: Title
+      Value: Vérifiez l'état de votre vol
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{CE5A9C84-B796-475A-B914-1C439E18B43C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "6505a57d-a5f3-4f97-b522-996233133ada"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "68b44d6e-8db9-42fc-a7d7-1a117964d04f"
+      Hint: SectionHeading
+      Value: Restez à jour
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca1bb29e-62b4-4366-9bb5-0360bd675634"
+    - ID: "b084e566-64b0-4d7e-a01d-1b73f6f09d02"
+      Hint: Note
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "b5025816-3877-4dd6-aff5-b16413586095"
+      Hint: SectionSubText
+      Value: Obtenez des mises à jour de vol envoyées directement à votre téléphone ou à votre boîte de réception.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T104350Z
+    - ID: "ff7ed842-135c-43a9-b6c9-59d488ae36fc"
+      Hint: URL
+      Value: "https://tracker.flightview.com/FVWebContent/?v=2.0&tag=/CustomerSetup/GulfAir/Custom"
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230505T102036Z
+    - ID: "301e2022-cf91-45a9-a266-656e6db60c23"
+      Hint: Title
+      Value: Проверьте статус рейса
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{CE5A9C84-B796-475A-B914-1C439E18B43C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "6505a57d-a5f3-4f97-b522-996233133ada"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "68b44d6e-8db9-42fc-a7d7-1a117964d04f"
+      Hint: SectionHeading
+      Value: Оставаться в курсе
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b0aef89-1321-4f3f-90f6-bcce9a223cad"
+    - ID: "b084e566-64b0-4d7e-a01d-1b73f6f09d02"
+      Hint: Note
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "b5025816-3877-4dd6-aff5-b16413586095"
+      Hint: SectionSubText
+      Value: Получите обновления полета непосредственно на ваш телефон или почтовый ящик.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T104356Z
+    - ID: "ff7ed842-135c-43a9-b6c9-59d488ae36fc"
+      Hint: URL
+      Value: "https://tracker.flightview.com/FVWebContent/?v=2.0&tag=/CustomerSetup/GulfAir/Custom"

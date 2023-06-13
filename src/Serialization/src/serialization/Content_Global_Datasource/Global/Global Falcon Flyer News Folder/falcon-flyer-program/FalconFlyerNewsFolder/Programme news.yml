@@ -1,0 +1,201 @@
+﻿---
+ID: "70cf32c7-81f1-4d5c-ad53-6760fdea6ece"
+Parent: "905e0c1f-5158-405d-b08b-4baeafc270ed"
+Template: "6e26270c-7ced-4652-ab7b-566f2ac9e41f"
+Path: "/sitecore/content/Global/Global Falcon Flyer News Folder/falcon-flyer-program/FalconFlyerNewsFolder/Programme news"
+SharedFields:
+- ID: "b92f071d-1def-46b6-a749-46efddbd6693"
+  Hint: CTAColor
+  Value: "{F64FADCC-6FB4-46AA-A947-751B7BF0A024}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "c1bb3e97-ab5a-421a-9678-19e1cd31bd8e"
+  Hint: Image
+  Value: |
+    <image width="500" height="500" alt="Montreal.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/ccba27e3506e4c17b4d0129e618c40bf?v=0f5a1d4d" stylelabs-content-id="50396" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/50396/thumbnail" />
+- ID: "f768fd8c-ee29-421c-8929-b5c21ac10c7b"
+  Hint: CTAType
+  Value: "{9E29A28B-7ED9-41A5-BE7D-66A986A44CC3}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4c09ef-8fae-43a9-ad1c-445a40ee2114"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T131238Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: أخبار البرنامج
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac8022dd-6de7-4cef-9867-6415d1a8437b"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: |
+        <p dir="RTL" style="text-align: right;"><span>يسعدنا أن نعلن عن شراكتنا الجديدة مع مونتريال للسيارات. يمكن لأعضاء فالكون </span><span>فلاير</span><span> الآن كسب الأميال مقابل مشترياتهم من مونتريال للسيارات</span></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225907Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4c09ef-8fae-43a9-ad1c-445a40ee2114"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T131238Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: Programmnachrichten
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "162e490c-2fbc-4d5c-b55a-4e5a3c2097da"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: |
+        <p>Laden Sie Points by NBB App herunter und registrieren Sie sich mit den gleichen Zugangsdaten auf Ihrem NBB Digital Banking-Konto.</p>
+        <p>Geben Sie Ihre Falconflyer-Nummer ein und senden Sie Ihre Anfrage. Die Meilen werden Ihrem Konto innerhalb von 2 bis 3 Werktagen gutgeschrieben. Das umzuwandelnde Mindestguthaben betr&auml;gt 100 Punkte (1 Punkt = 1 Falconflyer-Meile).</p>
+        <p>Weitere Einzelheiten zum Pr&auml;miensystem f&uuml;r NBB-Kredit- oder Prepaidkarten erhalten Sie unter der Rufnummer 17214433</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225907Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4c09ef-8fae-43a9-ad1c-445a40ee2114"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T131238Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: Programme news
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1888fefb-2776-481e-af45-f9fa61d46061"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: <p><span>We are pleased to announce our new partnership with Montreal Motors. Falconflyer members can now earn Miles for their purchases from Montreal Motor.</span></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225907Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4c09ef-8fae-43a9-ad1c-445a40ee2114"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T131238Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: Actualités du programme
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a71d6d4-4e8d-4e51-a83c-f9ba495a8a9f"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: |
+        <p>T&eacute;l&eacute;chargez et inscrivez-vous &agrave; Points by NBB App en utilisant les m&ecirc;mes informations d'identification sur votre compte BNB Digital Banking.</p>
+        <p>Entrez votre num&eacute;ro Falconflyer et soumettez votre demande. Les Miles seront cr&eacute;dit&eacute;s sur votre compte dans un d&eacute;lai de 2 &agrave; 3 jours ouvr&eacute;s. Le solde minimum &agrave; convertir est de 100 points (1 point = 1 mile Falconflyer).</p>
+        <p>Pour plus de d&eacute;tails sur le programme de r&eacute;compenses pour la carte de cr&eacute;dit ou pr&eacute;pay&eacute;e BNB, veuillez appeler le 17214433</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225907Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4c09ef-8fae-43a9-ad1c-445a40ee2114"
+      Hint: CTA
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T131238Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: Новости программы
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3280f203-feb0-4d35-bd98-004b7b21f8b4"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: |
+        <p>Загрузите и зарегистрируйтесь в приложении Points by NBB, используя те же учетные данные в своей учетной записи NBB Digital Banking.<br />
+        Выберите функцию Airmiles и выберите количество баллов,&nbsp;</p>
+        <p>. Мили будут зачислены на ваш счет в течение 2-3 рабочих дней. Минимальный баланс для конвертации составляет 100 баллов (1 балл = 1 миля Falconflyer).</p>
+        <p>Для получения дополнительной информации о схеме вознаграждения по кредитной или предоплаченной карте NBB, пожалуйста, позвоните по телефону 17214433.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225907Z

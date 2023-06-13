@@ -1,0 +1,106 @@
+﻿---
+ID: "a549ed27-d7fc-4421-a068-2f8a9dbbfaf2"
+Parent: "9c3088fe-6c2d-4404-a564-fcd1f7ab002f"
+Template: "8770006f-f915-4e1f-8e7d-b40071252955"
+Path: "/sitecore/content/gulfair-app-lk/home/about-gulf-air/media-center/gulf-air-ceo-opens-iatas-world-passenger-symposium-in-bahrain"
+SharedFields:
+- ID: "20959342-e658-408d-b70f-f4cbdb7f7c01"
+  Hint: Month
+  Value: "{C09A7C93-86BF-45C4-90B9-3156035A4622}"
+- ID: "3fadd799-f505-4f45-8130-bebd2faaf7fa"
+  Hint: Year
+  Value: "{916E6FA8-0C82-4A8A-BEF4-5CD354099956}"
+- ID: "6a328d2d-1bf1-455f-b098-af5445640bd2"
+  Hint: PostDate
+  Value: 20221101T000000Z
+- ID: "9053e908-a34a-4953-b417-ce752f7c57a3"
+  Hint: Type
+  Value: "{DD7209D8-0FAD-4DC9-AABB-F8F532E6F745}"
+- ID: "931607e8-d50d-406d-9dcc-cf37c447e7eb"
+  Hint: Image
+  Value: |
+    <image width="2420" height="1613" alt="Gulf Air CEO Opens IATA’s World Passenger Symposium in Bahrain.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/91800806c5614cf38148e693321b9960?v=2fed1172" stylelabs-content-id="45800" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/45800/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "d26a428b-8f37-4ae7-bd6c-1126664c4031"
+  Hint: AvailableLanguages
+  Value: "{AE2B1160-AEC8-400B-92BF-E4F2378F29C8}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{343FF428-30E7-47FC-8B7B-2C6C52730984}"
+          p:after="r[@uid='{78BCE695-62F3-465D-9ACF-B6E971121264}']"
+          s:ds="{CD7739A8-917B-43CA-B585-E29E9971A345}"
+          s:id="{2FAE24EB-118B-467A-A793-A565ECF56816}"
+          s:par=""
+          s:ph="jss-inner-banner"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{23BBCF6D-0406-4240-95DE-3345328380A5}"
+          p:after="*[1=2]"
+          s:ds="{AF836860-16F2-4492-A8A2-8E0539A9A39D}"
+          s:id="{B92E6411-5337-4FA7-B591-B233C1E52B91}"
+          s:par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          s:ph="/jss-header/jss-ga-header-bookingpanel-{78bce695-62f3-465d-9acf-b6e971121264}-0"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230411T110626Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Gulf Air CEO Opens IATA’s World Passenger Symposium in Bahrain
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "6799c71e-c57a-4b81-bc2e-1a7e97da57e6"
+      Hint: Description
+      Value: "Gulf Air Chief Executive Officer Captain Waleed Al Alawi opened the World Passenger Symposium today; an event organized by the International Air Transport Association (IATA) and hosted by the airline in Bahrain from 01 - 03 November 2022."
+    - ID: "7c7c6dc1-2411-5305-a0cc-e5f649af2c1e"
+      Hint: pageTitle
+      Value: Gulf Air CEO Opens IATA’s World Passenger Symposium in Bahrain
+    - ID: "87cdf5b8-f9d7-40e5-9efc-83c4535d084c"
+      Hint: Heading
+      Value: Gulf Air CEO Opens IATA’s World Passenger Symposium in Bahrain
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "939a3288-e517-491a-91a8-f37cfa3ee28a"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Gulf Air CEO Opens IATA’s World Passenger Symposium in Bahrain
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Gulf Air CEO Opens IATA’s World Passenger Symposium in Bahrain
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234712Z
+    - ID: "ffa6b30f-6ecc-4c36-8242-9faf7cab6704"
+      Hint: DetailDescription
+      Value: |
+        <p>Gulf Air Chief Executive Officer Captain Waleed Al Alawi opened the World Passenger Symposium today; an event organized by the International Air Transport Association (IATA) and hosted by the airline in Bahrain from 01 - 03 November 2022.</p>
+        <p>Captain Al Alawi welcomed the Kingdom&rsquo;s guests participating in the Symposium, highlighting the national carrier&rsquo;s keenness to support such events where aviation experts exchange their knowledge and expertise towards the future of the industry during the post pandemic phase. He also stressed that aviation is an integral part of the economy of Bahrain and reconnecting the world again is one of Gulf Air&rsquo;s key strategy elements; inviting all participants to benefit from the Symposium&rsquo;s sessions, and to enjoy everything the Kingdom has to offer.&nbsp;</p>
+        <p>The Symposium touches upon a number of important trends and issues in the aviation world today, with sessions ranging from Retailing &amp; Payment and Accessibility, to Airport &amp; Pax Experience; which will see panelists and participants discussing these issues in light of the aviation industry&rsquo;s variables in recent times.</p>

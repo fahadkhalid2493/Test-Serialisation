@@ -1,0 +1,30 @@
+﻿---
+ID: "ec81d7be-471f-4c2c-9c18-6ddd1f6dc08a"
+Parent: "6d665beb-c940-4f9c-b6a7-7dd564b2e3a8"
+Template: "900dca67-e9ee-4dfe-b77b-fbee53a61f15"
+Path: /sitecore/content/Global Configuration/Workflow Trigger Type Folder/On Approved
+SharedFields:
+- ID: "3f17d9ec-fa91-42f5-8222-e39971af6e80"
+  Hint: Secondary
+  Value: 2
+- ID: "67f88e26-f713-428c-9dd9-31b44a991765"
+  Hint: Primary
+  Value: Approver
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T105343Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e803f63a-963e-4bd2-ba12-debe7cb3cba7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shahbaz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230320T130113Z

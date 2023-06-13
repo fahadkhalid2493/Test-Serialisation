@@ -1,0 +1,181 @@
+﻿---
+ID: "e7a339e8-12f9-4494-90ef-645c715f2fd2"
+Parent: "1e6929b0-56a7-47bc-9dab-fd181a26e663"
+Template: "05d15730-eae4-491c-b945-137ef6920474"
+Path: /sitecore/content/Global/Global Information Tiles Folder/Baggage/Information Tiles/Traveling with other airlines
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "d07c6cf5-4e87-4fdc-b467-d8fa8e5e2fb2"
+  Hint: Image
+  Value: |
+    <image width="364" height="254" alt="TravelingWithOtherAirlines.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/081e18416b4f4384b4d0a9eb96f955b0?v=099b1b99" stylelabs-content-id="40714" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/40714/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="للمزيد من التفاصيل" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{9F44D879-2494-4944-8DAB-3F981CB67543}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dfb9f859-7dd3-411d-8396-9c4a6599e346"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: السفر مع شركات طيران أخرى
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>إذا كان مسار رحلتك مع شركة طيران الخليج يتضمن رحلات جوية تديرها شركات طيران أخرى، فقد تسري قواعد مختلفة متعلقة بالأمتعة. يُرجى فحص تذكرتك للتعرف على تفاصيل حول وزن الأمتعة المسموح به لكل رحلة طيران في مسار رحلتك.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225911Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="Mehr erfahren" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{9F44D879-2494-4944-8DAB-3F981CB67543}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "edf3c3d1-ff5c-4fa6-99ad-4e24d87c5e97"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Reisen mit anderen Fluggesellschaften
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: "<p>Ihre Gulf -Luftfahrt umfasst Fl&uuml;ge, die von anderen Fluggesellschaften betrieben werden. Es k&ouml;nnen unterschiedliche Gep&auml;ckregeln gelten. Bitte &uuml;berpr&uuml;fen Sie Ihr Ticket f&uuml;r Einzelheiten zu Ihrer Gep&auml;ckzusatz f&uuml;r jeden Flug in Ihrer Reiseroute.</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225911Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="Learn more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{9F44D879-2494-4944-8DAB-3F981CB67543}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5dd94592-b72b-4ad9-a60a-60cf77e40fbe"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Traveling With Other Airlines
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>Your Gulf Air itinerary includes flights operated by other airlines; different baggage rules may apply. Please check your ticket for details of your baggage allowance for each flight in your itinerary.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225911Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="Apprendre encore plus" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{9F44D879-2494-4944-8DAB-3F981CB67543}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9885957-0767-4b10-82d3-0f59ae7ae0d2"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Voyager avec d'autres compagnies aériennes
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>Votre itin&eacute;raire a&eacute;rien du Golfe comprend des vols exploit&eacute;s par d'autres compagnies a&eacute;riennes; Diff&eacute;rentes r&egrave;gles de bagages peuvent s'appliquer. Veuillez v&eacute;rifier votre billet pour plus de d&eacute;tails sur votre allocation de bagages pour chaque vol de votre itin&eacute;raire.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225911Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T103517Z
+    - ID: "453908c5-24ce-45a6-b436-e0b59dfc5a9d"
+      Hint: CTA
+      Value: |
+        <link text="Учить больше" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{9F44D879-2494-4944-8DAB-3F981CB67543}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9f16b16-58ce-46b3-a1c0-3c26a9b64bb0"
+    - ID: "b888eb28-95c3-4290-9a83-59539996087d"
+      Hint: Heading
+      Value: Путешествие с другими авиакомпаниями
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d35a592f-44ad-4533-9a24-eb4c6d7dac5b"
+      Hint: SubText
+      Value: <p>Ваш маршрут воздуха в Gulf включает в себя рейсы, управляемые другими авиакомпаниями; Различные правила багажа могут применяться. Пожалуйста, проверьте свой билет на получение подробной информации о вашем пособии на багаж для каждого рейса в вашем маршруте.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225911Z

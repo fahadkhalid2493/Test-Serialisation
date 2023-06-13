@@ -1,0 +1,224 @@
+﻿---
+ID: "7abae100-7e54-4552-bb87-bfb3b7e603a3"
+Parent: "4e3f91ac-2cc3-4bb4-8de4-9f7ef05928fb"
+Template: "3843b59f-b575-4431-aabb-927a481f5c4e"
+Path: "/sitecore/content/gulfair-app-ma/Data/Quick Support Folder/Home/Quick Support/DEFAULT - HOME - Traveling Requirements"
+SharedFields:
+- ID: "11f1bf07-bd09-4b87-a255-39b00b7cf8fd"
+  Hint: Image
+  Value: |
+    <image width="461" height="270" alt="travel-requirements.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/363ea12bd6794683ba164e57fd571741?v=7dcd82a0" stylelabs-content-id="36314" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/36314/thumbnail" />
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - Traveling Requirements"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T081016Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6c520a07-2b20-4359-9e5d-32248eb779b1"
+      Hint: SubText
+      Value: Allowances, excess baggage, claims and more
+    - ID: "86823dd0-5177-40d0-a6e2-0c41f1039d9a"
+      Hint: Summary
+      Value: <p>Allowances, excess baggage, claims and more</p>
+    - ID: "89938be5-ff85-4f5d-97cf-956d4636edad"
+      Hint: Heading
+      Value: Traveling Requirements
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76ab0bf2-3957-4f12-b795-e9ddf5e15bf6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234913Z
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - Traveling Requirements"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T081015Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "6c520a07-2b20-4359-9e5d-32248eb779b1"
+      Hint: SubText
+      Value: Allowances, excess baggage, claims and more
+    - ID: "86823dd0-5177-40d0-a6e2-0c41f1039d9a"
+      Hint: Summary
+      Value: <p>Allowances, excess baggage, claims and more</p>
+    - ID: "89938be5-ff85-4f5d-97cf-956d4636edad"
+      Hint: Heading
+      Value: Traveling Requirements
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "834728e0-4358-41fb-9d41-202483d6c8d7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234913Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - Traveling Requirements"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T081015Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "6c520a07-2b20-4359-9e5d-32248eb779b1"
+      Hint: SubText
+      Value: Allowances, excess baggage, claims and more
+    - ID: "86823dd0-5177-40d0-a6e2-0c41f1039d9a"
+      Hint: Summary
+      Value: <p>Allowances, excess baggage, claims and more</p>
+    - ID: "89938be5-ff85-4f5d-97cf-956d4636edad"
+      Hint: Heading
+      Value: Traveling Requirements
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7435f349-fac4-4de5-acb9-4911e4cc46d7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234913Z
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - Traveling Requirements"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T081015Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "6c520a07-2b20-4359-9e5d-32248eb779b1"
+      Hint: SubText
+      Value: Allowances, excess baggage, claims and more
+    - ID: "86823dd0-5177-40d0-a6e2-0c41f1039d9a"
+      Hint: Summary
+      Value: <p>Allowances, excess baggage, claims and more</p>
+    - ID: "89938be5-ff85-4f5d-97cf-956d4636edad"
+      Hint: Heading
+      Value: Traveling Requirements
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "acd5df77-cedd-4424-b6dd-caab65c5a2f6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234913Z
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "DEFAULT - HOME - Traveling Requirements"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T081015Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "6c520a07-2b20-4359-9e5d-32248eb779b1"
+      Hint: SubText
+      Value: Allowances, excess baggage, claims and more
+    - ID: "86823dd0-5177-40d0-a6e2-0c41f1039d9a"
+      Hint: Summary
+      Value: <p>Allowances, excess baggage, claims and more</p>
+    - ID: "89938be5-ff85-4f5d-97cf-956d4636edad"
+      Hint: Heading
+      Value: Traveling Requirements
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94d74271-0c4c-489a-b276-408a50fd2984"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234913Z

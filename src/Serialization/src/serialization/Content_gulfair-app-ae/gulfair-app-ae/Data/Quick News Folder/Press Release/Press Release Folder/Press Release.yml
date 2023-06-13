@@ -1,0 +1,71 @@
+﻿---
+ID: "eaa86f22-cb28-42f3-b8a7-34cc0823c682"
+Parent: "1be09c43-a178-4291-9ab9-3c3170f57ce0"
+Template: "7a55b73d-34e6-4028-9d17-a77639b03270"
+Path: "/sitecore/content/gulfair-app-ae/Data/Quick News Folder/Press Release/Press Release Folder/Press Release"
+SharedFields:
+- ID: "7bb8c599-615f-4624-8df2-7a0240ee0bba"
+  Hint: NewsList
+  Value: |
+    {FAB73362-0708-4FBF-8942-AAF52C8277E8}
+    {E5FFBAC0-73FF-453D-A374-081E885E5619}
+    {F89FE648-4A57-49A2-B8C6-7BFE21D89FE9}
+    {371E428F-C41F-4D0B-B255-5852FA506EE0}
+    {9AE592FB-DB08-4314-9959-75126A997D91}
+    {8E53AD28-61CC-4AE6-95B7-97CA9C2970B5}
+    {B0086D70-2B31-4BB7-8190-0911A2797161}
+    {A6580A1D-D043-46A5-9D93-608D43C54E7C}
+    {419F76CC-2E49-4760-864D-E1195145C242}
+    {C4780C49-DA1C-44D3-A03A-B3674428D108}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230303T075422Z
+    - ID: "549b9799-b58f-41cf-8579-1662079ec33f"
+      Hint: Year
+      Value: |
+        {245D42BD-A3FF-485F-9D5E-F42E76CBE2FA}
+        {916E6FA8-0C82-4A8A-BEF4-5CD354099956}
+        {2958F07D-9225-4100-BCB7-93746BDABAA6}
+        {A0486A29-44FA-4B10-8C8D-DAF2E8BD9B41}
+        {82EA7E48-177E-4120-872B-AC685FF1AE32}
+        {FC1E9F0C-2586-4A53-90A3-24260B6EDD98}
+        {C96EDACA-306B-404F-BBCA-8119DEEEB848}
+    - ID: "5d7a3ada-7a0c-4f7d-b9c1-4f5749b78bce"
+      Hint: Types
+      Value: 
+    - ID: "5dfb957c-3bfa-4641-a60b-55bbf5443543"
+      Hint: SubText
+      Value: Find Press Releases
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2b7856e8-dfd9-4941-adf2-210d0ba875c6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d23667b3-cf95-4ab2-8266-5ed37e810332"
+      Hint: Months
+      Value: |
+        {6351AABD-A6AE-48A9-ADBE-8D4D4E984C78}
+        {DD1228D9-A97D-4210-AD8D-BF7AEEDD6857}
+        {D98C0EF1-5309-49B9-B131-5A14B1E431B4}
+        {CC6E94DE-3BC4-4588-A36A-621B72B95823}
+        {A4F50FA5-520C-4EA6-BAFB-D90582BAC806}
+        {8BCF1277-907E-44C8-8907-9B4A98F0655D}
+        {201C9344-6A22-4B21-8274-B93314A5B8B1}
+        {8CED08A0-4618-4199-9A6A-F652B65B341A}
+        {DB760AC5-18D7-4107-8C4A-23F7028FFEA8}
+        {46CF98E7-9DD5-4722-A6F9-34BF98707544}
+        {C09A7C93-86BF-45C4-90B9-3156035A4622}
+        {091F09D7-EDD1-4652-B4C3-819E4284D0F0}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230608T015904Z
+    - ID: "da54b5c0-5a26-4ef4-903b-bad420a45ac6"
+      Hint: Heading
+      Value: Press Releases

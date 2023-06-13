@@ -1,0 +1,194 @@
+﻿---
+ID: "ed6134a1-40c2-4979-a84c-272f332b852f"
+Parent: "d922e8e3-85e1-4bf8-80e5-262638d777ce"
+Template: "9a6225d1-c00a-44a3-90b0-01506e5fd6da"
+Path: "/sitecore/content/gulfair-app-sa/Data/Two Column Content With CTA Folder/flight-upgrade/Two Column Content With CTA Style Two"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230201T101943Z
+    - ID: "4ff6f885-4fba-470d-8f97-b9bfb14bf880"
+      Hint: WhiteBoxTitle
+      Value: 
+    - ID: "50c97991-7100-4b59-91a1-00909eb7a702"
+      Hint: CTA
+      Value: |
+        <link text="Manage my booking" linktype="external" url="https://flights.gulfair.com/mmb" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "6f2b5182-ef35-4490-9815-27cb8513a21c"
+      Hint: GreyBoxTitle
+      Value: Lorem Ipsum
+    - ID: "82774a15-d104-4f60-b801-a3e49c4f2452"
+      Hint: GreyBoxDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum tincidunt eget in est, feugiat egestas nunc feugiat. Consequat interdum massa non dui augue.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e95513fa-3cb7-4006-a493-1191462237da"
+    - ID: "ab23807d-557c-4182-b1c9-3b16cc52cb29"
+      Hint: WhiteBoxDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T113122Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230201T101943Z
+    - ID: "50c97991-7100-4b59-91a1-00909eb7a702"
+      Hint: CTA
+      Value: |
+        <link text="Manage my booking" linktype="external" url="https://flights.gulfair.com/mmb" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "6f2b5182-ef35-4490-9815-27cb8513a21c"
+      Hint: GreyBoxTitle
+      Value: Lorem Ipsum
+    - ID: "82774a15-d104-4f60-b801-a3e49c4f2452"
+      Hint: GreyBoxDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum tincidunt eget in est, feugiat egestas nunc feugiat. Consequat interdum massa non dui augue.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94834541-4c91-4355-a41b-4bea5b087d9f"
+    - ID: "ab23807d-557c-4182-b1c9-3b16cc52cb29"
+      Hint: WhiteBoxDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T113122Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230201T101943Z
+    - ID: "4ff6f885-4fba-470d-8f97-b9bfb14bf880"
+      Hint: WhiteBoxTitle
+      Value: 
+    - ID: "50c97991-7100-4b59-91a1-00909eb7a702"
+      Hint: CTA
+      Value: |
+        <link text="Manage my booking" linktype="external" url="https://flights.gulfair.com/mmb" anchor="" target="_blank" />
+    - ID: "6f2b5182-ef35-4490-9815-27cb8513a21c"
+      Hint: GreyBoxTitle
+      Value: Lorem Ipsum
+    - ID: "82774a15-d104-4f60-b801-a3e49c4f2452"
+      Hint: GreyBoxDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum tincidunt eget in est, feugiat egestas nunc feugiat. Consequat interdum massa non dui augue.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a42b61c4-a77c-4f5b-9d24-b8864b8fd421"
+    - ID: "ab23807d-557c-4182-b1c9-3b16cc52cb29"
+      Hint: WhiteBoxDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T113122Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230201T101943Z
+    - ID: "50c97991-7100-4b59-91a1-00909eb7a702"
+      Hint: CTA
+      Value: |
+        <link text="Manage my booking" linktype="external" url="https://flights.gulfair.com/mmb" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "6f2b5182-ef35-4490-9815-27cb8513a21c"
+      Hint: GreyBoxTitle
+      Value: Lorem Ipsum
+    - ID: "82774a15-d104-4f60-b801-a3e49c4f2452"
+      Hint: GreyBoxDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum tincidunt eget in est, feugiat egestas nunc feugiat. Consequat interdum massa non dui augue.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4dc63711-e06c-4b19-adf9-aead589809dc"
+    - ID: "ab23807d-557c-4182-b1c9-3b16cc52cb29"
+      Hint: WhiteBoxDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T113122Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230201T101943Z
+    - ID: "50c97991-7100-4b59-91a1-00909eb7a702"
+      Hint: CTA
+      Value: |
+        <link text="Manage my booking" linktype="external" url="https://flights.gulfair.com/mmb" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "6f2b5182-ef35-4490-9815-27cb8513a21c"
+      Hint: GreyBoxTitle
+      Value: Lorem Ipsum
+    - ID: "82774a15-d104-4f60-b801-a3e49c4f2452"
+      Hint: GreyBoxDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sollicitudin arcu ultricies et dictumst auctor urna phasellus mattis. Libero tristique arcu pellentesque egestas habitasse viverra consectetur quis. Lobortis fermentum tincidunt eget in est, feugiat egestas nunc feugiat. Consequat interdum massa non dui augue.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8064ea23-911a-4506-867b-54f14df93d68"
+    - ID: "ab23807d-557c-4182-b1c9-3b16cc52cb29"
+      Hint: WhiteBoxDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T113122Z

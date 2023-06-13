@@ -1,0 +1,53 @@
+﻿---
+ID: "100e5da4-07a2-4611-9248-37d77aa55fe1"
+Parent: "d5612715-4cf5-44df-90e3-522c24a62299"
+Template: "9e373a70-97e3-453e-afdc-943c1e84528b"
+Path: "/sitecore/content/gulfair-app-cy/Data/Hero Banner Folder/Home/HeroBanner/Bahrain Lets Go BTEA Video"
+SharedFields:
+- ID: "49fcbce8-8b64-40c0-8c47-2386b4c57fc0"
+  Hint: VideoURL
+  Value: "https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/4178ac18f6164e73b777b1e5be2ed1e2?v=4e64e580"
+- ID: "85496249-7242-41ce-bfa8-e9989ee6094d"
+  Hint: MobileDuration
+  Value: 138
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "b06d181c-0380-4d1f-b620-1047706b81f7"
+  Hint: Duration
+  Value: 138
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+- ID: "d73f9e97-b314-4784-a478-7d7659a21d6a"
+  Hint: MobileVideoURL
+  Value: "https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/88d3132af5364d1cb34f401663426b2f?v=67f8a526"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T181012Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\husain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\husain
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7c92798c-9475-457a-8c4e-6c6192d9ad95"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T012843Z

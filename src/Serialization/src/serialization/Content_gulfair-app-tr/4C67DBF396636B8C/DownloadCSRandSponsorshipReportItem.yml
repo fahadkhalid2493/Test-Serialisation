@@ -1,0 +1,201 @@
+﻿---
+ID: "e0827a29-5907-437d-9b71-0ca98c0da4b0"
+Parent: "416d353b-0271-4a4a-ba91-8287d91ad581"
+Template: "ee6e2b78-d27a-4f49-9d2a-e1fec4429651"
+Path: "/sitecore/content/gulfair-app-tr/Data/Download CSR and Sponsorship Report Folder/Corporate Social Responsibility/DownloadCSRandSponsorshipReportItem"
+SharedFields:
+- ID: "48e1cf3a-c354-4478-aa3e-4bfb940d9fee"
+  Hint: DownloadIcon
+  Value: |
+    <image width="16" height="16" alt="download-icon-white.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/d6c642a70553480ca367a7e070dc68c0?v=29e78089" stylelabs-content-id="39097" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39097/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04a28e7d-ad98-4c05-9342-3f8bf2359644"
+      Hint: CardHeading
+      Value: Download CSR and Sponsorship Report
+    - ID: "1d984016-d33d-43d4-b44c-fc88e1061110"
+      Hint: SubHeading
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T130852Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "55b082b7-0b8d-4fcb-80f6-d0c4c3f1f992"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cf23ed14-9dbe-437d-8019-f17d31f5f4a5"
+      Hint: DownloadCTA
+      Value: |
+        <link text="Download Report" linktype="media" target="" id="{61B95578-D0B0-5A90-8C2D-711EB9B8604C}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000448Z
+    - ID: "ed3b3615-c048-4b51-aecd-c34bfed18870"
+      Hint: Heading
+      Value: Lorem ipsum dolor sit.
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04a28e7d-ad98-4c05-9342-3f8bf2359644"
+      Hint: CardHeading
+      Value: Download CSR and Sponsorship Report
+    - ID: "1d984016-d33d-43d4-b44c-fc88e1061110"
+      Hint: SubHeading
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T123243Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d9a1bdaa-0615-49f0-83a3-4c9252587d9f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cf23ed14-9dbe-437d-8019-f17d31f5f4a5"
+      Hint: DownloadCTA
+      Value: |
+        <link text="Download Report" linktype="media" target="_blank" id="{61B95578-D0B0-5A90-8C2D-711EB9B8604C}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000448Z
+    - ID: "ed3b3615-c048-4b51-aecd-c34bfed18870"
+      Hint: Heading
+      Value: Lorem ipsum dolor sit.
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04a28e7d-ad98-4c05-9342-3f8bf2359644"
+      Hint: CardHeading
+      Value: Download CSR and Sponsorship Report
+    - ID: "1d984016-d33d-43d4-b44c-fc88e1061110"
+      Hint: SubHeading
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T123243Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7fca2333-3ab1-4f28-93fe-6556c9d0b599"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cf23ed14-9dbe-437d-8019-f17d31f5f4a5"
+      Hint: DownloadCTA
+      Value: |
+        <link text="Download Report" linktype="media" target="_blank" id="{61B95578-D0B0-5A90-8C2D-711EB9B8604C}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000448Z
+    - ID: "ed3b3615-c048-4b51-aecd-c34bfed18870"
+      Hint: Heading
+      Value: Lorem ipsum dolor sit.
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04a28e7d-ad98-4c05-9342-3f8bf2359644"
+      Hint: CardHeading
+      Value: Download CSR and Sponsorship Report
+    - ID: "1d984016-d33d-43d4-b44c-fc88e1061110"
+      Hint: SubHeading
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T123243Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e61c7d63-0a69-40d5-b42b-82ef9703ccf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cf23ed14-9dbe-437d-8019-f17d31f5f4a5"
+      Hint: DownloadCTA
+      Value: |
+        <link text="Download Report" linktype="media" target="_blank" id="{61B95578-D0B0-5A90-8C2D-711EB9B8604C}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000448Z
+    - ID: "ed3b3615-c048-4b51-aecd-c34bfed18870"
+      Hint: Heading
+      Value: Lorem ipsum dolor sit.
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04a28e7d-ad98-4c05-9342-3f8bf2359644"
+      Hint: CardHeading
+      Value: Download CSR and Sponsorship Report
+    - ID: "1d984016-d33d-43d4-b44c-fc88e1061110"
+      Hint: SubHeading
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis pellentesque diam nibh. Commodo lacus dui tristique sem nec, facilisis condimentum.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T123243Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f844b22e-2ea3-43fe-b33c-73c0e501d0b9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cf23ed14-9dbe-437d-8019-f17d31f5f4a5"
+      Hint: DownloadCTA
+      Value: |
+        <link text="Download Report" linktype="media" target="_blank" id="{61B95578-D0B0-5A90-8C2D-711EB9B8604C}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000448Z
+    - ID: "ed3b3615-c048-4b51-aecd-c34bfed18870"
+      Hint: Heading
+      Value: Lorem ipsum dolor sit.

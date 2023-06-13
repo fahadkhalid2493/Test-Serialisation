@@ -1,0 +1,152 @@
+﻿---
+ID: "75275f4b-35a7-4ffb-a2e9-cfa3047bad38"
+Parent: "dd3e792e-70d8-4161-aaea-772353c2c532"
+Template: "6fe5d11d-722f-4a7e-9d7d-e8f8a6834737"
+Path: "/sitecore/content/gulfair-app-lk/Data/Generic Rich Text Folder/Baggage Information Personal Items/Carry-on"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230130T123030Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>حقيبة محمولة</h2>
+        <p>يختلف وزن وحجم الأمتعة اليدوية المسموح به اعتمادًا على درجة سفرك.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5bfe6d40-1076-4198-b512-9e24f352d6dc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\farhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T141423Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T115246Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>Fortfahren</h2>
+        <p>Das zul&auml;ssige Handgep&auml;ckgewicht und die Gr&ouml;&szlig;e des Handgep&auml;cks variieren je nach Reiseklasse.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5170a90c-1d75-44a3-9bfd-edb3b0251bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\farhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T141224Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T115246Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>Carry-on</h2>
+        <p>The allowed hand baggage weight and size varies depending on your class of travel.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c851feac-72a1-4241-b53d-576a63658c4b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\farhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T141130Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T115246Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>Continuer</h2>
+        <p>Le poids et la taille des bagages &agrave; main autoris&eacute;s varient en fonction de votre classe de voyage. </p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b205062-4191-43e4-9a83-6a3e1221dec7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\farhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T141301Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T115246Z
+    - ID: "31e32900-5148-41b8-b6ff-4e96f242d617"
+      Hint: Description
+      Value: |
+        <h2>Продолжать</h2>
+        <p>Разрешенные веса и размер ручного багажа варьируются в зависимости от вашего класса путешествий.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca597cab-5a0c-4471-a015-2186e87136a4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\farhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T141344Z

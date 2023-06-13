@@ -1,0 +1,704 @@
+﻿---
+ID: "aa1e9716-bb66-459f-bc68-4ddccc1728b6"
+Parent: "0f3cc55e-66f3-4343-b370-8e605b3cd686"
+Template: "f4d0156f-ad67-494b-a390-0e1661a73e43"
+Path: /sitecore/content/Global/Baggage Calculator Folder/BaggageCalculator
+SharedFields:
+- ID: "0db68d98-83c9-48a5-97f6-75a9fe2e6544"
+  Hint: FromAirports
+  Value: |
+    {2FF6AC3B-A129-4B2A-89F9-03474B8C5EF3}
+    {1865E548-EA33-49D5-8640-E585872AC8B3}
+    {4B0A82F4-D931-4541-91FC-5D82C4585DDF}
+    {B18ACDF6-3659-4BC6-BB2F-95D89D91F2FA}
+    {CD6382D4-6AA8-4A59-80BC-097772BDEDFC}
+    {9D7C78A7-D546-4364-BFF4-79E73A670886}
+    {43987451-63A8-4D86-886C-CBD3B3F45083}
+    {3C8512BB-4A1E-47A1-8D3A-47F249CC2C36}
+    {88407D3E-96AE-406C-9777-8DF1B6E04A24}
+    {161AF83D-08F5-4FCC-9EFE-68B058E43ED3}
+    {FF042B26-68F1-4A24-B49B-FEFF0F65CFDA}
+    {715CA18A-83CC-4F0B-80D1-7F39C68E3670}
+    {0F566C27-ADF0-4894-81BE-3F21FAFCF309}
+    {42DAC5DB-C5B9-4272-9CC9-A1399BD6B042}
+    {99E404EC-E22E-455B-874E-55E99670015B}
+    {DBE72F87-ECD1-4DCC-B343-90BEB41D9F45}
+    {876EA33D-4953-46CC-B912-5F86270CF83E}
+    {E5E10E9A-FFA8-4F8D-B276-141E5DA3840C}
+    {1E69DA17-15FD-4795-AFE3-9CE075B72280}
+    {3A89AB99-9A1C-426E-AD8F-904917771AE2}
+    {4A5DCB84-AF47-402E-92CA-91364F28913C}
+    {3B41DF1E-D8F9-4010-A549-E39B60B2E1CE}
+    {EF0D3A49-4E71-448C-AA1A-6C6AF32F5DE5}
+    {2E8910EB-A6F0-4082-9349-65EE4D0CB3BD}
+    {5A20F4B9-C855-4F05-81A7-3B79BCB03136}
+    {A20D07B6-71EB-4B21-9E91-B7A6E89A9638}
+    {02930019-C905-4288-A054-376FB371090F}
+    {33E0C317-082C-4EF6-8C80-BAFE78DF7212}
+    {94C7B4BE-EBE6-44D4-816E-38134B47749F}
+    {76FF9B4D-A5B0-4825-BBBD-6A11247F01EB}
+    {0D42D697-01AC-43C8-AEAD-CD614565A1EE}
+    {2CFA6E32-60CB-49FC-988C-5CF240B0FC3D}
+    {7B655B58-CDB1-4260-B289-B1E7234F86A7}
+    {558031E3-54B4-4F8E-98CE-36199FDB5928}
+    {D6951241-5C45-4F76-BE81-588778CACE25}
+    {DCCF5EE9-A398-48F1-88C5-B9CDB54F2A76}
+    {52A19453-17E8-4CA9-9A13-5D2B9BD13938}
+    {B3660238-A44A-4680-8F9D-79918EEB34D2}
+    {EA6EBF57-BD80-4085-BE1E-5E182CDFDA42}
+    {2AED33B2-3346-4546-AE0C-6A48B40808BE}
+    {326D4D05-FC48-4327-8F7E-B153A79A13D2}
+    {6651AB1D-CCD5-49B5-A232-2684AF4C5FD9}
+    {4A7BC64D-4A0A-4DEB-94F8-A8FBC01C515C}
+    {2965786E-CB3D-40E8-8E61-A0AAD1855B85}
+    {4AF35E85-A304-4FBE-8442-F17E5D049CAF}
+    {123D25E6-64B9-4561-8FEF-D07F18299540}
+    {4DA043FC-7C5A-43EF-8007-E14635A7C7E3}
+    {55D6D2EE-AB12-4BE6-858F-BECCDA151867}
+    {9634AD12-4C44-4529-9CF1-CABCF9F5C690}
+    {A746436F-A71E-4216-AD1B-FBB5798C2BE3}
+    {BC26855E-3F1D-4298-AC1A-B400F9D49A7F}
+    {4C387857-B312-4845-9A49-A9869DA68538}
+- ID: "25b28bb7-29b9-41f2-9f5e-b077414dd20e"
+  Hint: PiecesLimit
+  Value: "{DB263E5F-FCC5-44E9-B0E2-55BFFED5A157}"
+- ID: "28ea86ff-ed0b-4e46-9061-bc95b6a17017"
+  Hint: Tier1Icon
+  Value: |
+    <image width="281" height="174" alt="silver.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/ff5b9e7bc361483a8086c3a192fccd88?v=8a9b6435" stylelabs-content-id="45241" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/45241/thumbnail" />
+- ID: "34d4e286-97b2-4dbf-87fd-7742ee5057ef"
+  Hint: FareType
+  Value: |
+    {76589D90-EF77-40ED-84A0-E59B6C281615}
+    {0941C254-D093-41E5-8F72-20386CF8DD86}
+    {16F3169B-DD02-49FC-A008-FAD1B47EA18B}
+- ID: "3791af09-7d97-492a-82ee-1e359a89e7f9"
+  Hint: Zone1
+  Value: |
+    {CD6382D4-6AA8-4A59-80BC-097772BDEDFC}
+    {52A19453-17E8-4CA9-9A13-5D2B9BD13938}
+    {42DAC5DB-C5B9-4272-9CC9-A1399BD6B042}
+    {2FF6AC3B-A129-4B2A-89F9-03474B8C5EF3}
+    {33E0C317-082C-4EF6-8C80-BAFE78DF7212}
+    {A20D07B6-71EB-4B21-9E91-B7A6E89A9638}
+    {6651AB1D-CCD5-49B5-A232-2684AF4C5FD9}
+    {02930019-C905-4288-A054-376FB371090F}
+    {5A20F4B9-C855-4F05-81A7-3B79BCB03136}
+- ID: "569f7fb5-d3e4-4d98-8b68-95991d5b94b4"
+  Hint: Tier2Icon
+  Value: |
+    <image width="281" height="174" alt="golden.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/91c0ee43e1784d8a823726c7c60e9430?v=63544556" stylelabs-content-id="45239" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/45239/thumbnail" />
+- ID: "5866b807-bc5a-4d9d-bce4-a0915919b8e8"
+  Hint: Zone2
+  Value: |
+    {123D25E6-64B9-4561-8FEF-D07F18299540}
+    {161AF83D-08F5-4FCC-9EFE-68B058E43ED3}
+    {BC26855E-3F1D-4298-AC1A-B400F9D49A7F}
+    {88407D3E-96AE-406C-9777-8DF1B6E04A24}
+    {FF042B26-68F1-4A24-B49B-FEFF0F65CFDA}
+    {4A5DCB84-AF47-402E-92CA-91364F28913C}
+    {4DA043FC-7C5A-43EF-8007-E14635A7C7E3}
+    {DCCF5EE9-A398-48F1-88C5-B9CDB54F2A76}
+    {99E404EC-E22E-455B-874E-55E99670015B}
+    {4C387857-B312-4845-9A49-A9869DA68538}
+    {43987451-63A8-4D86-886C-CBD3B3F45083}
+    {2E8910EB-A6F0-4082-9349-65EE4D0CB3BD}
+    {3C8512BB-4A1E-47A1-8D3A-47F249CC2C36}
+    {715CA18A-83CC-4F0B-80D1-7F39C68E3670}
+    {1865E548-EA33-49D5-8640-E585872AC8B3}
+    {4A7BC64D-4A0A-4DEB-94F8-A8FBC01C515C}
+    {0F566C27-ADF0-4894-81BE-3F21FAFCF309}
+    {3A89AB99-9A1C-426E-AD8F-904917771AE2}
+    {B18ACDF6-3659-4BC6-BB2F-95D89D91F2FA}
+    {2965786E-CB3D-40E8-8E61-A0AAD1855B85}
+    {EF0D3A49-4E71-448C-AA1A-6C6AF32F5DE5}
+    {9D7C78A7-D546-4364-BFF4-79E73A670886}
+    {E5E10E9A-FFA8-4F8D-B276-141E5DA3840C}
+- ID: "65f4ac4a-6d1e-4981-b988-a09c87fcd23f"
+  Hint: Tier3Icon
+  Value: |
+    <image width="282" height="174" alt="black.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/156a75f108c7443ea93a3d4aae9b1051?v=4ea29ca1" stylelabs-content-id="45242" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/45242/thumbnail" />
+- ID: "6cb7b197-881a-489d-8263-2d79f0c37d79"
+  Hint: ToAirports
+  Value: |
+    {2FF6AC3B-A129-4B2A-89F9-03474B8C5EF3}
+    {1865E548-EA33-49D5-8640-E585872AC8B3}
+    {4B0A82F4-D931-4541-91FC-5D82C4585DDF}
+    {B18ACDF6-3659-4BC6-BB2F-95D89D91F2FA}
+    {CD6382D4-6AA8-4A59-80BC-097772BDEDFC}
+    {9D7C78A7-D546-4364-BFF4-79E73A670886}
+    {43987451-63A8-4D86-886C-CBD3B3F45083}
+    {3C8512BB-4A1E-47A1-8D3A-47F249CC2C36}
+    {88407D3E-96AE-406C-9777-8DF1B6E04A24}
+    {161AF83D-08F5-4FCC-9EFE-68B058E43ED3}
+    {FF042B26-68F1-4A24-B49B-FEFF0F65CFDA}
+    {715CA18A-83CC-4F0B-80D1-7F39C68E3670}
+    {0F566C27-ADF0-4894-81BE-3F21FAFCF309}
+    {42DAC5DB-C5B9-4272-9CC9-A1399BD6B042}
+    {99E404EC-E22E-455B-874E-55E99670015B}
+    {DBE72F87-ECD1-4DCC-B343-90BEB41D9F45}
+    {876EA33D-4953-46CC-B912-5F86270CF83E}
+    {E5E10E9A-FFA8-4F8D-B276-141E5DA3840C}
+    {1E69DA17-15FD-4795-AFE3-9CE075B72280}
+    {3A89AB99-9A1C-426E-AD8F-904917771AE2}
+    {4A5DCB84-AF47-402E-92CA-91364F28913C}
+    {3B41DF1E-D8F9-4010-A549-E39B60B2E1CE}
+    {EF0D3A49-4E71-448C-AA1A-6C6AF32F5DE5}
+    {2E8910EB-A6F0-4082-9349-65EE4D0CB3BD}
+    {5A20F4B9-C855-4F05-81A7-3B79BCB03136}
+    {A20D07B6-71EB-4B21-9E91-B7A6E89A9638}
+    {02930019-C905-4288-A054-376FB371090F}
+    {33E0C317-082C-4EF6-8C80-BAFE78DF7212}
+    {94C7B4BE-EBE6-44D4-816E-38134B47749F}
+    {76FF9B4D-A5B0-4825-BBBD-6A11247F01EB}
+    {0D42D697-01AC-43C8-AEAD-CD614565A1EE}
+    {2CFA6E32-60CB-49FC-988C-5CF240B0FC3D}
+    {7B655B58-CDB1-4260-B289-B1E7234F86A7}
+    {558031E3-54B4-4F8E-98CE-36199FDB5928}
+    {D6951241-5C45-4F76-BE81-588778CACE25}
+    {DCCF5EE9-A398-48F1-88C5-B9CDB54F2A76}
+    {52A19453-17E8-4CA9-9A13-5D2B9BD13938}
+    {B3660238-A44A-4680-8F9D-79918EEB34D2}
+    {EA6EBF57-BD80-4085-BE1E-5E182CDFDA42}
+    {2AED33B2-3346-4546-AE0C-6A48B40808BE}
+    {326D4D05-FC48-4327-8F7E-B153A79A13D2}
+    {6651AB1D-CCD5-49B5-A232-2684AF4C5FD9}
+    {4A7BC64D-4A0A-4DEB-94F8-A8FBC01C515C}
+    {2965786E-CB3D-40E8-8E61-A0AAD1855B85}
+    {4AF35E85-A304-4FBE-8442-F17E5D049CAF}
+    {123D25E6-64B9-4561-8FEF-D07F18299540}
+    {4DA043FC-7C5A-43EF-8007-E14635A7C7E3}
+    {55D6D2EE-AB12-4BE6-858F-BECCDA151867}
+    {9634AD12-4C44-4529-9CF1-CABCF9F5C690}
+    {A746436F-A71E-4216-AD1B-FBB5798C2BE3}
+    {BC26855E-3F1D-4298-AC1A-B400F9D49A7F}
+    {4C387857-B312-4845-9A49-A9869DA68538}
+- ID: "83f923c4-abbe-4629-87f3-1bc0c5a045d8"
+  Hint: CabinClass
+  Value: |
+    {72C30D2A-70A0-41D3-B440-022994B6811C}
+    {5ED887D8-9040-4C60-B733-4E0E4B7E90AA}
+- ID: "929b1620-4265-428b-be18-4a4b8fc987fa"
+  Hint: BaggageRuleOfPieceConcept
+  Value: |
+    {FDAA6350-AFD1-4DEB-8AD2-68D6628716A3}
+    {D748046E-2857-4E02-A97C-DF1CA391CDDC}
+    {7D8C4BF9-1C10-4659-AB2C-D55630426FB5}
+    {992C5AE9-4F73-46D2-AD2C-6E2DB09573DC}
+    {AFB98931-5F0A-4A2A-B782-794EE98CFE40}
+- ID: "996fd467-b1f1-482b-965b-56012bdc2af9"
+  Hint: ZoneList
+  Value: |
+    {9837E584-2CEE-414B-9E01-CF326CA70A03}
+    {174EBBA7-A0CD-4326-92A2-9043D60E4B67}
+    {50932709-59FC-4284-850D-56B60762C787}
+- ID: "99f5840f-e784-4e80-9cd7-7a4d4dc87bee"
+  Hint: Zone3
+  Value: |
+    {A746436F-A71E-4216-AD1B-FBB5798C2BE3}
+    {2CFA6E32-60CB-49FC-988C-5CF240B0FC3D}
+    {B3660238-A44A-4680-8F9D-79918EEB34D2}
+    {EA6EBF57-BD80-4085-BE1E-5E182CDFDA42}
+    {558031E3-54B4-4F8E-98CE-36199FDB5928}
+    {1E69DA17-15FD-4795-AFE3-9CE075B72280}
+    {0D42D697-01AC-43C8-AEAD-CD614565A1EE}
+    {9634AD12-4C44-4529-9CF1-CABCF9F5C690}
+    {94C7B4BE-EBE6-44D4-816E-38134B47749F}
+    {76FF9B4D-A5B0-4825-BBBD-6A11247F01EB}
+    {D6951241-5C45-4F76-BE81-588778CACE25}
+    {2AED33B2-3346-4546-AE0C-6A48B40808BE}
+    {876EA33D-4953-46CC-B912-5F86270CF83E}
+    {4B0A82F4-D931-4541-91FC-5D82C4585DDF}
+    {326D4D05-FC48-4327-8F7E-B153A79A13D2}
+    {3B41DF1E-D8F9-4010-A549-E39B60B2E1CE}
+    {55D6D2EE-AB12-4BE6-858F-BECCDA151867}
+    {7B655B58-CDB1-4260-B289-B1E7234F86A7}
+    {DBE72F87-ECD1-4DCC-B343-90BEB41D9F45}
+    {4AF35E85-A304-4FBE-8442-F17E5D049CAF}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "bc1a3d82-2794-4a61-8878-11ca38d1f9fb"
+  Hint: BaggageRulesException
+  Value: |
+    {A4043AF3-110B-4CFE-8E30-DA565AB1F362}
+    {3CFDF0DC-C276-41FA-AFE0-5A1E76B92548}
+    {9ED3A32B-7490-4733-9D3A-B31F340818B1}
+    {545CA7A7-B83F-4B9B-A246-B0808F6FA7A4}
+    {8D639556-F8F3-496E-A5F4-5CC0B0163983}
+    {1B358848-E55B-4601-ABDE-9652138F0615}
+    {7C0D9725-8F3A-4610-A6AF-61F9DC7EB3BF}
+    {2979182C-28F3-4E0F-98E4-4AC9F05265F3}
+    {364C0CFB-A955-4135-AF95-8F6976B600AC}
+    {8F0DF3E5-16AE-4727-8B1A-CB57B5322472}
+    {E03C9790-3E5D-4202-B979-9C0C71F44184}
+    {F93B5B22-31E5-4647-B34B-8B769EE6C3DF}
+    {074E3FD1-E8CA-4060-A489-961CCEFD80FB}
+    {340A6E5F-1F4A-484E-B0C8-FF8AEA69A816}
+    {2799DE1C-C198-4930-AB99-C994E453BC78}
+    {504885CE-5AF7-424B-9D37-23A82376003D}
+    {4FCB0046-1AB1-49B1-8901-47D858A9D8C8}
+    {725B5DBA-6649-4E9E-AEB9-E1FFE85F3250}
+    {725865BD-47B5-4E89-9CAD-3643A5C57419}
+    {88A4CA65-E0BD-44A4-AFC3-5A9F9DC4293E}
+    {9F0FECEC-8613-4A15-BFCF-3AE0ECC51031}
+- ID: "bdcacde3-889e-4e9b-ae7d-39c0649d5cd8"
+  Hint: ForAllRoutesEconomy
+  Value: 23
+- ID: "c130d742-43ec-4793-899e-1942fe6f4c31"
+  Hint: BaggageRuleOfWeightConcept
+  Value: |
+    {C0B36AA5-92C2-407A-BFF4-F16DEE33BAEB}
+    {831B0683-4D03-40CA-BE91-D7D88258583E}
+    {628FB228-6254-4336-8598-CE68E949912C}
+    {78E5D2F4-D780-4EFC-87A5-EEA5FF174181}
+    {FF1F4E16-5253-4471-8367-16DA2CFE69D2}
+- ID: "c1d115dd-ac57-4e31-8018-524fd906f19a"
+  Hint: ForAllRoutesFalconGold
+  Value: 32
+- ID: "c4cc5cdc-50a8-48bc-84e0-2800843e316a"
+  Hint: Within24Hours
+  Value: 20
+- ID: "c71b8350-532f-4ee0-9f5b-d757f5dcd0b3"
+  Hint: MoreThan24Hours
+  Value: 16
+- ID: "e0012b78-fa22-40bd-a357-83939acd6a03"
+  Hint: ExcessBaggageRatesList
+  Value: |
+    {0125A194-4648-49A4-B91B-EEF1C6AD87BC}
+    {EA91D96B-F3D1-4D74-8344-21E044E00806}
+    {6FEA4AE9-501D-4A39-9AE0-D750149A3747}
+    {AAA8ECAD-5106-4E43-B319-D06413900302}
+    {2E8E79B6-CEC0-4ADE-B3A7-5EB8B9DC22B9}
+    {7CF8E866-5A95-48E3-A06F-DAF28AA1F6C7}
+    {C3EAAA27-C29C-4903-B861-F707DEBD5EAA}
+    {3AD82629-8D72-40E5-BFC7-6736F976DBBC}
+    {896CE01F-4D02-4F25-8194-BE6DBA7FC16D}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fb7ac18-74dc-4eb5-9444-8f8e079f9a5f"
+      Hint: BaggageDetailTopText
+      Value: <p>اعرض تفاصيل الأمتعة المسموح بها أدناه أو اضبط اختيارك لعرض نتائج مختلفة.</p>
+    - ID: "0fd6f1a3-2fea-49b7-b654-f6b19ce2a6f1"
+      Hint: CheckedInSummary
+      Value: <p>ادفع مقابل أمتعتك الزائدة قبل الذهاب إلى المطار ووفر ما يصل إلى 30٪ من الأسعار المتاحة في المطار. يمكن إضافة الأمتعة الزائدة المدفوعة مسبقًا إلى حجزك حتى 25 ساعة قبل المغادرة. لشراء الأمتعة الزائدة المدفوعة مسبقًا ، انتقل إلىصفحة&nbsp; إدارة الحجوزات، أو اتصل بمركز الاتصال العالمي التابع لنا أو قم بزيارة أقرب مكتب طيران الخليج إليك.</p>
+    - ID: "169272aa-0c4e-4c3b-885f-91a0c3986c76"
+      Hint: Tier3Info
+      Value: <p>حقيبة واحدة إضافية <strong>32 كج</strong> كحد أقصى&nbsp;</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230328T083837Z
+    - ID: "3dd0e952-e7bd-41ca-b506-e6757d8f79b8"
+      Hint: Headline
+      Value: هل تحتاج إلى أمتعة إضافية؟
+    - ID: "437e1da3-6158-4cc5-ba5a-951b7d133a9b"
+      Hint: Title
+      Value: حاسبة الأمتعة لطيران الخليج 
+    - ID: "4ffeabb8-2f5e-46c8-b144-9250fc4e25c4"
+      Hint: Tier1Title
+      Value: الفئة الفضية
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "591d5ed0-f1a8-4931-bf34-bef1a20ca5e7"
+      Hint: Tier2Title
+      Value: الطبقة الذهبية
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "77aa267e-ea5b-4575-9276-0f12bf810a47"
+      Hint: LoginCTA
+      Value: |
+        <link text="تسجيل الدخول للشراء" linktype="external" url="https://gulfacc.resfinity.com/falcon/deeplink?adt=1&amp;cabin_class=Y&amp;chd=0&amp;tnn=0&amp;departure_date=20230910&amp;destination=DXB&amp;flight_type=return&amp;inf=0&amp;origin=BAH&amp;return_date=20230915&amp;flexible_dates=true" anchor="" target="_blank" />
+    - ID: "86460099-2261-477d-be4a-081e65c6287a"
+      Hint: SubText
+      Value: <p>يمكنك حساب وزن السفر الإجمالي الخاص بك وترجمته إلى قطع أمتعة يمكنك أخذها معك وفقًا لأجرة السفر الخاصة بك.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d43e8f1e-41b1-4b12-933d-4a8d7b55f575"
+    - ID: "9c98bf8a-d7de-44e2-ba53-12cdba48c2f1"
+      Hint: PurchaseCTA
+      Value: |
+        <link text="شراء أمتعة إضافية" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "ab1197eb-3bc1-448b-9f36-3f05df48d8e6"
+      Hint: BaggageDetailBottomText
+      Value: 
+    - ID: "ac933e3e-952b-4736-9375-3d96729e3cd8"
+      Hint: HeadingText
+      Value: مسافري برنامج فالكون فلاير
+    - ID: "adb2d744-4f14-4241-aa1e-68da4d61eec5"
+      Hint: DetailSubText
+      Value: <p>سيحصل أعضاء فالكون فلاير لدينا على أمتعة إضافية مجانا وفقًا لمستوى عضويتهم.</p>
+    - ID: "ae91632a-4910-45aa-a1cd-4d946193a463"
+      Hint: CheckedInTitle
+      Value:  أمتعة إضافية
+    - ID: "b80d0c4f-7890-4030-80d3-f69106c0783b"
+      Hint: DetailText
+      Value: |
+        <p>للتأكد من أن لديك كل ما تحتاجه لرحلتك، ادفع رسوم وزن أمتعتك الزائد قبل الذهاب إلى المطار ووفر حتى 30% من أسعار المطار.</p>
+        <p>يمكن إضافة الوزن الزائد مسبق الدفع إلى حجزك حتى 25 ساعة قبل المغادرة</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c78b361c-e937-401a-8d34-76234ab05548"
+      Hint: Tier2Info
+      Value: |
+        <p>حقيبة واحدة إضافية <span style="color: #a18f63;">23 كج</span> كحد أقصى</p>
+    - ID: "cd3da0a8-cb55-4cb6-a672-9797af5af6fe"
+      Hint: Tier1Info
+      Value: <p>حقيبة واحدة إضافية 15 كج كحد أقصى</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225843Z
+    - ID: "ed1d6e0f-b369-498b-a6dc-1c22530f8256"
+      Hint: CheckedInDetail
+      Value: <p>إذا تجاوزت أمتعتك الوزن المسموح به للأمتعة المجانية ، فيمكنك شراء الأمتعة الزائدة المدفوعة مسبقًا بأسعار مخفضة عبر الإنترنت أو من خلال مكتب طيران الخليج المحلي.</p>
+    - ID: "fce1a766-5237-4f37-b4ac-f50e3d6c3e3c"
+      Hint: Tier3Title
+      Value: الطبقة السوداء
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fb7ac18-74dc-4eb5-9444-8f8e079f9a5f"
+      Hint: BaggageDetailTopText
+      Value: <p>Sehen Sie sich unten Ihre Gep&auml;ckzentren an oder passen Sie Ihre Auswahl an, um verschiedene Ergebnisse anzuzeigen.</p>
+    - ID: "0fd6f1a3-2fea-49b7-b654-f6b19ce2a6f1"
+      Hint: CheckedInSummary
+      Value: "<p>Zahlen Sie f&uuml;r Ihr &Uuml;bergep&auml;ck, bevor Sie zum Flughafen gehen, und sparen Sie bis zu 30% Rabatt auf die verf&uuml;gbaren Preise am Flughafen. Zu Ihrer Buchung bis zu 25 Stunden vor dem Abflug k&ouml;nnen Sie &uuml;bersch&uuml;ssiges Gep&auml;ck hinzugef&uuml;gt werden. Um Ihr Prepaid -&uuml;bersch&uuml;ssiges Gep&auml;ck zu kaufen, besuchen Sie Gulfair.com Booking Engine, wenden Sie sich an meine Buchung, rufen Sie unser weltweites Contact Center an oder besuchen Sie das n&auml;chstgelegene Gulf Air Office.</p>"
+    - ID: "169272aa-0c4e-4c3b-885f-91a0c3986c76"
+      Hint: Tier3Info
+      Value: <p>1 zus&auml;tzliche Tasche bis zu <strong> 32 kg</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230503T140557Z
+    - ID: "3dd0e952-e7bd-41ca-b506-e6757d8f79b8"
+      Hint: Headline
+      Value: "Benötigen Sie mehr Gepäckgeld?"
+    - ID: "437e1da3-6158-4cc5-ba5a-951b7d133a9b"
+      Hint: Title
+      Value: Golf Luftgepäckrechner
+    - ID: "4ffeabb8-2f5e-46c8-b144-9250fc4e25c4"
+      Hint: Tier1Title
+      Value: Silberstufe
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "591d5ed0-f1a8-4931-bf34-bef1a20ca5e7"
+      Hint: Tier2Title
+      Value: Goldstufe
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "77aa267e-ea5b-4575-9276-0f12bf810a47"
+      Hint: LoginCTA
+      Value: |
+        <link text="Melden Sie sich an, um zu kaufen" linktype="external" url="https://gulfacc.resfinity.com/falcon/deeplink?adt=1&amp;cabin_class=Y&amp;chd=0&amp;tnn=0&amp;departure_date=20230910&amp;destination=DXB&amp;flight_type=return&amp;inf=0&amp;origin=BAH&amp;return_date=20230915&amp;flexible_dates=true" anchor="" target="_blank" />
+    - ID: "86460099-2261-477d-be4a-081e65c6287a"
+      Hint: SubText
+      Value: <p>Sie k&ouml;nnen Ihr allgemeine Reisegewicht berechnen und in Gep&auml;ckst&uuml;cke umsetzen, die Sie entsprechend Ihrem Reisepreis mitnehmen k&ouml;nnen.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cf144d29-ff07-489a-9e0e-218e9dd97b1f"
+    - ID: "9c98bf8a-d7de-44e2-ba53-12cdba48c2f1"
+      Hint: PurchaseCTA
+      Value: |
+        <link text="Kaufen Sie zusätzliche Taschen" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "ab1197eb-3bc1-448b-9f36-3f05df48d8e6"
+      Hint: BaggageDetailBottomText
+      Value: 
+    - ID: "ac933e3e-952b-4736-9375-3d96729e3cd8"
+      Hint: HeadingText
+      Value: "Unsere Falconflyer -Mitglieder"
+    - ID: "adb2d744-4f14-4241-aa1e-68da4d61eec5"
+      Hint: DetailSubText
+      Value: "<p>Unsere Falconflyer -Mitglieder erhalten eine zus&auml;tzliche kostenlose Gep&auml;ckausstattung gem&auml;&szlig; ihrer Mitgliedschaftsebene.</p>"
+    - ID: "ae91632a-4910-45aa-a1cd-4d946193a463"
+      Hint: CheckedInTitle
+      Value: Zusätzliches Gepäck
+    - ID: "b80d0c4f-7890-4030-80d3-f69106c0783b"
+      Hint: DetailText
+      Value: <p>Um sicherzustellen, dass Sie &uuml;ber alle erforderlichen Sachen f&uuml;r Ihre Reise verf&uuml;gen, k&ouml;nnen Sie zus&auml;tzliches Gep&auml;ck vor Ihrem Flug einf&uuml;gen. Sie k&ouml;nnen Ihre Reservierung bis 25 Stunden vor Ihrer Abreise zu &uuml;bersch&uuml;ssigem Gep&auml;ck hinzuf&uuml;gen. Wenn Sie online f&uuml;r Ihre zus&auml;tzliche Gep&auml;ckausstattung bezahlen, k&ouml;nnen Sie 30% Rabatt auf die Flughafenpreise sparen.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c78b361c-e937-401a-8d34-76234ab05548"
+      Hint: Tier2Info
+      Value: |
+        <p>1 zus&auml;tzliche Tasche bis zu <span style="color: #a18f63;"> 23 kg</span></p>
+    - ID: "cd3da0a8-cb55-4cb6-a672-9797af5af6fe"
+      Hint: Tier1Info
+      Value: <p>1 zus&auml;tzliche Beutel bis zu 15 kg</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225843Z
+    - ID: "ed1d6e0f-b369-498b-a6dc-1c22530f8256"
+      Hint: CheckedInDetail
+      Value: <p>Wenn Ihr Gep&auml;ck die freien Gep&auml;ckleistung &uuml;berschreitet, k&ouml;nnen Sie Ihr vorbezahltes &uuml;bersch&uuml;ssiges Gep&auml;ck zu erm&auml;&szlig;igten Preisen oder &uuml;ber Ihr &ouml;rtliches Gulf Air Office erwerben.</p>
+    - ID: "fce1a766-5237-4f37-b4ac-f50e3d6c3e3c"
+      Hint: Tier3Title
+      Value: Schwarze Tier
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fb7ac18-74dc-4eb5-9444-8f8e079f9a5f"
+      Hint: BaggageDetailTopText
+      Value: <p>View your baggage allowance details below or adjust your selection to view different results.</p>
+    - ID: "0fd6f1a3-2fea-49b7-b654-f6b19ce2a6f1"
+      Hint: CheckedInSummary
+      Value: <p>Pay for your excess baggage before going to the airport and save up to 30% off the available rates at the airport. Prepaid excess baggage can be added to your booking up to 25 hours prior to departure. To purchase your prepaid excess baggage, visit gulfair.com Booking Engine, go to Manage My Booking, call our Worldwide Contact Centre or visit your nearest Gulf Air office.</p>
+    - ID: "169272aa-0c4e-4c3b-885f-91a0c3986c76"
+      Hint: Tier3Info
+      Value: <p>1 additional bag up to <strong> 32KG</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230328T083837Z
+    - ID: "3dd0e952-e7bd-41ca-b506-e6757d8f79b8"
+      Hint: Headline
+      Value: "Need more baggage allowance?"
+    - ID: "437e1da3-6158-4cc5-ba5a-951b7d133a9b"
+      Hint: Title
+      Value: Baggage Calculator
+    - ID: "4ffeabb8-2f5e-46c8-b144-9250fc4e25c4"
+      Hint: Tier1Title
+      Value: Silver Tier
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "591d5ed0-f1a8-4931-bf34-bef1a20ca5e7"
+      Hint: Tier2Title
+      Value: Gold Tier
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "77aa267e-ea5b-4575-9276-0f12bf810a47"
+      Hint: LoginCTA
+      Value: |
+        <link text="Login to purchase" linktype="external" url="https://gulfacc.resfinity.com/falcon/deeplink?adt=1&amp;cabin_class=Y&amp;chd=0&amp;tnn=0&amp;departure_date=20230910&amp;destination=DXB&amp;flight_type=return&amp;inf=0&amp;origin=BAH&amp;return_date=20230915&amp;flexible_dates=true" anchor="" target="_blank" />
+    - ID: "86460099-2261-477d-be4a-081e65c6287a"
+      Hint: SubText
+      Value: <p>You can calculate your overall travel weight and translate it into baggage pieces that you can take with you according to your travel fare.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "001d5ad7-20e5-4f7f-a868-261cb0ad99d0"
+    - ID: "9c98bf8a-d7de-44e2-ba53-12cdba48c2f1"
+      Hint: PurchaseCTA
+      Value: |
+        <link text="Purchase additional baggages" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "ab1197eb-3bc1-448b-9f36-3f05df48d8e6"
+      Hint: BaggageDetailBottomText
+      Value: 
+    - ID: "ac933e3e-952b-4736-9375-3d96729e3cd8"
+      Hint: HeadingText
+      Value: Our FalconFlyer Members
+    - ID: "adb2d744-4f14-4241-aa1e-68da4d61eec5"
+      Hint: DetailSubText
+      Value: <p>Our Falconflyer members will receive an additional complimentary baggage allowance as per their membership tier level.</p>
+    - ID: "ae91632a-4910-45aa-a1cd-4d946193a463"
+      Hint: CheckedInTitle
+      Value: "Additional Checked-in Baggage"
+    - ID: "b80d0c4f-7890-4030-80d3-f69106c0783b"
+      Hint: DetailText
+      Value: <p>To ensure you have all the necessary belongings for your trip, you can include additional luggage before your flight. You can add prepaid excess baggage to your reservation up until 25 hours before your departure. By paying for your extra baggage allowance online, you can save 30% off the airport rates.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c78b361c-e937-401a-8d34-76234ab05548"
+      Hint: Tier2Info
+      Value: |
+        <p>1 additional bag up to <span style="color: #a18f63;"> 23KG</span></p>
+    - ID: "cd3da0a8-cb55-4cb6-a672-9797af5af6fe"
+      Hint: Tier1Info
+      Value: <p>1 additional bag up to 15KG</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225843Z
+    - ID: "ed1d6e0f-b369-498b-a6dc-1c22530f8256"
+      Hint: CheckedInDetail
+      Value: "<p>If your baggage exceeds the free baggage allowances, you may purchase your pre-paid excess baggage at discounted rates online or through your local Gulf Air office.</p>"
+    - ID: "fce1a766-5237-4f37-b4ac-f50e3d6c3e3c"
+      Hint: Tier3Title
+      Value: Black Tier
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fb7ac18-74dc-4eb5-9444-8f8e079f9a5f"
+      Hint: BaggageDetailTopText
+      Value: "<p>Affichez les d&eacute;tails de votre allocation de bagages ci-dessous ou ajustez votre s&eacute;lection pour afficher diff&eacute;rents r&eacute;sultats.</p>"
+    - ID: "0fd6f1a3-2fea-49b7-b654-f6b19ce2a6f1"
+      Hint: CheckedInSummary
+      Value: <p>Payez votre exc&eacute;dent de bagages avant d'aller &agrave; l'a&eacute;roport et &eacute;conomisez jusqu'&agrave; 30% des tarifs disponibles &agrave; l'a&eacute;roport. Des bagages exc&eacute;dentaires pr&eacute;pay&eacute;s peuvent &ecirc;tre ajout&eacute;s &agrave; votre r&eacute;servation jusqu'&agrave; 25 heures avant le d&eacute;part. Pour acheter vos bagages exc&eacute;dentaires pr&eacute;pay&eacute;s, visitez le moteur de r&eacute;servation de Gulfair.com, allez g&eacute;rer ma r&eacute;servation, appelez notre centre de contact mondial ou visitez votre bureau de Gulf Air le plus proche.</p>
+    - ID: "169272aa-0c4e-4c3b-885f-91a0c3986c76"
+      Hint: Tier3Info
+      Value: <p>1 sac suppl&eacute;mentaire jusqu'&agrave; <strong> 32 kg</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230503T140921Z
+    - ID: "3dd0e952-e7bd-41ca-b506-e6757d8f79b8"
+      Hint: Headline
+      Value: "Besoin de plus d'allocation de bagages?"
+    - ID: "437e1da3-6158-4cc5-ba5a-951b7d133a9b"
+      Hint: Title
+      Value: Calculateur de bagages à air du Golfe
+    - ID: "4ffeabb8-2f5e-46c8-b144-9250fc4e25c4"
+      Hint: Tier1Title
+      Value: Tier argenté
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "591d5ed0-f1a8-4931-bf34-bef1a20ca5e7"
+      Hint: Tier2Title
+      Value: Tier d'or
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "77aa267e-ea5b-4575-9276-0f12bf810a47"
+      Hint: LoginCTA
+      Value: |
+        <link text="Connectez-vous à l'achat" linktype="external" url="https://gulfacc.resfinity.com/falcon/deeplink?adt=1&amp;cabin_class=Y&amp;chd=0&amp;tnn=0&amp;departure_date=20230910&amp;destination=DXB&amp;flight_type=return&amp;inf=0&amp;origin=BAH&amp;return_date=20230915&amp;flexible_dates=true" anchor="" target="_blank" />
+    - ID: "86460099-2261-477d-be4a-081e65c6287a"
+      Hint: SubText
+      Value: <p>Vous pouvez calculer votre poids de voyage global et le traduire en pi&egrave;ces de bagages que vous pouvez emporter avec vous en fonction de votre tarif de voyage.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9bfecb38-60f9-4a3f-b30f-34eb6054a024"
+    - ID: "9c98bf8a-d7de-44e2-ba53-12cdba48c2f1"
+      Hint: PurchaseCTA
+      Value: |
+        <link text="Acheter des bagages supplémentaires" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "ab1197eb-3bc1-448b-9f36-3f05df48d8e6"
+      Hint: BaggageDetailBottomText
+      Value: 
+    - ID: "ac933e3e-952b-4736-9375-3d96729e3cd8"
+      Hint: HeadingText
+      Value: Nos membres de Falconflyer
+    - ID: "adb2d744-4f14-4241-aa1e-68da4d61eec5"
+      Hint: DetailSubText
+      Value: <p>Nos membres du Falconflyer recevront une allocation de bagages compl&eacute;mentaire suppl&eacute;mentaire conform&eacute;ment &agrave; leur niveau de niveau d'adh&eacute;sion.</p>
+    - ID: "ae91632a-4910-45aa-a1cd-4d946193a463"
+      Hint: CheckedInTitle
+      Value: Baggages enregistrés supplémentaires
+    - ID: "b80d0c4f-7890-4030-80d3-f69106c0783b"
+      Hint: DetailText
+      Value: <p>Pour vous assurer d'avoir tous les effets n&eacute;cessaires pour votre voyage, vous pouvez inclure des bagages suppl&eacute;mentaires avant votre vol. Vous pouvez ajouter des bagages exc&eacute;dentaires pr&eacute;pay&eacute;s &agrave; votre r&eacute;servation jusqu'&agrave; 25 heures avant votre d&eacute;part. En payant en ligne votre allocation de bagages suppl&eacute;mentaires, vous pouvez &eacute;conomiser 30% des tarifs de l'a&eacute;roport.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c78b361c-e937-401a-8d34-76234ab05548"
+      Hint: Tier2Info
+      Value: |
+        <p>1 sac suppl&eacute;mentaire jusqu'&agrave; <span style="color: #a18f63;">23 kg</span></p>
+    - ID: "cd3da0a8-cb55-4cb6-a672-9797af5af6fe"
+      Hint: Tier1Info
+      Value: <p>1 sac suppl&eacute;mentaire jusqu'&agrave; 15 kg</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225843Z
+    - ID: "ed1d6e0f-b369-498b-a6dc-1c22530f8256"
+      Hint: CheckedInDetail
+      Value: <p>Si votre bagage d&eacute;passe les allocations de bagages gratuites, vous pouvez acheter vos bagages exc&eacute;dentaires pr&eacute;pay&eacute;s &agrave; des tarifs r&eacute;duits en ligne ou via votre bureau local de Gulf Air.</p>
+    - ID: "fce1a766-5237-4f37-b4ac-f50e3d6c3e3c"
+      Hint: Tier3Title
+      Value: Tier noir
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fb7ac18-74dc-4eb5-9444-8f8e079f9a5f"
+      Hint: BaggageDetailTopText
+      Value: <p>Посмотрите данные о вашем багажном пособии ниже или отрегулируйте свой выбор, чтобы просмотреть различные результаты.</p>
+    - ID: "0fd6f1a3-2fea-49b7-b654-f6b19ce2a6f1"
+      Hint: CheckedInSummary
+      Value: <p>Заплатите за лишний багаж, прежде чем отправиться в аэропорт и сэкономить до 30% скидки на доступные ставки в аэропорту. Предоплаченный избыток багажа может быть добавлен в бронирование за 25 часов до отъезда. Чтобы приобрести свой предоплаченный лишний багаж, посетите двигатель бронирования Gulfair.com, перейдите, чтобы управлять моим бронированием, позвоните в наш контактный центр по всему миру или посетите ближайший воздушный офис залива.</p>
+    - ID: "169272aa-0c4e-4c3b-885f-91a0c3986c76"
+      Hint: Tier3Info
+      Value: <p>1 дополнительная сумка до <strong> 32 кг</strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230503T141011Z
+    - ID: "3dd0e952-e7bd-41ca-b506-e6757d8f79b8"
+      Hint: Headline
+      Value: "Нужно больше багажа?"
+    - ID: "437e1da3-6158-4cc5-ba5a-951b7d133a9b"
+      Hint: Title
+      Value: Калькулятор воздушного багажного багажа залива
+    - ID: "4ffeabb8-2f5e-46c8-b144-9250fc4e25c4"
+      Hint: Tier1Title
+      Value: Серебряный уровень
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "591d5ed0-f1a8-4931-bf34-bef1a20ca5e7"
+      Hint: Tier2Title
+      Value: Золотой уровень
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "77aa267e-ea5b-4575-9276-0f12bf810a47"
+      Hint: LoginCTA
+      Value: |
+        <link text="Войдите, чтобы купить" linktype="external" url="https://gulfacc.resfinity.com/falcon/deeplink?adt=1&amp;cabin_class=Y&amp;chd=0&amp;tnn=0&amp;departure_date=20230910&amp;destination=DXB&amp;flight_type=return&amp;inf=0&amp;origin=BAH&amp;return_date=20230915&amp;flexible_dates=true" anchor="" target="_blank" />
+    - ID: "86460099-2261-477d-be4a-081e65c6287a"
+      Hint: SubText
+      Value: <p>Вы можете рассчитать свой общий вес в путешествии и перевести его в кусочки багажа, которые вы можете взять с собой в соответствии с вашей дорожкой.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df710a7b-dc2e-4594-8528-4d91b07db51f"
+    - ID: "9c98bf8a-d7de-44e2-ba53-12cdba48c2f1"
+      Hint: PurchaseCTA
+      Value: |
+        <link text="Купить дополнительные пакеты" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "ab1197eb-3bc1-448b-9f36-3f05df48d8e6"
+      Hint: BaggageDetailBottomText
+      Value: 
+    - ID: "ac933e3e-952b-4736-9375-3d96729e3cd8"
+      Hint: HeadingText
+      Value: Наши члены Falconflyer
+    - ID: "adb2d744-4f14-4241-aa1e-68da4d61eec5"
+      Hint: DetailSubText
+      Value: <p>Наши члены Falconflyer получат дополнительное бесплатное пособие по багажам в соответствии с уровнем их уровня членства.</p>
+    - ID: "ae91632a-4910-45aa-a1cd-4d946193a463"
+      Hint: CheckedInTitle
+      Value: Дополнительный зарегистрированный багаж
+    - ID: "b80d0c4f-7890-4030-80d3-f69106c0783b"
+      Hint: DetailText
+      Value: <p>Чтобы убедиться, что у вас есть все необходимые вещи для вашей поездки, вы можете включить дополнительный багаж перед вашим рейсом. Вы можете добавить предоплаченный избыточный багаж в бронирование вплоть до 25 часов до отъезда. Оплачивая дополнительное пособие по багажам в Интернете, вы можете сэкономить 30% скидки на ставки в аэропорту.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c78b361c-e937-401a-8d34-76234ab05548"
+      Hint: Tier2Info
+      Value: |
+        <p>1 дополнительная сумка до <span style="color: #a18f63;"> 23 кг</span></p>
+    - ID: "cd3da0a8-cb55-4cb6-a672-9797af5af6fe"
+      Hint: Tier1Info
+      Value: <p>1 дополнительная сумка до 15 кг</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225843Z
+    - ID: "ed1d6e0f-b369-498b-a6dc-1c22530f8256"
+      Hint: CheckedInDetail
+      Value: <p>Если ваш багаж превышает бесплатные разрешения на багаж, вы можете приобрести предоплаченный избыточный багаж по дисконтированным ставкам в Интернете или через местный воздушный офис в Персидском заливе.</p>
+    - ID: "fce1a766-5237-4f37-b4ac-f50e3d6c3e3c"
+      Hint: Tier3Title
+      Value: Черный уровень

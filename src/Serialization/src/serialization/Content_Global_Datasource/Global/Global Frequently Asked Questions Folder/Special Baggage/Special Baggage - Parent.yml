@@ -1,0 +1,213 @@
+﻿---
+ID: "808d268a-b8e4-472c-8fc4-e506e33972ab"
+Parent: "7dd7f8e6-4534-4b49-b0c4-2377aeedba7b"
+Template: "e390619c-9fa4-4eef-aeb4-ecacf033ad9c"
+Path: "/sitecore/content/Global/Global Frequently Asked Questions Folder/Special Baggage/Special Baggage - Parent"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "8c095ccd-cc96-454a-a2af-6582feeda6e5"
+  Hint: FAQList
+  Value: |
+    {2AA72554-3C93-4DDD-B7B2-CA420B96462C}
+    {9A7D9221-F9BA-4A81-8591-B7B18BD17A20}
+    {3BC5CBA4-210E-4E96-B62A-045813AE4C81}
+    {27DC8FE5-FCC8-4A4C-A752-3639B62E4E6B}
+    {89B6420C-887F-4669-903B-7EF2AF5DE259}
+    {014A5E19-9D88-4368-AD43-E322343432A4}
+    {A93F0F81-587B-4E9C-B2C3-FC882EBDC17A}
+    {039D9DC5-751D-4146-8CC0-E852A38AB335}
+    {7BF49B6A-4969-4BA7-9272-E153E1687877}
+    {4FEF475E-774B-452C-B9B5-483000C6600E}
+    {CF5C84EC-7F54-4F28-987B-ACD036E18F3E}
+    {E722225F-E3DE-42C7-8069-9A060AA6A6F3}
+    {5523D5B3-F4C2-41AB-B52F-AF0395FF39DD}
+    {69F2D155-7227-4F0B-8E07-11F1006903F3}
+    {00CECF79-DCEF-47BB-9B96-92F7113DF082}
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T104229Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7701968-f054-40d8-81ca-35699ec66b6c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T201315Z
+    - ID: "ed4cae1d-2f58-4038-a786-f9a0af078637"
+      Hint: Heading
+      Value: |
+        <h2 style="text-align: center;">أصناف الأمتعة الخاصة</h2>
+        <p style="text-align: center;"><strong>يجب ألا يتجاوز كل عنصر من العناصر المدرجة في هذه الوثيقة الحد الأقصى للأبعاد الخطية البالغة 158 سم ما لم يتم تحديد خلاف ذلك أدناه وإلا سيتم تطبيق الرسوم الخاصة المفروضة على الأمتعة:</strong></p>
+        <p style="text-align: center;">فيما يلي وصف العناصر المسموح بها:</p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T104011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a06ea51-b9df-4b68-bbcd-c96caa48a03e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T201356Z
+    - ID: "ed4cae1d-2f58-4038-a786-f9a0af078637"
+      Hint: Heading
+      Value: |
+        <h2 style="text-align: center;">
+        Spezielle Gep&auml;ckst&uuml;cke</h2>
+        <p style="text-align: center;"><strong>Sofern unten nicht angegeben, darf jeder Artikel die maximalen linearen Abmessungen von 158 cm nicht &uuml;berschreiten, oder es gelten spezielle Gep&auml;ckgeb&uuml;hren.</strong></p>
+        <p style="text-align: center;">Die zul&auml;ssigen Elemente werden wie folgt beschrieben:</p>
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T104011Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4da098b0-316f-4279-a133-a6e9c61a2c50"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T201222Z
+    - ID: "ed4cae1d-2f58-4038-a786-f9a0af078637"
+      Hint: Heading
+      Value: |
+        <h2 style="text-align: center;">Special Baggage Items</h2>
+        <p style="text-align: center;"><strong>Unless specified below, each item must not exceed the maximum linear dimensions of 158cm, or Special baggage charges will apply.</strong></p>
+        <p style="text-align: center;">The permitted items are described as follows:</p>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T104011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d7dcf06-0c10-4f86-b082-dd370801588e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T201523Z
+    - ID: "ed4cae1d-2f58-4038-a786-f9a0af078637"
+      Hint: Heading
+      Value: |
+        <h2 style="text-align: center;">Articles de bagages sp&eacute;ciaux</h2>
+        <p style="text-align: center;"><strong>Sauf sp&eacute;cifi&eacute; ci-dessous, chaque &eacute;l&eacute;ment ne doit pas d&eacute;passer les dimensions lin&eacute;aires maximales de 158 cm, ou des frais de bagages sp&eacute;ciaux s'appliqueront.</strong></p>
+        <p style="text-align: center;">Les articles autoris&eacute;s sont d&eacute;crits comme suit:</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T104011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b9f1c310-8d7d-4843-8362-54c4052b7b8d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T201626Z
+    - ID: "ed4cae1d-2f58-4038-a786-f9a0af078637"
+      Hint: Heading
+      Value: |
+        <h2 style="text-align: center;">Специальные предметы багажа</h2>
+        <p style="text-align: center;"><strong>Если не указано ниже, каждый предмет не должен превышать максимальные линейные размеры 158 см, или будут применяться специальные платы за багаж.</strong></p>
+        <p style="text-align: center;">Разрешенные предметы описаны следующим образом:</p>

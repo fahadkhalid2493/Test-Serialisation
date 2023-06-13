@@ -1,0 +1,96 @@
+﻿---
+ID: "79a1fa2b-2c00-4776-a38d-be7e14cb61f4"
+Parent: "b3e8586b-6d9c-418e-a20d-39e1a511d68e"
+Template: "2592711e-fe14-4fbf-a598-7b44eefce687"
+Path: "/sitecore/content/gulfair-app-jo/Data/OurLatestReleaseFolder/OurLatestReleaseParent/After Love"
+SharedFields:
+- ID: "8bcc64b3-0015-43a8-b498-4da56b412a3e"
+  Hint: CategoryTitle
+  Value: |
+    {3A1E0A14-DA95-4C69-B38B-B68A32A5F936}
+    {31E22DAC-0EEF-45CE-8A57-EB209801F047}
+- ID: "fb34b715-1ff2-4d85-9d25-c104fdd3886d"
+  Hint: Thumbnail
+  Value: |
+    <image width="350" height="520" alt="release-slide-02.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/bce857cf13ac4b5e8ec59625fe6feba3?v=2a498003" stylelabs-content-id="41382" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41382/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T121808Z
+    - ID: "372cf0c8-c8f9-487c-b441-89e1d2d11f6e"
+      Hint: Title
+      Value: افتر لوف
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "7f2ea66b-be57-4e86-8387-4c3fc55d21fc"
+      Hint: Genre
+      Value: دراما
+    - ID: "84ef3e20-26ff-4b13-a10a-2fcfb3f77de5"
+      Hint: Age
+      Value: 12
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b2c07bdf-4031-46e3-90cc-9cccf964388e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234322Z
+    - ID: "e4fcc8a3-9220-47a6-b672-00e31ec50457"
+      Hint: Duration
+      Value: 89 دقيقة
+    - ID: "f80ac4f6-16b4-4c5c-8596-0e1e4a00238d"
+      Hint: Year
+      Value: 2021
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T120857Z
+    - ID: "372cf0c8-c8f9-487c-b441-89e1d2d11f6e"
+      Hint: Title
+      Value: After Love
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "7f2ea66b-be57-4e86-8387-4c3fc55d21fc"
+      Hint: Genre
+      Value: Drama
+    - ID: "84ef3e20-26ff-4b13-a10a-2fcfb3f77de5"
+      Hint: Age
+      Value: 12
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "828d5ca3-6121-4760-8462-bf415e8e0fd6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234322Z
+    - ID: "e4fcc8a3-9220-47a6-b672-00e31ec50457"
+      Hint: Duration
+      Value: 89 mins
+    - ID: "f80ac4f6-16b4-4c5c-8596-0e1e4a00238d"
+      Hint: Year
+      Value: 2021

@@ -1,0 +1,220 @@
+﻿---
+ID: "c0ca1b28-4076-49e7-a382-237f568fa251"
+Parent: "04d5357e-e069-4ede-89a3-8c7b3dc6075c"
+Template: "51338d8b-3f81-4c25-bfcc-026dc5d8325a"
+Path: /sitecore/content/Global/Global Sliding Banner Folder/Home/Sliding Banner Parent/Connectivity
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "3cd43bcc-74d1-4d07-a914-60e99cf5e1f8"
+  Hint: MobileImage
+  Value: |
+    <image width="600" height="320" alt="New-website-images-CONNECTIVITY.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/b23fda850a8f45cc9935d218457c6fc4?v=0e40e01c" stylelabs-content-id="47942" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/47942/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "ee5e2182-29c4-4a5d-902d-c03e075518c8"
+  Hint: Image
+  Value: |
+    <image width="600" height="760" alt="New-website-images-CONNECTIVITY.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/a549cf075dc4456b981f43968cf155e4?v=698a953e" stylelabs-content-id="47942" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/47942/thumbnail" />
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T175149Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "57659734-76ac-4ea9-af3c-c4efe0c87993"
+      Hint: Description
+      Value: "<p>يمكنك الاتصال بالإنترنت عبر شبكة الواي فاي داخل المقصورة على متن رحلاتنا؛ كل ما عليك تسجيل الدخول على شبكة الواي فاي واختيار إحدى باقاتنا والاستمتاع بها!</p>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "044e7486-2977-444b-bb07-2771ff984aa3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d398b9a3-8451-4621-82cd-eafc68b09b16"
+      Hint: Title
+      Value: الأتصال
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T175149Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "57659734-76ac-4ea9-af3c-c4efe0c87993"
+      Hint: Description
+      Value: "<p>Mit unserem Falcon-WLAN bleiben Sie w&auml;hrend des gesamten Fluges in Verbindung. Melden Sie sich einfach bei unserem WLAN an Bord an, w&auml;hlen Sie eines unserer Pakete und genie&szlig;en Sie!</p>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b3bf97d-7f60-4459-835d-bb17cad4fc60"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d398b9a3-8451-4621-82cd-eafc68b09b16"
+      Hint: Title
+      Value: Konnektivität
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T175149Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "57659734-76ac-4ea9-af3c-c4efe0c87993"
+      Hint: Description
+      Value: "<p>Stay connected with our Falcon Wi-Fi for the duration of your flight. Simply log onto our on-board Wi-Fi, select one of our packages and enjoy!</p>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3d66d140-fc5d-4f40-a32b-f7706bc5690e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d398b9a3-8451-4621-82cd-eafc68b09b16"
+      Hint: Title
+      Value: Connectivity
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T175149Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "57659734-76ac-4ea9-af3c-c4efe0c87993"
+      Hint: Description
+      Value: "<p>Restez connect&eacute; avec notre Wi-Fi Falcon pour la dur&eacute;e de votre vol. Connectez-vous simplement &agrave; notre Wi-Fi &agrave; bord, s&eacute;lectionnez un de nos packs et profitez-en !</p>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9f5105f4-8755-401d-8585-08724f429ae5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d398b9a3-8451-4621-82cd-eafc68b09b16"
+      Hint: Title
+      Value: Connectivité
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T175149Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "57659734-76ac-4ea9-af3c-c4efe0c87993"
+      Hint: Description
+      Value: "<p>Оставайтесь на связи с нашим Falcon Wi-Fi на протяжении всего полета. Просто войдите в наш встроенный Wi-Fi, выберите один из наших пакетов и наслаждайтесь!</p>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1101065-066b-463c-ba2d-8d6b0ddb62cc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d398b9a3-8451-4621-82cd-eafc68b09b16"
+      Hint: Title
+      Value: Связь
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z

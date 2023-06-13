@@ -1,0 +1,173 @@
+﻿---
+ID: "a3f1f895-9167-45c4-a874-cb4de4441d9e"
+Parent: "1a09696e-bd6c-4b82-81bf-e5d380f35d45"
+Template: "47ed2d01-5223-4099-b239-215c95403756"
+Path: /sitecore/content/Global/Global Quick Panel Card Folder/Manage My Booking/QuickManageBookingCard
+SharedFields:
+- ID: "097c5cd0-4515-43d8-aa57-e5c5ce63a6c1"
+  Hint: LastNameField
+  Value: "{D9C3373B-7138-449E-BABA-3CCF0D66FDC7}"
+- ID: "49b36590-ddd7-4be0-81b0-56ecc625b024"
+  Hint: BookingReferenceField
+  Value: "{27F07553-5103-4663-B266-17F0274093A1}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230206T130246Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "6501e363-ba99-4c31-b6b7-892cf97e358c"
+      Hint: Heading
+      Value: الحجز
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5cb8dbf1-db17-4843-80d6-4d5cd11939f2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d39f8563-355d-413f-bedb-a935817da71d"
+      Hint: Deeplink
+      Value: |
+        <link text="مواصلة" linktype="external" url="https://gulfacc.resfinity.com/mmb?pnr={pnr}&amp;surname={surname}" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230527T190038Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230206T121520Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "6501e363-ba99-4c31-b6b7-892cf97e358c"
+      Hint: Heading
+      Value: Meine Buchung
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "104df549-993a-495d-b054-36695f8e69b0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d39f8563-355d-413f-bedb-a935817da71d"
+      Hint: Deeplink
+      Value: |
+        <link text="Nous faire parvenir" linktype="external" url="https://gulfacc.resfinity.com/mmb?pnr={pnr}&amp;surname={surname}" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230527T190046Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230206T121520Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "6501e363-ba99-4c31-b6b7-892cf97e358c"
+      Hint: Heading
+      Value: My booking
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b43e1fc2-2bcd-4458-8fb0-6c6c0df497cd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d39f8563-355d-413f-bedb-a935817da71d"
+      Hint: Deeplink
+      Value: |
+        <link text="Submit" linktype="external" url="https://gulfacc.resfinity.com/mmb?pnr={pnr}&amp;surname={surname}" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230527T190016Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230206T121520Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "6501e363-ba99-4c31-b6b7-892cf97e358c"
+      Hint: Heading
+      Value: Ma réservation
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1bd8379-d244-4c1a-b594-8cdc568f372a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d39f8563-355d-413f-bedb-a935817da71d"
+      Hint: Deeplink
+      Value: |
+        <link text="Nous faire parvenir" linktype="external" url="https://gulfacc.resfinity.com/mmb?pnr={pnr}&amp;surname={surname}" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230527T190052Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230206T121520Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "6501e363-ba99-4c31-b6b7-892cf97e358c"
+      Hint: Heading
+      Value: Мое бронирование
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ce157dd3-897f-4c60-a526-3206144c35f3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d39f8563-355d-413f-bedb-a935817da71d"
+      Hint: Deeplink
+      Value: |
+        <link text="Представлять на рассмотрение" linktype="external" url="https://gulfacc.resfinity.com/mmb?pnr={pnr}&amp;surname={surname}" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230527T190058Z

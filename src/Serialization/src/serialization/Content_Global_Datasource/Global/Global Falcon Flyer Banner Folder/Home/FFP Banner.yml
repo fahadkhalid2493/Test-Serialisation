@@ -1,0 +1,267 @@
+﻿---
+ID: "b214e0b2-9fcd-437b-85ec-8f9237716a5f"
+Parent: "9388a29c-d56f-47d6-86a5-f89b8901c022"
+Template: "18a3a622-0178-41f3-92d8-a9c689fed104"
+Path: /sitecore/content/Global/Global Falcon Flyer Banner Folder/Home/FFP Banner
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "3fef290e-bf96-4b4e-9696-42f8f2eab6ef"
+  Hint: VideoURL
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T173151Z
+    - ID: "28a7876e-a823-44c5-be7e-387898b6a592"
+      Hint: Heading
+      Value: اكسب أكثر. استخدم أكثر
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "54e078c9-5670-492b-80a4-f80606eae2ff"
+      Hint: Description
+      Value: <p>اشترك في <strong>برنامج فالكون فلاير</strong> وابدأ في كسب المزايا اليوم.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "83b4d05b-2fc9-4ab4-becd-012f7aac88e8"
+      Hint: SubHeading
+      Value: سافر أكثر. اكسب أكثر.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e97684d6-777d-4386-ae41-88071e2d6e09"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225906Z
+    - ID: "df9cb9bc-ff9c-4431-bfc9-f5777f060736"
+      Hint: ThumbnailImage
+      Value: |
+        <image width="870" height="335" alt="New-website-images-FFP---E.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/61ba065f23e248958491085361030ea4?v=b5fa3444" stylelabs-content-id="47947" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/47947/thumbnail" />
+    - ID: "fad670e3-3e01-4064-b364-6c42590c0b10"
+      Hint: CTA
+      Value: |
+        <link text="الاشتراك" linktype="external" url="https://falconflyer.gulfair.com/member/register?lang=en" anchor="" target="_blank" />
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T173151Z
+    - ID: "28a7876e-a823-44c5-be7e-387898b6a592"
+      Hint: Heading
+      Value: DO MORE. EARN MORE.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "54e078c9-5670-492b-80a4-f80606eae2ff"
+      Hint: Description
+      Value: "<p>Melden Sie sich beim <strong>Gulf Air Falconflyer -Programm</strong> an und erhalten Sie noch heute Belohnungen.</p>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "83b4d05b-2fc9-4ab4-becd-012f7aac88e8"
+      Hint: SubHeading
+      Value: Fliegen mehr. Mehr verdienen.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8dab5880-e6c4-4fef-beac-75d1b8f1ba8d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225906Z
+    - ID: "df9cb9bc-ff9c-4431-bfc9-f5777f060736"
+      Hint: ThumbnailImage
+      Value: |
+        <image width="870" height="335" alt="New-website-images-FFP---E---Flipped.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/a45c197b9b184f8cb0efe1dd1ff18233?v=119c14d7" stylelabs-content-id="47842" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/47842/thumbnail" />
+    - ID: "fad670e3-3e01-4064-b364-6c42590c0b10"
+      Hint: CTA
+      Value: |
+        <link text="Join today" linktype="external" url="https://falconflyer.gulfair.com/member/register?lang=en" anchor="" target="_blank" />
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T173151Z
+    - ID: "28a7876e-a823-44c5-be7e-387898b6a592"
+      Hint: Heading
+      Value: DO MORE. EARN MORE.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "54e078c9-5670-492b-80a4-f80606eae2ff"
+      Hint: Description
+      Value: <p>Sign up to our&nbsp;<strong>Falconflyer </strong>programme and start earning rewards today.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "83b4d05b-2fc9-4ab4-becd-012f7aac88e8"
+      Hint: SubHeading
+      Value: Fly more. Earn more.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0662cd6-a7b7-4f29-b472-502bebd08644"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225906Z
+    - ID: "df9cb9bc-ff9c-4431-bfc9-f5777f060736"
+      Hint: ThumbnailImage
+      Value: |
+        <image width="870" height="335" alt="New-website-images-FFP---E---Flipped.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/a45c197b9b184f8cb0efe1dd1ff18233?v=119c14d7" stylelabs-content-id="47842" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/47842/thumbnail" />
+    - ID: "fad670e3-3e01-4064-b364-6c42590c0b10"
+      Hint: CTA
+      Value: |
+        <link text="Join today" linktype="external" url="https://falconflyer.gulfair.com/member/register?lang=en" anchor="" target="_blank" />
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T173151Z
+    - ID: "28a7876e-a823-44c5-be7e-387898b6a592"
+      Hint: Heading
+      Value: DO MORE. EARN MORE.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "54e078c9-5670-492b-80a4-f80606eae2ff"
+      Hint: Description
+      Value: "<p>Inscrivez-vous au <strong>programme Gulf Air Falconflyer</strong> et commencez &agrave; gagner des r&eacute;compenses aujourd'hui.</p>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "83b4d05b-2fc9-4ab4-becd-012f7aac88e8"
+      Hint: SubHeading
+      Value: Voler plus. Gagne plus.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "488ca27f-e302-4629-b31a-b5ad2d8c98b5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225906Z
+    - ID: "df9cb9bc-ff9c-4431-bfc9-f5777f060736"
+      Hint: ThumbnailImage
+      Value: |
+        <image width="870" height="335" alt="New-website-images-FFP---E---Flipped.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/a45c197b9b184f8cb0efe1dd1ff18233?v=119c14d7" stylelabs-content-id="47842" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/47842/thumbnail" />
+    - ID: "fad670e3-3e01-4064-b364-6c42590c0b10"
+      Hint: CTA
+      Value: |
+        <link text="Join today" linktype="external" url="https://falconflyer.gulfair.com/member/register?lang=en" anchor="" target="_blank" />
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T173151Z
+    - ID: "28a7876e-a823-44c5-be7e-387898b6a592"
+      Hint: Heading
+      Value: DO MORE. EARN MORE.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "54e078c9-5670-492b-80a4-f80606eae2ff"
+      Hint: Description
+      Value: <p>Зарегистрируйтесь в <strong>программе Gulf Air Falconflyer</strong> и начните зарабатывать награды сегодня.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "83b4d05b-2fc9-4ab4-becd-012f7aac88e8"
+      Hint: SubHeading
+      Value: Летать больше. Зарабатывать больше.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc97ad94-d8cb-4d13-9ce8-bb1e2f22fc2f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225906Z
+    - ID: "df9cb9bc-ff9c-4431-bfc9-f5777f060736"
+      Hint: ThumbnailImage
+      Value: |
+        <image width="870" height="335" alt="New-website-images-FFP---E---Flipped.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/a45c197b9b184f8cb0efe1dd1ff18233?v=119c14d7" stylelabs-content-id="47842" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/47842/thumbnail" />
+    - ID: "fad670e3-3e01-4064-b364-6c42590c0b10"
+      Hint: CTA
+      Value: |
+        <link text="Join today" linktype="external" url="https://falconflyer.gulfair.com/member/register?lang=en" anchor="" target="_blank" />

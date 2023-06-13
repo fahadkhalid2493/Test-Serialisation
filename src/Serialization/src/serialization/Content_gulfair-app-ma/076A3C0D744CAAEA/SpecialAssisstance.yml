@@ -1,0 +1,262 @@
+﻿---
+ID: "6f182ed9-924b-40a5-8c07-e832b42b7454"
+Parent: "d07d2037-91d4-485c-b1ae-27bc9b904f00"
+Template: "43777290-de6e-474c-a476-b659ebcf4cb1"
+Path: "/sitecore/content/gulfair-app-ma/Data/Search Module With Information Tile Folder/Search Module With Information Tile Parent/SpecialAssisstance"
+SharedFields:
+- ID: "2cc85e79-09b1-4098-a6bc-1c11d181008a"
+  Hint: LiveChatOptionWithCTA
+  Value: "{55004A9C-071B-45B2-9154-5EF5BA160143}"
+- ID: "40afc0c0-49bf-41f5-950a-9586c0504f4d"
+  Hint: Icon
+  Value: |
+    <image width="120" height="120" alt="SpecialAssistanceIcon.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/d257f5d765c941e0a7759b05acd16f0f?v=6ed4f889" stylelabs-content-id="38873" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38873/thumbnail" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T115519Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: |
+        <h3>Special Assistance</h3>
+        
+        <p>Lorem ipsum consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend.</p>
+        
+        <h3>Travel Tips</h3>
+        <ul>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        <li>Cum nunc fermentum non euismod eu vehicula justo. </li>
+        <li>Nec donec ullamcorper tincidunt platea condimentum massa eleifend. </li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        </ul>
+        <p>For further inquiries please see our Baggage Page use our live chat or contact our help desk.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1940ec95-98f0-4deb-9e63-a78ea3b14b98"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Special Assistance
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Special Assistance
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234913Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T115519Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: |
+        <h3>Special Assistance</h3>
+        
+        <p>Lorem ipsum consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend.</p>
+        
+        <h3>Travel Tips</h3>
+        <ul>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        <li>Cum nunc fermentum non euismod eu vehicula justo. </li>
+        <li>Nec donec ullamcorper tincidunt platea condimentum massa eleifend. </li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        </ul>
+        <p>For further inquiries please see our Baggage Page use our live chat or contact our help desk.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a17382f9-82fb-4ac5-a4f3-ff5b9a2b7df3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Special Assistance
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Special Assistance
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234913Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T115519Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: |
+        <h3>Special Assistance</h3>
+        
+        <p>Lorem ipsum consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend.</p>
+        
+        <h3>Travel Tips</h3>
+        <ul>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        <li>Cum nunc fermentum non euismod eu vehicula justo. </li>
+        <li>Nec donec ullamcorper tincidunt platea condimentum massa eleifend. </li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        </ul>
+        <p>For further inquiries please see our Baggage Page use our live chat or contact our help desk.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d89b0949-2bea-4410-9fa6-9be5cf08b4e9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Special Assistance
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Special Assistance
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234913Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T115519Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: |
+        <h3>Special Assistance</h3>
+        
+        <p>Lorem ipsum consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend.</p>
+        
+        <h3>Travel Tips</h3>
+        <ul>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        <li>Cum nunc fermentum non euismod eu vehicula justo. </li>
+        <li>Nec donec ullamcorper tincidunt platea condimentum massa eleifend. </li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        </ul>
+        <p>For further inquiries please see our Baggage Page use our live chat or contact our help desk.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ea76ffb-6747-4f62-aeac-90bda9863042"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Special Assistance
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Special Assistance
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234913Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T115519Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: |
+        <h3>Special Assistance</h3>
+        
+        <p>Lorem ipsum consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend.</p>
+        
+        <h3>Travel Tips</h3>
+        <ul>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        <li>Cum nunc fermentum non euismod eu vehicula justo. </li>
+        <li>Nec donec ullamcorper tincidunt platea condimentum massa eleifend. </li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        </ul>
+        <p>For further inquiries please see our Baggage Page use our live chat or contact our help desk.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "80ff74c9-458d-4c31-b11d-16dc0c288ec8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Special Assistance
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Special Assistance
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T234913Z

@@ -1,0 +1,309 @@
+﻿---
+ID: "04183919-c073-4ef9-bf01-a1cf96b985fa"
+Parent: "09093cb6-791c-43b9-9124-48666cdbe81e"
+Template: "dee217dd-a929-4051-830a-f02184ead1d9"
+Path: /sitecore/content/Global/Footer/New Footer
+SharedFields:
+- ID: "15edf99f-bb9f-4242-bb37-82432a95fd26"
+  Hint: Certificates
+  Value: |
+    {AD569545-F266-4038-959E-4004125F1CAB}
+    {44C97876-222B-4A54-9F7E-FB81305BBCA7}
+    {A7A8886A-00C0-47DE-8B4E-C32A9340B937}
+- ID: "196e67f4-48ae-4eb9-a2d2-4f9015388787"
+  Hint: CTAType1
+  Value: "{9E29A28B-7ED9-41A5-BE7D-66A986A44CC3}"
+- ID: "2b53bd02-905b-404a-805b-7d47024ebc60"
+  Hint: SocialLinks
+  Value: |
+    {C726FFCF-BBFD-4AA0-9CA1-885C0F660455}
+    {CDAAE222-130C-47F2-9AE0-80E801DFD08E}
+    {99C24E10-AB3E-4E61-959B-F126EB2FCA13}
+    {2D2B5052-C7F1-43A3-89B9-11A853372DA6}
+    {22E21A1C-E95E-4BE5-9675-6DF309E76CA6}
+- ID: "66f006ca-494f-4dbf-8dd2-7f90b41f6d92"
+  Hint: CTAColor2
+  Value: "{89330C54-4FC1-4573-913A-BC08CCDEBD5B}"
+- ID: "85920d03-06e9-44a5-a303-787c6c29bd34"
+  Hint: FooterLogo
+  Value: |
+    <image width="158" height="58" alt="ft-logo.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/b2ad01e9b5cc40c2a94740d6f0f50938?v=1049d581" stylelabs-content-id="38838" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38838/thumbnail" />
+- ID: "921a38b7-3074-48ab-88c5-4462833c962a"
+  Hint: CTAType2
+  Value: "{B3C4407E-7461-4B34-B944-D581BA981A27}"
+- ID: "b8aca052-d05d-4167-a90f-a6c01f734f8c"
+  Hint: CTAColor1
+  Value: "{55CE5A8D-B17E-4E50-84AA-032A47418992}"
+- ID: "caa9da49-a2b2-4401-ab9d-9480bcded7d7"
+  Hint: FooterNavigation
+  Value: |
+    {FC3935DB-B27D-4557-9347-EC529486D66F}
+    {26DAFFA6-0414-4DFA-AE33-F3E33DEA8130}
+    {E2E2DA87-9206-4037-950D-51F068568B16}
+    {C5A5F64B-E13C-4E79-ADFC-68AAE1F5AB21}
+- ID: "e10308ca-e274-40fa-912a-267686e82ed3"
+  Hint: BottomNavigation
+  Value: |
+    {E76AE1DE-DC0E-4EF7-BD28-0ACCDE85186A}
+    {74313C75-1870-4EC3-987E-E51FA7AACEE0}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0AB16755-2F12-4E9E-B933-19E8C8C53858}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T062917Z
+    - ID: "26b5a4ff-7ea3-480c-be9f-f4edd91e3ca5"
+      Hint: NewsletterHeading
+      Value: اشترك في نشرتنا
+    - ID: "501f6621-70e8-4657-8e87-37c665ff3233"
+      Hint: CopyrightText
+      Value: "جميع الحقوق محفوظة © {YEAR} - طيران الخليج"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5be414c5-d686-4c25-91f4-e686558cccc8"
+      Hint: InfoTitle
+      Value: نريد أن نسمع منك
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6d0eef45-873e-4e88-935c-2d3b3469e969"
+      Hint: CTA2
+      Value: |
+        <link text="اتصل بنا" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "7d950fa9-a28e-49bf-96dd-2d29de4242c6"
+      Hint: CookiePolicy
+      Value: |
+        <h2>Cookies on gulfair.com</h2>
+        <p>As provided in our <a href="~/link.aspx?_id=64CB51FDAC604F3D8849F5051B6738DA&amp;_z=z">Cookie Policy</a>, we have placed cookies on your device to help make our website better. You can change your cookie preferences by using your browser settings. Otherwise, if you continue to use our website we will assume you agree to continue.</p>
+    - ID: "815b969e-d88e-49df-b7c8-d3bb2d248b9e"
+      Hint: NewsletterInfo
+      Value: لتصلك أخر العروض
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "219c2bde-6247-4446-affa-2e922df52553"
+    - ID: "ac050ede-6851-47f4-9588-383c644b2b2c"
+      Hint: CTA1
+      Value: |
+        <link text="شاركنا رأيك" linktype="external" url="https://falconflyer.gulfair.com/#/feedback" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225907Z
+    - ID: "ea2e8fc0-44a1-46cd-aa15-a5cf9fae9ef2"
+      Hint: InfoDesc
+      Value: <p>تحسين تجارب عملائنا سواء في المطار ، في الهواء أو عبر الإنترنت هو تركيزنا الأساسي.</p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T082907Z
+    - ID: "26b5a4ff-7ea3-480c-be9f-f4edd91e3ca5"
+      Hint: NewsletterHeading
+      Value: Subscribe to our Newsletter
+    - ID: "501f6621-70e8-4657-8e87-37c665ff3233"
+      Hint: CopyrightText
+      Value: "All right reserved © {YEAR} - Gulf Air"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5be414c5-d686-4c25-91f4-e686558cccc8"
+      Hint: InfoTitle
+      Value: Wir wollen von dir hören
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "6d0eef45-873e-4e88-935c-2d3b3469e969"
+      Hint: CTA2
+      Value: |
+        <link text="Kontaktiere uns" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "7d950fa9-a28e-49bf-96dd-2d29de4242c6"
+      Hint: CookiePolicy
+      Value: |
+        <h2>Cookies on gulfair.com</h2>
+        <p>As provided in our <a href="~/link.aspx?_id=64CB51FDAC604F3D8849F5051B6738DA&amp;_z=z">Cookie Policy</a>, we have placed cookies on your device to help make our website better. You can change your cookie preferences by using your browser settings. Otherwise, if you continue to use our website we will assume you agree to continue.</p>
+    - ID: "815b969e-d88e-49df-b7c8-d3bb2d248b9e"
+      Hint: NewsletterInfo
+      Value: to receive updates on deals
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "027ab911-f9fb-4578-99eb-b0b65f9b8526"
+    - ID: "ac050ede-6851-47f4-9588-383c644b2b2c"
+      Hint: CTA1
+      Value: |
+        <link text="Share feedback" linktype="external" url="https://falconflyer.gulfair.com/#/feedback" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225907Z
+    - ID: "ea2e8fc0-44a1-46cd-aa15-a5cf9fae9ef2"
+      Hint: InfoDesc
+      Value: <p>Die Verbesserung der Erfahrungen unserer Kunden am Flughafen, in der Luft oder online ist unser Hauptaugenmerk.</p>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T082907Z
+    - ID: "26b5a4ff-7ea3-480c-be9f-f4edd91e3ca5"
+      Hint: NewsletterHeading
+      Value: Subscribe to our Newsletter
+    - ID: "501f6621-70e8-4657-8e87-37c665ff3233"
+      Hint: CopyrightText
+      Value: "All right reserved © {YEAR} - Gulf Air"
+    - ID: "5be414c5-d686-4c25-91f4-e686558cccc8"
+      Hint: InfoTitle
+      Value: We want to hear from you
+    - ID: "6d0eef45-873e-4e88-935c-2d3b3469e969"
+      Hint: CTA2
+      Value: |
+        <link text="Contact us" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "7d950fa9-a28e-49bf-96dd-2d29de4242c6"
+      Hint: CookiePolicy
+      Value: |
+        <h2>Cookies on gulfair.com</h2>
+        <p>As provided in our <a href="~/link.aspx?_id=64CB51FDAC604F3D8849F5051B6738DA&amp;_z=z">Cookie Policy</a>, we have placed cookies on your device to help make our website better. You can change your cookie preferences by using your browser settings. Otherwise, if you continue to use our website we will assume you agree to continue.</p>
+    - ID: "815b969e-d88e-49df-b7c8-d3bb2d248b9e"
+      Hint: NewsletterInfo
+      Value: to receive updates on deals
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "08049a70-180f-446c-940b-5a3ceac1c5a9"
+    - ID: "ac050ede-6851-47f4-9588-383c644b2b2c"
+      Hint: CTA1
+      Value: |
+        <link text="Share feedback" linktype="external" url="https://falconflyer.gulfair.com/#/feedback" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225907Z
+    - ID: "ea2e8fc0-44a1-46cd-aa15-a5cf9fae9ef2"
+      Hint: InfoDesc
+      Value: <p>Improving our customers' experiences whether at the airport, in the air or online is our primary focus.</p>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T082907Z
+    - ID: "26b5a4ff-7ea3-480c-be9f-f4edd91e3ca5"
+      Hint: NewsletterHeading
+      Value: Subscribe to our Newsletter
+    - ID: "501f6621-70e8-4657-8e87-37c665ff3233"
+      Hint: CopyrightText
+      Value: "All right reserved © {YEAR} - Gulf Air"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5be414c5-d686-4c25-91f4-e686558cccc8"
+      Hint: InfoTitle
+      Value: Nous voulons de vos nouvelles
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "6d0eef45-873e-4e88-935c-2d3b3469e969"
+      Hint: CTA2
+      Value: |
+        <link text="Contactez-nous" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "7d950fa9-a28e-49bf-96dd-2d29de4242c6"
+      Hint: CookiePolicy
+      Value: |
+        <h2>Cookies on gulfair.com</h2>
+        <p>As provided in our <a href="~/link.aspx?_id=64CB51FDAC604F3D8849F5051B6738DA&amp;_z=z">Cookie Policy</a>, we have placed cookies on your device to help make our website better. You can change your cookie preferences by using your browser settings. Otherwise, if you continue to use our website we will assume you agree to continue.</p>
+    - ID: "815b969e-d88e-49df-b7c8-d3bb2d248b9e"
+      Hint: NewsletterInfo
+      Value: to receive updates on deals
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fcfcb3b3-d041-4765-acda-5a82274867cc"
+    - ID: "ac050ede-6851-47f4-9588-383c644b2b2c"
+      Hint: CTA1
+      Value: |
+        <link text="Share feedback" linktype="external" url="https://falconflyer.gulfair.com/#/feedback" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225907Z
+    - ID: "ea2e8fc0-44a1-46cd-aa15-a5cf9fae9ef2"
+      Hint: InfoDesc
+      Value: <p>Am&eacute;liorer les exp&eacute;riences de nos clients, que ce soit &agrave; l'a&eacute;roport, dans les airs ou en ligne est notre objectif principal.</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T082907Z
+    - ID: "26b5a4ff-7ea3-480c-be9f-f4edd91e3ca5"
+      Hint: NewsletterHeading
+      Value: Subscribe to our Newsletter
+    - ID: "501f6621-70e8-4657-8e87-37c665ff3233"
+      Hint: CopyrightText
+      Value: "All right reserved © {YEAR} - Gulf Air"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5be414c5-d686-4c25-91f4-e686558cccc8"
+      Hint: InfoTitle
+      Value: ждем вашего ответа
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "6d0eef45-873e-4e88-935c-2d3b3469e969"
+      Hint: CTA2
+      Value: |
+        <link text="Свяжитесь с нами" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D42C78BE-2654-4C6C-A9E4-40BA074BC1C5}" />
+    - ID: "7d950fa9-a28e-49bf-96dd-2d29de4242c6"
+      Hint: CookiePolicy
+      Value: |
+        <h2>Cookies on gulfair.com</h2>
+        <p>As provided in our <a href="~/link.aspx?_id=64CB51FDAC604F3D8849F5051B6738DA&amp;_z=z">Cookie Policy</a>, we have placed cookies on your device to help make our website better. You can change your cookie preferences by using your browser settings. Otherwise, if you continue to use our website we will assume you agree to continue.</p>
+    - ID: "815b969e-d88e-49df-b7c8-d3bb2d248b9e"
+      Hint: NewsletterInfo
+      Value: to receive updates on deals
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bb228017-cf85-4211-bc87-da782a12d29a"
+    - ID: "ac050ede-6851-47f4-9588-383c644b2b2c"
+      Hint: CTA1
+      Value: |
+        <link text="Share feedback" linktype="external" url="https://falconflyer.gulfair.com/#/feedback" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225907Z
+    - ID: "ea2e8fc0-44a1-46cd-aa15-a5cf9fae9ef2"
+      Hint: InfoDesc
+      Value: <p>Улучшение опыта наших клиентов, будь то в аэропорту, в воздухе или в Интернете, является нашим основным направлением.</p>

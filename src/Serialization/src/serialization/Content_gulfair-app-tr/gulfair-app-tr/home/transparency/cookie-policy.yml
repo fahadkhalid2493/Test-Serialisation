@@ -1,0 +1,91 @@
+﻿---
+ID: "e2cfc7e5-ad37-44c4-894e-f616a35381d4"
+Parent: "492227da-5cbc-4a9b-ba4a-c7be5dd0ea99"
+Template: "567d1326-6a58-458f-aebf-ffc95d3e060b"
+Path: "/sitecore/content/gulfair-app-tr/home/transparency/cookie-policy"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 4000
+- ID: "d26a428b-8f37-4ae7-bd6c-1126664c4031"
+  Hint: AvailableLanguages
+  Value: "{AE2B1160-AEC8-400B-92BF-E4F2378F29C8}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F5F7C0E8-DE0E-4E99-99C4-5E268663DEB3}"
+          p:after="r[@uid='{78BCE695-62F3-465D-9ACF-B6E971121264}']"
+          s:ds="{B597F12B-A3F6-42E1-ACD3-2E42287A2574}"
+          s:id="{2FAE24EB-118B-467A-A793-A565ECF56816}"
+          s:par="CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D&amp;CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D"
+          s:ph="jss-inner-banner"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{400A6B99-8EC7-4DEE-8EA0-653832E86E0F}"
+          p:after="r[@uid='{F5F7C0E8-DE0E-4E99-99C4-5E268663DEB3}']"
+          s:ds="{63C7D3DB-4F38-4675-B55A-17B0E5387FC8}"
+          s:id="{15B3A93E-34D1-4FF1-8928-43C668FB49D1}"
+          s:par="BackgroundColor=%7B89330C54-4FC1-4573-913A-BC08CCDEBD5B%7D"
+          s:ph="jss-sidebar"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{2644AC33-F1DF-4EA6-929C-E09C9DA903ED}"
+          p:after="r[@uid='{400A6B99-8EC7-4DEE-8EA0-653832E86E0F}']"
+          s:ds="{794ACDAD-A7A4-49E0-8CA1-80BB9FAE1722}"
+          s:id="{880D4B28-3D15-4327-B46C-B11FEAF4467A}"
+          s:par=""
+          s:ph="jss-content"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{097F4145-FA27-492F-9717-3433716107D6}"
+          p:after="r[@uid='{2644AC33-F1DF-4EA6-929C-E09C9DA903ED}']"
+          s:ds="{37660894-6DE5-43C6-9D19-BAA8767ABABA}"
+          s:id="{A90798C6-84ED-4A1B-8AE5-145FF21D0A0E}"
+          s:par=""
+          s:ph="jss-content"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "190a95d1-7b31-4014-868b-bc41dee10413"
+      Hint: pageTitle
+      Value: Cookie Policy
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T130227Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Cookie Policy
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e54957a5-afe8-4112-b187-e5690498c783"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Cookie Policy
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Cookie Policy
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230512T152617Z

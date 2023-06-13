@@ -1,0 +1,203 @@
+﻿---
+ID: "85a97d6d-250b-45e4-9faa-40afe0a772da"
+Parent: "82c8e8da-5e58-46b5-a118-ff7639288956"
+Template: "c057a658-4a90-4a0e-9c94-aab0e82442f9"
+Path: "/sitecore/content/gulfair-app-pk/Data/CTA Banner V2 Folder/FalconFlyer Program - Non Member/FalconFlyer Program - Non Member - Falcon gold lounges"
+SharedFields:
+- ID: "28a80a04-5b1d-46a2-9ed9-12be41fcc0e7"
+  Hint: Image
+  Value: |
+    <image width="1008" height="359" alt="cta-banner-v2.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/44c652539def47aea84aa58d14ebfc2a?v=65fae411" stylelabs-content-id="38007" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38007/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: <p>Subheading Text</p>
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: |
+        Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet Lorem ipsum.
+        Dolor sit amet Lorem ipsum dolor sit amet
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T122130Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link text="Discover" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a5c38c21-0d98-45e7-9f23-4fb9f14f8e6a"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Falcon Gold Lounges
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235809Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: <p>Subheading Text</p>
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: |
+        Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet Lorem ipsum.
+        Dolor sit amet Lorem ipsum dolor sit amet
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T121439Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link text="Discover" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e3a31b8b-ee61-491f-8549-f9eea024c272"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Falcon Gold Lounges
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235809Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: <p>Subheading Text</p>
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: |
+        Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet Lorem ipsum.<br />
+        Dolor sit amet Lorem ipsum dolor sit amet
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T121439Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link text="Discover" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6530b544-39e3-4727-a43f-ea4501484b9a"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Falcon Gold Lounges
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235809Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: <p>Subheading Text</p>
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: |
+        Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet Lorem ipsum.
+        Dolor sit amet Lorem ipsum dolor sit amet
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T121439Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link text="Discover" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a6b1a73-dd1d-49c8-96d0-17b4d982af2f"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Falcon Gold Lounges
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235809Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: <p>Subheading Text</p>
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: |
+        Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet Lorem ipsum.
+        Dolor sit amet Lorem ipsum dolor sit amet
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T121439Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link text="Discover" linktype="external" url="/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4c32ac62-550e-4121-8441-3fabbe5e324c"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Falcon Gold Lounges
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235809Z

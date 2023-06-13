@@ -1,0 +1,160 @@
+﻿---
+ID: "472d40ee-5a2e-463f-b004-bd14d05efb65"
+Parent: "36cb93b6-2c4c-472c-a19a-a890f78ba571"
+Template: "a06b921d-ab61-4e2e-a050-9b25d5fa9798"
+Path: /sitecore/content/Global Configuration/Passenger/Infants In Seat
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "bc5be750-bffd-42c6-8bdd-d87eddde24ad"
+  Hint: QueryParam
+  Value: inf
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T135124Z
+    - ID: "29d67aff-9308-4b77-afaa-6923c242ca85"
+      Hint: Title
+      Value: Infants In Seat
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7a88ebf5-2102-4c99-b9af-7a5b0d0ae743"
+      Hint: Ages
+      Value: Under 2 years
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e567a03-7536-454c-b1ec-dd3a9e5eb2a6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230121T180230Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T135124Z
+    - ID: "29d67aff-9308-4b77-afaa-6923c242ca85"
+      Hint: Title
+      Value: Infants In Seat
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "7a88ebf5-2102-4c99-b9af-7a5b0d0ae743"
+      Hint: Ages
+      Value: Under 2 years
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb7179c8-2450-47fb-9283-1acf8188cfe8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120133Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T135124Z
+    - ID: "29d67aff-9308-4b77-afaa-6923c242ca85"
+      Hint: Title
+      Value: Infants In Seat
+    - ID: "7a88ebf5-2102-4c99-b9af-7a5b0d0ae743"
+      Hint: Ages
+      Value: Under 2 years
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dd1c6076-a134-4695-936e-c5fa949e86e9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230121T180940Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T135124Z
+    - ID: "29d67aff-9308-4b77-afaa-6923c242ca85"
+      Hint: Title
+      Value: Infants In Seat
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "7a88ebf5-2102-4c99-b9af-7a5b0d0ae743"
+      Hint: Ages
+      Value: Under 2 years
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d46dc557-ac6d-4a16-9ebf-e1132ab58c1d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T110844Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T135124Z
+    - ID: "29d67aff-9308-4b77-afaa-6923c242ca85"
+      Hint: Title
+      Value: Infants In Seat
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "7a88ebf5-2102-4c99-b9af-7a5b0d0ae743"
+      Hint: Ages
+      Value: Under 2 years
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b443b20c-522f-426e-b0cc-4948f268cbd6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230301T120347Z

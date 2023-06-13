@@ -1,0 +1,27 @@
+﻿---
+ID: "d78c549e-e315-436b-bff8-e02a11548518"
+Parent: "bf609f7c-8e69-40e1-aad3-f860b94d9490"
+Template: "f3c70f62-83ba-4f05-98f1-dcc4a65668d5"
+Path: /sitecore/content/Global Configuration/ThingsToDoCategoryFolder
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1900
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230302T141748Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd066a1d-ee52-41c8-9d94-97333c14e6c6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230313T140124Z

@@ -1,0 +1,262 @@
+﻿---
+ID: "964a6eba-855f-41bf-8735-a07189acad6d"
+Parent: "1ef24509-377d-417e-b6b2-7ec0d9a6856d"
+Template: "43777290-de6e-474c-a476-b659ebcf4cb1"
+Path: "/sitecore/content/gulfair-app-om/Data/Search Module With Information Tile Folder/Search Module With Information Tile Parent/Rebooking"
+SharedFields:
+- ID: "2cc85e79-09b1-4098-a6bc-1c11d181008a"
+  Hint: LiveChatOptionWithCTA
+  Value: "{55004A9C-071B-45B2-9154-5EF5BA160143}"
+- ID: "40afc0c0-49bf-41f5-950a-9586c0504f4d"
+  Hint: Icon
+  Value: |
+    <image width="120" height="120" alt="RebookingCancellationRefundIcon.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/e29da48bc8ae4a42be874206c5679388?v=3c10a7ac" stylelabs-content-id="38871" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38871/thumbnail" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T115519Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: |
+        <h3>Rebooking, Cancellations & Refunds</h3>
+        
+        <p>Lorem ipsum consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend.</p>
+        
+        <h3>Travel Tips</h3>
+        <ul>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        <li>Cum nunc fermentum non euismod eu vehicula justo. </li>
+        <li>Nec donec ullamcorper tincidunt platea condimentum massa eleifend. </li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        </ul>
+        <p>For further inquiries please see our Baggage Page use our live chat or contact our help desk.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0f06ed2-34bf-4e92-ace6-2fa2a52560fb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Rebooking, Cancellations & Refunds
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Rebooking, Cancellations & Refunds
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235257Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T115519Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: |
+        <h3>Rebooking, Cancellations & Refunds</h3>
+        
+        <p>Lorem ipsum consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend.</p>
+        
+        <h3>Travel Tips</h3>
+        <ul>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        <li>Cum nunc fermentum non euismod eu vehicula justo. </li>
+        <li>Nec donec ullamcorper tincidunt platea condimentum massa eleifend. </li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        </ul>
+        <p>For further inquiries please see our Baggage Page use our live chat or contact our help desk.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8adbbe94-ec1e-4eda-bf4d-154623e0a730"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Rebooking, Cancellations & Refunds
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Rebooking, Cancellations & Refunds
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235257Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T115519Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: |
+        <h3>Rebooking, Cancellations & Refunds</h3>
+        
+        <p>Lorem ipsum consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend.</p>
+        
+        <h3>Travel Tips</h3>
+        <ul>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        <li>Cum nunc fermentum non euismod eu vehicula justo. </li>
+        <li>Nec donec ullamcorper tincidunt platea condimentum massa eleifend. </li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        </ul>
+        <p>For further inquiries please see our Baggage Page use our live chat or contact our help desk.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4abd2114-0737-4010-8913-3248fd799f6e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Rebooking, Cancellations & Refunds
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Rebooking, Cancellations & Refunds
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235257Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T115519Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: |
+        <h3>Rebooking, Cancellations & Refunds</h3>
+        
+        <p>Lorem ipsum consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend.</p>
+        
+        <h3>Travel Tips</h3>
+        <ul>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        <li>Cum nunc fermentum non euismod eu vehicula justo. </li>
+        <li>Nec donec ullamcorper tincidunt platea condimentum massa eleifend. </li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        </ul>
+        <p>For further inquiries please see our Baggage Page use our live chat or contact our help desk.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "11d96a9f-2a92-4101-bb0f-d2193ecf1de4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Rebooking, Cancellations & Refunds
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Rebooking, Cancellations & Refunds
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235257Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T115519Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: |
+        <h3>Rebooking, Cancellations & Refunds</h3>
+        
+        <p>Lorem ipsum consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum nunc fermentum non euismod eu vehicula justo. Nec donec ullamcorper tincidunt platea condimentum massa eleifend.</p>
+        
+        <h3>Travel Tips</h3>
+        <ul>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        <li>Cum nunc fermentum non euismod eu vehicula justo. </li>
+        <li>Nec donec ullamcorper tincidunt platea condimentum massa eleifend. </li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+        </ul>
+        <p>For further inquiries please see our Baggage Page use our live chat or contact our help desk.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "309234cf-6c54-454a-bffd-0f4ada7229be"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Rebooking, Cancellations & Refunds
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Rebooking, Cancellations & Refunds
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235257Z

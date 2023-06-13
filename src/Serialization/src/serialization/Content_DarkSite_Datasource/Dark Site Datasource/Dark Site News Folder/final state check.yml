@@ -1,0 +1,51 @@
+﻿---
+ID: "4aa2b775-ea62-4f22-b1ee-ba206af2616d"
+Parent: "b9e7e7d0-9e3f-4d6e-b3cb-1f705c2456a3"
+Template: "4104cdff-8fa5-4733-b96a-f7566c2cde7b"
+Path: /sitecore/content/Dark Site Datasource/Dark Site News Folder/final state check
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "090e0df1-ba60-453e-bd95-f248cce84117"
+      Hint: PostedDate
+      Value: 20230604T151700Z
+    - ID: "0e2c15db-283d-429d-9d3c-dfddb0534984"
+      Hint: Heading
+      Value: test
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230515T103809Z
+    - ID: "363ff507-316c-4e05-ae66-701c6c4b6eae"
+      Hint: LongDescription
+      Value: |
+        <strong style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px; text-align: justify;">Lorem Ipsum</strong><span style="background-color: #ffffff; text-align: justify; color: #000000;">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shahbaz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shahbaz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "995201a1-f4c0-4f96-bdf7-a88715e66c22"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazi
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230604T151754Z
+    - ID: "e30afc48-db47-4394-864b-24dfa64a5708"
+      Hint: ShortDescription
+      Value: test test test

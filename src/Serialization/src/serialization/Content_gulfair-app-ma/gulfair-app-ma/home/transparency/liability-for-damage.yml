@@ -1,0 +1,83 @@
+﻿---
+ID: "1769fcd6-297f-4ab7-a6ad-0a63207785a9"
+Parent: "72f6a819-021d-466d-a664-3a441d28dbe7"
+Template: "567d1326-6a58-458f-aebf-ffc95d3e060b"
+Path: "/sitecore/content/gulfair-app-ma/home/transparency/liability-for-damage"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2900
+- ID: "d26a428b-8f37-4ae7-bd6c-1126664c4031"
+  Hint: AvailableLanguages
+  Value: "{AE2B1160-AEC8-400B-92BF-E4F2378F29C8}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{8CF2DDE2-3597-4B9B-BBA3-FD47D1D3051F}"
+          p:after="r[@uid='{78BCE695-62F3-465D-9ACF-B6E971121264}']"
+          s:ds="{9D7DD4C2-F729-4E1B-862B-838F725B80DB}"
+          s:id="{2FAE24EB-118B-467A-A793-A565ECF56816}"
+          s:par="CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D&amp;CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D"
+          s:ph="jss-inner-banner"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{6959E65C-47C4-4C83-B9C6-15A7ECA8750F}"
+          p:after="r[@uid='{8CF2DDE2-3597-4B9B-BBA3-FD47D1D3051F}']"
+          s:ds="{63C7D3DB-4F38-4675-B55A-17B0E5387FC8}"
+          s:id="{15B3A93E-34D1-4FF1-8928-43C668FB49D1}"
+          s:par="BackgroundColor=%7B89330C54-4FC1-4573-913A-BC08CCDEBD5B%7D"
+          s:ph="jss-sidebar"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{01FEF20C-04B1-4EAC-91F7-4DB8F9D77553}"
+          p:after="r[@uid='{6959E65C-47C4-4C83-B9C6-15A7ECA8750F}']"
+          s:ds="{F3F0A468-8D23-4248-A3E9-2FD3CB711F6B}"
+          s:id="{880D4B28-3D15-4327-B46C-B11FEAF4467A}"
+          s:par=""
+          s:ph="jss-content"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "190a95d1-7b31-4014-868b-bc41dee10413"
+      Hint: pageTitle
+      Value: Liability of Damage
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T130213Z
+    - ID: "35269cf9-653e-4a2e-9909-a67b59e630e9"
+      Hint: MetaDescription
+      Value: Liability of Damage
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7aa8c538-b910-4028-9eea-b7084a918927"
+    - ID: "8d261906-86f6-41f8-8055-ab44b7084767"
+      Hint: MetaTitle
+      Value: Liability of Damage
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "c76bdaca-8c1b-4f4b-935e-76253993ced9"
+      Hint: MetaKeywords
+      Value: Liability of Damage
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230512T152457Z

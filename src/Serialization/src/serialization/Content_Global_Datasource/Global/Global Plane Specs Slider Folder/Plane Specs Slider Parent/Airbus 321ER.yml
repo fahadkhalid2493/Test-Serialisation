@@ -1,0 +1,440 @@
+﻿---
+ID: "65736d93-7226-4ced-85cd-488bbc2ed5d9"
+Parent: "a9fb19cf-84c5-4af0-ae79-4824e269c3d4"
+Template: "736ac33e-e829-4dd1-9cc1-665d00630c3e"
+Path: /sitecore/content/Global/Global Plane Specs Slider Folder/Plane Specs Slider Parent/Airbus 321ER
+SharedFields:
+- ID: "0222c215-f05a-4cdb-8ab7-c6e792b30668"
+  Hint: CTABannerImageMobile
+  Value: |
+    <image width="305" height="214" alt="Boeing787-9CabinMobile.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/e29d2d5e2ef542b99800c58ed5bb8e51?v=2bd65c49" stylelabs-content-id="40955" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/40955/thumbnail" />
+- ID: "828fe380-0548-4b9f-be2f-a44edec31d4a"
+  Hint: AirPlaneImageMobile
+  Value: |
+    <image width="932" height="288" alt="A321-ER" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/41f734efb3534e428d107b347cbee5c8?v=202315ce" stylelabs-content-id="48360" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48360/thumbnail" />
+- ID: "b0ff799c-58b1-45fa-be79-11f44b0c5a87"
+  Hint: AirPlaneImage
+  Value: |
+    <image width="932" height="288" alt="A321-ER" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/41f734efb3534e428d107b347cbee5c8?v=d22fabb1" stylelabs-content-id="48360" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48360/thumbnail" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "db0060d8-9160-4037-a332-c952b272e647"
+  Hint: CTABannerImage
+  Value: |
+    <image width="716" height="250" alt="promo-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/e11a81a0f96640d2ae5838ed2b296d6f?v=4f511db0" stylelabs-content-id="43991" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/43991/thumbnail" />
+- ID: "f21e85fb-68be-464c-a9d3-bb2b36984424"
+  Hint: SeatingImage
+  Value: |
+    <image width="1700" height="363" alt="LOPA-a321-er.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/LOPA-A321er?v=54a24fad" stylelabs-content-id="58705" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/58705/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: مقصورة الصقر الذهبي
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: تجربة المقصورة
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>عدد المقاعد</strong></p>
+        <ul>
+            <li>8</li>
+        </ul>
+        <p><strong>مساحة المقعد</strong></p>
+        <ul>
+            <li>77&rdquo;</li>
+        </ul>
+        <p><strong>الميزات والخدمات</strong></p>
+        <ul>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">شاشة مقاس 15.4 بوصة على ظهر المقعد</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">مقعد سرير مسطح</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">منافذ USB ومصدر تيار كهربائي في المقعد</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">فاصل خصوصية</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">ميزة المساج</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">مسند رأس سداسي الاتجاه قابل للضبط</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">خزانات إضافية</span></li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: مقصورة الدرجة الاقتصادية
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>عدد المقاعد</strong></p>
+        <ul>
+            <li>161</li>
+        </ul>
+        <p><strong>مساحة المقعد</strong></p>
+        <ul>
+            <li>31-32&rdquo;</li>
+        </ul>
+        <p><strong>الميزات والخدمات</strong></p>
+        <ul>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">شاشة لمس مقاس 9 بوصات بظهر المقعد</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">مصدر تيار كهربائي في المقعد</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">إمالة لمسافة 4 بوصات</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">مسند قابل للضبط والطي</span></li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: "<h4>إيرباص إيه321-إي آر</h4>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f77e24ef-fdb8-4d43-8a5c-691433f62111"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: "إيرباص إيه321-إي آر"
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="تفاصيل  اكثر" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230215Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: Falcon Gold Cabin
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Kabinenerfahrung
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>Anzahl Sitzpl&auml;tze</strong></p>
+        <ul>
+            <li>8</li>
+        </ul>
+        <p><strong>Sitzplatz</strong></p>
+        <ul>
+            <li>77&rdquo;</li>
+        </ul>
+        <p><strong>Funktionen und Dienste</strong></p>
+        <ul>
+            <li>15,4-Zoll-Bildschirm in der R&uuml;ckenlehne</li>
+            <li>Flachbettsitz</li>
+            <li>USB-Anschl&uuml;sse und Stromversorgung am Platz</li>
+            <li>Sichtblende</li>
+            <li>Massagefunktion</li>
+            <li>6-fach verstellbare Kopfst&uuml;tze</li>
+            <li>Zus&auml;tzliche Ablagef&auml;cher</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: Wirtschaftskabine
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>Anzahl Sitzpl&auml;tze</strong></p>
+        <ul>
+            <li>161</li>
+        </ul>
+        <p><strong>Sitzplatz</strong></p>
+        <ul>
+            <li>31-32&rdquo;</li>
+        </ul>
+        <p><strong>Funktionen und Dienste</strong></p>
+        <ul>
+            <li>9-Zoll-Touchscreen in der R&uuml;ckenlehne</li>
+            <li>Stromversorgung am Platz</li>
+            <li>10,2 cm Neigung der R&uuml;ckenlehne</li>
+            <li>Zusammenklappbare verstellbare Kopfst&uuml;tze</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: <h4>Airbus 321ER</h4>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d6d175ff-38c8-497b-b22c-c60d3086e520"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: Airbus 321ER
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="Erfahren Sie mehr" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230215Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: Falcon Gold Cabin
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Cabin experience
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>Number of Seats</strong></p>
+        <ul>
+            <li>8</li>
+        </ul>
+        <p><strong>Seat Pitch</strong></p>
+        <ul>
+            <li>77&rdquo;</li>
+        </ul>
+        <p><strong>Features &amp; Services</strong></p>
+        <ul>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">Seat back 15.4&rdquo; screen</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">Flatbed seat</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">USB and in-seat power supply</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">Privacy divider</span> </li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">Massage feature</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">6-way adjustable headrest</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">Additional storage compartments</span></li>
+        </ul>
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: Economy Cabin
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>Number of Seats</strong></p>
+        <ul>
+            <li>161</li>
+        </ul>
+        <p><strong>Seat Pitch</strong></p>
+        <ul>
+            <li>31-32&rdquo;</li>
+        </ul>
+        <p><strong>Features &amp; Services</strong></p>
+        <ul>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">Seatback 9&rdquo; touch screen</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">In-seat power supply</span> </li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">4&rsquo;&rsquo; recline</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">Foldable adjustable headrest</span></li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: <h4>Airbus 321ER</h4>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "08441e44-e6ce-49da-ba5a-b5b657d6f671"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ghazijawad
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: Airbus 321ER
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="Learn more" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T125552Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: Cabine en or Falcon
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Expérience de cabine
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>Nombre de places</strong></p>
+        <ul>
+            <li>8</li>
+        </ul>
+        <p><strong>Tangage de si&egrave;ge</strong></p>
+        <ul>
+            <li>77&rdquo;</li>
+        </ul>
+        <p><strong>Fonctionnalit&eacute;s et services</strong></p>
+        <p style="text-align: left;">
+        </p>
+        <ul>
+            <li>&Eacute;cran de 15,4&rdquo; dans le dossier</li>
+            <li>Si&egrave;ge-lit inclinable</li>
+            <li>USB et prise &eacute;lectrique int&eacute;gr&eacute;e au si&egrave;ge</li>
+            <li>Paravent</li>
+            <li>Fonction massage</li>
+            <li>Appui-t&ecirc;te r&eacute;glable sur 6 positions</li>
+            <li>Compartiments de rangement suppl&eacute;mentaires</li>
+        </ul>
+        <p>&nbsp;</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: Cabine économique
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>Nombre de places</strong></p>
+        <ul>
+            <li>161</li>
+        </ul>
+        <p><strong>Tangage de si&egrave;ge</strong></p>
+        <ul>
+            <li>31-32&rdquo;</li>
+        </ul>
+        <p><strong>Fonctionnalit&eacute;s et services</strong></p>
+        <ul>
+            <li>&Eacute;cran de 9&rdquo; dans le dossier</li>
+            <li>Prise &eacute;lectrique int&eacute;gr&eacute;e au si&egrave;ge</li>
+            <li>Inclinaisons de 10&deg;</li>
+            <li>Appui-t&ecirc;te r&eacute;glable pliable</li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: <h4>Airbus 321ER</h4>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7761fdd6-6878-47e5-97bd-04d0850042e4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: Airbus 321ER
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="Apprendre encore plus" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230215Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0bfe45-d2c2-4d01-ba6a-3ef433b7dcaf"
+      Hint: FirstCabinTitle
+      Value: Сокол Золотой Хижина
+    - ID: "1dd22579-e0b9-4644-b2f9-51108949a099"
+      Hint: CTASubTitle
+      Value: Опыт кабины
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T081022Z
+    - ID: "4b5eef59-eefb-47b7-901f-68bb291e00b6"
+      Hint: FirstCabinSummary
+      Value: |
+        <p><strong>Количество мест</strong></p>
+        <ul>
+            <li>8</li>
+        </ul>
+        <p><strong>Сиденья</strong></p>
+        <ul>
+            <li>77&rdquo;</li>
+        </ul>
+        <p><strong>Функции и услуги</strong></p>
+        <ul>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">Спинка сиденья с экраном 15,4 дюйма</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">Горизонтальное сиденье с плоской кроватью</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">USB и блок питания в сиденье</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">Разделитель конфиденциальности</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">Функция массажа</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">Подголовник, регулируемый на 6 позиций</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">Дополнительные отделения для хранения вещей</span></li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "61cc322a-6a4a-4611-a52f-97af033fb209"
+      Hint: SecondCabinTitle
+      Value: Экономическая каюта
+    - ID: "66c5dcbc-a5fc-4bbb-96a1-627aee0f683e"
+      Hint: SecondCabinSummary
+      Value: |
+        <p><strong>Количество мест</strong></p>
+        <ul>
+            <li>161</li>
+        </ul>
+        <p><strong>Сиденья</strong></p>
+        <ul>
+            <li>31-32&rdquo;</li>
+        </ul>
+        <p><strong>Функции и услуги</strong></p>
+        <ul>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">Спинка сиденья с сенсорным экраном 9 дюймов</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">Блок питания в сиденье</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">4-дюймовое откидное сиденье</span></li>
+            <li><span style="background-color: #ffffff; text-align: center; color: #000000;">Складной регулируемый подголовник</span></li>
+        </ul>
+    - ID: "74da3cf9-2199-4564-9ff1-f85c6407906c"
+      Hint: SubText
+      Value: <h4>Airbus 321ER</h4>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f1334e0-c4ed-4a9f-b816-e9b30185171c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be11d0a7-a3fb-436f-a71b-b6ce94088b24"
+      Hint: CTATitle
+      Value: Airbus 321ER
+    - ID: "c6c1f6a2-d0a8-4b7a-9c09-f62c4b9b6d47"
+      Hint: CTA
+      Value: |
+        <link id="{EC0D4010-9780-4087-BB08-E32625678D4A}" querystring="" linktype="internal" text="Узнать больше" anchor="" url="/gulfair-app/home/flying-with-us/our-fleet/cabin-experience" title="" class="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230215Z

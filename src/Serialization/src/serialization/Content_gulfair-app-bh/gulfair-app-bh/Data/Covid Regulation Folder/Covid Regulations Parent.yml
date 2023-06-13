@@ -1,0 +1,204 @@
+﻿---
+ID: "8ff090b4-1214-4b11-98c3-f471e387f093"
+Parent: "de605035-10d5-41da-8695-442410a6a40d"
+Template: "d29c45ea-4a9f-4908-8b75-e742e8ddf96b"
+Path: "/sitecore/content/gulfair-app-bh/Data/Covid Regulation Folder/Covid Regulations Parent"
+SharedFields:
+- ID: "6960cea2-1fc4-4c1b-a7cf-1f9ef1b4dca7"
+  Hint: RequirementList
+  Value: |
+    {15F12543-5612-48E2-866B-0897E2558899}
+    {EEF040F8-55EA-4BF4-AAAC-4D2170BE0DD6}
+    {76A5CB81-4F56-4E9E-9251-9B516293DA0E}
+    {06297E68-5574-424F-8C9C-5458F2B35F14}
+    {1C263C86-9F71-4088-BFCE-6CB36C261678}
+    {F96B9EE7-DCB6-42E7-B8E1-C3CCD016A958}
+    {D15DD9B6-1BB1-4A2B-859C-D55CE8F886F5}
+    {10A465AC-5B3C-4949-AAA7-69A1BC47344B}
+- ID: "92446e42-f3cd-41a2-813f-b3809fea7d44"
+  Hint: DestinationAirports
+  Value: |
+    {CD6382D4-6AA8-4A59-80BC-097772BDEDFC}
+    {02930019-C905-4288-A054-376FB371090F}
+    {6651AB1D-CCD5-49B5-A232-2684AF4C5FD9}
+    {2FF6AC3B-A129-4B2A-89F9-03474B8C5EF3}
+    {A20D07B6-71EB-4B21-9E91-B7A6E89A9638}
+- ID: "d8c90a2a-a1be-46e3-8a95-ac382610a9c5"
+  Hint: OriginAirports
+  Value: |
+    {CD6382D4-6AA8-4A59-80BC-097772BDEDFC}
+    {02930019-C905-4288-A054-376FB371090F}
+    {6651AB1D-CCD5-49B5-A232-2684AF4C5FD9}
+    {2FF6AC3B-A129-4B2A-89F9-03474B8C5EF3}
+    {A20D07B6-71EB-4B21-9E91-B7A6E89A9638}
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T113728Z
+    - ID: "313421ea-4062-4c15-a668-526eee8fe2ea"
+      Hint: OriginLabel
+      Value: Origin Special Requirements
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "274726e1-eead-4936-83f7-cfe4f3265c3b"
+    - ID: "aeea9f57-9b5f-4cca-b733-e123c67b353e"
+      Hint: DestinationLabel
+      Value: Destination Special Requirements
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T110539Z
+    - ID: "f85da15e-5794-46a2-ba46-06c6596cdb40"
+      Hint: Heading
+      Value: Latest Covid Regulations
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T113728Z
+    - ID: "313421ea-4062-4c15-a668-526eee8fe2ea"
+      Hint: OriginLabel
+      Value: Origin Special Requirements
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da499806-4602-4c9d-809e-96552be362f5"
+    - ID: "aeea9f57-9b5f-4cca-b733-e123c67b353e"
+      Hint: DestinationLabel
+      Value: Destination Special Requirements
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T110539Z
+    - ID: "f85da15e-5794-46a2-ba46-06c6596cdb40"
+      Hint: Heading
+      Value: Latest Covid Regulations
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T113728Z
+    - ID: "313421ea-4062-4c15-a668-526eee8fe2ea"
+      Hint: OriginLabel
+      Value: Origin Special Requirements
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aca26251-a97c-46f9-b3f9-215107952238"
+    - ID: "aeea9f57-9b5f-4cca-b733-e123c67b353e"
+      Hint: DestinationLabel
+      Value: Destination Special Requirements
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T110539Z
+    - ID: "f85da15e-5794-46a2-ba46-06c6596cdb40"
+      Hint: Heading
+      Value: Latest Covid Regulations
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T113728Z
+    - ID: "313421ea-4062-4c15-a668-526eee8fe2ea"
+      Hint: OriginLabel
+      Value: Origin Special Requirements
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a24ea21-f449-41b1-bc46-c5b16fc0e5a0"
+    - ID: "aeea9f57-9b5f-4cca-b733-e123c67b353e"
+      Hint: DestinationLabel
+      Value: Destination Special Requirements
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T110539Z
+    - ID: "f85da15e-5794-46a2-ba46-06c6596cdb40"
+      Hint: Heading
+      Value: Latest Covid Regulations
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T113728Z
+    - ID: "313421ea-4062-4c15-a668-526eee8fe2ea"
+      Hint: OriginLabel
+      Value: Origin Special Requirements
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "96775c60-a09a-42b6-9329-9d45b83debca"
+    - ID: "aeea9f57-9b5f-4cca-b733-e123c67b353e"
+      Hint: DestinationLabel
+      Value: Destination Special Requirements
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230309T110539Z
+    - ID: "f85da15e-5794-46a2-ba46-06c6596cdb40"
+      Hint: Heading
+      Value: Latest Covid Regulations

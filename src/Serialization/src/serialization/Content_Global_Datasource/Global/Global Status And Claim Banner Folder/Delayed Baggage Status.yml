@@ -1,0 +1,231 @@
+﻿---
+ID: "b9cf55a7-4a00-4a58-90f6-3f226b126e93"
+Parent: "c3d6c397-ea00-456e-9fee-dd18e45f4c9c"
+Template: "bc69f06f-474e-4576-8441-fe5f2842d34b"
+Path: /sitecore/content/Global/Global Status And Claim Banner Folder/Delayed Baggage Status
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230309T110734Z
+    - ID: "4d96e5ed-c58f-4abe-abe6-1cfbe70b4dc2"
+      Hint: SecondColumnCTA
+      Value: |
+        <link text="تنزيل استمارة المطالبات" linktype="external" url="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/45d77ea7b8034781ae1211492e5bcd12?v=3eebe09b" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahad
+    - ID: "531b5136-791d-4adc-9260-907407ead3d2"
+      Hint: FirstColumnCTA
+      Value: |
+        <link text="تحقق من موقع الحقيبة المتأخرة" linktype="external" url="https://wtrweb.worldtracer.aero/WorldTracerWeb/pax.do?airlineCode=GF" anchor="" target="_blank" />
+    - ID: "5b3fc44e-0005-4dcf-b257-0484a8be774a"
+      Hint: FirstColumnDescription
+      Value: <p>نعتذر عن سوء التعامل مع أمتعتك ونفهم أن هذا سيكون غير مريح. يرجى التأكد من أننا سنبذل قصارى جهدنا لمساعدتك خلال هذه التجربة.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahad
+    - ID: "719ce6e9-cfa4-40ae-810d-436c2017f683"
+      Hint: FirstColumnTitle
+      Value: موقع الأمتعة المتأخرة
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e5ce1dd7-5f54-4ac4-86f0-e6544df3f15d"
+    - ID: "b0e451df-1cdb-473d-b841-5730786d5eb1"
+      Hint: SecondColumnTitle
+      Value: مطالبات الأمتعة 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d0431118-d5f8-4f6a-b0a8-9a5ea14949d5"
+      Hint: SecondColumnDescription
+      Value: <p>لأي مطالبات بالأمتعة، يمكنك تنزيل نموذج مطالبات الأمتعة وتقديمه إلى أقرب مكتب طيران الخليج.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T010608Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230427T141311Z
+    - ID: "4d96e5ed-c58f-4abe-abe6-1cfbe70b4dc2"
+      Hint: SecondColumnCTA
+      Value: |
+        <link text="Formular für Gepäckprobleme herunterladen" linktype="external" url="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/45d77ea7b8034781ae1211492e5bcd12?v=3eebe09b" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "531b5136-791d-4adc-9260-907407ead3d2"
+      Hint: FirstColumnCTA
+      Value: |
+        <link text="Überprüfen Sie den Status des verspäteten Beutels" linktype="external" url="https://wtrweb.worldtracer.aero/WorldTracerWeb/pax.do?airlineCode=GF" anchor="" target="_blank" />
+    - ID: "5b3fc44e-0005-4dcf-b257-0484a8be774a"
+      Hint: FirstColumnDescription
+      Value: |
+        <p>Wir entschuldigen uns f&uuml;r das Misshandeln Ihres Gep&auml;cks und verstehen, dass dies unpraktisch sein wird. Bitte seien Sie sicher, dass wir alle m&ouml;glich tun werden, um Sie durch diese Erfahrung zu unterst&uuml;tzen.
+        </p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "719ce6e9-cfa4-40ae-810d-436c2017f683"
+      Hint: FirstColumnTitle
+      Value: Verspäteter Gepäckstatus
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b82297c-c6a7-4295-8b24-1d5acb070335"
+    - ID: "b0e451df-1cdb-473d-b841-5730786d5eb1"
+      Hint: SecondColumnTitle
+      Value: Gepäckansprüche
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d0431118-d5f8-4f6a-b0a8-9a5ea14949d5"
+      Hint: SecondColumnDescription
+      Value: <p>F&uuml;r alle Gep&auml;ckanspr&uuml;che k&ouml;nnen Sie das Formular f&uuml;r Gep&auml;ckschaden herunterladen und es an das n&auml;chstgelegene Gulf Air Office einreichen.&nbsp;</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T010559Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230309T103334Z
+    - ID: "4d96e5ed-c58f-4abe-abe6-1cfbe70b4dc2"
+      Hint: SecondColumnCTA
+      Value: |
+        <link text="Download the form" linktype="external" url="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/45d77ea7b8034781ae1211492e5bcd12?v=3eebe09b" anchor="" target="_blank" />
+    - ID: "531b5136-791d-4adc-9260-907407ead3d2"
+      Hint: FirstColumnCTA
+      Value: |
+        <link text="Check Delayed Bag Status" linktype="external" url="https://wtrweb.worldtracer.aero/WorldTracerWeb/pax.do?airlineCode=GF" anchor="" target="_blank" />
+    - ID: "5b3fc44e-0005-4dcf-b257-0484a8be774a"
+      Hint: FirstColumnDescription
+      Value: |
+        <p>We apologise for mishandling your baggage and understand that this will be inconvenient. Please be assured that we will do all possible to assist you through this experience.
+        </p>
+    - ID: "719ce6e9-cfa4-40ae-810d-436c2017f683"
+      Hint: FirstColumnTitle
+      Value: Delayed Baggage Status
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5aef3f96-a164-481b-ad62-b8abcebc3681"
+    - ID: "b0e451df-1cdb-473d-b841-5730786d5eb1"
+      Hint: SecondColumnTitle
+      Value: Baggage Claims
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d0431118-d5f8-4f6a-b0a8-9a5ea14949d5"
+      Hint: SecondColumnDescription
+      Value: |
+        <p>For any baggage claims, you can download the baggage claims form and submit it to the nearest Gulf Air Office.
+        </p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T010548Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230427T141513Z
+    - ID: "4d96e5ed-c58f-4abe-abe6-1cfbe70b4dc2"
+      Hint: SecondColumnCTA
+      Value: |
+        <link text="Télécharger le formulaire" linktype="external" url="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/45d77ea7b8034781ae1211492e5bcd12?v=3eebe09b" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "531b5136-791d-4adc-9260-907407ead3d2"
+      Hint: FirstColumnCTA
+      Value: |
+        <link text="Vérifier l'état du sac retardé" linktype="external" url="https://wtrweb.worldtracer.aero/WorldTracerWeb/pax.do?airlineCode=GF" anchor="" target="_blank" />
+    - ID: "5b3fc44e-0005-4dcf-b257-0484a8be774a"
+      Hint: FirstColumnDescription
+      Value: <p>Nous nous excusons d'avoir mal g&eacute;r&eacute; vos bagages et de comprendre que ce sera g&ecirc;nant. Soyez assur&eacute; que nous ferons tout le possible pour vous aider &agrave; traverser cette exp&eacute;rience.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "719ce6e9-cfa4-40ae-810d-436c2017f683"
+      Hint: FirstColumnTitle
+      Value: État des bagages retardés
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "baa6f581-2f05-4fbb-a747-b2fc9405d67d"
+    - ID: "b0e451df-1cdb-473d-b841-5730786d5eb1"
+      Hint: SecondColumnTitle
+      Value: Réclamations de bagages
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d0431118-d5f8-4f6a-b0a8-9a5ea14949d5"
+      Hint: SecondColumnDescription
+      Value: <p>Pour toutes les r&eacute;clamations de bagages, vous pouvez t&eacute;l&eacute;charger le formulaire de r&eacute;clamation des bagages et le soumettre au Gulf Air Office le plus proche.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T010615Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230427T141710Z
+    - ID: "4d96e5ed-c58f-4abe-abe6-1cfbe70b4dc2"
+      Hint: SecondColumnCTA
+      Value: |
+        <link text="Загрузить форму претензии" linktype="external" url="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/45d77ea7b8034781ae1211492e5bcd12?v=3eebe09b" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "531b5136-791d-4adc-9260-907407ead3d2"
+      Hint: FirstColumnCTA
+      Value: |
+        <link text="Проверить статус задержки сумки" linktype="external" url="https://wtrweb.worldtracer.aero/WorldTracerWeb/pax.do?airlineCode=GF" anchor="" target="_blank" />
+    - ID: "5b3fc44e-0005-4dcf-b257-0484a8be774a"
+      Hint: FirstColumnDescription
+      Value: |
+        <p>
+        Приносим извинения за неправильное обращение с вашим багажом и понимаем, что это будет неудобно. Пожалуйста, будьте уверены, что мы сделаем все возможное, чтобы помочь вам через этот опыт.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "719ce6e9-cfa4-40ae-810d-436c2017f683"
+      Hint: FirstColumnTitle
+      Value: Задержка статуса багажа
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "755788b0-2c4f-473d-9181-4ebc2ace71ef"
+    - ID: "b0e451df-1cdb-473d-b841-5730786d5eb1"
+      Hint: SecondColumnTitle
+      Value: Претензии на багаж
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d0431118-d5f8-4f6a-b0a8-9a5ea14949d5"
+      Hint: SecondColumnDescription
+      Value: <p>F&uuml;r alle Gep&auml;ckanspr&uuml;che k&ouml;nnen Sie das Formular f&uuml;r Gep&auml;ckschaden herunterladen und es an das n&auml;chstgelegene Gulf Air Office einreichen.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T010621Z

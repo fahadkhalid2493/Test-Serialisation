@@ -1,0 +1,199 @@
+﻿---
+ID: "a6968776-817b-4eda-b2cd-49c6cadcb208"
+Parent: "7912d99f-c8f4-45c0-b93e-b98d0c58e08a"
+Template: "43777290-de6e-474c-a476-b659ebcf4cb1"
+Path: /sitecore/content/Global/Global Search Module With Information Tile Folder/Support/Info Cards/Before you board
+SharedFields:
+- ID: "2cc85e79-09b1-4098-a6bc-1c11d181008a"
+  Hint: LiveChatOptionWithCTA
+  Value: "{55004A9C-071B-45B2-9154-5EF5BA160143}"
+- ID: "40afc0c0-49bf-41f5-950a-9586c0504f4d"
+  Hint: Icon
+  Value: |
+    <image width="120" height="120" alt="icon-3.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/1acb16a6b45642788d525e723990aad8?v=df1370aa" stylelabs-content-id="46890" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/46890/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T192604Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: قبل السفر، تأكد من التحقق من متطلبات التأشيرة الخاصة بك. تقدم طيران الخليج منصة بسيطة ومريحة للتحقق من متطلبات التأشيرة وشراء التأشيرة إذا لزم الأمر. أدخل وجهتك وجنسيتك على موقعنا الإلكتروني، وسنزودك بجميع المعلومات اللازمة. اشترِ تأشيرتك من خلال منصتنا سهلة الاستخدام.
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: <p>قبل السفر، تأكد من التحقق من متطلبات التأشيرة الخاصة بك. تقدم طيران الخليج منصة بسيطة ومريحة للتحقق من متطلبات التأشيرة وشراء التأشيرة إذا لزم الأمر. أدخل وجهتك وجنسيتك على موقعنا الإلكتروني، وسنزودك بجميع المعلومات اللازمة. اشترِ تأشيرتك من خلال منصتنا سهلة الاستخدام.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4fe610d-ae6b-4be2-b259-14ce353dfe07"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: قبل الصعود على الطائرة
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: قبل الصعود على الطائرة
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T192647Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Überprüfen Sie vor Ihrer Reise Ihre Visumanforderungen. Gulf Air bietet eine einfache und bequeme Plattform, um die Visumanforderungen zu überprüfen und bei Bedarf ein Visum zu kaufen. Geben Sie Ihr Ziel und Ihre Nationalität auf unserer Website ein. Wir werden Ihnen alle erforderlichen Informationen zur Verfügung stellen. Kaufen Sie Ihr Visum über unsere problemlose Plattform.
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: <p>&Uuml;berpr&uuml;fen Sie vor Ihrer Reise Ihre Visumanforderungen. Gulf Air bietet eine einfache und bequeme Plattform, um die Visumanforderungen zu &uuml;berpr&uuml;fen und bei Bedarf ein Visum zu kaufen. Geben Sie Ihr Ziel und Ihre Nationalit&auml;t auf unserer Website ein. Wir werden Ihnen alle erforderlichen Informationen zur Verf&uuml;gung stellen. Kaufen Sie Ihr Visum &uuml;ber unsere problemlose Plattform.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a2f9fdd3-067b-4ecf-9817-7a84f38ab5a0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Bevor Sie an Bord gehen
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Bevor Sie an Bord gehen
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T171040Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: "Before you travel, make sure to check your visa requirements. Gulf Air offers a simple and convenient platform to check visa requirements and purchase a visa if needed. Enter your destination and nationality on our website, and we'll provide you with all the necessary information. Purchase your visa through our hassle-free platform."
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: "<p>Before you travel, make sure to check your visa requirements. Gulf Air offers a simple and convenient platform to check visa requirements and purchase a visa if needed. Enter your destination and nationality on our website, and we'll provide you with all the necessary information. Purchase your visa through our hassle-free platform.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca15be0a-6a77-42d2-9185-9b0ff8178e2b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Before You Board
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Before You Board
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T192628Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: "Avant de voyager, assurez-vous de vérifier vos exigences de visa. Gulf Air propose une plate-forme simple et pratique pour vérifier les exigences de visa et acheter un visa si nécessaire. Entrez votre destination et votre nationalité sur notre site Web, et nous vous fournirons toutes les informations nécessaires. Achetez votre visa via notre plate-forme sans tracas."
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: "<p>Avant de voyager, assurez-vous de v&eacute;rifier vos exigences de visa. Gulf Air propose une plate-forme simple et pratique pour v&eacute;rifier les exigences de visa et acheter un visa si n&eacute;cessaire. Entrez votre destination et votre nationalit&eacute; sur notre site Web, et nous vous fournirons toutes les informations n&eacute;cessaires. Achetez votre visa via notre plate-forme sans tracas.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17812bb6-bbe3-40b7-8e39-34c94f837f39"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Avant de monter à bord
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Avant de monter à bord
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T192705Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: "Прежде чем путешествовать, обязательно проверьте ваши требования к визе. Gulf Air предлагает простую и удобную платформу для проверки требований визы и приобретения визы, если это необходимо. Введите свой пункт назначения и национальность на нашем веб -сайте, и мы предоставим вам всю необходимую информацию. Купите свою визу через нашу беспроблемную платформу."
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: "<p>Прежде чем путешествовать, обязательно проверьте ваши требования к визе. Gulf Air предлагает простую и удобную платформу для проверки требований визы и приобретения визы, если это необходимо. Введите свой пункт назначения и национальность на нашем веб -сайте, и мы предоставим вам всю необходимую информацию. Купите свою визу через нашу беспроблемную платформу.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "318b2fa0-d689-4763-aa07-1253d697416d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Перед тем, как сесть
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Перед тем, как сесть
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z

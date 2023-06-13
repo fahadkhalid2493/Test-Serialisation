@@ -1,0 +1,251 @@
+﻿---
+ID: "dbaa9651-c92f-4397-8290-593f92c43261"
+Parent: "62c15a43-089d-44ab-8d06-f076a0e9dbee"
+Template: "9e373a70-97e3-453e-afdc-943c1e84528b"
+Path: "/sitecore/content/gulfair-app-ge/Data/Hero Banner Folder/Home/HeroBanner/Slide 1 - GF  Video"
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: 
+- ID: "49fcbce8-8b64-40c0-8c47-2386b4c57fc0"
+  Hint: VideoURL
+  Value: "https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/602fe22c3b424c95b14f51b0e6815133?v=13ab736a"
+- ID: "78a29040-85d0-4619-b1eb-f52aa266bfe0"
+  Hint: TextAlignment
+  Value: "{0A42CAE2-9E7A-4FB8-BE35-1D23B2E53FDE}"
+- ID: "85496249-7242-41ce-bfa8-e9989ee6094d"
+  Hint: MobileDuration
+  Value: 15
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "a6d7f2d1-162a-424e-baf8-9c8857e04f7f"
+  Hint: TextColor
+  Value: "{89330C54-4FC1-4573-913A-BC08CCDEBD5B}"
+- ID: "b06d181c-0380-4d1f-b620-1047706b81f7"
+  Hint: Duration
+  Value: 15
+- ID: "b92f071d-1def-46b6-a749-46efddbd6693"
+  Hint: CTAColor
+  Value: "{F4B4A40B-428A-48B8-907D-F1598EBADC7A}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+- ID: "d73f9e97-b314-4784-a478-7d7659a21d6a"
+  Hint: MobileVideoURL
+  Value: "https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/602fe22c3b424c95b14f51b0e6815133?v=13ab736a"
+- ID: "f768fd8c-ee29-421c-8929-b5c21ac10c7b"
+  Hint: CTAType
+  Value: "{9E29A28B-7ED9-41A5-BE7D-66A986A44CC3}"
+Languages:
+- Language: ar
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T133800Z
+    - ID: "30ae8b3e-baf9-4c21-b07d-b84a42eb305a"
+      Hint: CTA
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4d098a99-53e3-4afc-8aa6-6b7ee12685a9"
+      Hint: Heading
+      Value: مرحبا بكم في موقع طيران الخليج الجديد
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "861b108a-bfa6-4d22-b240-b1ec24f362cb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230525T084456Z
+    - ID: "ed51780d-703a-444e-8e7d-f21c85e743d8"
+      Hint: SubHeading
+      Value: 
+- Language: de
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T133759Z
+    - ID: "30ae8b3e-baf9-4c21-b07d-b84a42eb305a"
+      Hint: CTA
+      Value: 
+    - ID: "4d098a99-53e3-4afc-8aa6-6b7ee12685a9"
+      Hint: Heading
+      Value: Willkommen auf der neuen Website von Gulf Air
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "772010d7-9590-421b-94c3-bf2db83c8192"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230525T084540Z
+    - ID: "ed51780d-703a-444e-8e7d-f21c85e743d8"
+      Hint: SubHeading
+      Value: 
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T133759Z
+    - ID: "30ae8b3e-baf9-4c21-b07d-b84a42eb305a"
+      Hint: CTA
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4d098a99-53e3-4afc-8aa6-6b7ee12685a9"
+      Hint: Heading
+      Value: Welcome to Gulf Air new website
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "29be7b9b-519f-4e59-846f-70cd6620f623"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T014714Z
+    - ID: "ed51780d-703a-444e-8e7d-f21c85e743d8"
+      Hint: SubHeading
+      Value: 
+- Language: fr
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T133759Z
+    - ID: "30ae8b3e-baf9-4c21-b07d-b84a42eb305a"
+      Hint: CTA
+      Value: 
+    - ID: "4d098a99-53e3-4afc-8aa6-6b7ee12685a9"
+      Hint: Heading
+      Value: Bienvenue sur le nouveau site web de Gulf Air
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fa538ca6-5adb-4016-b683-4d4abc01d7ad"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230525T084529Z
+    - ID: "ed51780d-703a-444e-8e7d-f21c85e743d8"
+      Hint: SubHeading
+      Value: 
+- Language: ru
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T133759Z
+    - ID: "30ae8b3e-baf9-4c21-b07d-b84a42eb305a"
+      Hint: CTA
+      Value: 
+    - ID: "4d098a99-53e3-4afc-8aa6-6b7ee12685a9"
+      Hint: Heading
+      Value: "Добро пожаловать на новый веб-сайт Gulf Air"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44a72cbf-3500-4e27-b0d8-0769bad12988"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naeem
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230525T084551Z
+    - ID: "ed51780d-703a-444e-8e7d-f21c85e743d8"
+      Hint: SubHeading
+      Value: 

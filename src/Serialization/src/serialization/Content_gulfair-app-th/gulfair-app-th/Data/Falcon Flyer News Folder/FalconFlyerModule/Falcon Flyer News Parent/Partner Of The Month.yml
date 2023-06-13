@@ -1,0 +1,148 @@
+﻿---
+ID: "8bfb6212-93fe-469d-9ed0-1a0083e178c1"
+Parent: "8fda5dba-f664-4e2d-82e5-3821a317c910"
+Template: "6e26270c-7ced-4652-ab7b-566f2ac9e41f"
+Path: "/sitecore/content/gulfair-app-th/Data/Falcon Flyer News Folder/FalconFlyerModule/Falcon Flyer News Parent/Partner Of The Month"
+SharedFields:
+- ID: "b92f071d-1def-46b6-a749-46efddbd6693"
+  Hint: CTAColor
+  Value: "{F64FADCC-6FB4-46AA-A947-751B7BF0A024}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "c1bb3e97-ab5a-421a-9678-19e1cd31bd8e"
+  Hint: Image
+  Value: |
+    <image width="366" height="321" alt="PlanBack.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/4a32aba0b0ac4455a72de8fd943656f1?v=d510ec9c" stylelabs-content-id="37147" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/37147/thumbnail" />
+- ID: "f768fd8c-ee29-421c-8929-b5c21ac10c7b"
+  Hint: CTAType
+  Value: "{9E29A28B-7ED9-41A5-BE7D-66A986A44CC3}"
+Languages:
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T130704Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: Partner Of The Month
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "403321f4-43bc-4c99-8d56-217527efabf8"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: |
+        <span style="background-color: #ffffff; color: #4d5156;">In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.</span>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000329Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T130704Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: Partner Of The Month
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7005e861-ccff-477f-8b9f-d84248ae3352"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: |
+        <span style="background-color: #ffffff; color: #4d5156;">In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.</span>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000329Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T130704Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: Partner Of The Month
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17be4559-8f38-4e2a-b67e-213ba7ab2f57"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: |
+        <span style="background-color: #ffffff; color: #4d5156;">In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.</span>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000329Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T130704Z
+    - ID: "32fc0a74-79c4-4485-9a02-0427318fd137"
+      Hint: Heading
+      Value: Partner Of The Month
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c5798624-a0fa-4233-8572-414a54c51575"
+    - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
+      Hint: Description
+      Value: |
+        <span style="background-color: #ffffff; color: #4d5156;">In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.</span>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000329Z

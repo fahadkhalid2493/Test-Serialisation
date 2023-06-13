@@ -1,0 +1,46 @@
+﻿---
+ID: "18e0f69f-1cce-48db-8985-43be515e6828"
+Parent: "b529b9d2-7dfc-4dc1-a70f-1939a02a1502"
+Template: "c4f0e5a0-41a4-4720-905f-4c0fc8003171"
+Path: /sitecore/content/Global/Global Cargo Contact Center Folder/Cargo Contact Center/Beirut
+SharedFields:
+- ID: "3978628f-3184-4428-9a3c-d2e902a5e411"
+  Hint: ContactDetailsList
+  Value: |
+    {1D0785FC-0850-4CAE-8752-C191D8ABDC1A}
+    {C5F41B16-C1AB-47EA-9F59-000A48FEA58F}
+    {B1DF5FF4-A169-4B12-926B-85BD0A72B2B1}
+    {0C3C5F48-553C-4059-BAF3-AF1592CAC19C}
+    {4653F4DA-76BB-4560-81B0-470A84B5E375}
+- ID: "9c615311-1201-4a4b-be59-9d3dba8c3e70"
+  Hint: City
+  Value: "{5236BCB5-5548-48C8-BE67-B236866CA6F5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230323T090132Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ahmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ahmed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c03c93f-928c-4fde-a787-0ca5a779a83b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230518T181126Z
+    - ID: "f2a9f41f-7e90-46fd-918c-af3323a0cadd"
+      Hint: DialingCode
+      Value: 

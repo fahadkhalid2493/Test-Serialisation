@@ -1,0 +1,94 @@
+﻿---
+ID: "dc0c2508-79f9-4662-a3c2-c20fdbd274d2"
+Parent: "ef20bb05-dbee-460a-9d8e-70dd489481dc"
+Template: "85256177-2a1f-4c0a-aa9a-5be6fe1a6a5e"
+Path: "/sitecore/content/gulfair-app-sg/Data/Board Member Tile Folder/Board Of Directors/Board Member Tile Parent/BoardChairman"
+SharedFields:
+- ID: "2f096e0d-0b0d-4325-ae6c-935b0e3c36a0"
+  Hint: Image
+  Value: |
+    <image width="360" height="360" alt="BoardChairman.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/ad464da779784619a8e4d37dc82eceae?v=4ccbd9aa" stylelabs-content-id="41100" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41100/thumbnail" />
+- ID: "5c14700c-7ddf-422d-b966-89284344d659"
+  Hint: MobileImage
+  Value: |
+    <image width="323" height="323" alt="BoardChairmanMobile.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/c28646a6b5d34149b2c16f7d54938d0d?v=bb435e41" stylelabs-content-id="41098" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41098/thumbnail" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T112821Z
+    - ID: "4f6e4313-acdf-4bda-aeec-fffa89d10d3b"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor dictum nibh ut ut. Amet, pulvinar augue faucibus quis. Tristique in integer vulputate risus sit faucibus enim. Tortor, hac sodales ipsum in egestas viverra. Facilisis tincidunt ultricies aenean amet at eleifend enim turpis molestie. Ultricies nunc volutpat nibh nunc risus pulvinar lorem senectus. Ornare mollis nulla quam cursus. Lectus eget enim ullamcorper enim magna orci. Amet risus dictum purus nec rutrum aliquet. Lacus maecenas aenean ut placerat ullamcorper vitae risus ornare molestie. Mi elementum nunc, vitae ut molestie. Proin eu duis gravida nisi enim enim. Aliquet non sem ac facilisis. Ornare interdum nec ut venenatis facilisis pharetra.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "6a9d6310-c758-4f5e-abb8-5c6057f03094"
+      Hint: Title
+      Value: H.E. Mr. Zayed R. Alzayani
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d05571c6-baf3-418a-acb7-696dfc83335d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bdae5df6-d478-45c2-a785-e667936246d8"
+      Hint: ModalDescription
+      Value: |
+        <p>H.E. Mr. Al Zayani led his family business as the chairman of Al Zayani Investments, Euro Motors, Zayani motors, Zayani leasing, Zayani Properties, Al Zayani Industries, and Orient Motors and managing Director of First Motor and Chairman of the Bahrain International Circuit (BIC) until 2016.
+        <br />
+        Currently Mr. Al Zayani chairs Bahrain’s Tourism and Exhibitions Authority Board of Directors. His Excellency is currently a board member of Economic Development Board (EDB), Bahrain Mumtalakat Holding Company, Gulf Air Group, Business Family Network, and minister in charge of Bahrain Bourse since 2016. He is also a member of the International Institute for Strategic Studies (IISS).
+        <br />
+        Mr. AL Zayani graduated from Boston University, where he received MBA in Finance and he was former Board member of Boston University International Advisory Board.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000207Z
+    - ID: "f7eda7a2-1552-402f-9d58-18b1c414877f"
+      Hint: SubText
+      Value: Chairman of the Board of Directors
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T112821Z
+    - ID: "4f6e4313-acdf-4bda-aeec-fffa89d10d3b"
+      Hint: Description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor dictum nibh ut ut. Amet, pulvinar augue faucibus quis. Tristique in integer vulputate risus sit faucibus enim. Tortor, hac sodales ipsum in egestas viverra. Facilisis tincidunt ultricies aenean amet at eleifend enim turpis molestie. Ultricies nunc volutpat nibh nunc risus pulvinar lorem senectus. Ornare mollis nulla quam cursus. Lectus eget enim ullamcorper enim magna orci. Amet risus dictum purus nec rutrum aliquet. Lacus maecenas aenean ut placerat ullamcorper vitae risus ornare molestie. Mi elementum nunc, vitae ut molestie. Proin eu duis gravida nisi enim enim.</p>
+    - ID: "6a9d6310-c758-4f5e-abb8-5c6057f03094"
+      Hint: Title
+      Value: H.E. Mr. Zayed R. Alzayani
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba1a432f-e933-411a-8d3d-1ffbce34bd68"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bdae5df6-d478-45c2-a785-e667936246d8"
+      Hint: ModalDescription
+      Value: |
+        <p>H.E. Mr. Al Zayani led his family business as the chairman of Al Zayani Investments, Euro Motors, Zayani motors, Zayani leasing, Zayani Properties, Al Zayani Industries, and Orient Motors and managing Director of First Motor and Chairman of the Bahrain International Circuit (BIC) until 2016.
+        <br />
+        Currently Mr. Al Zayani chairs Bahrain’s Tourism and Exhibitions Authority Board of Directors. His Excellency is currently a board member of Economic Development Board (EDB), Bahrain Mumtalakat Holding Company, Gulf Air Group, Business Family Network, and minister in charge of Bahrain Bourse since 2016. He is also a member of the International Institute for Strategic Studies (IISS).
+        <br />
+        Mr. AL Zayani graduated from Boston University, where he received MBA in Finance and he was former Board member of Boston University International Advisory Board.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230610T000207Z
+    - ID: "f7eda7a2-1552-402f-9d58-18b1c414877f"
+      Hint: SubText
+      Value: Chairman of the Board of Directors

@@ -1,0 +1,42 @@
+﻿---
+ID: "18f82309-5c83-4496-83bb-cbac1c4ab144"
+Parent: "ebb9995f-6024-4b98-ba08-78c875c61bd2"
+Template: "e1d57686-23bb-4ca5-a2f9-e2a1ae697f63"
+Path: "/sitecore/content/gulfair-app-pk/Data/Baggage Rules/Baggage/General Baggage Rules/Television"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "e59416f3-a475-4cf2-90af-0cf6903d58d3"
+  Hint: Icon
+  Value: |
+    <image width="98" height="74" alt="Television.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/9eca15f373464de38fc4dd409d55c381?v=548ed2eb" stylelabs-content-id="42887" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/42887/thumbnail" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T111839Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahadkhalid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0157f44d-d43f-4af5-b61c-a3fdea4b3d19"
+    - ID: "98409e32-918e-4c0a-87e5-7eb22d988b65"
+      Hint: IconSubText
+      Value: Television
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T235803Z

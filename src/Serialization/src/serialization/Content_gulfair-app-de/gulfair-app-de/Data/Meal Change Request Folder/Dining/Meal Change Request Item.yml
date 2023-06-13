@@ -1,0 +1,89 @@
+﻿---
+ID: "110b2bdc-a30b-4637-af17-236996c767ac"
+Parent: "504b1801-beb4-4266-a2ef-5f485c368a85"
+Template: "4f11fe5d-c287-40d8-ab63-50ef015599fb"
+Path: "/sitecore/content/gulfair-app-de/Data/Meal Change Request Folder/Dining/Meal Change Request Item"
+SharedFields:
+- ID: "0c96a9ee-e8ec-4f4c-b4c5-52dacf58a39f"
+  Hint: SecondColumnBookingReferenceField
+  Value: "{27F07553-5103-4663-B266-17F0274093A1}"
+- ID: "3f08d6ae-115e-46fa-ba7b-8feb18525d36"
+  Hint: SecondColumnLastNameField
+  Value: "{D9C3373B-7138-449E-BABA-3CCF0D66FDC7}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e6c1c32-b37a-4334-bce3-6a0f40935031"
+      Hint: FirstColumnHeading
+      Value: Special Requests
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230313T115158Z
+    - ID: "41cb2859-eb3e-428c-93ec-0bb962a1f1f4"
+      Hint: SecondColumnHeading
+      Value: Change your Meal
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c961281b-3106-4e74-932d-5bf4aefd0934"
+    - ID: "bab790e3-06dd-49ed-93bb-578de8f13249"
+      Hint: FirstColumnSubText
+      Value: All customers on Gulf Air may request a special meal to suit their dietary requirements from the list below. Orders should be placed at least 24 hours prior to travel.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "bf60ba35-d18e-4935-bc16-ca3a6c470e4b"
+      Hint: SecondColumnChangeMealCTA
+      Value: |
+        <link text="Change my meal" linktype="external" url="https://gulfacc.resfinity.com/falcon" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230329T100318Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e6c1c32-b37a-4334-bce3-6a0f40935031"
+      Hint: FirstColumnHeading
+      Value: Special Requests
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230313T115158Z
+    - ID: "41cb2859-eb3e-428c-93ec-0bb962a1f1f4"
+      Hint: SecondColumnHeading
+      Value: Change your Meal
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b25a6c7f-fa91-4a3d-b3de-19bfa4f0a0a6"
+    - ID: "bab790e3-06dd-49ed-93bb-578de8f13249"
+      Hint: FirstColumnSubText
+      Value: All customers on Gulf Air may request a special meal to suit their dietary requirements from the list below. Orders should be placed at least 24 hours prior to travel.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "bf60ba35-d18e-4935-bc16-ca3a6c470e4b"
+      Hint: SecondColumnChangeMealCTA
+      Value: |
+        <link text="Change my meal" linktype="external" url="https://gulfacc.resfinity.com/falcon" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230329T100301Z

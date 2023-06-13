@@ -1,0 +1,161 @@
+﻿---
+ID: "f2da2f32-db2a-4f1a-864f-b89096ba3d55"
+Parent: "d86d936a-c3aa-42e4-b8c5-2410eb997c18"
+Template: "d88daec4-7499-4f92-81ce-75bd9702ba4b"
+Path: "/sitecore/content/Global/Global Content With Card Items Folder/booking/Info boxes/Info box 4 - Check-In Online"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17e218bc-774b-4e13-8ee4-48e775c0e1dc"
+      Hint: Description
+      Value: <p>يمكنك تسجيل الوصول واستلام بطاقة (بطاقات) الصعود إلى الطائرة من مكتب تسجيل الوصول في المطار أو تسجيل الوصول عبر الإنترنت لتجنب الانتظار في الطابور.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230314T183558Z
+    - ID: "328fd77d-ad35-46e1-9aa8-c0d0e568e57d"
+      Hint: Heading
+      Value: اتمم اجراءات السفر
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e2f9688-e739-4bc9-be65-71a30fe7187f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230418T115715Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17e218bc-774b-4e13-8ee4-48e775c0e1dc"
+      Hint: Description
+      Value: "<p>Sie können am Check-in-Schalter am Flughafen einchecken und Ihre Bordkarte(n) abholen oder online einchecken, um Wartezeiten zu vermeiden.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230314T183644Z
+    - ID: "328fd77d-ad35-46e1-9aa8-c0d0e568e57d"
+      Hint: Heading
+      Value: Online einchecken
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f3682e6-ad21-4b9c-aa6d-d860ef6814fc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230418T115435Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17e218bc-774b-4e13-8ee4-48e775c0e1dc"
+      Hint: Description
+      Value: "<p>You can check-in and collect your boarding pass(es) from the check-in counter at the airport or check-in online to avoid waiting in line.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230314T183000Z
+    - ID: "328fd77d-ad35-46e1-9aa8-c0d0e568e57d"
+      Hint: Heading
+      Value: "Check-In Online"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "18dc262a-d0b4-4b1a-909f-22842ac17934"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230418T115355Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17e218bc-774b-4e13-8ee4-48e775c0e1dc"
+      Hint: Description
+      Value: <p>vous pouvez vous enregistrer et récupérer votre ou vos cartes d'embarquement au comptoir d'enregistrement de l'aéroport ou vous enregistrer en ligne pour éviter les files d'attente.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230314T183631Z
+    - ID: "328fd77d-ad35-46e1-9aa8-c0d0e568e57d"
+      Hint: Heading
+      Value: Enregistrement en ligne
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5798a955-46eb-4b4a-9a77-f04d5f223d38"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\qauser
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230418T115518Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17e218bc-774b-4e13-8ee4-48e775c0e1dc"
+      Hint: Description
+      Value: <p>Вы можете зарегистрироваться и получить свой посадочный талон на стойке регистрации в аэропорту или зарегистрироваться онлайн, чтобы избежать ожидания в очереди.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230314T183656Z
+    - ID: "328fd77d-ad35-46e1-9aa8-c0d0e568e57d"
+      Hint: Heading
+      Value: Регистрация онлайн
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\qauser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qauser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd0ce306-770c-47bf-b485-46fd332d8a86"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bilalz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230428T114906Z

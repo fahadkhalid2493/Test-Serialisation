@@ -1,0 +1,203 @@
+﻿---
+ID: "64ae364c-6f32-46af-927e-bcd20bbcc34e"
+Parent: "4014e0ae-049d-4394-8804-15c1d88cb33e"
+Template: "c057a658-4a90-4a0e-9c94-aab0e82442f9"
+Path: "/sitecore/content/gulfair-app/Data/CTA Banner V2 Folder/Bahrain Falcon Gold Lounge Desktop/Bahrain Falcon gold lounges - Falcon gold lounges"
+SharedFields:
+- ID: "28a80a04-5b1d-46a2-9ed9-12be41fcc0e7"
+  Hint: Image
+  Value: |
+    <image width="1008" height="359" alt="cta-banner-v2.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/44c652539def47aea84aa58d14ebfc2a?v=25ac7708" stylelabs-content-id="38007" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38007/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: <p>Subheading Text</p>
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: |
+        Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet Lorem ipsum.
+        Dolor sit amet Lorem ipsum dolor sit amet
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T122130Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" querystring="" linktype="internal" text="Discover" anchor="" url="/gulfair-app/home/flying-with-us/at-the-airport/falcon-gold-lounge" title="" class="" target="" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71085596-0ec6-4be7-92e0-8d3e2c7c8302"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Falcon Gold Lounges
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230920Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: <p>Subheading Text</p>
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: |
+        Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet Lorem ipsum.
+        Dolor sit amet Lorem ipsum dolor sit amet
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T121439Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" querystring="" linktype="internal" text="Discover" anchor="" url="/gulfair-app/home/flying-with-us/at-the-airport/falcon-gold-lounge" title="" class="" target="" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b7eb04b-8cf9-4d51-a12a-dbb7e663c487"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Falcon Gold Lounges
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230920Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: <p>Subheading Text</p>
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: |
+        Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet Lorem ipsum.<br />
+        Dolor sit amet Lorem ipsum dolor sit amet
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T121439Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" querystring="" linktype="internal" text="Discover" anchor="" url="/gulfair-app/home/flying-with-us/at-the-airport/falcon-gold-lounge" title="" class="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f15e22e6-c62e-487a-b7aa-977bfa3f84de"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Falcon Gold Lounges
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230920Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: <p>Subheading Text</p>
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: |
+        Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet Lorem ipsum.
+        Dolor sit amet Lorem ipsum dolor sit amet
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T121439Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" querystring="" linktype="internal" text="Discover" anchor="" url="/gulfair-app/home/flying-with-us/at-the-airport/falcon-gold-lounge" title="" class="" target="" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9d2c3af-c017-4836-8fc6-eb4701422741"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Falcon Gold Lounges
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230920Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b0874-14db-404b-8988-ab66be4f6e4f"
+      Hint: SubHeading
+      Value: <p>Subheading Text</p>
+    - ID: "21776abe-1784-4f1d-a564-d626f0c2c8da"
+      Hint: Description
+      Value: |
+        Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet Lorem ipsum.
+        Dolor sit amet Lorem ipsum dolor sit amet
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T121439Z
+    - ID: "3b8e03a8-d22e-41fb-9a6f-4a3614f6e8aa"
+      Hint: CTA
+      Value: |
+        <link id="{F4FF6AF5-0201-467E-842A-7D359D8DA698}" querystring="" linktype="internal" text="Discover" anchor="" url="/gulfair-app/home/flying-with-us/at-the-airport/falcon-gold-lounge" title="" class="" target="" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\uzair
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\uzair
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c0abd73-a51e-4360-b458-ecb3f3d9948f"
+    - ID: "98285dc9-c56a-47ab-89b2-8a68c7784126"
+      Hint: Heading
+      Value: Falcon Gold Lounges
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230920Z

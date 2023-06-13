@@ -1,0 +1,56 @@
+﻿---
+ID: "28981e1c-8b7c-4334-b0c1-005ff9ed281b"
+Parent: "a448fee0-765f-4343-8a3e-cc3c962fd419"
+Template: "e390619c-9fa4-4eef-aeb4-ecacf033ad9c"
+Path: /sitecore/content/Global/Global Frequently Asked Questions Folder/Condition Carriage/Articles
+SharedFields:
+- ID: "8c095ccd-cc96-454a-a2af-6582feeda6e5"
+  Hint: FAQList
+  Value: |
+    {6A71245E-1E01-4638-8E0D-788E0F9D3E5F}
+    {54E5E16D-9C20-4207-B6A3-44061B379CFF}
+    {C3C96A9F-155B-4919-A418-822A60A750FF}
+    {7346A59A-6754-4C73-840A-E6424C56D7B1}
+    {CE195606-5AB1-48DD-A204-15A135184475}
+    {BD40C15D-BF77-45BF-A8C5-1F9481ADEC68}
+    {9447337D-D3B6-481C-8B69-FAA37C828EC0}
+    {34BBF503-6510-4970-B291-773586BA201B}
+    {46952CE6-8514-485E-93F6-552A0E30ACE7}
+    {151744E0-773E-465A-8506-15430C3CD5FD}
+    {59513A6E-F329-4FCD-B396-6DCDD0D6B449}
+    {EC623885-77DA-4207-BEE9-2E1098D67680}
+    {F73FD5FF-CCE8-42EF-88AB-0221F790094B}
+    {59F17652-731E-4F34-A06C-0D9B2017698D}
+    {670EB1F1-062E-4A32-8C1F-62A42629997B}
+    {7FB64E3B-1196-47BA-A8A9-2A05F790ED35}
+    {24F5359B-483E-4729-BAE6-F8CC5F4C9D0E}
+    {23CA7A6D-E505-4C7D-9680-F5A734FB1D7A}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230323T062534Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a109a53-d843-4a11-9f8a-1247b9db1531"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230502T120559Z
+    - ID: "ed4cae1d-2f58-4038-a786-f9a0af078637"
+      Hint: Heading
+      Value: <h2>Frequently Asked Questions</h2>

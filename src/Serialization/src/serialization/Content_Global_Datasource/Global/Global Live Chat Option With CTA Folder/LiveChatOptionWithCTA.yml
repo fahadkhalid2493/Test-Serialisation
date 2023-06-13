@@ -1,0 +1,166 @@
+﻿---
+ID: "55004a9c-071b-45b2-9154-5ef5ba160143"
+Parent: "ce03f78e-d075-4c3a-8227-f89293b3604f"
+Template: "24f93f19-b310-4aa2-b819-438b3a00e64d"
+Path: /sitecore/content/Global/Global Live Chat Option With CTA Folder/LiveChatOptionWithCTA
+SharedFields:
+- ID: "36395bc7-ae1e-4f86-ac15-c495dcee8cf5"
+  Hint: Icon
+  Value: |
+    <image width="44" height="42" alt="ChatIcon.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/e4c897af81ab41e7a16fbe4b1e93c6e6?v=8d620d10" stylelabs-content-id="38977" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38977/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T111046Z
+    - ID: "2e614f69-0d49-4b33-9747-013de1b3ddc5"
+      Hint: Title
+      Value: Live Chat
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a196865d-cd07-4012-80de-42154aaa789a"
+    - ID: "9e1d6345-2ec4-442e-93bb-363c4ee01923"
+      Hint: SubText
+      Value: تواصل معنا بسهولة من خلال ميزة الدردشة المباشرة الخاصة بنا لأي أسئلة أو مساعده. فريق خدمة العملاء لدينا متاح 24/7 لمساعدتك
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\salmanalzarqawi
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T073737Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T111046Z
+    - ID: "2e614f69-0d49-4b33-9747-013de1b3ddc5"
+      Hint: Title
+      Value: Live Chat
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df367db9-a77b-4a66-bd78-8f32cf77fad4"
+    - ID: "9e1d6345-2ec4-442e-93bb-363c4ee01923"
+      Hint: SubText
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hac ipsum sodales.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225926Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T111046Z
+    - ID: "2e614f69-0d49-4b33-9747-013de1b3ddc5"
+      Hint: Title
+      Value: Live Chat
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ace5d25b-53ff-4690-9bd9-772abe844952"
+    - ID: "9e1d6345-2ec4-442e-93bb-363c4ee01923"
+      Hint: SubText
+      Value: Our live chat feature allows you to easily get in touch with our customer service team. Our team is available 24/7 to assist you.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\salmanalzarqawi
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T073931Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T111046Z
+    - ID: "2e614f69-0d49-4b33-9747-013de1b3ddc5"
+      Hint: Title
+      Value: Live Chat
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d043004-86ff-4439-9e33-0cad71fea614"
+    - ID: "9e1d6345-2ec4-442e-93bb-363c4ee01923"
+      Hint: SubText
+      Value: Notre fonctionnalité de chat en direct vous permet d'entrer facilement en contact avec notre équipe de service client. Notre équipe est disponible 24h/24 et 7j/7 pour vous assister.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\salmanalzarqawi
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T074000Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T111046Z
+    - ID: "2e614f69-0d49-4b33-9747-013de1b3ddc5"
+      Hint: Title
+      Value: Live Chat
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e54cbf2a-6889-40c9-86ae-e9a253f9ac90"
+    - ID: "9e1d6345-2ec4-442e-93bb-363c4ee01923"
+      Hint: SubText
+      Value: Наша функция живого чата позволяет вам легко связаться с нашей службой поддержки клиентов. Наша команда доступна 24/7, чтобы помочь вам.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\salmanalzarqawi
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T074025Z

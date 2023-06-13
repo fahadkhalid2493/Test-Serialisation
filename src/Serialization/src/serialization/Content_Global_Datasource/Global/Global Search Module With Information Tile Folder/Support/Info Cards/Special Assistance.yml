@@ -1,0 +1,199 @@
+﻿---
+ID: "37ec1e40-ede4-4b1e-aff7-c176a5923604"
+Parent: "7912d99f-c8f4-45c0-b93e-b98d0c58e08a"
+Template: "43777290-de6e-474c-a476-b659ebcf4cb1"
+Path: /sitecore/content/Global/Global Search Module With Information Tile Folder/Support/Info Cards/Special Assistance
+SharedFields:
+- ID: "2cc85e79-09b1-4098-a6bc-1c11d181008a"
+  Hint: LiveChatOptionWithCTA
+  Value: "{55004A9C-071B-45B2-9154-5EF5BA160143}"
+- ID: "40afc0c0-49bf-41f5-950a-9586c0504f4d"
+  Hint: Icon
+  Value: |
+    <image width="120" height="120" alt="icon-4.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/97ba90f699f64164b65c06476b499df4?v=a51af823" stylelabs-content-id="46896" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/46896/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T192442Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: تلتزم طيران الخليج بتوفير رحلة آمنة ومريحة لجميع ركابنا، بما في ذلك أولئك الذين لديهم متطلبات طبية خاصة. إذا كنت بحاجة إلى مساعدة طبية خاصة أثناء رحلتك، فيرجى إبلاغنا أثناء عملية الحجز، أو الاتصال بفريق دعم العملاء لدينا.
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: <p>تلتزم طيران الخليج بتوفير رحلة آمنة ومريحة لجميع ركابنا، بما في ذلك أولئك الذين لديهم متطلبات طبية خاصة. إذا كنت بحاجة إلى مساعدة طبية خاصة أثناء رحلتك، فيرجى إبلاغنا أثناء عملية الحجز، أو الاتصال بفريق دعم العملاء لدينا.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5d9055cc-d599-4d70-bd91-0f0db7d4bc92"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: المساعدة الخاصة
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: المساعدة الخاصة
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T192338Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Gulf Air setzt sich dafür ein, allen unseren Passagieren eine sichere und komfortable Reise zu bieten, einschließlich solcher mit besonderen medizinischen Anforderungen. Wenn Sie während Ihres Fluges spezielle medizinische Unterstützung benötigen, informieren Sie uns bitte während des Buchungsprozesses oder wenden Sie sich an unser Kundenunterstützungsteam.
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: <p>Gulf Air setzt sich daf&uuml;r ein, allen unseren Passagieren eine sichere und komfortable Reise zu bieten, einschlie&szlig;lich solcher mit besonderen medizinischen Anforderungen. Wenn Sie w&auml;hrend Ihres Fluges spezielle medizinische Unterst&uuml;tzung ben&ouml;tigen, informieren Sie uns bitte w&auml;hrend des Buchungsprozesses oder wenden Sie sich an unser Kundenunterst&uuml;tzungsteam.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d5c41496-f9e4-433e-a4d1-70b26451f1f6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Besondere Unterstützung
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Besondere Unterstützung
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T171057Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Gulf Air is committed to providing a safe and comfortable journey for all our passengers, including those with special medical requirements. If you require special medical assistance during your flight, please inform us during the booking process, or contact our customer support team.
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: <p>Gulf Air is committed to providing a safe and comfortable journey for all our passengers, including those with special medical requirements. If you require special medical assistance during your flight, please inform us during the booking process, or contact our customer support team.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7665b980-9336-40af-bbd0-7139a24107ba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Special Assistance 
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Special Assistance 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T192409Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Gulf Air s'engage à fournir un voyage sûr et confortable à tous nos passagers, y compris ceux qui ont des exigences médicales spéciales. Si vous avez besoin d'une assistance médicale spéciale pendant votre vol, veuillez nous informer pendant le processus de réservation ou contacter notre équipe de support client.
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: <p>Gulf Air s'engage &agrave; fournir un voyage s&ucirc;r et confortable &agrave; tous nos passagers, y compris ceux qui ont des exigences m&eacute;dicales sp&eacute;ciales. Si vous avez besoin d'une assistance m&eacute;dicale sp&eacute;ciale pendant votre vol, veuillez nous informer pendant le processus de r&eacute;servation ou contacter notre &eacute;quipe de support client.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c3f0cde3-f24c-466b-9700-d81d6283aa5e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Assistance spéciale
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Assistance spéciale
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T192308Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Gulf Air стремится обеспечить безопасное и комфортное путешествие для всех наших пассажиров, в том числе с особыми медицинскими требованиями. Если вам нужна специальная медицинская помощь во время вашего полета, сообщите нам о процессе бронирования или свяжитесь с нашей группой поддержки клиентов.
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: <p>Gulf Air стремится обеспечить безопасное и комфортное путешествие для всех наших пассажиров, в том числе с особыми медицинскими требованиями. Если вам нужна специальная медицинская помощь во время вашего полета, сообщите нам о процессе бронирования или свяжитесь с нашей группой поддержки клиентов.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3f2dc5c6-e7c7-4b12-832b-fa4a10701175"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Специальная помощь
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Специальная помощь
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230217Z

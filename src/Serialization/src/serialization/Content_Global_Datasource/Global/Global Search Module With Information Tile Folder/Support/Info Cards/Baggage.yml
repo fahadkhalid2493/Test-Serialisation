@@ -1,0 +1,199 @@
+﻿---
+ID: "949161c2-e779-4893-bff7-1852eba5a268"
+Parent: "7912d99f-c8f4-45c0-b93e-b98d0c58e08a"
+Template: "43777290-de6e-474c-a476-b659ebcf4cb1"
+Path: /sitecore/content/Global/Global Search Module With Information Tile Folder/Support/Info Cards/Baggage
+SharedFields:
+- ID: "2cc85e79-09b1-4098-a6bc-1c11d181008a"
+  Hint: LiveChatOptionWithCTA
+  Value: "{55004A9C-071B-45B2-9154-5EF5BA160143}"
+- ID: "40afc0c0-49bf-41f5-950a-9586c0504f4d"
+  Hint: Icon
+  Value: |
+    <image width="120" height="120" alt="icon-1.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/b4956cbf4f374b0e821d0b66fbf597d1?v=603b9769" stylelabs-content-id="46894" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/46894/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T192921Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: تحقق من الأمتعة المسموح بها قبل السفر. في حالة فقدان أي أمتعة، فإن فريق الدعم المتخصص لدينا متاح لمساعدتك في مطالبتك. نقدم أيضًا إرشادات واضحة ومعلومات ذات صلة ومتابعة بانتظام للاطلاع على حالة مطالبة الأمتعة المفقودة.
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: <p>تحقق من الأمتعة المسموح بها قبل السفر. في حالة فقدان أي أمتعة، فإن فريق الدعم المتخصص لدينا متاح لمساعدتك في مطالبتك. نقدم أيضًا إرشادات واضحة ومعلومات ذات صلة ومتابعة بانتظام للاطلاع على حالة مطالبة الأمتعة المفقودة.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c176c675-c4c2-4462-bb43-e1e20f7af63a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\emanburwais
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: لأمتعة 
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: الأمتعة
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230611T125600Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T192952Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: "Überprüfen Sie Ihre Gepäckzusatz, bevor Sie reisen. Im Falle eines fehlenden Gepäcks steht unser engagiertes Support -Team zur Verfügung, um Sie bei Ihrem Anspruch zu unterstützen. Wir geben auch klare Anleitungen, relevante Informationen und regelmäßig nach, um Sie über den Status Ihres fehlenden Gepäckantrags zu aktualisieren."
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: "<p>&Uuml;berpr&uuml;fen Sie Ihre Gep&auml;ckzusatz, bevor Sie reisen. Im Falle eines fehlenden Gep&auml;cks steht unser engagiertes Support -Team zur Verf&uuml;gung, um Sie bei Ihrem Anspruch zu unterst&uuml;tzen. Wir geben auch klare Anleitungen, relevante Informationen und regelm&auml;&szlig;ig nach, um Sie &uuml;ber den Status Ihres fehlenden Gep&auml;ckantrags zu aktualisieren.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba5051ba-b583-492f-9c1a-a01ac4164109"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Gepäck
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Gepäck
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T170923Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: "Check your baggage allowance before you travel. In case of any missing baggage, our dedicated support team is available to assist you with your claim. We also provide clear guidance, relevant information, and follow-up regularly to update you on the status of your missing baggage claim."
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: "<p>Check your baggage allowance before you travel. In case of any missing baggage, our dedicated support team is available to assist you with your claim. We also provide clear guidance, relevant information, and follow-up regularly to update you on the status of your missing baggage claim.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "278734d3-2f6b-428d-95a9-4d8296af633a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Baggage
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Baggage
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T192937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Vérifiez votre allocation de bagages avant de voyager. En cas de bagages manquants, notre équipe de soutien dédiée est disponible pour vous aider dans votre réclamation. Nous fournissons également des conseils clairs, des informations pertinentes et un suivi régulièrement pour vous mettre à jour sur l'état de votre demande de bagages manquants.
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: <p>V&eacute;rifiez votre allocation de bagages avant de voyager. En cas de bagages manquants, notre &eacute;quipe de soutien d&eacute;di&eacute;e est disponible pour vous aider dans votre r&eacute;clamation. Nous fournissons &eacute;galement des conseils clairs, des informations pertinentes et un suivi r&eacute;guli&egrave;rement pour vous mettre &agrave; jour sur l'&eacute;tat de votre demande de bagages manquants.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "59f268ee-8b57-42ec-83ac-65aae4bea994"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: bagages
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: bagages
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T193008Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "79902cdb-4818-40ce-b417-aa82c29448a0"
+      Hint: SubText
+      Value: Проверьте пособие по багажу перед поездкой. В случае любого пропущенного багажа наша специальная команда поддержки доступна, чтобы помочь вам с вашим требованием. Мы также предоставляем четкое руководство, соответствующую информацию и регулярно следите за тем, чтобы обновлять вас о статусе вашего пропавшего багажа.
+    - ID: "8bf39418-a859-4afe-8d12-6cd01b3f0d2c"
+      Hint: PopupDescription
+      Value: <p>Проверьте пособие по багажу перед поездкой. В случае любого пропущенного багажа наша специальная команда поддержки доступна, чтобы помочь вам с вашим требованием. Мы также предоставляем четкое руководство, соответствующую информацию и регулярно следите за тем, чтобы обновлять вас о статусе вашего пропавшего багажа.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ef34a33-d8f6-4df1-b766-8794cc9e2b08"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
+      Hint: PopupHeading
+      Value: Багаж
+    - ID: "d4f36277-4151-44df-8073-0ed9b538897e"
+      Hint: Title
+      Value: Багаж
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T230216Z

@@ -1,0 +1,202 @@
+﻿---
+ID: "34c244a3-a53b-4d56-becd-eabc8cae8f9d"
+Parent: "5e028515-b43c-4395-9625-943f26894734"
+Template: "507baf32-190f-450d-9627-7a6a794f92a8"
+Path: /sitecore/content/Global/Global Full Width Vertical Sliding Banner Folder/bahrain/Experience Full Width Sliding Banner/Experience1
+SharedFields:
+- ID: "7aa59fac-b607-43af-b92d-827bfd45a873"
+  Hint: Image
+  Value: |
+    <image width="1920" height="1080" alt="bahrain falcon gold loung business center" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/6dee9f16dcfe45c8a9f5cb19d526851f?v=36fa6371" stylelabs-content-id="49671" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/49671/thumbnail" />
+- ID: "b92f071d-1def-46b6-a749-46efddbd6693"
+  Hint: CTAColor
+  Value: "{8B58979B-FF89-4F09-9AF3-6A860E012049}"
+- ID: "f768fd8c-ee29-421c-8929-b5c21ac10c7b"
+  Hint: CTAType
+  Value: "{9E29A28B-7ED9-41A5-BE7D-66A986A44CC3}"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230313T190853Z
+    - ID: "2f4a53a2-4df2-4f20-a5a2-4967d5fc9a7f"
+      Hint: CTA
+      Value: 
+    - ID: "508e79bd-da47-42f8-88df-5c2fada7e89a"
+      Hint: SubHeading
+      Value: تابع عملك الشخصي
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "90890a9d-33d3-4c37-b54a-df84e60fcbaf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c907c8ed-adf8-4873-8262-7cf11a77eb28"
+      Hint: Heading
+      Value: مركز الأعمال 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225909Z
+    - ID: "e0b85415-9681-4d90-8692-63450f443586"
+      Hint: Description
+      Value: <p>تابع عملك الشخصي أو المكتبي في مركز الأعمال المتطور لدينا</p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230313T192048Z
+    - ID: "2f4a53a2-4df2-4f20-a5a2-4967d5fc9a7f"
+      Hint: CTA
+      Value: 
+    - ID: "508e79bd-da47-42f8-88df-5c2fada7e89a"
+      Hint: SubHeading
+      Value: Holen Sie Ihre persönliche Arbeit nach
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9446e8d1-09fa-4ae6-99b1-405f9c3927f2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c907c8ed-adf8-4873-8262-7cf11a77eb28"
+      Hint: Heading
+      Value: Geschäftszentrum
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225909Z
+    - ID: "e0b85415-9681-4d90-8692-63450f443586"
+      Hint: Description
+      Value: <p>Erledigen Sie Ihre persönliche oder geschäftliche Arbeit in unserem hochmodernen Business Center</p>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230313T180741Z
+    - ID: "2f4a53a2-4df2-4f20-a5a2-4967d5fc9a7f"
+      Hint: CTA
+      Value: 
+    - ID: "508e79bd-da47-42f8-88df-5c2fada7e89a"
+      Hint: SubHeading
+      Value: Catch up with your personal work
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "21b35231-9dcc-4357-95e1-0aea8e5a539a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c907c8ed-adf8-4873-8262-7cf11a77eb28"
+      Hint: Heading
+      Value: Business Centre
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225909Z
+    - ID: "e0b85415-9681-4d90-8692-63450f443586"
+      Hint: Description
+      Value: "<p>Catch up with your personal or office work in our state-of-the-art business centre.</p>"
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230313T191603Z
+    - ID: "2f4a53a2-4df2-4f20-a5a2-4967d5fc9a7f"
+      Hint: CTA
+      Value: 
+    - ID: "508e79bd-da47-42f8-88df-5c2fada7e89a"
+      Hint: SubHeading
+      Value: Rattrapez votre travail personnel
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "68c582ab-8b2e-4ea3-b02d-7050679f9df9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c907c8ed-adf8-4873-8262-7cf11a77eb28"
+      Hint: Heading
+      Value: Centre d'affaires
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225909Z
+    - ID: "e0b85415-9681-4d90-8692-63450f443586"
+      Hint: Description
+      Value: <p>Rattrapez votre travail personnel ou de bureau dans notre centre d'affaires ultramoderne</p>
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230313T192406Z
+    - ID: "2f4a53a2-4df2-4f20-a5a2-4967d5fc9a7f"
+      Hint: CTA
+      Value: 
+    - ID: "508e79bd-da47-42f8-88df-5c2fada7e89a"
+      Hint: SubHeading
+      Value: Займитесь своей личной работой
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cf361474-bf68-401a-8b7c-339e06f1ca30"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c907c8ed-adf8-4873-8262-7cf11a77eb28"
+      Hint: Heading
+      Value: Деловой центр
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225909Z
+    - ID: "e0b85415-9681-4d90-8692-63450f443586"
+      Hint: Description
+      Value: "<p>Займитесь своими личными или офисными делами в нашем ультрасовременном бизнес-центре.</p>"

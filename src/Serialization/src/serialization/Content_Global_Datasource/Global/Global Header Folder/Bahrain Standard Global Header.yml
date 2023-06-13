@@ -1,0 +1,221 @@
+﻿---
+ID: "ed520d88-43c9-4d4f-8ca8-387fe5e4f99a"
+Parent: "ea293e6c-0f2b-4870-bb5f-cd2ea8229d6f"
+Template: "b688b980-a8b7-4d04-abb0-07553b39a5ed"
+Path: /sitecore/content/Global/Global Header Folder/Bahrain Standard Global Header
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: apps/32x32/player.png
+- ID: "0e5212ec-0f9d-4e49-a39c-68d70d767072"
+  Hint: StorefrontList
+  Value: |
+    {9825DFD7-A28A-45B5-B515-EF6E926C5D4F}
+    {5D37DB71-2087-47FA-B17A-E982167E5EA0}
+    {CF73BC71-FD4C-4DAD-B3CB-76FB2A70CC1C}
+- ID: "245029ce-205e-49ea-8443-54d3c707a406"
+  Hint: DarkLogo
+  Value: |
+    <image width="158" height="58" alt="gold-logo.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/89f478aba1cb4c7e9876c1e7c67b3dd8?v=55e9a2d2" stylelabs-content-id="36810" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/36810/thumbnail" />
+- ID: "43728ef8-ea05-46ba-b705-32f24208683d"
+  Hint: JoinFalconCTAColor
+  Value: "{F64FADCC-6FB4-46AA-A947-751B7BF0A024}"
+- ID: "5cf1ecd7-9e93-4f10-84d2-f4a3c71b8e44"
+  Hint: LoginCTAColor
+  Value: "{F4B4A40B-428A-48B8-907D-F1598EBADC7A}"
+- ID: "63809675-5aaa-4847-87fe-0ecab65c7f11"
+  Hint: LanguagesList
+  Value: |
+    {CD5CB5D8-99FB-4035-8CF6-AA38E676E608}
+    {AE2B1160-AEC8-400B-92BF-E4F2378F29C8}
+    {6BDE25E6-CDEC-40FD-AD61-8ADC66E8BE5B}
+    {489B5329-994C-4BF6-B649-42B1A90A7FC3}
+    {02F070DE-00A8-4308-B198-7109FADE321B}
+- ID: "654788b1-6182-4731-bdc9-6207a3f29048"
+  Hint: RightNavigationItems
+  Value: |
+    {5B68FA63-395E-438D-891F-6C875A5B9736}
+    {266F736B-2C3C-42B4-91F9-F1E0560BBB80}
+    {AE23F5EE-F190-4510-B728-897CA8E4B493}
+    {BF15407A-1B9E-453C-B601-FDC057B775D9}
+- ID: "7fdcb3d8-3d42-40de-9ffc-a2dad226bcfd"
+  Hint: LightLogo
+  Value: |
+    <image width="158" height="58" alt="white-logo.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/c24cd6233564482ab89e208eedeaff2e?v=7eef47db" stylelabs-content-id="36809" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/36809/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "aa9e86d3-480e-491c-867e-c83d71e090e4"
+  Hint: LanguageSwitcherCTAColor
+  Value: "{3F16AFC2-00E8-4FFD-A242-49354F84EF7B}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 5900
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c9322c3-e332-42df-be3f-550512137a6c"
+      Hint: SearchPage
+      Value: |
+        <link text="Searchs" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{6182CB0E-A87D-4A6C-B0C8-F2F384331E1B}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230113T144107Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5928a549-7a30-4837-b91c-0f65870cdfec"
+      Hint: JoinFalconCTA
+      Value: |
+        <link text="الإنضمام لفالكون فلاير" linktype="external" url="https://falconflyer.gulfair.com/#/member/register" anchor="" target="_blank" />
+    - ID: "5b708498-a3f2-46eb-9b0f-9b7c4112040f"
+      Hint: LoginPopupDetail
+      Value: "{DAAC33B6-A07A-42F1-9FEE-99637CCFD30B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a02e3b1-a553-47ee-bbd7-19f696ada92a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225848Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T075245Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5928a549-7a30-4837-b91c-0f65870cdfec"
+      Hint: JoinFalconCTA
+      Value: |
+        <link text="Anmelden" linktype="external" url="https://falconflyer.gulfair.com/#/member/register" anchor="" target="_blank" />
+    - ID: "5b708498-a3f2-46eb-9b0f-9b7c4112040f"
+      Hint: LoginPopupDetail
+      Value: "{DAAC33B6-A07A-42F1-9FEE-99637CCFD30B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40a1b996-c462-45af-b53b-d55566ca3858"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225848Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c9322c3-e332-42df-be3f-550512137a6c"
+      Hint: SearchPage
+      Value: |
+        <link id="{6182CB0E-A87D-4A6C-B0C8-F2F384331E1B}" querystring="" linktype="internal" text="Search" anchor="" url="/gulfair-app/home/search" title="" class="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T075245Z
+    - ID: "5928a549-7a30-4837-b91c-0f65870cdfec"
+      Hint: JoinFalconCTA
+      Value: |
+        <link text="Join Falconflyer" linktype="external" url="https://falconflyer.gulfair.com/#/member/register" anchor="" target="_blank" />
+    - ID: "5b708498-a3f2-46eb-9b0f-9b7c4112040f"
+      Hint: LoginPopupDetail
+      Value: "{DAAC33B6-A07A-42F1-9FEE-99637CCFD30B}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f8f6bb1-4f26-4caf-a1f9-11b7139d101d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bc5dfc20-c748-4f77-9cfc-abea3f278dab"
+      Hint: SearchError
+      Value: Please provide at least one character
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225848Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T075245Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5928a549-7a30-4837-b91c-0f65870cdfec"
+      Hint: JoinFalconCTA
+      Value: |
+        <link text="Rejoindre falconflyer" linktype="external" url="https://falconflyer.gulfair.com/#/member/register" anchor="" target="_blank" />
+    - ID: "5b708498-a3f2-46eb-9b0f-9b7c4112040f"
+      Hint: LoginPopupDetail
+      Value: "{DAAC33B6-A07A-42F1-9FEE-99637CCFD30B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7f743099-ce36-419c-9391-33a993d66536"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225848Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c9322c3-e332-42df-be3f-550512137a6c"
+      Hint: SearchPage
+      Value: |
+        <link text="Search" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{6182CB0E-A87D-4A6C-B0C8-F2F384331E1B}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T075245Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5928a549-7a30-4837-b91c-0f65870cdfec"
+      Hint: JoinFalconCTA
+      Value: |
+        <link text="Подписаться" linktype="external" url="https://falconflyer.gulfair.com/#/member/register" anchor="" target="_blank" />
+    - ID: "5b708498-a3f2-46eb-9b0f-9b7c4112040f"
+      Hint: LoginPopupDetail
+      Value: "{DAAC33B6-A07A-42F1-9FEE-99637CCFD30B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "55d38e2f-8b15-411c-9534-adc71cac1199"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225848Z

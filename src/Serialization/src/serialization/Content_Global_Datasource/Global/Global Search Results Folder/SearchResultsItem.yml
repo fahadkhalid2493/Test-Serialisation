@@ -1,0 +1,178 @@
+﻿---
+ID: "61c0a2ee-2a28-4762-9faf-3e8fd329035e"
+Parent: "7f4e8b73-c2c2-4514-8026-62f777f740d8"
+Template: "95a0126b-4cf1-4b9a-b4a6-066f6c3605c4"
+Path: /sitecore/content/Global/Global Search Results Folder/SearchResultsItem
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "e9b25c7a-1442-4768-ada5-4f4a9f962e5c"
+  Hint: BannerImage
+  Value: |
+    <image width="1440" height="750" alt="SearchResultsBanner.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/35abf781cdfd4f848e3d25b349bf7320?v=e0dcdacd" stylelabs-content-id="45339" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/45339/thumbnail" />
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230417T092233Z
+    - ID: "3bfa7acb-d5f0-4b5a-a654-fbb9bf577dd7"
+      Hint: Title
+      Value: نتيجة البحث عن
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dc9fc1af-5ab9-4641-a890-b1113817cb08"
+    - ID: "ba0611df-1379-4093-92ce-600e5c8967f5"
+      Hint: SubText
+      Value: ابحث عن شيء اخر؟ جرب بحثًا آخر.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225854Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T071954Z
+    - ID: "3bfa7acb-d5f0-4b5a-a654-fbb9bf577dd7"
+      Hint: Title
+      Value: Suchergebnis für
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef88daa5-bd1f-4a20-b286-8197e2b6986e"
+    - ID: "ba0611df-1379-4093-92ce-600e5c8967f5"
+      Hint: SubText
+      Value: "Suchen Sie etwas anderes? Versuchen Sie eine andere Suche."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225854Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230417T092233Z
+    - ID: "3bfa7acb-d5f0-4b5a-a654-fbb9bf577dd7"
+      Hint: Title
+      Value: Search Result For
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c08b2a6-45b2-4993-aefe-af9025863753"
+    - ID: "ba0611df-1379-4093-92ce-600e5c8967f5"
+      Hint: SubText
+      Value: "Looking for something else? Try another search."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225854Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T072036Z
+    - ID: "3bfa7acb-d5f0-4b5a-a654-fbb9bf577dd7"
+      Hint: Title
+      Value: Résultat de la recherche pour
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "528af92e-69f8-4e4c-8723-73b1a8fe3ffc"
+    - ID: "ba0611df-1379-4093-92ce-600e5c8967f5"
+      Hint: SubText
+      Value: "Vous cherchez autre chose? Essayez une autre recherche."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225854Z
+- Language: ru
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T072102Z
+    - ID: "3bfa7acb-d5f0-4b5a-a654-fbb9bf577dd7"
+      Hint: Title
+      Value: Результат поиска для
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{BC6135DC-3933-4BB0-A251-3BD8F315000C}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bilalz
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bilalz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50bc66c3-4e8f-439c-bc04-752e01b0589f"
+    - ID: "ba0611df-1379-4093-92ce-600e5c8967f5"
+      Hint: SubText
+      Value: "Ищете что -нибудь еще? Попробуйте другой поиск."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230609T225854Z

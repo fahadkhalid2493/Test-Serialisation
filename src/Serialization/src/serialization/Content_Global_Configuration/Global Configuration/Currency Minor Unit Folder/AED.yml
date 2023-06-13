@@ -1,0 +1,29 @@
+﻿---
+ID: "4a18aff6-1bfe-41f2-bcbe-26a0b8cd1eb0"
+Parent: "8cff388a-3e7f-45b1-99dd-932dcd5ee484"
+Template: "d931650f-9bf8-4513-9165-655764e846b9"
+Path: /sitecore/content/Global Configuration/Currency Minor Unit Folder/AED
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "10363e15-d697-4d1c-9811-a6b6a2c3b75d"
+      Hint: CurrencyCode
+      Value: AED
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230316T113153Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d044f28d-e1be-4981-accd-bc4de84903d0"
+    - ID: "8da56016-b43c-46e4-8b34-fffadcf7a39f"
+      Hint: MinorUnit
+      Value: 2
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230316T120316Z
