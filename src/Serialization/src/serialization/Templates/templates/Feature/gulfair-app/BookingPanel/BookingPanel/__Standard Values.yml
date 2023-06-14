@@ -1,0 +1,68 @@
+﻿---
+ID: "724a0a37-876e-42e5-bea5-d30e49fc3560"
+Parent: "f00210e9-1235-4c81-adb2-0ad6271774d2"
+Template: "f00210e9-1235-4c81-adb2-0ad6271774d2"
+Path: "/sitecore/templates/Feature/gulfair-app/BookingPanel/BookingPanel/__Standard Values"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/32x32/Finance.png
+- ID: "2294de5b-f26f-4af8-a032-4d991898621a"
+  Hint: EnableFlightStatus
+  Value: 1
+- ID: "4fd0846d-ab48-4490-835d-e0d1b7f34b7a"
+  Hint: Destinations
+  Value: |
+    {02930019-C905-4288-A054-376FB371090F}
+    {CD6382D4-6AA8-4A59-80BC-097772BDEDFC}
+    {5A20F4B9-C855-4F05-81A7-3B79BCB03136}
+    {6651AB1D-CCD5-49B5-A232-2684AF4C5FD9}
+    {2FF6AC3B-A129-4B2A-89F9-03474B8C5EF3}
+    {A20D07B6-71EB-4B21-9E91-B7A6E89A9638}
+    {42DAC5DB-C5B9-4272-9CC9-A1399BD6B042}
+- ID: "6838a0dc-373f-4950-bf54-4c9e21b1b5f2"
+  Hint: EnableCheckIn
+  Value: 1
+- ID: "7c55e542-9608-465a-a666-80dde5ea2705"
+  Hint: TicketType
+  Value: |
+    {10D1804A-1A36-446C-A41F-11A501EC20A0}
+    {7C326429-CC7A-4EE8-BE42-E8D7C33840FB}
+- ID: "7eeb00c9-0b28-4bdd-89eb-a3395c4a3275"
+  Hint: EnableFlightAndHotels
+  Value: 1
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "dea0a001-c500-4122-b0ca-44c3a2093f92"
+  Hint: EnableFlights
+  Value: 1
+- ID: "e0fd9425-bdc2-4212-a0a6-a1b2812efd02"
+  Hint: EnableManage
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T114142Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e1ccb12-e3b8-4d94-a27c-e3824873f136"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shahbaz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T103329Z

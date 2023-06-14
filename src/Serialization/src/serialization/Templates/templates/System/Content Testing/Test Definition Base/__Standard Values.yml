@@ -1,0 +1,41 @@
+﻿---
+ID: "4a57bfa1-2998-43eb-871b-b60e9148e64f"
+Parent: "3a0cfb2b-3671-4532-9700-a20ed704e97b"
+Template: "3a0cfb2b-3671-4532-9700-a20ed704e97b"
+Path: /sitecore/templates/System/Content Testing/Test Definition Base/__Standard Values
+SharedFields:
+- ID: "54ab2781-4a1b-4db3-86be-1797fd041af3"
+  Hint: Name
+  Value: $name
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190702T014758Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9f0707a9-0dbc-4441-a69e-d8fc5cb8a44d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190702T014845Z

@@ -1,0 +1,40 @@
+﻿---
+ID: "0c18775f-fd3d-4d3d-8c08-32ca58a39439"
+Parent: "e50c193e-730e-4362-ad82-6a83890f7b43"
+Template: "e50c193e-730e-4362-ad82-6a83890f7b43"
+Path: "/sitecore/templates/Feature/gulfair-app/QuickCheckinWithAirport/QuickCheckinWithAirportFolder/__Standard Values"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Network/32x32/WebDAV_open.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {E50C193E-730E-4362-AD82-6A83890F7B43}
+    {843780DF-01C6-4315-B613-9B91EB94FA61}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230130T082404Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f9910d0-c9f0-423c-b4d6-fc5b172a7da2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\fahad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230308T121007Z

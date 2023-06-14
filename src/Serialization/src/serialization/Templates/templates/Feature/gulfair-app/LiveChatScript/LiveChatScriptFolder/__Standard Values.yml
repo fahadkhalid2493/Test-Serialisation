@@ -1,0 +1,40 @@
+﻿---
+ID: "de2f6313-3aaa-41f0-92d5-09bd6146f6ca"
+Parent: "204065f9-0f71-4438-ae27-c172d61e01b2"
+Template: "204065f9-0f71-4438-ae27-c172d61e01b2"
+Path: "/sitecore/templates/Feature/gulfair-app/LiveChatScript/LiveChatScriptFolder/__Standard Values"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: /~/icon/core3/32x32/copy_to_folder.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {204065F9-0F71-4438-AE27-C172D61E01B2}
+    {071B1CA4-2AE2-4638-B564-2F7B2CC2154C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T110514Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a184825d-4d2f-472b-9f5e-dcf0fea4e1f8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T124933Z

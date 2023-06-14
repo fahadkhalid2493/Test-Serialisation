@@ -1,0 +1,40 @@
+﻿---
+ID: "adde1fb7-650a-4141-a953-02304da87e67"
+Parent: "a108a5c3-6ae9-4651-b083-14813c9e766f"
+Template: "a108a5c3-6ae9-4651-b083-14813c9e766f"
+Path: "/sitecore/templates/Feature/gulfair-app/SlidingBanner/SlidingBannerFolder/__Standard Values"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Software/32x32/memory.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {A108A5C3-6AE9-4651-B083-14813C9E766F}
+    {6BA60B2E-D80A-4242-A8DC-68715FA2F30B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230121T141659Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a3cb7a8-a297-4fba-af43-d19630017181"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\fahad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230308T132645Z

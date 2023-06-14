@@ -7,7 +7,7 @@ SharedFields:
 - ID: "36395bc7-ae1e-4f86-ac15-c495dcee8cf5"
   Hint: Icon
   Value: |
-    <image width="44" height="42" alt="ChatIcon.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/e4c897af81ab41e7a16fbe4b1e93c6e6?v=a58a495b" stylelabs-content-id="38977" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38977/thumbnail" />
+    <image width="44" height="42" alt="ChatIcon.png" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/e4c897af81ab41e7a16fbe4b1e93c6e6?v=a58a495b" stylelabs-content-id="38977" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/38977/thumbnail" />
 Languages:
 - Language: ar
   Versions:
@@ -29,17 +29,17 @@ Languages:
         sitecore\bilalz
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d46ce886-8dd0-431b-bd5e-6761ce894e0b"
+      Value: "ca808a19-9b7c-4563-b650-573b5e525f2a"
     - ID: "9e1d6345-2ec4-442e-93bb-363c4ee01923"
       Hint: SubText
       Value: تواصل معنا بسهولة من خلال ميزة الدردشة المباشرة الخاصة بنا لأي أسئلة أو مساعده. فريق خدمة العملاء لدينا متاح 24/7 لمساعدتك
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\salmanalzarqawi
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230611T073824Z
+      Value: 20230613T073248Z
 - Language: de
   Versions:
   - Version: 1
@@ -60,7 +60,7 @@ Languages:
         sitecore\bilalz
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "24b5d1b7-b1fb-4ed2-a01b-1d8e94f5f9cf"
+      Value: "c4acd72a-289c-48c6-98dc-6243e5fd888d"
     - ID: "9e1d6345-2ec4-442e-93bb-363c4ee01923"
       Hint: SubText
       Value: "Mit unserer Live -Chat -Funktion können Sie sich problemlos mit unserem Kundendienstteam in Verbindung setzen. Unser Team ist rund um die Uhr verfügbar, um Sie zu unterstützen. Chatten Sie jetzt mit uns."
@@ -70,7 +70,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225926Z
+      Value: 20230613T073248Z
 - Language: en
   Versions:
   - Version: 1
@@ -91,7 +91,7 @@ Languages:
         sitecore\bilalz
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9ab1a68f-ecaa-4856-88ec-0b01e4fd897e"
+      Value: "f31f3176-e5b5-4802-9a77-ce9e753dc1f9"
     - ID: "9e1d6345-2ec4-442e-93bb-363c4ee01923"
       Hint: SubText
       Value: Our live chat feature allows you to easily get in touch with our customer service team. Our team is available 24/7 to assist you. Chat with us now. 
@@ -101,7 +101,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225926Z
+      Value: 20230613T073248Z
 - Language: fr
   Versions:
   - Version: 1
@@ -122,7 +122,7 @@ Languages:
         sitecore\bilalz
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c86b6222-efd3-4126-bc7c-87fae367e73e"
+      Value: "29d121a5-8f8c-4c1f-bf39-469f1609747b"
     - ID: "9e1d6345-2ec4-442e-93bb-363c4ee01923"
       Hint: SubText
       Value: Notre fonctionnalité de chat en direct vous permet de contacter facilement notre équipe de service client. Notre équipe est disponible 24/7 pour vous aider. Discutez avec nous maintenant.
@@ -132,7 +132,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225926Z
+      Value: 20230613T073248Z
 - Language: ru
   Versions:
   - Version: 1
@@ -153,7 +153,7 @@ Languages:
         sitecore\bilalz
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "24831b0e-539f-4cd9-b687-83b2d84b6d56"
+      Value: "56d69dbd-dcf4-460f-800a-1bb0ec0d973b"
     - ID: "9e1d6345-2ec4-442e-93bb-363c4ee01923"
       Hint: SubText
       Value: Наша функция живого чата позволяет вам легко связаться с нашей командой по обслуживанию клиентов. Наша команда доступна 24/7, чтобы помочь вам. Общайтесь с нами сейчас.
@@ -163,4 +163,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225926Z
+      Value: 20230613T073248Z

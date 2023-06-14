@@ -14,7 +14,7 @@ SharedFields:
 - ID: "66d06ec3-a13a-4601-b7d9-1ba74aed310c"
   Hint: BackgroundImage
   Value: |
-    <image width="1440" height="600" alt="banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/228c8d510dda49bd828f6db539d691af?v=eb80879f" stylelabs-content-id="42945" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/42945/thumbnail" />
+    <image width="1440" height="600" alt="banner.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/228c8d510dda49bd828f6db539d691af?v=eb80879f" stylelabs-content-id="42945" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/42945/thumbnail" />
 - ID: "6f1213a4-e06d-479b-aa37-f5d403f2217b"
   Hint: ShowAppButtons
   Value: 1
@@ -24,7 +24,7 @@ SharedFields:
 - ID: "7bf12b50-a496-445f-aa2b-2be4d15c48ce"
   Hint: MobileImage
   Value: |
-    <image width="375" height="536" alt="banner-mobile.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/0c7ce83021724d80a69e589dc52b38cd?v=024df526" stylelabs-content-id="42943" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/42943/thumbnail" />
+    <image width="375" height="536" alt="banner-mobile.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/0c7ce83021724d80a69e589dc52b38cd?v=024df526" stylelabs-content-id="42943" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/42943/thumbnail" />
 - ID: "8a8c353d-1cfa-4251-98ae-5ff6e7586c97"
   Hint: AndroidCTA
   Value: |
@@ -65,7 +65,7 @@ Languages:
     - ID: "33b31095-3a05-478f-a515-4b8fec51167f"
       Hint: IOSImage
       Value: |
-        <image width="176" height="58" alt="ios-play.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/3b8d0b2156e84beaa7c3ad3726299ec5?v=130ae51f" stylelabs-content-id="39680" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39680/thumbnail" />
+        <image width="176" height="58" alt="ios-play.svg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/3b8d0b2156e84beaa7c3ad3726299ec5?v=130ae51f" stylelabs-content-id="39680" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/39680/thumbnail" />
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: 
@@ -85,18 +85,18 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7d899545-4f99-405e-8714-ba86ecc570fb"
+      Value: "ed600c5a-0066-4935-afb3-91e2123e777a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225921Z
+      Value: 20230613T073243Z
     - ID: "ea010422-2784-4bfa-ac96-c392f64c1866"
       Hint: AndroidImage
       Value: |
-        <image width="175" height="58" alt="android-google-play.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/8e0f2685c2304fac89fa4ed83a346938?v=9f7cae63" stylelabs-content-id="39681" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39681/thumbnail" />
+        <image width="175" height="58" alt="android-google-play.svg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/8e0f2685c2304fac89fa4ed83a346938?v=9f7cae63" stylelabs-content-id="39681" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/39681/thumbnail" />
 - Language: de
   Versions:
   - Version: 1
@@ -120,14 +120,14 @@ Languages:
         default\Anonymous
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d0515032-57b8-4291-aa90-ac01d1e61856"
+      Value: "f9a5037a-e718-41c6-9a4d-d35c8ea447d0"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225921Z
+      Value: 20230613T073243Z
 - Language: en
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -148,7 +148,7 @@ Languages:
     - ID: "33b31095-3a05-478f-a515-4b8fec51167f"
       Hint: IOSImage
       Value: |
-        <image width="176" height="58" alt="ios-play.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/3b8d0b2156e84beaa7c3ad3726299ec5?v=83a90c21" stylelabs-content-id="39680" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39680/thumbnail" />
+        <image width="176" height="58" alt="ios-play.svg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/3b8d0b2156e84beaa7c3ad3726299ec5?v=83a90c21" stylelabs-content-id="39680" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/39680/thumbnail" />
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: 
@@ -168,18 +168,18 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "33c0995e-0595-4875-9ce6-7388025e31bd"
+      Value: "ed9bdaa9-187f-41d7-8323-2442898daa0e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225921Z
+      Value: 20230613T073243Z
     - ID: "ea010422-2784-4bfa-ac96-c392f64c1866"
       Hint: AndroidImage
       Value: |
-        <image width="175" height="58" alt="android-google-play.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/8e0f2685c2304fac89fa4ed83a346938?v=497e0ca7" stylelabs-content-id="39681" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39681/thumbnail" />
+        <image width="175" height="58" alt="android-google-play.svg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/8e0f2685c2304fac89fa4ed83a346938?v=497e0ca7" stylelabs-content-id="39681" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/39681/thumbnail" />
 - Language: fr
   Versions:
   - Version: 1
@@ -203,14 +203,14 @@ Languages:
         default\Anonymous
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "feb42e40-34dd-49eb-aedd-7a049263b7fb"
+      Value: "1af4cf78-a9db-4e7e-8b14-e720ce330b3c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225921Z
+      Value: 20230613T073243Z
 - Language: ru
   Versions:
   - Version: 1
@@ -234,11 +234,11 @@ Languages:
         default\Anonymous
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0eff9460-06d8-43c3-962a-79cec82818a1"
+      Value: "898a373e-13c4-4288-8004-fa750b0ac875"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225921Z
+      Value: 20230613T073243Z

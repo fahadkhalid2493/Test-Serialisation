@@ -1,0 +1,53 @@
+﻿---
+ID: "d1dfa672-77be-43de-a651-37fc2715b598"
+Parent: "18374b9d-aaa0-4d25-9415-28dfbaa794c1"
+Template: "18374b9d-aaa0-4d25-9415-28dfbaa794c1"
+Path: /sitecore/templates/Foundation/Folder/Global/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/server.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {ABA85A9A-1B1F-4F5F-8E65-DC1EE70B7CD6}
+    {DE19203F-B40C-4B8A-AF7C-51A0313EFD21}
+    {1D72C51F-C32A-4913-AB23-21D61B1C5BCF}
+    {2EDEEFC7-5C39-480A-82D9-8B00EAD1CA64}
+    {F25FBEDC-D443-4BBC-B838-29DC57A32512}
+    {DAA90B54-D150-471E-B7EE-AC6476B14E70}
+    {3CAD1DA2-63BC-417A-AB9E-F66629C96AED}
+    {F6551C87-BC53-471C-8041-97029157C7FA}
+    {5848D322-81DB-4AC6-9223-469B79BF764E}
+    {01FC53FA-07A3-424D-8177-70F9FC895DBD}
+    {F9CBED43-A239-46D8-B6AE-3F0F3318932F}
+    {4164A91C-27D1-4B0F-BB4E-0A635DBF20FB}
+    {72246E6D-D22D-4DC0-BC15-80F139CE4FBD}
+    {992A13A3-BD1A-4F7A-BE37-8C6B6707208A}
+    {31573117-7338-4A47-A261-EFD7AD1121E8}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T062254Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6eabd745-dab7-4516-ae97-624fd77fabdb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hassan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T123659Z

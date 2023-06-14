@@ -7,11 +7,11 @@ SharedFields:
 - ID: "5f488e17-0d69-4ba5-b390-eae00cf41111"
   Hint: Image
   Value: |
-    <image width="1101" height="550" alt="promo-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/3cd7e96f4ad24a79955ddc40eac6e2f5?v=afdcc7c5" stylelabs-content-id="41478" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41478/thumbnail" />
+    <image width="1101" height="550" alt="promo-banner.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/3cd7e96f4ad24a79955ddc40eac6e2f5?v=afdcc7c5" stylelabs-content-id="41478" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/41478/thumbnail" />
 - ID: "a7b92fc5-60c6-4d38-9352-b25bbf3e8e05"
   Hint: MobileImage
   Value: |
-    <image width="285" height="337" alt="promo-mobile-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/c87520244ce546f59466b3b40509d4d4?v=7f4b9ac5" stylelabs-content-id="41476" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41476/thumbnail" />
+    <image width="285" height="337" alt="promo-mobile-banner.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/c87520244ce546f59466b3b40509d4d4?v=7f4b9ac5" stylelabs-content-id="41476" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/41476/thumbnail" />
 Languages:
 - Language: ar
   Versions:
@@ -33,7 +33,7 @@ Languages:
       Value: <p>تذوق وجباتنا المعدة على يد أمهر الطهاة واستمتع بتناول طعام راقٍ على ارتفاع 30 ألف قدم.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "45504d2e-6f34-45da-86bf-5ff44a470670"
+      Value: "cbf30b66-ea60-42ee-a771-4896f87fc258"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -43,7 +43,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225846Z
+      Value: 20230613T073142Z
 - Language: de
   Versions:
   - Version: 1
@@ -64,7 +64,7 @@ Languages:
       Value: <p>Genie&szlig;en Sie unsere handgefertigten Mahlzeiten und genie&szlig;en Sie feines Essen auf 30.000 Fu&szlig; H&ouml;he.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dbd625c0-21a8-40d0-bd34-eb033bf4e978"
+      Value: "04d9d49a-9f04-4238-b3f7-75c376c0f9d2"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -74,7 +74,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225846Z
+      Value: 20230613T073142Z
 - Language: en
   Versions:
   - Version: 1
@@ -95,7 +95,7 @@ Languages:
       Value: "<p>Savour our hand-crafted meals and enjoy fine dining at 30,000 feet.</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "527e483d-4c11-4590-b93a-cf88ec7d8bf7"
+      Value: "a3a38499-ead6-4e85-98ad-886c430253cd"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -105,7 +105,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225846Z
+      Value: 20230613T073141Z
 - Language: fr
   Versions:
   - Version: 1
@@ -126,7 +126,7 @@ Languages:
       Value: <p>Savourez nos plats faits &agrave; la main et savourez une cuisine raffin&eacute;e &agrave; 30 000 pieds.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "11f085c2-077e-4bf9-9ec7-1ad4c0305110"
+      Value: "f2ef5307-336a-4521-abd7-726b9caa492d"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -136,7 +136,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225846Z
+      Value: 20230613T073142Z
 - Language: ru
   Versions:
   - Version: 1
@@ -157,7 +157,7 @@ Languages:
       Value: <p>Отведайте наши блюда ручной работы и насладитесь изысканной кухней на высоте 30 000 футов.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "daece5f3-ebef-41b8-ae24-39a5a3c74817"
+      Value: "1357cdca-434b-4a81-b8a6-51c64553386f"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -167,4 +167,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225846Z
+      Value: 20230613T073142Z

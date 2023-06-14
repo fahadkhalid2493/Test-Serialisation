@@ -1,0 +1,40 @@
+﻿---
+ID: "391f308c-8eab-4a98-a42d-ef03b5ab5e8c"
+Parent: "39dbaac0-e3a2-4c15-b4e0-3c2279167ce3"
+Template: "39dbaac0-e3a2-4c15-b4e0-3c2279167ce3"
+Path: "/sitecore/templates/Feature/gulfair-app/FollowUs/FollowUsFolder/__Standard Values"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/add_user.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {39DBAAC0-E3A2-4C15-B4E0-3C2279167CE3}
+    {4E1BFBE6-C34B-4297-8D8C-C120A7229E63}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230224T130455Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "356e6b3e-055c-484d-b66b-372d2f2b1d2e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230302T082036Z

@@ -1,0 +1,37 @@
+﻿---
+ID: "4b8d9112-6548-4543-a522-c2363212e3a2"
+Parent: "a13d9d38-3fcc-4a8c-826b-ad87edc12caf"
+Template: "a13d9d38-3fcc-4a8c-826b-ad87edc12caf"
+Path: "/sitecore/templates/Feature/gulfair-app/MealChangeRequestModule/MealChangeRequestFolder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {4F11FE5D-C287-40D8-AB63-50EF015599FB}
+    {A13D9D38-3FCC-4A8C-826B-AD87EDC12CAF}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230313T100225Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c2b7062-7db7-429f-bc4e-9ffc4af58ad4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230313T113733Z

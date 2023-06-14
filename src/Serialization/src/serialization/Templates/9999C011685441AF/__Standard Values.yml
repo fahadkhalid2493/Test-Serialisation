@@ -1,0 +1,40 @@
+﻿---
+ID: "ad65b19a-3adf-4f5f-938d-d5cb95a72d97"
+Parent: "ec5dbf53-65ca-4a6c-834e-2bdf5bab1514"
+Template: "ec5dbf53-65ca-4a6c-834e-2bdf5bab1514"
+Path: "/sitecore/templates/Feature/gulfair-app/SearchModuleWithInformationTile/SearchModuleWithInformationTileFolder/__Standard Values"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "Business/32x32/pie-chart_view.png"
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {EC5DBF53-65CA-4A6C-834E-2BDF5BAB1514}
+    {27CF8729-0586-4010-AC07-049DDF2B82F2}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230217T114602Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94e25652-3d57-49dd-968c-6bf3b68e9857"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\fahad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230308T132418Z

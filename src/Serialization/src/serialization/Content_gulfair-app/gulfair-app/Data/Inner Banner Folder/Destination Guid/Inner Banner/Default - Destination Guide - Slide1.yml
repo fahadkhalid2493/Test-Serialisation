@@ -10,14 +10,14 @@ SharedFields:
 - ID: "66d06ec3-a13a-4601-b7d9-1ba74aed310c"
   Hint: BackgroundImage
   Value: |
-    <image width="1440" height="750" alt="destination-guide-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/ca03ee2baac74b2aaf480b9a9533ea84?v=38bc9ece" stylelabs-content-id="36640" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/36640/thumbnail" />
+    <image width="1440" height="750" alt="destination-guide-banner.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/ca03ee2baac74b2aaf480b9a9533ea84?v=38bc9ece" stylelabs-content-id="36640" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/36640/thumbnail" />
 - ID: "78a29040-85d0-4619-b1eb-f52aa266bfe0"
   Hint: TextAlignment
   Value: "{0A42CAE2-9E7A-4FB8-BE35-1D23B2E53FDE}"
 - ID: "7bf12b50-a496-445f-aa2b-2be4d15c48ce"
   Hint: MobileImage
   Value: |
-    <image width="375" height="536" alt="mobile-banner2.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/0417181dcdb74e8699b8b3ce0ff7c90c?v=f9e2ea6a" stylelabs-content-id="36843" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/36843/thumbnail" />
+    <image width="375" height="536" alt="mobile-banner2.png" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/0417181dcdb74e8699b8b3ce0ff7c90c?v=f9e2ea6a" stylelabs-content-id="36843" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/36843/thumbnail" />
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: 
@@ -74,14 +74,14 @@ Languages:
       Value: <p>Lorem ipsum dolor sit amet consectetur. Elementum hendrerit.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1f666241-d954-4d09-96e9-80b409b91ead"
+      Value: "d129ed51-5ad8-4af5-b55e-3cc63da034ac"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230931Z
+      Value: 20230613T073815Z
 - Language: de
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -116,14 +116,14 @@ Languages:
       Value: <p>Lorem ipsum dolor sit amet consectetur. Elementum hendrerit.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bb8a33ac-5037-4d5c-8b8f-c276f39b940b"
+      Value: "0119a12f-223d-435b-a820-9b78faee4e59"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230931Z
+      Value: 20230613T073816Z
 - Language: en
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -164,14 +164,14 @@ Languages:
       Value: <p>Lorem ipsum dolor sit amet consectetur. Elementum hendrerit.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "05f25710-3283-4d26-85a9-633f7a4973fd"
+      Value: "10cd1afa-c01e-4a0d-a4fa-433c0fd4c5f8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230931Z
+      Value: 20230613T073815Z
 - Language: fr
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -206,14 +206,14 @@ Languages:
       Value: <p>Lorem ipsum dolor sit amet consectetur. Elementum hendrerit.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fbb28455-7297-4772-810e-ba3ac9035485"
+      Value: "16267cf4-fd48-4dab-b93e-16e913484a55"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230931Z
+      Value: 20230613T073816Z
 - Language: ru
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -248,11 +248,11 @@ Languages:
       Value: <p>Lorem ipsum dolor sit amet consectetur. Elementum hendrerit.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "707a9b02-6aad-4e63-9918-b3ec3eceb003"
+      Value: "1fe89cc3-c6fe-4c6e-a80f-b82e1f21fc58"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230931Z
+      Value: 20230613T073816Z

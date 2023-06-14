@@ -7,11 +7,11 @@ SharedFields:
 - ID: "5f488e17-0d69-4ba5-b390-eae00cf41111"
   Hint: Image
   Value: |
-    <image width="1101" height="550" alt="promo-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/3cd7e96f4ad24a79955ddc40eac6e2f5?v=afdcc7c5" stylelabs-content-id="41478" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41478/thumbnail" />
+    <image width="1101" height="550" alt="promo-banner.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/3cd7e96f4ad24a79955ddc40eac6e2f5?v=afdcc7c5" stylelabs-content-id="41478" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/41478/thumbnail" />
 - ID: "a7b92fc5-60c6-4d38-9352-b25bbf3e8e05"
   Hint: MobileImage
   Value: |
-    <image width="285" height="337" alt="promo-mobile-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/c87520244ce546f59466b3b40509d4d4?v=7f4b9ac5" stylelabs-content-id="41476" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41476/thumbnail" />
+    <image width="285" height="337" alt="promo-mobile-banner.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/c87520244ce546f59466b3b40509d4d4?v=7f4b9ac5" stylelabs-content-id="41476" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/41476/thumbnail" />
 Languages:
 - Language: ar
   Versions:
@@ -35,7 +35,7 @@ Languages:
         تعد منافذ USB وطاقة AC ومقبس الصوت قيمة مضافة لضمان خيارات اتصال غير محدودة أثناء الطيران</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f63d7e2c-6582-4a3f-8520-85fc7eb44b62"
+      Value: "168e4826-2ede-4dd4-bb69-412f8aa744f8"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -45,7 +45,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225845Z
+      Value: 20230613T073138Z
 - Language: de
   Versions:
   - Version: 1
@@ -68,7 +68,7 @@ Languages:
         USB-, Wechselstrom- und Audio -Jack -Sockeln sind ein Mehrwert, um unbegrenzte Konnektivit&auml;tsoptionen w&auml;hrend des Fliegens zu gew&auml;hrleisten.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "10e26d4e-6033-44b3-bb56-7c970e0dc0e9"
+      Value: "89bc22af-2705-4c45-9e6c-7dd97fe9e6b2"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -78,7 +78,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225844Z
+      Value: 20230613T073138Z
 - Language: en
   Versions:
   - Version: 1
@@ -101,7 +101,7 @@ Languages:
         USB, AC power, and audio jack sockets are an added value to ensure unlimited connectivity options while you fly.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bc1aa0d0-5015-4375-9e0f-a0f29004a883"
+      Value: "385ec5e7-4e77-44ee-a067-b587718b64f2"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -111,7 +111,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225844Z
+      Value: 20230613T073138Z
 - Language: fr
   Versions:
   - Version: 1
@@ -134,7 +134,7 @@ Languages:
         USB, la puissance AC et les prises de prise audio sont une valeur ajout&eacute;e pour garantir des options de connectivit&eacute; illimit&eacute;es pendant que vous volez.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e626b7b2-41a9-4242-b711-ba2bc0b38169"
+      Value: "03dad54c-2b47-4096-aa8e-08a419298a38"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -144,7 +144,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225845Z
+      Value: 20230613T073138Z
 - Language: ru
   Versions:
   - Version: 1
@@ -167,7 +167,7 @@ Languages:
         USB, Power и Audio Jack Cockets являются дополнительным значением для обеспечения неограниченных параметров подключения во время лета.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b53b63c7-db0b-4cc8-acc6-26e25a048784"
+      Value: "6de95292-7ec4-4791-833f-ec50ab1751f4"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -177,4 +177,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225845Z
+      Value: 20230613T073138Z

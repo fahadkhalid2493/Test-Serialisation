@@ -16,7 +16,7 @@ SharedFields:
 - ID: "e68f7f12-575f-48aa-87ad-4dfe356af824"
   Hint: BannerImage
   Value: |
-    <image width="200" height="200" alt="MicrosoftTeams-image (5).png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/8c5daf6224094593be91cb195202b821?v=1fc82713" stylelabs-content-id="34724" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/34724/thumbnail" />
+    <image width="200" height="200" alt="MicrosoftTeams-image (5).png" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/8c5daf6224094593be91cb195202b821?v=1fc82713" stylelabs-content-id="34724" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/34724/thumbnail" />
 Languages:
 - Language: ar
   Versions:
@@ -80,7 +80,7 @@ Languages:
         <link text="مركز المساعدة" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B3D8907D-C9A5-4179-B63E-992FB34651A5}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "38ad683c-18a2-42a3-8329-497e74bd757a"
+      Value: "86d2fb47-b49d-4754-8e7a-8fcc68339f67"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -90,7 +90,7 @@ Languages:
       Value: 
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225853Z
+      Value: 20230613T073159Z
 - Language: de
   Versions:
   - Version: 1
@@ -153,17 +153,17 @@ Languages:
         <link text="Hilfezentrum" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B3D8907D-C9A5-4179-B63E-992FB34651A5}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e594a371-982c-4782-8224-e50dd7b59e9e"
+      Value: "6ba7251c-f0dc-4aa2-a990-1dcca931bd55"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\salmanalzarqawi
+        sitecore\Admin
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
       Hint: __Valid from
       Value: 
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230611T052421Z
+      Value: 20230613T073159Z
 - Language: en
   Versions:
   - Version: 1
@@ -191,14 +191,14 @@ Languages:
         <link text="Help Center" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B3D8907D-C9A5-4179-B63E-992FB34651A5}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d96ca0c0-32b6-4358-a4dc-85c6dc5885bc"
+      Value: "76b816c8-93de-4195-96de-511c391c245e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225852Z
+      Value: 20230613T073159Z
 - Language: fr
   Versions:
   - Version: 1
@@ -261,17 +261,17 @@ Languages:
         <link text="Centre d'aide" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B3D8907D-C9A5-4179-B63E-992FB34651A5}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "26febbcd-c36a-491b-a3c4-964d1e211098"
+      Value: "fa946cb4-366c-444e-bb02-847631f7225c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\salmanalzarqawi
+        sitecore\Admin
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
       Hint: __Valid from
       Value: 
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230611T052432Z
+      Value: 20230613T073159Z
 - Language: ru
   Versions:
   - Version: 1
@@ -334,14 +334,14 @@ Languages:
         <link text="Центр помощи" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B3D8907D-C9A5-4179-B63E-992FB34651A5}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "848e5520-b193-4a9b-beb3-da46cc47b42c"
+      Value: "fa96a900-1679-4d57-9790-97b53311d44b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\salmanalzarqawi
+        sitecore\Admin
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
       Hint: __Valid from
       Value: 
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230611T052435Z
+      Value: 20230613T073159Z

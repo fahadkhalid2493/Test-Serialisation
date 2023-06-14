@@ -7,11 +7,11 @@ SharedFields:
 - ID: "5f488e17-0d69-4ba5-b390-eae00cf41111"
   Hint: Image
   Value: |
-    <image width="1101" height="550" alt="promo-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/a69f0ffa13be4d659842ef934fb50722?v=904f44d9" stylelabs-content-id="44880" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/44880/thumbnail" />
+    <image width="1101" height="550" alt="promo-banner.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/a69f0ffa13be4d659842ef934fb50722?v=904f44d9" stylelabs-content-id="44880" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/44880/thumbnail" />
 - ID: "a7b92fc5-60c6-4d38-9352-b25bbf3e8e05"
   Hint: MobileImage
   Value: |
-    <image width="285" height="337" alt="promo-mobile-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/249fd532c1e7403da06075b5d3f4f2b4?v=e62d03cf" stylelabs-content-id="44876" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/44876/thumbnail" />
+    <image width="285" height="337" alt="promo-mobile-banner.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/249fd532c1e7403da06075b5d3f4f2b4?v=e62d03cf" stylelabs-content-id="44876" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/44876/thumbnail" />
 Languages:
 - Language: ar
   Versions:
@@ -33,14 +33,14 @@ Languages:
       Value: "<p>سافر معنا والتمس الفرق! تتميز قائمتنا بوجبات خاصة بما في ذلك خيارات الأطفال والنباتيين والخالية من الغلوتين. استمتع بتجربة طعام فريدة في السماء!</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8f6eefc4-a09c-4a0f-9459-059de401eeb5"
+      Value: "f785e876-b1ef-443d-8c52-de8bc7c7751b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225843Z
+      Value: 20230613T073133Z
 - Language: de
   Versions:
   - Version: 1
@@ -61,14 +61,14 @@ Languages:
       Value: "<p>Fliegen Sie mit uns und probieren Sie den Unterschied! Unser Men&uuml; bietet spezielle Mahlzeiten wie Baby-, Vegetarier- und glutenfreie Optionen. Genie&szlig;en Sie ein einzigartiges Speiseerlebnis am Himmel!</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bb6bdb79-d4a9-4920-8059-59f1f48effc5"
+      Value: "a345291b-7368-47d6-852f-561f4742e690"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225843Z
+      Value: 20230613T073133Z
 - Language: en
   Versions:
   - Version: 1
@@ -89,14 +89,14 @@ Languages:
       Value: "<p>Our menu features special meals including vegetarian and gluten-free options. Enjoy a unique dining experience in the sky!</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4d5e2f19-296c-4dba-bfcb-1402bfdd0eac"
+      Value: "c47cdc99-db4c-438e-b4de-6213fb3f2851"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225843Z
+      Value: 20230613T073133Z
 - Language: fr
   Versions:
   - Version: 1
@@ -117,14 +117,14 @@ Languages:
       Value: "<p>Volez avec nous et go&ucirc;tez la diff&eacute;rence! Notre menu propose des repas sp&eacute;ciaux, y compris des options de b&eacute;b&eacute;, v&eacute;g&eacute;tariennes et sans gluten. Profitez d'une exp&eacute;rience culinaire unique dans le ciel!</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fcc73342-c049-4991-b225-566633536af3"
+      Value: "0b6b39c3-c217-4537-986d-abefff0e43e2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225843Z
+      Value: 20230613T073133Z
 - Language: ru
   Versions:
   - Version: 1
@@ -145,11 +145,11 @@ Languages:
       Value: "<p>Лети с нами и попробовать разницу! В нашем меню представлены специальные блюда, включая детские, вегетарианские и безглютеновые варианты. Наслаждайтесь уникальным ужином в небе!</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "31cab5ae-31da-4d26-b3dc-0b603ae3a593"
+      Value: "40995be8-b1d7-4589-bac3-a095155f55b7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225843Z
+      Value: 20230613T073133Z

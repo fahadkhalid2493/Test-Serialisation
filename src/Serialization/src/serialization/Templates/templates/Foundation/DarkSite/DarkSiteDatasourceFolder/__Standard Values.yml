@@ -1,0 +1,41 @@
+﻿---
+ID: "6af28f44-3b13-4e2c-bc28-89b7a91c502d"
+Parent: "7722bd5b-fb36-4bb4-b81c-62e53df8d299"
+Template: "7722bd5b-fb36-4bb4-b81c-62e53df8d299"
+Path: /sitecore/templates/Foundation/DarkSite/DarkSiteDatasourceFolder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {672A3C0E-080B-4476-BB32-81753D06B6A6}
+    {992A13A3-BD1A-4F7A-BE37-8C6B6707208A}
+    {28962446-492A-47FC-864E-D30DFDBE44AD}
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230330T054645Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e11851da-1e90-4476-af47-f456708ad4fd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T112555Z

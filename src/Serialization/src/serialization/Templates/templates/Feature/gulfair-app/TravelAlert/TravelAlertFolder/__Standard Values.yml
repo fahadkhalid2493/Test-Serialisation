@@ -1,0 +1,41 @@
+﻿---
+ID: "85be5761-f25e-482d-9539-1c14ef848e37"
+Parent: "6ab5e868-5a10-4af0-a03a-1a1e0d8f2a99"
+Template: "6ab5e868-5a10-4af0-a03a-1a1e0d8f2a99"
+Path: "/sitecore/templates/Feature/gulfair-app/TravelAlert/TravelAlertFolder/__Standard Values"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/32x32/Maps.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {6AB5E868-5A10-4AF0-A03A-1A1E0D8F2A99}
+    {5056476A-9666-4B85-9F25-751EF0026BFA}
+    {52408455-64E0-46F6-AB2F-F0D38EE1C690}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T163522Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d111f72-ae77-4471-ab8a-520b7b98a17d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\fahad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230308T133841Z

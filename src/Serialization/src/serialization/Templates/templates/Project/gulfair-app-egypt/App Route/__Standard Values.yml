@@ -1,0 +1,75 @@
+﻿---
+ID: "66c67f44-2ed3-5d30-ab60-906ac8be4e76"
+Parent: "bf008f83-bf53-5e32-90fd-9739eefe4808"
+Template: "bf008f83-bf53-5e32-90fd-9739eefe4808"
+Path: "/sitecore/templates/Project/gulfair-app-egypt/App Route/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{BF008F83-BF53-5E32-90FD-9739EEFE4808}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{5CD9B4FC-C8F1-5419-9144-599BDDF75DC4}">
+        <p
+          uid="{153B99D4-08F4-5801-8FA0-FF65701CCDB1}"
+          key="jss-main"
+          md="{C5FB565B-61FD-5410-913E-7DFB96B8C342}" />
+        <p
+          uid="{94E1E89B-4861-5F87-9FF5-779BACC396FD}"
+          key="jss-tabs"
+          md="{BA7D40B9-A5D8-5047-B439-92A8F8FF73CE}" />
+        <p
+          uid="{D20FA71B-BC24-599B-993B-849E6AD864FF}"
+          key="jss-graphql-layout"
+          md="{F3BB9655-C482-516C-B223-6D3CD16295E1}" />
+        <p
+          uid="{BB30D852-F326-529B-AEC6-6366B11F67F8}"
+          key="jss-styleguide-layout"
+          md="{0A46B528-D0F6-5962-B7C5-411E60743CC0}" />
+        <p
+          uid="{5B6BA87F-CD94-50A3-9992-1650C19CEB39}"
+          key="jss-styleguide-section"
+          md="{2EF723BA-2E5F-523C-B337-B82D39A731D9}" />
+        <p
+          uid="{C96936C3-794F-5269-BA4D-86423ED73CB7}"
+          key="jss-header"
+          md="{C43D9760-31E3-5209-A96C-3720CA231651}" />
+        <p
+          uid="{E4500BF6-D7D6-5232-832C-9B3A35EFD66B}"
+          key="jss-reuse-example"
+          md="{21C3CB82-2D91-5E87-9A8D-2C6D08436161}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230103T114815Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "00de6679-779e-4acc-89fd-43081798b178"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230106T075412Z

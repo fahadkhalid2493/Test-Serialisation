@@ -1,0 +1,40 @@
+﻿---
+ID: "6f5db4ee-71d7-45a5-bd11-45c372dd8995"
+Parent: "ef7a4f1f-62c5-4a9f-bf57-f0aae52d0efc"
+Template: "ef7a4f1f-62c5-4a9f-bf57-f0aae52d0efc"
+Path: "/sitecore/templates/Feature/gulfair-app/ThingToDo/ThingsToDoFolder/__Standard Values"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Software/32x32/application_enterprise_edit.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {EF7A4F1F-62C5-4A9F-BF57-F0AAE52D0EFC}
+    {FF0447F1-DDB1-41DC-89A2-B4174A3A7C92}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T084718Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3bed348f-c0fb-44d8-a210-53e10352ee00"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230316T070453Z

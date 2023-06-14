@@ -1,0 +1,33 @@
+﻿---
+ID: "09938497-8af4-4a51-a16e-e9741ed50f61"
+Parent: "ad17e15a-6b9b-4e55-8eba-f3c2e2cd04c5"
+Template: "ad17e15a-6b9b-4e55-8eba-f3c2e2cd04c5"
+Path: /sitecore/templates/CMP/Mapping Templates/Tag Field Mapping/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/add_search.png
+- ID: "49ce70d9-7517-432e-8b38-d444e84f4486"
+  Hint: Tag Name Option
+  Value: "{E41250DB-373A-490A-903B-4522A164AB71}"
+- ID: "9d745e95-5958-4adc-a243-435488c47cd5"
+  Hint: Non Leaf Node Option
+  Value: "{123D26BF-0810-4C98-912D-3BEC5B5FD5E5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200414T035438Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f16643d-ba00-409d-9a4b-5955ec5ba263"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200513T130004Z

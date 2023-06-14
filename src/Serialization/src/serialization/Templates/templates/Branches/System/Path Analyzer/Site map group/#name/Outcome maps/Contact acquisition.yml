@@ -1,0 +1,46 @@
+﻿---
+ID: "08fc0dcf-000a-4fe1-95fd-42026e59183c"
+Parent: "75750e38-c32c-47d5-b8e4-7666fab2b232"
+Template: "8e0368f9-e07d-4906-8d07-15d981028ec5"
+Path: /sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Outcome maps/Contact acquisition
+SharedFields:
+- ID: "0a6277ff-b5ba-490b-8441-986b4f519fbf"
+  Hint: Rule
+  Value: <ruleset />
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "dcee6815-6e32-4451-854b-8c9828dfd051"
+  Hint: TargetOutcome
+  Value: "{75D53206-47B3-4391-BD48-75C42E5FC2CE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150630T012528Z
+    - ID: "31fcbeb2-376a-481f-bb44-ef52301f33ca"
+      Hint: Description
+      Value: |
+        <p>This map shows visitor experience of the "Contact Acquisition" outcome.</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f335f8c-0067-418f-8b4b-ea9dab165fed"
+    - ID: "a44d8693-f962-4f76-8fb8-62525ce67ba1"
+      Hint: Name
+      Value: Contact acquisition outcome map
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20160605T001628Z

@@ -1,0 +1,53 @@
+﻿---
+ID: "ac9170b9-e352-4e6c-bd3d-501813134b77"
+Parent: "f8064d4b-868b-43fe-a8db-c8126b3d5a74"
+Template: "f8064d4b-868b-43fe-a8db-c8126b3d5a74"
+Path: "/sitecore/templates/Feature/gulfair-app/OfferCarousel/ViewOfferItem/__Standard Values"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/candle.png
+- ID: "1f3c2536-9502-4b92-bc97-1ce163762143"
+  Hint: ReturnDays
+  Value: "{96D304B9-C3ED-444D-8430-5CB43340CC3E}"
+- ID: "6b54abcf-47bb-4de8-abc0-3f38dd6c164e"
+  Hint: Adult
+  Value: "{96D304B9-C3ED-444D-8430-5CB43340CC3E}"
+- ID: "7431acca-f405-4264-b666-b4989c1ab1b9"
+  Hint: CabinClass
+  Value: "{AAB594EA-0736-4F58-9C11-2970CA73B8E5}"
+- ID: "b7575dbc-d152-4184-b5df-fa75b529e605"
+  Hint: DepartureDays
+  Value: "{96D304B9-C3ED-444D-8430-5CB43340CC3E}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+- ID: "e0fd5133-8a82-4c38-8b10-18a6ead69b3f"
+  Hint: FlightType
+  Value: "{8A8A93E3-0631-4480-B7B6-1D1D1719A49C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230118T112533Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aed5a163-cf31-4538-b6f6-b9d0809650b1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shahbaz
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T102119Z

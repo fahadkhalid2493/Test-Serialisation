@@ -1,0 +1,30 @@
+﻿---
+ID: "8920f0d0-49a3-4042-b359-327f316b2894"
+Parent: "dfa646fe-94f1-4d3c-a07f-cb10d06be480"
+Template: "dfa646fe-94f1-4d3c-a07f-cb10d06be480"
+Path: /sitecore/templates/System/Path Analyzer/Site map group/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{98360C58-F51F-43A4-B057-9EF459C0FF10}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150623T141438Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a141369b-4be8-45fb-9d54-f011d28e627e"
+    - ID: "a9f08988-6488-4d19-8c92-eb4c7aeb14e7"
+      Hint: Site Name
+      Value: $name
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20150625T192214:635708569349431618Z"

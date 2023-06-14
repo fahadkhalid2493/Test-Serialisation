@@ -10,7 +10,7 @@ SharedFields:
 - ID: "2355bac2-561e-4933-a0f1-ba256e7691c7"
   Hint: DownloadIcon
   Value: |
-    <image width="16" height="16" alt="download.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/451d74d69cf7474389c18b6cdb1a2282?v=fe3f021b" stylelabs-content-id="35209" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/35209/thumbnail" />
+    <image width="16" height="16" alt="download.svg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/451d74d69cf7474389c18b6cdb1a2282?v=fe3f021b" stylelabs-content-id="35209" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/35209/thumbnail" />
 - ID: "80643454-c297-43c0-879d-afcbb84b8fb0"
   Hint: VideoURL
   Value: 
@@ -20,7 +20,7 @@ SharedFields:
 - ID: "ba91779f-6042-42ab-9da5-a154af39c2b0"
   Hint: Image
   Value: |
-    <image width="600" height="321" alt="pre-travel-checklist.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/ac9d2a0315fb45569c8f6b213683d023?v=c71c1f5c" stylelabs-content-id="48396" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48396/thumbnail" />
+    <image width="600" height="321" alt="pre-travel-checklist.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/ac9d2a0315fb45569c8f6b213683d023?v=c71c1f5c" stylelabs-content-id="48396" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/48396/thumbnail" />
 Languages:
 - Language: ar
   Fields:
@@ -52,7 +52,7 @@ Languages:
       Value: قائمة مراجعة ما قبل الرحلة
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "805c93d3-fd6f-484d-89f3-c16020256aea"
+      Value: "6d0fc53a-9f26-46a2-bb85-c1f6ae6909b6"
     - ID: "959641fe-d5a4-448c-8fd2-c6a51d07b621"
       Hint: DownloadCTA
       Value: 
@@ -85,7 +85,7 @@ Languages:
         </ul>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230216Z
+      Value: 20230613T073650Z
 - Language: de
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -113,7 +113,7 @@ Languages:
       Value: Checkliste vor dem Flug
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f2b74b55-7393-44aa-afd4-98f679f13b75"
+      Value: "f768bd3d-01ad-499b-9d4e-c5eaaa35bd1b"
     - ID: "959641fe-d5a4-448c-8fd2-c6a51d07b621"
       Hint: DownloadCTA
       Value: 
@@ -143,7 +143,7 @@ Languages:
         </ul>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230216Z
+      Value: 20230613T073650Z
 - Language: en
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -174,7 +174,7 @@ Languages:
       Value: "Pre-flight checklist"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b4400a0d-34ca-489c-90d7-4b2da100da7f"
+      Value: "08bf5242-69c3-4238-8514-9bbe6b187c80"
     - ID: "959641fe-d5a4-448c-8fd2-c6a51d07b621"
       Hint: DownloadCTA
       Value: 
@@ -204,7 +204,7 @@ Languages:
         </ul>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230216Z
+      Value: 20230613T073650Z
 - Language: fr
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -232,7 +232,7 @@ Languages:
       Value: "Liste de contrôle pré-vol"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4f495665-3e15-46d1-916e-313cd3ea3915"
+      Value: "292dc4c7-e222-4339-85e4-730ec59ffa19"
     - ID: "959641fe-d5a4-448c-8fd2-c6a51d07b621"
       Hint: DownloadCTA
       Value: 
@@ -262,7 +262,7 @@ Languages:
         </ul>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230216Z
+      Value: 20230613T073650Z
 - Language: ru
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -290,7 +290,7 @@ Languages:
       Value: Контрольный список перед полетом
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2801ef05-6659-4d84-a441-3cbc7586ed81"
+      Value: "b8d4a16c-9fd3-4413-afa1-5bc19bc0334d"
     - ID: "959641fe-d5a4-448c-8fd2-c6a51d07b621"
       Hint: DownloadCTA
       Value: 
@@ -320,4 +320,4 @@ Languages:
         </ul>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230216Z
+      Value: 20230613T073650Z

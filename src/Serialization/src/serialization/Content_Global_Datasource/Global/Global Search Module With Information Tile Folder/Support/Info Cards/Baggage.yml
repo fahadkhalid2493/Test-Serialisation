@@ -10,7 +10,7 @@ SharedFields:
 - ID: "40afc0c0-49bf-41f5-950a-9586c0504f4d"
   Hint: Icon
   Value: |
-    <image width="120" height="120" alt="icon-1.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/b4956cbf4f374b0e821d0b66fbf597d1?v=603b9769" stylelabs-content-id="46894" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/46894/thumbnail" />
+    <image width="120" height="120" alt="icon-1.png" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/b4956cbf4f374b0e821d0b66fbf597d1?v=603b9769" stylelabs-content-id="46894" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/46894/thumbnail" />
 Languages:
 - Language: ar
   Versions:
@@ -35,11 +35,11 @@ Languages:
       Value: <p>تحقق من الأمتعة المسموح بها قبل السفر. في حالة فقدان أي أمتعة، فإن فريق الدعم المتخصص لدينا متاح لمساعدتك في مطالبتك. نقدم أيضًا إرشادات واضحة ومعلومات ذات صلة ومتابعة بانتظام للاطلاع على حالة مطالبة الأمتعة المفقودة.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c176c675-c4c2-4462-bb43-e1e20f7af63a"
+      Value: "1891ec3a-5748-4042-a51e-7b97e62538d7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\emanburwais
+        sitecore\Admin
     - ID: "cdd47659-10c1-4c17-9596-3385593632ae"
       Hint: PopupHeading
       Value: لأمتعة 
@@ -48,7 +48,7 @@ Languages:
       Value: الأمتعة
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230611T125600Z
+      Value: 20230613T073650Z
 - Language: de
   Versions:
   - Version: 1
@@ -72,7 +72,7 @@ Languages:
       Value: "<p>&Uuml;berpr&uuml;fen Sie Ihre Gep&auml;ckzusatz, bevor Sie reisen. Im Falle eines fehlenden Gep&auml;cks steht unser engagiertes Support -Team zur Verf&uuml;gung, um Sie bei Ihrem Anspruch zu unterst&uuml;tzen. Wir geben auch klare Anleitungen, relevante Informationen und regelm&auml;&szlig;ig nach, um Sie &uuml;ber den Status Ihres fehlenden Gep&auml;ckantrags zu aktualisieren.</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ba5051ba-b583-492f-9c1a-a01ac4164109"
+      Value: "7862c0d4-edfa-404b-b9ae-9544a66830fa"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -85,7 +85,7 @@ Languages:
       Value: Gepäck
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230216Z
+      Value: 20230613T073650Z
 - Language: en
   Versions:
   - Version: 1
@@ -109,7 +109,7 @@ Languages:
       Value: "<p>Check your baggage allowance before you travel. In case of any missing baggage, our dedicated support team is available to assist you with your claim. We also provide clear guidance, relevant information, and follow-up regularly to update you on the status of your missing baggage claim.</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "278734d3-2f6b-428d-95a9-4d8296af633a"
+      Value: "cc5d8189-190e-4625-88fa-55fb8d19b3a7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -122,7 +122,7 @@ Languages:
       Value: Baggage
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230216Z
+      Value: 20230613T073650Z
 - Language: fr
   Versions:
   - Version: 1
@@ -146,7 +146,7 @@ Languages:
       Value: <p>V&eacute;rifiez votre allocation de bagages avant de voyager. En cas de bagages manquants, notre &eacute;quipe de soutien d&eacute;di&eacute;e est disponible pour vous aider dans votre r&eacute;clamation. Nous fournissons &eacute;galement des conseils clairs, des informations pertinentes et un suivi r&eacute;guli&egrave;rement pour vous mettre &agrave; jour sur l'&eacute;tat de votre demande de bagages manquants.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "59f268ee-8b57-42ec-83ac-65aae4bea994"
+      Value: "7638744c-0894-419c-a3c9-3b62819d3410"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -159,7 +159,7 @@ Languages:
       Value: bagages
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230216Z
+      Value: 20230613T073650Z
 - Language: ru
   Versions:
   - Version: 1
@@ -183,7 +183,7 @@ Languages:
       Value: <p>Проверьте пособие по багажу перед поездкой. В случае любого пропущенного багажа наша специальная команда поддержки доступна, чтобы помочь вам с вашим требованием. Мы также предоставляем четкое руководство, соответствующую информацию и регулярно следите за тем, чтобы обновлять вас о статусе вашего пропавшего багажа.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2ef34a33-d8f6-4df1-b766-8794cc9e2b08"
+      Value: "2bbf6cec-a52b-47b7-9e47-9b95914a1588"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -196,4 +196,4 @@ Languages:
       Value: Багаж
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230216Z
+      Value: 20230613T073650Z
