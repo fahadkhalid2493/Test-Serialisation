@@ -1,0 +1,27 @@
+﻿---
+ID: "1a31c6aa-74a9-4a21-aa5b-ea645b3c24f5"
+Parent: "0ab16755-2f12-4e9e-b933-19e8c8c53858"
+Template: "aed0346e-3c80-4917-b6ab-740df444adca"
+Path: /sitecore/templates/Branches/Feature/Footer/$name/BottomLinks
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230119T080322Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "622d1a3d-fb4d-4ed1-bc7a-7562a5167e21"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230119T080328Z

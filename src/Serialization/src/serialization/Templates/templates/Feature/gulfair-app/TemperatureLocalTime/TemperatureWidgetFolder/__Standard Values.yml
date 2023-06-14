@@ -1,0 +1,40 @@
+﻿---
+ID: "b6de2ef7-2500-405d-a0ce-0c0c524253bf"
+Parent: "6e29dcbe-0bf2-46bc-9b69-d3cf2ba78a2c"
+Template: "6e29dcbe-0bf2-46bc-9b69-d3cf2ba78a2c"
+Path: "/sitecore/templates/Feature/gulfair-app/TemperatureLocalTime/TemperatureWidgetFolder/__Standard Values"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/32x32/alarmclock.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {6E29DCBE-0BF2-46BC-9B69-D3CF2BA78A2C}
+    {CC5FDC41-51CA-406C-BB2E-28C8700C1C1C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230308T133114Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\fahad
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fahad
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9660019-d850-475c-a2dd-26bb8d6e8354"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\fahad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230308T133235Z

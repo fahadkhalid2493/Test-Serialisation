@@ -1,0 +1,87 @@
+﻿---
+ID: "a27184ff-7aed-4b04-a51c-9fc62ce65417"
+Parent: "bcd0f336-b4b3-4038-8a33-3aea7f69b7e1"
+Template: "bcd0f336-b4b3-4038-8a33-3aea7f69b7e1"
+Path: "/sitecore/templates/Project/gulfair-app/Dark Site/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{07F50330-C962-5E98-AE02-814183B76EA0}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{73C5E9D9-D5EF-5B2B-8573-F1192D438CA8}">
+        <p
+          uid="{E2562440-279E-5212-B0D3-801B03703061}"
+          key="jss-main"
+          md="{491748C3-4F26-57B1-8E52-DDF8591EA44C}" />
+        <p
+          uid="{C08E3282-B556-50F8-A1E1-E1EE8B755118}"
+          key="jss-graphql-layout"
+          md="{57C8C030-6383-5A77-9E83-F04EDF8A962E}" />
+        <p
+          uid="{C5230912-8E1E-5C64-A62F-715DB2F535BF}"
+          key="jss-header"
+          md="{9717B9EA-B3E6-5569-A2CA-41DB7EE43F8A}" />
+        <r
+          ds="{B0A66BEE-84AD-4CD7-AAD7-28B09C497755}"
+          id="{70537B94-19D7-42BE-ACD5-DFC8CFD5577E}"
+          par=""
+          ph="jss-header"
+          uid="{78BCE695-62F3-465D-9ACF-B6E971121264}"
+          ccb="Clear on publish" />
+        <r
+          ds="{04183919-C073-4EF9-BF01-A1CF96B985FA}"
+          id="{BC7AA6E7-8165-4864-BD03-2F6F8AC59865}"
+          par=""
+          ph="jss-footer"
+          uid="{100FB120-1AE6-4890-BFDA-8F82803D8C38}"
+          ccb="Clear on publish" />
+        <r
+          ds="{6C227E65-D28F-483C-972A-1C0A807DD03F}"
+          id="{51D689E0-21D9-438F-B9D8-BF993B91ADE5}"
+          par=""
+          ph="/jss-footer/jss-ga-form-{100fb120-1ae6-4890-bfda-8f82803d8c38}-0"
+          uid="{B147D088-F5E8-4338-AAA8-413DEC4A92E4}"
+          ccb="Clear on publish" />
+        <r
+          ds="{AF836860-16F2-4492-A8A2-8E0539A9A39D}"
+          id="{B92E6411-5337-4FA7-B591-B233C1E52B91}"
+          par="CTAType=%7B9E29A28B-7ED9-41A5-BE7D-66A986A44CC3%7D&amp;CTAColor=%7BF64FADCC-6FB4-46AA-A947-751B7BF0A024%7D"
+          ph="/jss-header/jss-ga-header-bookingpanel-{78bce695-62f3-465d-9acf-b6e971121264}-0"
+          uid="{E75FD4E0-1F84-4DBD-87FD-9B969A3596D7}"
+          ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221215T064038Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "25f1a45c-19bb-4ca9-ab59-9c89d802681f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230418T083811Z

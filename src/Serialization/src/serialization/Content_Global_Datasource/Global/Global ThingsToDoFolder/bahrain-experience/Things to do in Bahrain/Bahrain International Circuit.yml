@@ -16,7 +16,7 @@ SharedFields:
 - ID: "dbc01cbd-a304-4024-8103-5684cc1d8d37"
   Hint: Thumbnail
   Value: |
-    <image width="364" height="400" alt="BIC.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/3d2c3b6a6ed848138618816bc78c1fc4?v=3e6f8087" stylelabs-content-id="50439" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/50439/thumbnail" />
+    <image width="364" height="400" alt="BIC.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/3d2c3b6a6ed848138618816bc78c1fc4?v=3e6f8087" stylelabs-content-id="50439" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/50439/thumbnail" />
 - ID: "ffd0635b-490c-470f-a104-bdf5459a9885"
   Hint: ImagesList
   Value: "{37E96061-50AD-4104-A4FA-7074A19E4C0F}"
@@ -60,14 +60,14 @@ Languages:
       Value: حلبة البحرين الدولية
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "39cb3dcf-218f-44df-a9e1-9e25e1e07d44"
+      Value: "f42e87ac-f120-4830-8312-53d85b278b35"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230219Z
+      Value: 20230613T073655Z
 - Language: de
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -104,14 +104,14 @@ Languages:
       Value: Bahrain International Circuit
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ee574289-a965-46cb-9546-e52858017186"
+      Value: "59efaf3e-1763-4c7b-a63c-6b7f5ba3363c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230219Z
+      Value: 20230613T073655Z
 - Language: en
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -151,14 +151,14 @@ Languages:
       Value: Bahrain International Circuit
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f91328f1-a4bf-42e9-8c16-fc4ef879879a"
+      Value: "5e1e24a7-7865-48ff-890c-32f56ea26622"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230219Z
+      Value: 20230613T073655Z
 - Language: fr
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -195,14 +195,14 @@ Languages:
       Value: Circuit international de Bahreïn
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1f5a269a-2d97-4832-96e3-d6dfbec4abed"
+      Value: "936d8c6b-e75a-41f4-a44d-6b03abee6440"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230219Z
+      Value: 20230613T073655Z
 - Language: ru
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -239,11 +239,11 @@ Languages:
       Value: Международная трасса Бахрейна
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "51f547d9-3b9a-423e-b6bf-491172561c3f"
+      Value: "8a5993f9-cec9-4782-ba45-97ee0766c3dc"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230219Z
+      Value: 20230613T073655Z

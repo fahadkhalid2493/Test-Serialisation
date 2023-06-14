@@ -1,0 +1,37 @@
+﻿---
+ID: "d32e93bc-4700-432b-943e-050a7d467ae3"
+Parent: "a957d820-500e-4a17-91c4-9a8d0bacdf28"
+Template: "a957d820-500e-4a17-91c4-9a8d0bacdf28"
+Path: "/sitecore/templates/Feature/gulfair-app/JoinFalconFlyer/JoinFalconFlyerFolder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {A957D820-500E-4A17-91C4-9A8D0BACDF28}
+    {5EA2119C-6E45-4518-BDEC-199A09682CB9}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230124T123630Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a3a1867-03e3-45f4-9d6f-9789a784d14f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\fahad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230308T113005Z

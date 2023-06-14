@@ -1,0 +1,48 @@
+﻿---
+ID: "1cca2d98-9997-4c12-a81c-cca7e29b45d2"
+Parent: "0dc251d8-9476-4b24-a052-5fb8860c303c"
+Template: "0dc251d8-9476-4b24-a052-5fb8860c303c"
+Path: /sitecore/templates/Foundation/Destination/DestinationDatasourceFolder/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window_earth.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {7ED8821F-7CF7-4C7A-92D6-FD248EBE3DC5}
+    {4044E232-C95D-4903-A1B8-A8CE1A437061}
+    {1D72C51F-C32A-4913-AB23-21D61B1C5BCF}
+    {EF7A4F1F-62C5-4A9F-BF57-F0AAE52D0EFC}
+    {F25FBEDC-D443-4BBC-B838-29DC57A32512}
+    {DE19203F-B40C-4B8A-AF7C-51A0313EFD21}
+    {6E29DCBE-0BF2-46BC-9B69-D3CF2BA78A2C}
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230315T073851Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e167973-456e-4dad-ab09-35bf33545b4e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T112602Z

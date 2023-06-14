@@ -10,7 +10,7 @@ SharedFields:
 - ID: "e9b25c7a-1442-4768-ada5-4f4a9f962e5c"
   Hint: BannerImage
   Value: |
-    <image width="1440" height="750" alt="SearchResultsBanner.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/35abf781cdfd4f848e3d25b349bf7320?v=e0dcdacd" stylelabs-content-id="45339" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/45339/thumbnail" />
+    <image width="1440" height="750" alt="SearchResultsBanner.png" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/35abf781cdfd4f848e3d25b349bf7320?v=e0dcdacd" stylelabs-content-id="45339" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/45339/thumbnail" />
 Languages:
 - Language: ar
   Versions:
@@ -32,7 +32,7 @@ Languages:
         sitecore\danish
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dc9fc1af-5ab9-4641-a890-b1113817cb08"
+      Value: "d47c8a4e-c41d-49d1-b4ff-22c6ab709338"
     - ID: "ba0611df-1379-4093-92ce-600e5c8967f5"
       Hint: SubText
       Value: ابحث عن شيء اخر؟ جرب بحثًا آخر.
@@ -42,7 +42,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225854Z
+      Value: 20230613T073201Z
 - Language: de
   Versions:
   - Version: 1
@@ -66,7 +66,7 @@ Languages:
         sitecore\bilalz
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ef88daa5-bd1f-4a20-b286-8197e2b6986e"
+      Value: "9f049df4-09dd-4982-8d0e-c2a02ae55795"
     - ID: "ba0611df-1379-4093-92ce-600e5c8967f5"
       Hint: SubText
       Value: "Suchen Sie etwas anderes? Versuchen Sie eine andere Suche."
@@ -76,7 +76,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225854Z
+      Value: 20230613T073201Z
 - Language: en
   Versions:
   - Version: 1
@@ -97,7 +97,7 @@ Languages:
         sitecore\danish
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0c08b2a6-45b2-4993-aefe-af9025863753"
+      Value: "d44280e0-b838-4386-bde5-f7ae2d18f446"
     - ID: "ba0611df-1379-4093-92ce-600e5c8967f5"
       Hint: SubText
       Value: "Looking for something else? Try another search."
@@ -107,7 +107,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225854Z
+      Value: 20230613T073201Z
 - Language: fr
   Versions:
   - Version: 1
@@ -131,7 +131,7 @@ Languages:
         sitecore\bilalz
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "528af92e-69f8-4e4c-8723-73b1a8fe3ffc"
+      Value: "3dca125f-463a-45a6-81bf-42b9143150b9"
     - ID: "ba0611df-1379-4093-92ce-600e5c8967f5"
       Hint: SubText
       Value: "Vous cherchez autre chose? Essayez une autre recherche."
@@ -141,7 +141,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225854Z
+      Value: 20230613T073201Z
 - Language: ru
   Versions:
   - Version: 1
@@ -165,7 +165,7 @@ Languages:
         sitecore\bilalz
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "50bc66c3-4e8f-439c-bc04-752e01b0589f"
+      Value: "a83f9f6b-6baf-40b0-a285-1672bcb15a5d"
     - ID: "ba0611df-1379-4093-92ce-600e5c8967f5"
       Hint: SubText
       Value: "Ищете что -нибудь еще? Попробуйте другой поиск."
@@ -175,4 +175,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225854Z
+      Value: 20230613T073201Z

@@ -13,7 +13,7 @@ SharedFields:
 - ID: "c1bb3e97-ab5a-421a-9678-19e1cd31bd8e"
   Hint: Image
   Value: |
-    <image width="366" height="321" alt="PlanFront.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/5078b01a0e1d4e948db440baf494f8be?v=8be6eb6d" stylelabs-content-id="37150" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/37150/thumbnail" />
+    <image width="366" height="321" alt="PlanFront.png" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/5078b01a0e1d4e948db440baf494f8be?v=8be6eb6d" stylelabs-content-id="37150" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/37150/thumbnail" />
 - ID: "f768fd8c-ee29-421c-8929-b5c21ac10c7b"
   Hint: CTAType
   Value: "{9E29A28B-7ED9-41A5-BE7D-66A986A44CC3}"
@@ -42,7 +42,7 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "248d4703-a215-4697-a91d-94239452c002"
+      Value: "c97ffd7f-8681-48f5-a041-4ee352879961"
     - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
       Hint: Description
       Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.</p>
@@ -52,7 +52,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230921Z
+      Value: 20230613T073801Z
 - Language: de
   Versions:
   - Version: 1
@@ -77,7 +77,7 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "79ae3d45-3be5-41d3-99de-bb817dc5e9ff"
+      Value: "c84d948e-cb91-4bbb-9b52-00212a74acc7"
     - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
       Hint: Description
       Value: <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.</span>
@@ -87,7 +87,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230921Z
+      Value: 20230613T073801Z
 - Language: en
   Versions:
   - Version: 1
@@ -112,7 +112,7 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f7466679-ef22-4c9e-8cf7-64ce9bd18c8a"
+      Value: "3db2b475-9846-4645-89fe-c950251bfcde"
     - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
       Hint: Description
       Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.</p>
@@ -122,7 +122,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230921Z
+      Value: 20230613T073801Z
 - Language: fr
   Versions:
   - Version: 1
@@ -147,7 +147,7 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "97a38ae2-c227-45c8-9490-ea228b26b0dd"
+      Value: "8620d694-c618-4401-ac12-8d39557fcf34"
     - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
       Hint: Description
       Value: <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.</span>
@@ -157,7 +157,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230921Z
+      Value: 20230613T073801Z
 - Language: ru
   Versions:
   - Version: 1
@@ -182,7 +182,7 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b4b85ea8-7e55-486e-bed6-cb2944ef029c"
+      Value: "07f88f74-c34e-4021-9d93-6df7a4ef5751"
     - ID: "a07737ce-59e3-438c-bf0b-60e0ea1767fb"
       Hint: Description
       Value: <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu bibendum purus risus quis quam dictum feugiat suspendisse feugiat. Cursus lacus tristique tortor sagittis. Ipsum magnis duis duis vivamus blandit faucibus sed. Dictum quam nulla eget lectus quam ante turpis lorem placerat. Etiam nisi volutpat vel vel duis odio.</span>
@@ -192,4 +192,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230921Z
+      Value: 20230613T073801Z

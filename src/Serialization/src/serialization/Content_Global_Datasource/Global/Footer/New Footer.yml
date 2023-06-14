@@ -3,6 +3,7 @@ ID: "04183919-c073-4ef9-bf01-a1cf96b985fa"
 Parent: "09093cb6-791c-43b9-9124-48666cdbe81e"
 Template: "dee217dd-a929-4051-830a-f02184ead1d9"
 Path: /sitecore/content/Global/Footer/New Footer
+BranchID: "8e041839-0555-4ee3-a4d5-366212875e7c"
 SharedFields:
 - ID: "15edf99f-bb9f-4242-bb37-82432a95fd26"
   Hint: Certificates
@@ -27,7 +28,7 @@ SharedFields:
 - ID: "85920d03-06e9-44a5-a303-787c6c29bd34"
   Hint: FooterLogo
   Value: |
-    <image width="158" height="58" alt="ft-logo.svg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/b2ad01e9b5cc40c2a94740d6f0f50938?v=1049d581" stylelabs-content-id="38838" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/38838/thumbnail" />
+    <image width="158" height="58" alt="ft-logo.svg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/b2ad01e9b5cc40c2a94740d6f0f50938?v=1049d581" stylelabs-content-id="38838" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/38838/thumbnail" />
 - ID: "921a38b7-3074-48ab-88c5-4462833c962a"
   Hint: CTAType2
   Value: "{B3C4407E-7461-4B34-B944-D581BA981A27}"
@@ -88,7 +89,7 @@ Languages:
       Value: لتصلك أخر العروض
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "219c2bde-6247-4446-affa-2e922df52553"
+      Value: "abc128c2-9991-41c2-9af2-2c352b418d75"
     - ID: "ac050ede-6851-47f4-9588-383c644b2b2c"
       Hint: CTA1
       Value: |
@@ -99,7 +100,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225907Z
+      Value: 20230613T073226Z
     - ID: "ea2e8fc0-44a1-46cd-aa15-a5cf9fae9ef2"
       Hint: InfoDesc
       Value: <p>تحسين تجارب عملائنا سواء في المطار ، في الهواء أو عبر الإنترنت هو تركيزنا الأساسي.</p>
@@ -141,7 +142,7 @@ Languages:
       Value: to receive updates on deals
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "027ab911-f9fb-4578-99eb-b0b65f9b8526"
+      Value: "23a07ef2-6280-492b-a838-b747fe906330"
     - ID: "ac050ede-6851-47f4-9588-383c644b2b2c"
       Hint: CTA1
       Value: |
@@ -152,7 +153,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225907Z
+      Value: 20230613T073226Z
     - ID: "ea2e8fc0-44a1-46cd-aa15-a5cf9fae9ef2"
       Hint: InfoDesc
       Value: <p>Die Verbesserung der Erfahrungen unserer Kunden am Flughafen, in der Luft oder online ist unser Hauptaugenmerk.</p>
@@ -186,7 +187,7 @@ Languages:
       Value: to receive updates on deals
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "08049a70-180f-446c-940b-5a3ceac1c5a9"
+      Value: "edd4a3fe-6af9-48f3-b011-e39a95dcea1d"
     - ID: "ac050ede-6851-47f4-9588-383c644b2b2c"
       Hint: CTA1
       Value: |
@@ -197,7 +198,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225907Z
+      Value: 20230613T073225Z
     - ID: "ea2e8fc0-44a1-46cd-aa15-a5cf9fae9ef2"
       Hint: InfoDesc
       Value: <p>Improving our customers' experiences whether at the airport, in the air or online is our primary focus.</p>
@@ -239,7 +240,7 @@ Languages:
       Value: to receive updates on deals
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fcfcb3b3-d041-4765-acda-5a82274867cc"
+      Value: "3b1df7e6-a819-4421-9d54-65bb96eaa440"
     - ID: "ac050ede-6851-47f4-9588-383c644b2b2c"
       Hint: CTA1
       Value: |
@@ -250,7 +251,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225907Z
+      Value: 20230613T073226Z
     - ID: "ea2e8fc0-44a1-46cd-aa15-a5cf9fae9ef2"
       Hint: InfoDesc
       Value: <p>Am&eacute;liorer les exp&eacute;riences de nos clients, que ce soit &agrave; l'a&eacute;roport, dans les airs ou en ligne est notre objectif principal.</p>
@@ -292,7 +293,7 @@ Languages:
       Value: to receive updates on deals
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bb228017-cf85-4211-bc87-da782a12d29a"
+      Value: "29ac5b74-90d6-4e00-b9df-670009e81738"
     - ID: "ac050ede-6851-47f4-9588-383c644b2b2c"
       Hint: CTA1
       Value: |
@@ -303,7 +304,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225907Z
+      Value: 20230613T073226Z
     - ID: "ea2e8fc0-44a1-46cd-aa15-a5cf9fae9ef2"
       Hint: InfoDesc
       Value: <p>Улучшение опыта наших клиентов, будь то в аэропорту, в воздухе или в Интернете, является нашим основным направлением.</p>

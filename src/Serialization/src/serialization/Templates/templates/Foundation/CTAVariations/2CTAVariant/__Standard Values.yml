@@ -1,0 +1,47 @@
+﻿---
+ID: "14d099f9-c2b3-439e-917a-33839aa1a950"
+Parent: "f3374d51-20c3-4bbf-ac04-1cf5b6ae7ef8"
+Template: "f3374d51-20c3-4bbf-ac04-1cf5b6ae7ef8"
+Path: /sitecore/templates/Foundation/CTAVariations/2CTAVariant/__Standard Values
+SharedFields:
+- ID: "196e67f4-48ae-4eb9-a2d2-4f9015388787"
+  Hint: CTAType1
+  Value: 
+- ID: "66f006ca-494f-4dbf-8dd2-7f90b41f6d92"
+  Hint: CTAColor2
+  Value: 
+- ID: "921a38b7-3074-48ab-88c5-4462833c962a"
+  Hint: CTAType2
+  Value: 
+- ID: "b8aca052-d05d-4167-a90f-a6c01f734f8c"
+  Hint: CTAColor1
+  Value: 
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230404T111937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ffe5fbe-20a6-4b56-bbca-84f2d4ea4352"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ahmed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T112457Z

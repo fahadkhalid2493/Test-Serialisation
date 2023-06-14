@@ -10,7 +10,7 @@ SharedFields:
 - ID: "d07c6cf5-4e87-4fdc-b467-d8fa8e5e2fb2"
   Hint: Image
   Value: |
-    <image width="550" height="315" alt="Additional baggage" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/117b35b49fcd4d5bae71df4d9d75d32d?v=273c0b8b" stylelabs-content-id="49273" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/49273/thumbnail" />
+    <image width="550" height="315" alt="Additional baggage" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/117b35b49fcd4d5bae71df4d9d75d32d?v=273c0b8b" stylelabs-content-id="49273" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/49273/thumbnail" />
 Languages:
 - Language: ar
   Versions:
@@ -32,7 +32,7 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2997aedd-e833-4c21-acd2-9944a308b2ab"
+      Value: "08158a0d-dd72-4ed2-8056-72d55df2daec"
     - ID: "b888eb28-95c3-4290-9a83-59539996087d"
       Hint: Heading
       Value: الأمتعة
@@ -45,7 +45,7 @@ Languages:
       Value: <p>وزن الأمتعة, الوزن الآضافي والمزيد.</p>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225914Z
+      Value: 20230613T073232Z
 - Language: de
   Versions:
   - Version: 1
@@ -63,7 +63,7 @@ Languages:
         sitecore\uzair
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e17cfbfe-50fd-4051-8591-a2101e09238f"
+      Value: "ce672018-3cda-4f42-af0c-1b86ee178c1d"
     - ID: "b888eb28-95c3-4290-9a83-59539996087d"
       Hint: Heading
       Value: Gepäck
@@ -76,7 +76,7 @@ Languages:
       Value: <p>Freigepäck, Übergepäck und mehr.</p>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225914Z
+      Value: 20230613T073232Z
 - Language: en
   Versions:
   - Version: 1
@@ -89,7 +89,7 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8b50cf41-63d2-43a0-b2fa-d392379f2eff"
+      Value: "904b6c47-c569-4ce5-95b5-53b82cf4ba9f"
     - ID: "b888eb28-95c3-4290-9a83-59539996087d"
       Hint: Heading
       Value: Baggage
@@ -102,7 +102,7 @@ Languages:
       Value: <p>Baggage allowance, excess baggage and more.</p>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225914Z
+      Value: 20230613T073232Z
 - Language: fr
   Versions:
   - Version: 1
@@ -120,7 +120,7 @@ Languages:
         sitecore\uzair
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f15d6631-ff3f-466e-a08e-eb3b09a8cfc9"
+      Value: "78d9aec6-9160-4db3-9424-60210a733af9"
     - ID: "b888eb28-95c3-4290-9a83-59539996087d"
       Hint: Heading
       Value: Bagages
@@ -133,7 +133,7 @@ Languages:
       Value: <p>Bagages non payés, excédent de bagages et plus.</p>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225914Z
+      Value: 20230613T073232Z
 - Language: ru
   Versions:
   - Version: 1
@@ -151,7 +151,7 @@ Languages:
         sitecore\uzair
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cb13eff3-0039-4f33-b07d-2410afd0674d"
+      Value: "322e1a32-0f51-4e9f-9054-2590cd97a512"
     - ID: "b888eb28-95c3-4290-9a83-59539996087d"
       Hint: Heading
       Value: Багаж
@@ -164,4 +164,4 @@ Languages:
       Value: <p>Багаж allwonce, сверхнормативный багаж и многое другое</p>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225914Z
+      Value: 20230613T073232Z

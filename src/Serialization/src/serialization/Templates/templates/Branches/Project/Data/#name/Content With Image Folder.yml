@@ -1,0 +1,30 @@
+﻿---
+ID: "5f0d2d49-56e5-4926-9158-5bbeae4eb697"
+Parent: "2744dcfe-b0ab-4741-a0f6-fb18cc4dbee3"
+Template: "01fc53fa-07a3-424d-8177-70f9fc895dbd"
+Path: /sitecore/templates/Branches/Project/Data/$name/Content With Image Folder
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230117T074135Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7d54823-d5ac-4e6a-86f7-9a6dc5cdc672"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\fahad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230310T134324Z

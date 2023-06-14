@@ -1,0 +1,27 @@
+﻿---
+ID: "84174fa8-de8f-4e2c-9cfb-f7e21503ec95"
+Parent: "2dd4e886-4a3f-4001-ad3d-bc9501daa62b"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/templates/Branches/System/Email/Messages/Image Focus/$name/Message Root/Footers/Footer/Privacy Policy
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160817T034925Z
+    - ID: "7c79ff2c-9e24-4055-bcd2-f1e72093409f"
+      Hint: Link
+      Value: |
+        <link text="Documentation" linktype="external" url="https://doc.sitecore.net/email_experience_manager" anchor="" class="em_defaultlink" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed8335a8-b19d-4a81-8de2-ca3d9479196a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200309T135859Z

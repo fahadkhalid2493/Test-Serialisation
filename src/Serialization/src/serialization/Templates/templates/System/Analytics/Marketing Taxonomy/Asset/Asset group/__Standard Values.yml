@@ -1,0 +1,32 @@
+﻿---
+ID: "e662452c-3433-41cb-8e32-68de35ddc8ae"
+Parent: "f250092d-2e1b-45f0-96f7-c83ccec453e1"
+Template: "f250092d-2e1b-45f0-96f7-c83ccec453e1"
+Path: /sitecore/templates/System/Analytics/Marketing Taxonomy/Asset/Asset group/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: people/16x16/colors.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {F250092D-2E1B-45F0-96F7-C83CCEC453E1}
+    {9519A7D0-C385-437E-BD5C-FA3DF9C07335}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20141029T204643Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee347b18-97c8-4a0e-91e8-8a72b793ab32"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20141104T192857:635507261371882273Z"

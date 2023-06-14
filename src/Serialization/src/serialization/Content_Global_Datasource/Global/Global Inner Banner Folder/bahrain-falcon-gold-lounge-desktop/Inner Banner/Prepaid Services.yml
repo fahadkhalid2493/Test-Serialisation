@@ -7,14 +7,14 @@ SharedFields:
 - ID: "66d06ec3-a13a-4601-b7d9-1ba74aed310c"
   Hint: BackgroundImage
   Value: |
-    <image width="1440" height="750" alt="banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/b5843dbd8c2d47569ee9d0b0c5fe3e34?v=7eaced3d" stylelabs-content-id="42230" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/42230/thumbnail" />
+    <image width="1440" height="750" alt="banner.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/b5843dbd8c2d47569ee9d0b0c5fe3e34?v=7eaced3d" stylelabs-content-id="42230" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/42230/thumbnail" />
 - ID: "78a29040-85d0-4619-b1eb-f52aa266bfe0"
   Hint: TextAlignment
   Value: "{0A42CAE2-9E7A-4FB8-BE35-1D23B2E53FDE}"
 - ID: "7bf12b50-a496-445f-aa2b-2be4d15c48ce"
   Hint: MobileImage
   Value: |
-    <image width="375" height="680" alt="banner-mobile.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/fe1ea5f2c0a941f49961cecadb0698f4?v=5bcbd71f" stylelabs-content-id="42227" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/42227/thumbnail" />
+    <image width="375" height="680" alt="banner-mobile.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/fe1ea5f2c0a941f49961cecadb0698f4?v=5bcbd71f" stylelabs-content-id="42227" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/42227/thumbnail" />
 - ID: "a6d7f2d1-162a-424e-baf8-9c8857e04f7f"
   Hint: TextColor
   Value: "{89330C54-4FC1-4573-913A-BC08CCDEBD5B}"
@@ -48,14 +48,14 @@ Languages:
       Value: <p>ادفع الآن ووفر اكثر</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a8349b3b-0cc0-4c14-88f6-0f36a469bf0a"
+      Value: "c74bf4fb-9195-47f3-bd06-23660ad7a63e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225918Z
+      Value: 20230613T073238Z
 - Language: de
   Versions:
   - Version: 1
@@ -79,14 +79,14 @@ Languages:
       Value: <p>Jetzt bezahlen und mehr sparen</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b7662a9d-8c87-4e16-ba0a-e51b927e3b83"
+      Value: "f6190114-baf0-4373-80b8-ab6a8eb1b60d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225918Z
+      Value: 20230613T073238Z
 - Language: en
   Versions:
   - Version: 1
@@ -110,14 +110,14 @@ Languages:
       Value: <p>pay now and Save more</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d929196d-ce45-4529-a2c0-754fe3e25245"
+      Value: "a55a8515-a8b4-4321-82b0-8eee96ae4128"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225918Z
+      Value: 20230613T073238Z
 - Language: fr
   Versions:
   - Version: 1
@@ -141,14 +141,14 @@ Languages:
       Value: <p>payez maintenant et &eacute;conomisez plus</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d627bbf2-5f42-4625-9357-5e661ea94fed"
+      Value: "226af60d-2588-4bb6-9f00-8607accb3ac7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225918Z
+      Value: 20230613T073238Z
 - Language: ru
   Versions:
   - Version: 1
@@ -172,11 +172,11 @@ Languages:
       Value: <p>плати сейчас и экономь больше</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a30285c9-771c-4198-8c7e-b5e0258670fd"
+      Value: "fe05720c-0436-4570-a4e5-8684c4e9486b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225918Z
+      Value: 20230613T073238Z

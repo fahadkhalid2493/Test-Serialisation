@@ -1,0 +1,40 @@
+﻿---
+ID: "84db1eae-eba4-4615-b8b2-c9cac4b20b0c"
+Parent: "37f1e4d0-5f13-487b-8881-ea696f09f00e"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: "/sitecore/templates/Feature/gulfair-app/GenericSlider/Generic Slider"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "apps/32x32/color-tv.png"
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {F3374D51-20C3-4BBF-AC04-1CF5B6AE7EF8}
+    {4756442C-B89D-41AC-A914-C2A054F969FC}
+    {98D08210-117E-4AB4-8EB2-BEAF875BB147}
+- ID: "61cf7151-0cbd-4db4-9738-d753a55a6e65"
+  Hint: __Enforce version presence
+  Value: 1
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{33CA8E48-77FA-49DE-8B77-D783113B55EE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230105T081848Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c94f451f-aa90-4907-9690-67ae76c845dd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hassan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230407T072357Z

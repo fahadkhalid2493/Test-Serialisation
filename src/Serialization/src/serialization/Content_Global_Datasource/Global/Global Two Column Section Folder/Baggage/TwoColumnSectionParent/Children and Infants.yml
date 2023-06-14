@@ -10,7 +10,7 @@ SharedFields:
 - ID: "709d2fac-25a4-45d5-8dc5-23703849e530"
   Hint: Image
   Value: |
-    <image width="640" height="474" alt="AviationAndEnvironment.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/17cc72b663a94bda8c21b8177463288f?v=6f787623" stylelabs-content-id="39345" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/39345/thumbnail" />
+    <image width="640" height="474" alt="AviationAndEnvironment.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/17cc72b663a94bda8c21b8177463288f?v=6f787623" stylelabs-content-id="39345" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/39345/thumbnail" />
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{1414F315-0767-42DB-986E-C98CA568A2AF}"
@@ -104,7 +104,7 @@ Languages:
       Value: تفاصيل الأمتعة موضحة في ما يلي 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f0f7d2fa-c3cb-4dbf-bb4a-4746c5162392"
+      Value: "964d289e-469f-488f-83dc-5454ad755fdc"
     - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
       Hint: CTA1
       Value: 
@@ -117,7 +117,7 @@ Languages:
       Value: 20230607T155046Z
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230220Z
+      Value: 20230613T073656Z
 - Language: de
   Versions:
   - Version: 1
@@ -149,14 +149,14 @@ Languages:
       Value: "Gepäckdetails unten erwähnt:"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "57456c41-b542-4adc-96eb-eb3882775376"
+      Value: "9d0ceea1-ac5b-4a9a-8d43-b6922e937332"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230220Z
+      Value: 20230613T073656Z
 - Language: en
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -198,7 +198,7 @@ Languages:
       Value: "Baggage details mentioned below:"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a4825f1d-7537-49fb-b84f-aeb6a07e79f0"
+      Value: "80affa78-804c-496a-9971-fe56218d1dad"
     - ID: "a5cdf5f3-68e8-4394-876c-8a8435830923"
       Hint: CTA1
       Value: 
@@ -208,7 +208,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230220Z
+      Value: 20230613T073656Z
 - Language: fr
   Versions:
   - Version: 1
@@ -240,14 +240,14 @@ Languages:
       Value: "Détails des bagages mentionnés ci-dessous:"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ae2442fe-4d87-442b-af50-0a9f035d75ad"
+      Value: "257fb13c-4d9b-433a-9b3e-af80ee42b99a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230220Z
+      Value: 20230613T073656Z
 - Language: ru
   Versions:
   - Version: 1
@@ -279,11 +279,11 @@ Languages:
       Value: "Детали багажа, упомянутые ниже:"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "008ea1d4-21ab-4e08-a082-3367740cd940"
+      Value: "570cf143-fb6f-4a57-a9ed-c2f3fdf496c6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230220Z
+      Value: 20230613T073656Z

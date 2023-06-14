@@ -1,0 +1,40 @@
+﻿---
+ID: "3e64e810-0e49-4b82-ae19-c0dbbed5ce87"
+Parent: "2d9003db-2d06-4002-953b-22bf56ec85c6"
+Template: "2d9003db-2d06-4002-953b-22bf56ec85c6"
+Path: "/sitecore/templates/Feature/gulfair-app/QuickSupport/QuickSupportArticleFolder/__Standard Values"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/lightbulb_on.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {2D9003DB-2D06-4002-953B-22BF56EC85C6}
+    {3843B59F-B575-4431-AABB-927A481F5C4E}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221228T130339Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49a8f63c-81c6-48a7-b09e-d13d811f26f2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\fahad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230308T122049Z

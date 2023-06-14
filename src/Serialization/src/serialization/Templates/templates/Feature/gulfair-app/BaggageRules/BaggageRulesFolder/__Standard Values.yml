@@ -1,0 +1,37 @@
+﻿---
+ID: "924df051-4347-4d6a-bc1d-312a74f18c10"
+Parent: "e13b0353-9415-4d6c-8dff-fd93211d5eea"
+Template: "e13b0353-9415-4d6c-8dff-fd93211d5eea"
+Path: "/sitecore/templates/Feature/gulfair-app/BaggageRules/BaggageRulesFolder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {E13B0353-9415-4D6C-8DFF-FD93211D5EEA}
+    {2EAE1A73-BA48-4F90-ADD2-E995A4D19CF5}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230310T133207Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a1eb8e0-2ee1-406a-8693-091cb919270f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230310T133242Z

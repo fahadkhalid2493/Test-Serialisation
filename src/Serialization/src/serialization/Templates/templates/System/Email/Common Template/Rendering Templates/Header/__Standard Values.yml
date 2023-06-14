@@ -1,0 +1,30 @@
+﻿---
+ID: "fca5f19b-017b-44f8-9b35-c6cc7d7c3d67"
+Parent: "783c9239-41c4-4d84-afe5-1060f582b617"
+Template: "783c9239-41c4-4d84-afe5-1060f582b617"
+Path: /sitecore/templates/System/Email/Common Template/Rendering Templates/Header/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "069217bf-ffdf-4791-bfff-a8757c87a22a"
+      Hint: Heading
+      Value: Header Text
+    - ID: "06d4c9ad-7ab0-40c8-a73b-3e0685f809c3"
+      Hint: Content
+      Value: |
+        This is your header text area. Add the key information about<br class="em_hide" /> the content within this email to&nbsp;this&nbsp;section.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200309T115504Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c2f72ef-d3c3-4eff-9ca1-217af0e5807a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200309T115551Z

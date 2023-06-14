@@ -1,0 +1,38 @@
+﻿---
+ID: "3e52cacc-1c6f-4ad3-b58f-685e82568079"
+Parent: "d556dfde-18aa-4070-b166-22e0b97dfad4"
+Template: "d556dfde-18aa-4070-b166-22e0b97dfad4"
+Path: "/sitecore/templates/Feature/gulfair-app/DestinationPage/ModuleListFolder/__Standard Values"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: software/32x32/components.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{DFD5BFDF-E8B5-4AE5-859E-6E2515701A53}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230315T083337Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "56ba1130-2a6f-4b7d-aa8e-c8d0ff5f2cd9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230316T062808Z

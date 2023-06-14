@@ -1,0 +1,40 @@
+﻿---
+ID: "204318e6-b8ff-4710-a011-0fddf529402d"
+Parent: "648c3681-95a0-4110-ae7c-cfd3ae3ff7c1"
+Template: "648c3681-95a0-4110-ae7c-cfd3ae3ff7c1"
+Path: "/sitecore/templates/Feature/gulfair-app/SearchResults/SearchResultsFolder/__Standard Values"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: /~/icon/office/32x32/flashlight.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {648C3681-95A0-4110-AE7C-CFD3AE3FF7C1}
+    {95A0126B-4CF1-4B9A-B4A6-066F6C3605C4}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T153408Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\danish
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\danish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "629e133b-c870-41eb-9ae2-84353d084aaa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\danish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230417T091615Z

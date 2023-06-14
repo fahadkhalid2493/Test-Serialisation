@@ -1,0 +1,40 @@
+﻿---
+ID: "2e8712cd-6446-47bc-b24f-8705d6990756"
+Parent: "4f3265d2-b2bf-4870-85ca-5846f0dc6aaf"
+Template: "4f3265d2-b2bf-4870-85ca-5846f0dc6aaf"
+Path: "/sitecore/templates/Feature/gulfair-app/FalconFlyerNews/FalconFlyerNewsFolder/__Standard Values"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/text_marked.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {4F3265D2-B2BF-4870-85CA-5846F0DC6AAF}
+    {E489CF7C-71E3-4A77-B1B0-255E5F38DF0C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230224T123002Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\junaid
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\junaid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d675bd3-7649-4484-805b-83feda3909d1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\junaid
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230302T074359Z

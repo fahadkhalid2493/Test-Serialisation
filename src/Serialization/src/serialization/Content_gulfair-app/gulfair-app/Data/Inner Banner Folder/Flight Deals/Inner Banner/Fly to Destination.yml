@@ -10,7 +10,7 @@ SharedFields:
 - ID: "66d06ec3-a13a-4601-b7d9-1ba74aed310c"
   Hint: BackgroundImage
   Value: |
-    <image width="1920" height="1080" alt="Generic.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/8ba9c82cdddc4951b8c8c02056cad3e9?v=2b287207" stylelabs-content-id="49609" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/49609/thumbnail" />
+    <image width="1920" height="1080" alt="Generic.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/8ba9c82cdddc4951b8c8c02056cad3e9?v=2b287207" stylelabs-content-id="49609" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/49609/thumbnail" />
 - ID: "6f1213a4-e06d-479b-aa37-f5d403f2217b"
   Hint: ShowAppButtons
   Value: 
@@ -20,7 +20,7 @@ SharedFields:
 - ID: "7bf12b50-a496-445f-aa2b-2be4d15c48ce"
   Hint: MobileImage
   Value: |
-    <image width="375" height="562" alt="Generic.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/8ba9c82cdddc4951b8c8c02056cad3e9?v=4df9eb08" stylelabs-content-id="49609" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/49609/thumbnail" />
+    <image width="375" height="562" alt="Generic.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/8ba9c82cdddc4951b8c8c02056cad3e9?v=4df9eb08" stylelabs-content-id="49609" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/49609/thumbnail" />
 - ID: "8a8c353d-1cfa-4251-98ae-5ff6e7586c97"
   Hint: AndroidCTA
   Value: 
@@ -79,14 +79,14 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b70a1468-e831-4ded-b4f6-8ebe83613e76"
+      Value: "b399a746-336e-4b79-9fe9-5cf80a6d1dbb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230935Z
+      Value: 20230613T073820Z
 - Language: de
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -123,14 +123,14 @@ Languages:
         <strong>1,200 USD</strong></p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6f982266-c81c-4ff3-929e-29109f157434"
+      Value: "8d5df56f-0046-4b69-b7cd-a00b52c423e6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230935Z
+      Value: 20230613T073821Z
 - Language: en
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -170,14 +170,14 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dd87f9ce-47a9-443a-bfa0-40e0aae9eec8"
+      Value: "3a4d1211-430d-4174-944b-a5ba25d1d3bc"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230935Z
+      Value: 20230613T073820Z
     - ID: "ea010422-2784-4bfa-ac96-c392f64c1866"
       Hint: AndroidImage
       Value: 
@@ -217,14 +217,14 @@ Languages:
         <strong>1,200 USD</strong></p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "105d4a58-5552-4226-96c3-ebcc012084db"
+      Value: "2d49a838-4924-459a-af27-5c5200ecf02f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230935Z
+      Value: 20230613T073820Z
 - Language: ru
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -261,11 +261,11 @@ Languages:
         <strong>1,200 USD</strong></p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d2f448be-e736-4053-bcaf-c08af5a8630f"
+      Value: "d03ace03-3dcf-4d11-a65c-d609621edead"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230935Z
+      Value: 20230613T073821Z

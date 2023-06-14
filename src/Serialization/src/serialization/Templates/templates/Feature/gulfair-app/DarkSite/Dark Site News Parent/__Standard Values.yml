@@ -1,0 +1,35 @@
+﻿---
+ID: "59420c68-5509-4b38-baa5-baa5f0cf0d78"
+Parent: "992a13a3-bd1a-4f7a-be37-8c6b6707208a"
+Template: "992a13a3-bd1a-4f7a-be37-8c6b6707208a"
+Path: "/sitecore/templates/Feature/gulfair-app/DarkSite/Dark Site News Parent/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{4104CDFF-8FA5-4733-B96A-F7566C2CDE7B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230329T111327Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4cf9322a-ccd4-4836-b196-f44884a957de"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hassan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230329T111758Z

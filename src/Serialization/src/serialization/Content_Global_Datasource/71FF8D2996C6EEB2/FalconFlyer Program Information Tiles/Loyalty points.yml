@@ -10,7 +10,7 @@ SharedFields:
 - ID: "d07c6cf5-4e87-4fdc-b467-d8fa8e5e2fb2"
   Hint: Image
   Value: |
-    <image width="365" height="240" alt="LoyaltyPoints-PassengerTakingMeal.png" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/33e85c90192d4e5ea8292fbaf4360aba?v=b7ce0ee0" stylelabs-content-id="37915" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/37915/thumbnail" />
+    <image width="365" height="240" alt="LoyaltyPoints-PassengerTakingMeal.png" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/33e85c90192d4e5ea8292fbaf4360aba?v=b7ce0ee0" stylelabs-content-id="37915" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/37915/thumbnail" />
 Languages:
 - Language: ar
   Versions:
@@ -32,7 +32,7 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "48c03c8a-aa3c-4aba-ac99-b72588d9c027"
+      Value: "6fea22a5-cff1-4194-bb4f-ff2e4318d734"
     - ID: "b888eb28-95c3-4290-9a83-59539996087d"
       Hint: Heading
       Value: نقاط الولاء
@@ -45,7 +45,7 @@ Languages:
       Value: <p>اكسب الأميال واستبدلها بتذاكر وترقيات وأمتعة إضافية والمزيد</p>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225916Z
+      Value: 20230613T073234Z
 - Language: de
   Versions:
   - Version: 1
@@ -63,7 +63,7 @@ Languages:
         sitecore\uzair
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6d13689f-92f3-4ac7-b42c-4d5e6ae04b78"
+      Value: "55232351-0b60-4255-b704-e855c3fcc282"
     - ID: "b888eb28-95c3-4290-9a83-59539996087d"
       Hint: Heading
       Value: Treuepunkten
@@ -76,7 +76,7 @@ Languages:
       Value: <p>Sammeln Sie Meilen und tauschen Sie sie gegen Tickets, Upgrades, zusätzliches Gepäck und mehr ein.</p>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225916Z
+      Value: 20230613T073234Z
 - Language: en
   Versions:
   - Version: 1
@@ -89,7 +89,7 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "498c965e-9982-42de-8c29-30771068c411"
+      Value: "2297779c-4672-4ddb-b436-763ca4cc5a5c"
     - ID: "b888eb28-95c3-4290-9a83-59539996087d"
       Hint: Heading
       Value: Loyalty points
@@ -103,7 +103,7 @@ Languages:
         <p><span style="background-color: #ffffff; text-align: center; color: #141420;">Earn Loyalty points and move to higher tiers !</span></p>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225916Z
+      Value: 20230613T073234Z
 - Language: fr
   Versions:
   - Version: 1
@@ -121,7 +121,7 @@ Languages:
         sitecore\uzair
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "84c2e282-6d62-4a7d-8066-0e6788ea2aaf"
+      Value: "fc6c28f4-7312-4ed7-969d-6018d983c861"
     - ID: "b888eb28-95c3-4290-9a83-59539996087d"
       Hint: Heading
       Value: les points de fidélité
@@ -134,7 +134,7 @@ Languages:
       Value: "<p>Gagnez des miles et échangez-les contre des billets, des surclassements, des bagages supplémentaires et bien plus.</p>"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225917Z
+      Value: 20230613T073234Z
 - Language: ru
   Versions:
   - Version: 1
@@ -152,7 +152,7 @@ Languages:
         sitecore\uzair
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4e1b74f8-2978-40ce-acfc-2c9c327eafeb"
+      Value: "ef685aec-f457-4d29-8a8f-cc741a2b3e64"
     - ID: "b888eb28-95c3-4290-9a83-59539996087d"
       Hint: Heading
       Value: баллы лояльности
@@ -165,4 +165,4 @@ Languages:
       Value: <p>Накапливайте мили и обменивайте их на билеты, повышение класса обслуживания, дополнительный багаж и многое другое</p>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225917Z
+      Value: 20230613T073234Z

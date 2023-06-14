@@ -1,0 +1,29 @@
+﻿---
+ID: "12b83f38-c28e-4e70-b6c1-87b46065f6a4"
+Parent: "67d2bdf9-6427-4ad3-b57a-913d45379bb4"
+Template: "67d2bdf9-6427-4ad3-b57a-913d45379bb4"
+Path: /sitecore/templates/System/Analytics/Marketing Taxonomy/Custom/Custom taxonomy/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {3AE2C9E6-8000-40EE-9693-ED7BAEE50A66}
+    {68B0CF3C-9150-4DB7-ACAB-F626E59BCA6D}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20141031T092324Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c61883b-776f-4c66-ab11-1f446ccaf257"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20141031T133502:635503593025183950Z"

@@ -1,0 +1,37 @@
+﻿---
+ID: "1e823605-a717-4255-974c-7917397cd6c9"
+Parent: "26ef265e-8686-4bd0-8566-b7b7a50da21d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: "/sitecore/templates/Feature/gulfair-app/InnerBanner/InnerBannerItem"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: imaging/32x32/drop_shadow.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {E1B8DF16-FDEB-4E8C-9518-0C3AA980A8AB}
+    {98D08210-117E-4AB4-8EB2-BEAF875BB147}
+    {F404754E-03A4-4D7A-BB45-954C5E65BE82}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{89C444D8-5689-42B4-99A7-51B243F01E4D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230110T071852Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "31b3752f-8492-4ab4-b20a-85644068ea2b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hassan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230407T053518Z

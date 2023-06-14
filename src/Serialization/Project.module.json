@@ -2,7 +2,26 @@
   "namespace": "Gulfair.Project",
   "items": {
     "includes": [
+{
+        "name": "Templates",
+        "path": "/sitecore/templates",
+		
+		 "rules": [
+          
+          {
+            "path": "/DAM",
+            "scope": "ignored"
 
+          },
+		   {
+            "path": "/Branches/Project/Data/$name/Falcon360Tour Folder",
+            "scope": "ignored"
+
+          }
+
+        ]
+       
+      },
 
 
    {
@@ -35,14 +54,7 @@
         "allowedPushOperations": "createUpdateAndDelete"
       
       }
-	  ,
-	   {
-        "name": "Content_gulfair-app-ae",
-        "path": "/sitecore/content/gulfair-app-ae",
-		 "scope": "ItemAndDescendants",
-        "allowedPushOperations": "createUpdateAndDelete"
-      
-      }
+	  
 	  
 	   ]
   }

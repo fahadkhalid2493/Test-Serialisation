@@ -1,0 +1,41 @@
+﻿---
+ID: "b0d917c8-6cd0-4f20-8f0a-6ffc3e71d2d3"
+Parent: "732d4f11-82bc-4694-867d-2b48d8a12a1b"
+Template: "732d4f11-82bc-4694-867d-2b48d8a12a1b"
+Path: "/sitecore/templates/Feature/gulfair-app/OfferCarousel/ViewOfferFolder/__Standard Values"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Network/32x32/passport_purple.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {52408455-64E0-46F6-AB2F-F0D38EE1C690}
+    {732D4F11-82BC-4694-867D-2B48D8A12A1B}
+    {60228653-3D28-4952-8915-2CC51979912F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230118T112533Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8947038a-9875-435c-8596-13cb4b3cb276"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\fahad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230308T115903Z

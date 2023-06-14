@@ -10,7 +10,7 @@ SharedFields:
 - ID: "3cd43bcc-74d1-4d07-a914-60e99cf5e1f8"
   Hint: MobileImage
   Value: |
-    <image width="600" height="320" alt="New-website-images-CONNECTIVITY.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/b23fda850a8f45cc9935d218457c6fc4?v=0e40e01c" stylelabs-content-id="47942" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/47942/thumbnail" />
+    <image width="600" height="320" alt="New-website-images-CONNECTIVITY.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/b23fda850a8f45cc9935d218457c6fc4?v=0e40e01c" stylelabs-content-id="47942" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/47942/thumbnail" />
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: 
@@ -20,7 +20,7 @@ SharedFields:
 - ID: "ee5e2182-29c4-4a5d-902d-c03e075518c8"
   Hint: Image
   Value: |
-    <image width="600" height="760" alt="New-website-images-CONNECTIVITY.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/a549cf075dc4456b981f43968cf155e4?v=698a953e" stylelabs-content-id="47942" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/47942/thumbnail" />
+    <image width="600" height="760" alt="New-website-images-CONNECTIVITY.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/a549cf075dc4456b981f43968cf155e4?v=698a953e" stylelabs-content-id="47942" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/47942/thumbnail" />
 Languages:
 - Language: ar
   Fields:
@@ -52,7 +52,7 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "044e7486-2977-444b-bb07-2771ff984aa3"
+      Value: "be5ffb6a-4c82-4652-970e-da5dc481dc91"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -62,7 +62,7 @@ Languages:
       Value: الأتصال
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230217Z
+      Value: 20230613T073652Z
 - Language: de
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -90,7 +90,7 @@ Languages:
         default\Anonymous
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0b3bf97d-7f60-4459-835d-bb17cad4fc60"
+      Value: "1d8f3579-eaf2-40c3-8cc0-829c30ed0702"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -100,7 +100,7 @@ Languages:
       Value: Konnektivität
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230217Z
+      Value: 20230613T073652Z
 - Language: en
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -131,7 +131,7 @@ Languages:
         default\Anonymous
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3d66d140-fc5d-4f40-a32b-f7706bc5690e"
+      Value: "41e913ad-8359-4db6-8eab-e66ca6b53d04"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -141,7 +141,7 @@ Languages:
       Value: Connectivity
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230217Z
+      Value: 20230613T073652Z
 - Language: fr
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -169,7 +169,7 @@ Languages:
         default\Anonymous
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9f5105f4-8755-401d-8585-08724f429ae5"
+      Value: "964e000c-ac94-4d98-b0a0-da7675828fa7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -179,7 +179,7 @@ Languages:
       Value: Connectivité
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230217Z
+      Value: 20230613T073652Z
 - Language: ru
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -207,7 +207,7 @@ Languages:
         default\Anonymous
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b1101065-066b-463c-ba2d-8d6b0ddb62cc"
+      Value: "e037c0c4-b33a-417b-b151-7c0e663e30f7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -217,4 +217,4 @@ Languages:
       Value: Связь
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T230217Z
+      Value: 20230613T073652Z

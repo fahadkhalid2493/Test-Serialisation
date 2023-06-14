@@ -7,11 +7,11 @@ SharedFields:
 - ID: "5f488e17-0d69-4ba5-b390-eae00cf41111"
   Hint: Image
   Value: |
-    <image width="1101" height="550" alt="promo-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/3cd7e96f4ad24a79955ddc40eac6e2f5?v=afdcc7c5" stylelabs-content-id="41478" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41478/thumbnail" />
+    <image width="1101" height="550" alt="promo-banner.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/3cd7e96f4ad24a79955ddc40eac6e2f5?v=afdcc7c5" stylelabs-content-id="41478" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/41478/thumbnail" />
 - ID: "a7b92fc5-60c6-4d38-9352-b25bbf3e8e05"
   Hint: MobileImage
   Value: |
-    <image width="285" height="337" alt="promo-mobile-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/c87520244ce546f59466b3b40509d4d4?v=7f4b9ac5" stylelabs-content-id="41476" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41476/thumbnail" />
+    <image width="285" height="337" alt="promo-mobile-banner.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/c87520244ce546f59466b3b40509d4d4?v=7f4b9ac5" stylelabs-content-id="41476" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/41476/thumbnail" />
 Languages:
 - Language: ar
   Versions:
@@ -33,7 +33,7 @@ Languages:
       Value: <p>أثناء صعودك إلى الطائرة، ستشعر وكأنك في منزلك مع المقصورة الداخلية المحسنة لشركة طيران الخليج. صُممت شركة طيران الخليج لخلق جو مضياف ومناسب للعائلة، وترحب بك بحرارة على متنها.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c1bf443a-f988-4d6e-947c-53c96ab2ac8f"
+      Value: "64e0cde0-db5d-4655-a19d-abd222b0b030"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -43,7 +43,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225844Z
+      Value: 20230613T073138Z
 - Language: de
   Versions:
   - Version: 1
@@ -64,7 +64,7 @@ Languages:
       Value: <p>Wenn Sie an Bord gehen, f&uuml;hlen Sie sich mit dem erweiterten Kabineninternur von Gulf Air wie zu Hause. Golfluft wurde f&uuml;r eine gastfreundliche, familienfreundliche Atmosph&auml;re entwickelt und begr&uuml;&szlig;t Sie herzlich an Bord.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f0f88354-9a20-4251-8751-5debcb1f4c46"
+      Value: "4667e9b9-8274-4aa2-a689-1fefc08ce8a9"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -74,7 +74,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225844Z
+      Value: 20230613T073138Z
 - Language: en
   Versions:
   - Version: 1
@@ -95,7 +95,7 @@ Languages:
       Value: "<p>As you board, you will feel right at home with Gulf Air's enhanced cabin interior. Designed to create a hospitable, family-friendly atmosphere, Gulf Air warmly welcomes you aboard.</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9dc3db22-6dc6-4786-96e6-e49297c60d67"
+      Value: "747bd708-b1e1-4e9a-9c6e-9a05a7bc991c"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -105,7 +105,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225844Z
+      Value: 20230613T073137Z
 - Language: fr
   Versions:
   - Version: 1
@@ -126,7 +126,7 @@ Languages:
       Value: <p>Lorsque vous montez &agrave; bord, vous vous sentirez comme chez vous avec un int&eacute;rieur de cabine am&eacute;lior&eacute; de Gulf Air. Con&ccedil;u pour cr&eacute;er une atmosph&egrave;re hospitali&egrave;re et familiale, Gulf Air vous accueille chaleureusement &agrave; bord.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1086a89e-bdde-43c3-8dc2-5e4b69bc3633"
+      Value: "7f4c35a1-4dfb-48e1-8b9d-f83e3c4d338b"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -136,7 +136,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225844Z
+      Value: 20230613T073138Z
 - Language: ru
   Versions:
   - Version: 1
@@ -157,7 +157,7 @@ Languages:
       Value: <p>Когда вы садитесь, вы почувствуете себя как дома с расширенным интерьером кабины Gulf Air. Разработанный для создания гостеприимной, семейной атмосферы, Gulf Air, тепло приветствует вас на борту.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "71af8176-8e44-4914-b7d1-de89c23e0036"
+      Value: "d3203531-1356-452c-b730-f8e631fb6642"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -167,4 +167,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225844Z
+      Value: 20230613T073138Z

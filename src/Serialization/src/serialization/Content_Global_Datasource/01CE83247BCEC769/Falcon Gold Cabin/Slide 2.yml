@@ -7,11 +7,11 @@ SharedFields:
 - ID: "5f488e17-0d69-4ba5-b390-eae00cf41111"
   Hint: Image
   Value: |
-    <image width="1101" height="550" alt="promo-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/3cd7e96f4ad24a79955ddc40eac6e2f5?v=afdcc7c5" stylelabs-content-id="41478" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41478/thumbnail" />
+    <image width="1101" height="550" alt="promo-banner.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/3cd7e96f4ad24a79955ddc40eac6e2f5?v=afdcc7c5" stylelabs-content-id="41478" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/41478/thumbnail" />
 - ID: "a7b92fc5-60c6-4d38-9352-b25bbf3e8e05"
   Hint: MobileImage
   Value: |
-    <image width="285" height="337" alt="promo-mobile-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/c87520244ce546f59466b3b40509d4d4?v=7f4b9ac5" stylelabs-content-id="41476" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41476/thumbnail" />
+    <image width="285" height="337" alt="promo-mobile-banner.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/c87520244ce546f59466b3b40509d4d4?v=7f4b9ac5" stylelabs-content-id="41476" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/41476/thumbnail" />
 Languages:
 - Language: ar
   Versions:
@@ -33,7 +33,7 @@ Languages:
       Value: <p>استمتع بالراحة المطلقة والخصوصية التي تتميز بشاشة بقياس 15.4 بوصة في ظهر المقعد ، و المقعد الذي يتحول إلى سرير مسطح ، ومنفذ USB و منفذ للطاقة في المقعد ، و المقاعد المزودة بخيار التدليك ، ومسند رأس قابل للتعديل في 6 اتجاهات ، وحجرة تخزين إضافية.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "54b3898f-3855-475d-9c61-ac1b7029566f"
+      Value: "b76977f5-0243-4cf4-b1b5-d93035db0f1e"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -43,7 +43,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225847Z
+      Value: 20230613T073145Z
 - Language: de
   Versions:
   - Version: 1
@@ -64,7 +64,7 @@ Languages:
       Value: "<p>Genie&szlig;en Sie ultimativen Komfort und Privatsph&auml;re mit einem 15,4-Zoll-Bildschirm an der R&uuml;ckenlehne, einem Flachbett-Sitz, USB-Anschluss und Netzteil im Sitz, optionaler Sitzmassage, 6-fach verstellbarer Kopfst&uuml;tze und zus&auml;tzlichem Staufach.</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a294e1ec-b7c3-4644-a263-63d5829c1e02"
+      Value: "b6f9eb6c-1423-4dc4-8107-20f923161084"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -74,7 +74,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225847Z
+      Value: 20230613T073145Z
 - Language: en
   Versions:
   - Version: 1
@@ -96,7 +96,7 @@ Languages:
         <p><span style="background: white; color: #14141f;">Enjoy ultimate comfort and privacy featuring seat back 15.4 inch screen, flat-bed sear, USB and in-seat power supply, seat massage option, 6-way adjustable headrest and additional storage compartment.</span></p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2722db48-7668-43e1-8d68-f5af96a00c23"
+      Value: "8e62e860-d7b4-44c9-9627-08689325bf37"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -106,7 +106,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225847Z
+      Value: 20230613T073144Z
 - Language: fr
   Versions:
   - Version: 1
@@ -127,7 +127,7 @@ Languages:
       Value: "<p>Profitez d'un confort et d'une intimit&eacute; ultimes avec un &eacute;cran de 15,4 pouces &agrave; l'arri&egrave;re du si&egrave;ge, une g&acirc;chette &agrave; plat, une alimentation USB et int&eacute;gr&eacute;e au si&egrave;ge, une option de massage du si&egrave;ge, un appuie-t&ecirc;te r&eacute;glable en 6 directions et un compartiment de rangement suppl&eacute;mentaire.</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bddd3f6b-0f7e-46b0-97ea-88bcd21f5ca9"
+      Value: "3400350b-7ec4-4166-b9a7-0177a5c452af"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -137,7 +137,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225847Z
+      Value: 20230613T073145Z
 - Language: ru
   Versions:
   - Version: 1
@@ -158,7 +158,7 @@ Languages:
       Value: "<p>Наслаждайтесь максимальным комфортом и уединением благодаря 15,4-дюймовому экрану в спинке сиденья, плоскому сиденью, USB-порту и источнику питания в сиденье, опции массажа сиденья, регулируемому в 6 направлениях подголовнику и дополнительному отделению для хранения.</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8198054c-2e77-47ec-89fc-538f1d252521"
+      Value: "de758ead-4a6e-44ce-841a-c1bcd79c33b8"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -168,4 +168,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225847Z
+      Value: 20230613T073145Z

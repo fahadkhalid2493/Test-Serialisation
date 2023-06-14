@@ -7,11 +7,11 @@ SharedFields:
 - ID: "5f488e17-0d69-4ba5-b390-eae00cf41111"
   Hint: Image
   Value: |
-    <image width="1101" height="550" alt="promo-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/3cd7e96f4ad24a79955ddc40eac6e2f5?v=afdcc7c5" stylelabs-content-id="41478" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41478/thumbnail" />
+    <image width="1101" height="550" alt="promo-banner.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/3cd7e96f4ad24a79955ddc40eac6e2f5?v=afdcc7c5" stylelabs-content-id="41478" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/41478/thumbnail" />
 - ID: "a7b92fc5-60c6-4d38-9352-b25bbf3e8e05"
   Hint: MobileImage
   Value: |
-    <image width="285" height="337" alt="promo-mobile-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/c87520244ce546f59466b3b40509d4d4?v=7f4b9ac5" stylelabs-content-id="41476" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41476/thumbnail" />
+    <image width="285" height="337" alt="promo-mobile-banner.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/c87520244ce546f59466b3b40509d4d4?v=7f4b9ac5" stylelabs-content-id="41476" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/41476/thumbnail" />
 Languages:
 - Language: ar
   Versions:
@@ -33,7 +33,7 @@ Languages:
       Value: <p>أشبع جوعك بوجباتنا المصممة خصيصًا، بما في ذلك خيارات النباتيين والأطفال وتلك التي تتطلب وجبات خالية من الغلوتين</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "99f246b5-412f-48a1-b1e7-eeca1dbee5e5"
+      Value: "d7cc017d-3e4c-4137-b1f6-6d706243672e"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -43,7 +43,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225847Z
+      Value: 20230613T073146Z
 - Language: de
   Versions:
   - Version: 1
@@ -64,7 +64,7 @@ Languages:
       Value: <p>Befriedigen Sie Ihren Hunger mit unseren speziell gestalteten Mahlzeiten, einschlie&szlig;lich Optionen f&uuml;r Vegetarier, Babys und solche, die glutenfreie Di&auml;ten ben&ouml;tigen.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "90d62aa2-26f2-4e17-9e63-9197280f0cee"
+      Value: "10b78e3c-50b1-48e1-a4c8-8d0565515bd2"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -74,7 +74,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225847Z
+      Value: 20230613T073146Z
 - Language: en
   Versions:
   - Version: 1
@@ -95,7 +95,7 @@ Languages:
       Value: "<p>Satisfy your hunger with our specially designed meals, including options for vegetarians, babies, and those requiring gluten-free diets</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b0939c7e-f351-4222-a5de-deb1ca957240"
+      Value: "98759fff-8d18-4d56-b846-5d665edf7b6a"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -105,7 +105,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225847Z
+      Value: 20230613T073146Z
 - Language: fr
   Versions:
   - Version: 1
@@ -126,7 +126,7 @@ Languages:
       Value: <p>&nbsp;Satisfaire votre faim avec nos repas sp&eacute;cialement con&ccedil;us, y compris les options pour les v&eacute;g&eacute;tariens, les b&eacute;b&eacute;s et ceux qui n&eacute;cessitent des r&eacute;gimes sans gluten.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f1e5c7c8-e6ba-4ecc-8b24-275e1eff59df"
+      Value: "677b58c3-8493-44d4-b936-4e8efdd36b24"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -136,7 +136,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225847Z
+      Value: 20230613T073146Z
 - Language: ru
   Versions:
   - Version: 1
@@ -157,7 +157,7 @@ Languages:
       Value: <p>Удовлетворите свой голод нашими специально разработанными блюдами, включая варианты вегетарианцев, детей и тех, кто требует безглютеновых диет.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4d4ac4a9-629c-4c43-99f5-81a25392e054"
+      Value: "dcd2b73a-9980-411f-87d3-180231b50345"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -167,4 +167,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225847Z
+      Value: 20230613T073146Z

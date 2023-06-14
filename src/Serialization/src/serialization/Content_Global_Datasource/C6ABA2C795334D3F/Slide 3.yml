@@ -7,11 +7,11 @@ SharedFields:
 - ID: "5f488e17-0d69-4ba5-b390-eae00cf41111"
   Hint: Image
   Value: |
-    <image width="1101" height="550" alt="promo-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/3cd7e96f4ad24a79955ddc40eac6e2f5?v=afdcc7c5" stylelabs-content-id="41478" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41478/thumbnail" />
+    <image width="1101" height="550" alt="promo-banner.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/3cd7e96f4ad24a79955ddc40eac6e2f5?v=afdcc7c5" stylelabs-content-id="41478" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/41478/thumbnail" />
 - ID: "a7b92fc5-60c6-4d38-9352-b25bbf3e8e05"
   Hint: MobileImage
   Value: |
-    <image width="285" height="337" alt="promo-mobile-banner.jpg" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/c87520244ce546f59466b3b40509d4d4?v=7f4b9ac5" stylelabs-content-id="41476" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/41476/thumbnail" />
+    <image width="285" height="337" alt="promo-mobile-banner.jpg" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/c87520244ce546f59466b3b40509d4d4?v=7f4b9ac5" stylelabs-content-id="41476" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/41476/thumbnail" />
 Languages:
 - Language: ar
   Versions:
@@ -33,7 +33,7 @@ Languages:
       Value: <p>نغمس في مجموعة متنوعة من الوجبات الخفيفة اللذيذة والأطباق الساخنة، مصحوبة باختيارك من المشروبات المجانية، المتوفرة طوال رحلتك.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2a7fa7a0-9bbb-4ba2-982c-2be363b30343"
+      Value: "1b4ceb02-bcb8-4e0d-a2e6-539ce2d90e1d"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -43,7 +43,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225846Z
+      Value: 20230613T073141Z
 - Language: de
   Versions:
   - Version: 1
@@ -64,7 +64,7 @@ Languages:
       Value: <p>Verwenden Sie eine Vielzahl von k&ouml;stlichen Snacks und hei&szlig;en Gerichten, begleitet von Ihrer Auswahl an kostenlosen Getr&auml;nken, die w&auml;hrend Ihres gesamten Fluges erh&auml;ltlich sind.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "85b27362-8100-4155-870a-b5046b58dcab"
+      Value: "b814e52a-a6de-4326-aa85-ba9dea04442d"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -74,7 +74,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225845Z
+      Value: 20230613T073141Z
 - Language: en
   Versions:
   - Version: 1
@@ -95,7 +95,7 @@ Languages:
       Value: <p>Indulge in a variety of delicious snacks and hot dishes, accompanied by your choice of complimentary drinks, available throughout your entire flight.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d2a4222f-d1b8-4cab-ac9b-5b5ef51f3969"
+      Value: "7a60d26b-df19-417d-9d93-be9f4fae1972"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -105,7 +105,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225845Z
+      Value: 20230613T073141Z
 - Language: fr
   Versions:
   - Version: 1
@@ -126,7 +126,7 @@ Languages:
       Value: "<p>Offrez-vous une vari&eacute;t&eacute; de d&eacute;licieuses collations et plats chauds, accompagn&eacute;s de votre choix de boissons gratuites, disponibles tout au long de votre vol.</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5cfdfada-b00d-4b5e-845d-776c06cf8ec0"
+      Value: "1cc639ad-f469-4fdb-a255-95d2d2e13648"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -136,7 +136,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225846Z
+      Value: 20230613T073141Z
 - Language: ru
   Versions:
   - Version: 1
@@ -157,7 +157,7 @@ Languages:
       Value: "<p>Наше аудио -видео по запросу предлагает отличный способ оставаться развлеченным. С точки зрения пальца на подушечке, вы можете легко просмотреть огромный выбор средств массовой информации.</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a13a4781-49a6-423c-9d4d-d7433f7807b2"
+      Value: "f0c9d96f-c49a-4226-8f44-747973b5cc9b"
     - ID: "921f225f-91e9-44d8-851f-e863b61c1be9"
       Hint: ImageTitle
       Value: 
@@ -167,4 +167,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225846Z
+      Value: 20230613T073141Z

@@ -7,14 +7,14 @@ SharedFields:
 - ID: "66d06ec3-a13a-4601-b7d9-1ba74aed310c"
   Hint: BackgroundImage
   Value: |
-    <image width="1920" height="1080" alt="Explore Bahrain Hero Banner" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/95d2dfb9b6764a9187d1b071b44b46bd?v=c31cdaa4" stylelabs-content-id="48635" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48635/thumbnail" />
+    <image width="1920" height="1080" alt="Explore Bahrain Hero Banner" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/95d2dfb9b6764a9187d1b071b44b46bd?v=c31cdaa4" stylelabs-content-id="48635" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/48635/thumbnail" />
 - ID: "78a29040-85d0-4619-b1eb-f52aa266bfe0"
   Hint: TextAlignment
   Value: "{0A42CAE2-9E7A-4FB8-BE35-1D23B2E53FDE}"
 - ID: "7bf12b50-a496-445f-aa2b-2be4d15c48ce"
   Hint: MobileImage
   Value: |
-    <image width="360" height="680" alt="Explore Bahrain Hero Banner" src="https://dmcc-p-001.sitecorecontenthub.cloud/api/public/content/3b5bee228c5d43e8b941fdaa9890a877?v=01b6ecf0" stylelabs-content-id="48635" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-p-001.sitecorecontenthub.cloud/api/gateway/48635/thumbnail" />
+    <image width="360" height="680" alt="Explore Bahrain Hero Banner" src="https://dmcc-q-001.sitecorecontenthub.cloud/api/public/content/3b5bee228c5d43e8b941fdaa9890a877?v=01b6ecf0" stylelabs-content-id="48635" stylelabs-content-type="Image" thumbnailsrc="https://dmcc-q-001.sitecorecontenthub.cloud/api/gateway/48635/thumbnail" />
 - ID: "a6d7f2d1-162a-424e-baf8-9c8857e04f7f"
   Hint: TextColor
   Value: "{89330C54-4FC1-4573-913A-BC08CCDEBD5B}"
@@ -52,14 +52,14 @@ Languages:
       Value: <p>تشمل المعالم السياحية الأكثر روعة في البحرين ثلاثة مواقع للتراث العالمي لليونسكو </p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6a843067-bb3d-409a-a8a8-e71282937267"
+      Value: "2452c6b2-74d0-422e-a328-d99e424bd3b2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225925Z
+      Value: 20230613T073248Z
 - Language: de
   Versions:
   - Version: 1
@@ -87,14 +87,14 @@ Languages:
       Value: "<p>Zu den erstaunlichsten Touristenattraktionen Bahrains geh&ouml;ren drei UNESCO-Welterbest&auml;tten</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0120dcfe-8ed7-4a10-bb05-a9bcebfe5d24"
+      Value: "c54d665a-7923-40af-abda-8b7ad257ad19"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225925Z
+      Value: 20230613T073248Z
 - Language: en
   Versions:
   - Version: 1
@@ -122,14 +122,14 @@ Languages:
       Value: Bahrain's most amazing tourist attractions include three UNESCO World Heritage sites
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "52ae3ad6-d1dc-409c-9312-56979c9f48e5"
+      Value: "12039815-a58a-4fa6-86d6-f585a1d673e5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225925Z
+      Value: 20230613T073247Z
 - Language: fr
   Versions:
   - Version: 1
@@ -157,14 +157,14 @@ Languages:
       Value: <p>Les attractions touristiques les plus &eacute;tonnantes de Bahre&iuml;n comprennent trois sites du patrimoine mondial de l'UNESCO</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e4786ef2-07df-4eba-a312-1995f3417b89"
+      Value: "5de2f43f-dd6f-4361-a9c4-2ac97613198f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225925Z
+      Value: 20230613T073248Z
 - Language: ru
   Versions:
   - Version: 1
@@ -192,11 +192,11 @@ Languages:
       Value: <p>Добро пожаловать в Королевство Бахрейн</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3bfd0d82-fd9c-4fa3-a5d8-2f2ab3b69e7b"
+      Value: "45990dd5-1279-44fe-9571-6fe78f7e63d0"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230609T225925Z
+      Value: 20230613T073248Z

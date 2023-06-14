@@ -1,0 +1,41 @@
+﻿---
+ID: "4d6b9d64-36d9-46b1-ba42-ce8da1cc4175"
+Parent: "90884145-93d3-454e-a79e-60f6fd1f06e0"
+Template: "90884145-93d3-454e-a79e-60f6fd1f06e0"
+Path: /sitecore/templates/Project/Rendering Parameters/JoinFalconFlyerParams/__Standard Values
+SharedFields:
+- ID: "5c8c3301-b56d-4da0-b778-37799c458520"
+  Hint: ContentBackgroundColor
+  Value: "{7C4FD76D-3B0F-42EA-A617-03C670A8A379}"
+- ID: "d144d7b9-03b7-4094-85d0-8b8f60f439ae"
+  Hint: JoinCardBackgroundColor
+  Value: "{F64FADCC-6FB4-46AA-A947-751B7BF0A024}"
+- ID: "d6f223e4-1b71-4060-adae-0ac2fb880588"
+  Hint: SectionBackgroundColor
+  Value: "{F4B4A40B-428A-48B8-907D-F1598EBADC7A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230206T072403Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hassan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hassan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3769370d-3b49-43e7-bc6e-fc32a9a1d77f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hassan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230222T135002Z
