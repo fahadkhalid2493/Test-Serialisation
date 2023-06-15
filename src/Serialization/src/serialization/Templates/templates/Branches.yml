@@ -28,7 +28,7 @@ SharedFields:
 - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
   Hint: __Security
   Value: |
-    ar|sitecore\Sitecore Client Maintaining|pe|+item:create|+item:delete|ar|sitecore\GulfAir Content Basic|pe|-item:rename|-item:delete|-item:create|-item:admin|-item:write|-bucket:makebucket|-bucket:unmake|pd|-item:rename|-item:delete|-item:create|-bucket:makebucket|-item:write|-bucket:unmake|-item:admin|
+    ar|sitecore\Sitecore Client Maintaining|pe|+item:create|+item:delete|+item:publish|+item:write|pd|+item:create|+item:delete|+item:publish|+item:write|
 Languages:
 - Language: en
   Fields:
@@ -41,20 +41,13 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20230508T133019Z
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\shahbaz
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8c58d87a-7459-488f-9da5-47b0943d8ad6"
+      Value: "5e03bdcc-2f64-4c37-9ed3-05d69c234691"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\shahbaz
+        sitecore\admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230508T133019Z
+      Value: 20180718T163254Z
