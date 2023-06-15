@@ -16,8 +16,7 @@
     "removeOrphansForRoles": true,
     "removeOrphansForUsers": true,
     "continueOnItemFailure": false,
-    
-	    "excludedFields": [
+    "excludedFields": [
       {
         "fieldId": "4D333F01-D417-4B87-A234-0AF4A71184A4",
         "description": "Image"
